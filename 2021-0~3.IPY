@@ -419,7 +419,8 @@
     "                     'm(MgCl2,mol.kg<sup>-1</sup>)':'solutes [mol / kg]', \n",
     "                     'solvent ':'Experimental conditions', \n",
     "                     'K<sub>c</sub>\\' ':'Keq', \n",
-    "                     'ë«<sub>r</sub>H(kJ.mol<sup>-1</sup>)':'Enthalpy [kJ / mol]'},\n",
+    "                     'ë«<sub>r</sub>H(kJ.mol<sup>-1</sup>)':'Enthalpy [kJ / mol]',\n",
+    "                    'Km\\' ':'Km'},\n",
     "          inplace = True)\n",
     "            \n",
     "for column in combined_columns:\n",
@@ -427,7 +428,7 @@
     "    del df[column]\n",
     "    \n",
     "#export total_df to csv \n",
-    "df.to_csv(\"2021-03-18_APF_vetted and reorganized complete NIST enzyme database_001.csv\")\n"
+    "df.to_csv(\"2021-03-21_APF_vetted and reorganized complete NIST enzyme database_001.csv\")\n"
    ]
   },
   {
@@ -460,7 +461,7 @@
     "\n",
     "\n",
     "#import the csv file\n",
-    "total_csv = pandas.read_csv(\"2021-03-18_APF_vetted and reorganized complete NIST enzyme database_001.csv\")\n",
+    "total_csv = pandas.read_csv(\"2021-03-21_APF_vetted and reorganized complete NIST enzyme database_001.csv\")\n",
     "\n",
     "\n",
     "#import the html file\n",
