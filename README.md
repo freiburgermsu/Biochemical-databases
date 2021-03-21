@@ -1,2 +1,2 @@
 # Biochemical-databases
-The codes for collecting, aggregating, and exporting databases is provided.
+The codes, dependences, and output JSON files ar eprovided for biochemical databases.
