@@ -1,0 +1,655 @@
+{
+     "AC": {
+          "name": "acetate",
+          "concentration": 0.304753,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "AD": {
+          "name": "adenine",
+          "concentration": 0.148,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media [PUB_0614].\n",
+          "reference": NaN
+     },
+     "AEPP": {
+          "name": "2-aminoethylphosphonate",
+          "concentration": 1,
+          "unit": "mM",
+          "comment": "Added to media to allow phosphonate uptake and fit observed phosphate transporter (MG_410-2) gene essentiality.\n\nTypical phosphonate concetrations:\n\n\u2022 Brine: 0.1-10 mg/L [PUB_0769]\n\u2022 Fresh water: 0.02 mg/L [PUB_0769]\n\u2022 Tetrahymena: 0-10 mM [PUB_0770]\n\u2022 Penicillium notatum media sole phosphorous source: 1 mM [PUB_0771]\n\u2022 E. coli medium organic phosphate source: 2 mM [PUB_0772]\n\u2022 Microbial growth media: 4 mM [PUB_0773]\n",
+          "reference": NaN
+     },
+     "AlaAla": {
+          "name": "L-alanyl-L-alanine",
+          "concentration": 7.27552,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "anthranilate": {
+          "name": "2-aminobenzoic acid",
+          "concentration": 0.000183651,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "ArgArg": {
+          "name": "L-arginyl-L-arginine",
+          "concentration": 3.05544,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "AsnAsn": {
+          "name": "L-asparaginyl-L-asparagine",
+          "concentration": 0.0561327,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "AspAsp": {
+          "name": "L-aspartyl-L-aspartic Acid",
+          "concentration": 7.81962,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CA": {
+          "name": "calcium ion",
+          "concentration": 1.9686,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CHOL": {
+          "name": "choline",
+          "concentration": 0.01943,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CL": {
+          "name": "chloride ion",
+          "concentration": 97.0791,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CO": {
+          "name": "cobalt ion",
+          "concentration": 0.480031,
+          "unit": "mM",
+          "comment": "Set to same concentration as Mg2+.",
+          "reference": NaN
+     },
+     "CO2": {
+          "name": "carbon dioxide",
+          "concentration": 1.7001,
+          "unit": "mM",
+          "comment": "Incubator provides 5% CO2 = 38 mmHg. Equilbrium constant of solvation is 29.41 L*atm/mol [PUB_0171].",
+          "reference": [
+               NaN,
+               "Wikipedia",
+               2009,
+               "http://en.wikipedia.org/",
+               "Characterizes gas physical properties."
+          ]
+     },
+     "COA": {
+          "name": "coenzyme A",
+          "concentration": 0.0016372,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CU": {
+          "name": "cupric ion",
+          "concentration": 0.000355805,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CysCys": {
+          "name": "L-cysteinyl-L-cysteine",
+          "concentration": 3.18137,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "CYTD": {
+          "name": "cytidine",
+          "concentration": 0.0822314,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media [PUB_0614].",
+          "reference": [
+               19965476,
+               "Yus E, Maier T, Michalodimitrakis K, van Noort V, Yamada T, Chen WH, Wodke JA, G\u00fcell M, Mart\u00ednez S, Bourgeois R, K\u00fchner S, Raineri E, Letunic I, Kalinina OV, Rode M, Herrmann R, Guti\u00e9rrez-Gallego R, Russell RB, Gavin AC, Bork P, Serrano L",
+               "Impact of genome reduction on bacterial metabolism and its regulation",
+               2009,
+               "Science",
+               326,
+               5957,
+               "1263-8",
+               "Characterizes media ionic, polyamine, and nucleobase composition."
+          ]
+     },
+     "DA": {
+          "name": "deoxyadenosine",
+          "concentration": 0.0199012,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "DC": {
+          "name": "deoxycytidine",
+          "concentration": 0.0255263,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "DDCA": {
+          "name": "Dodecanoate (n-C12:0)",
+          "concentration": 0.326127,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 13 mg DDCA / L. However the simulation suggests additional DDCA is required for growth. Concentration set to 65 mg / L to support growth.",
+          "reference": NaN
+     },
+     "DG": {
+          "name": "deoxyguanosine",
+          "concentration": 0.0187097,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "DHF": {
+          "name": "dihydrofolate",
+          "concentration": 2.79793e-05,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "DT": {
+          "name": "thymidine",
+          "concentration": 0.0214917,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "FAD": {
+          "name": "flavin adenine dinucleotide, oxidized",
+          "concentration": 6.76423e-05,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "FE3": {
+          "name": "ferric iron",
+          "concentration": 0.00535769,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "GL": {
+          "name": "glycerol",
+          "concentration": 0.325756,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 6 mg glycerol / L. However the simulation suggests additional glycerol is required for growth. Concentration set to 30 mg / L to support growth.",
+          "reference": NaN
+     },
+     "GLC": {
+          "name": "D-Glucose",
+          "concentration": 32.9466,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "GlnGln": {
+          "name": "L-glutaminyl-L-glutamine",
+          "concentration": 0.715127,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "GluGlu": {
+          "name": "L-glutamyl-L-glutamic acid",
+          "concentration": 13.4776,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "GlyGly": {
+          "name": "L-glycyl-L-glycine",
+          "concentration": 7.82989,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "GN": {
+          "name": "guanine",
+          "concentration": 0.13234,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media [PUB_0614].",
+          "reference": [
+               19965476,
+               "Yus E, Maier T, Michalodimitrakis K, van Noort V, Yamada T, Chen WH, Wodke JA, G\u00fcell M, Mart\u00ednez S, Bourgeois R, K\u00fchner S, Raineri E, Letunic I, Kalinina OV, Rode M, Herrmann R, Guti\u00e9rrez-Gallego R, Russell RB, Gavin AC, Bork P, Serrano L",
+               "Impact of genome reduction on bacterial metabolism and its regulation",
+               2009,
+               "Science",
+               326,
+               5957,
+               "1263-8",
+               "Characterizes media ionic, polyamine, and nucleobase composition."
+          ]
+     },
+     "H": {
+          "name": "hydrogen ion",
+          "concentration": 0.5,
+          "unit": "mM",
+          "comment": "pH 7.5 is equal to a concentration of 3.16e-5 mM. However the simulation suggests additional hydrogen is required for growth. Concentration set to 0.5 mM to support growth.",
+          "reference": NaN
+     },
+     "H2O": {
+          "name": "water",
+          "concentration": 54579.2,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "H2O2": {
+          "name": "hydrogen peroxide",
+          "concentration": 0.0293991,
+          "unit": "mM",
+          "comment": "Concentration set to 1 g/mL.",
+          "reference": NaN
+     },
+     "HDCA": {
+          "name": "Hexadecanoate (n-C16:0)",
+          "concentration": 0.313216,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 16 mg HDCA / L. However the simulation suggests additional HDCA is required for growth. Concentration set to 80 mg / L to support growth.",
+          "reference": NaN
+     },
+     "HDCEA": {
+          "name": "Hexadecenoate (n-C16:1)",
+          "concentration": 0.315708,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 16 mg HDCEA / L. However the simulation suggests additional HDCEA is required for growth. Concentration set to 80 mg / L to support growth.",
+          "reference": NaN
+     },
+     "HisHis": {
+          "name": "L-histidyl-L-histidine",
+          "concentration": 2.38654,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "HYXN": {
+          "name": "hypoxanthine",
+          "concentration": 0.007259,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "IleIle": {
+          "name": "L-isoleucyl-L-isoleucine",
+          "concentration": 4.06589,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "INOS": {
+          "name": "myo-inositol",
+          "concentration": 0.000138769,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "K": {
+          "name": "potassium ion",
+          "concentration": 9.31761,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "LeuLeu": {
+          "name": "L-leucyl-L-leucine",
+          "concentration": 7.81927,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "LIPOATE": {
+          "name": "lipoate",
+          "concentration": 0.0002435,
+          "unit": "mM",
+          "comment": "Needed for model to predict positive growth. Added at concentration of 0.05 mg/L.\n",
+          "reference": NaN
+     },
+     "LysLys": {
+          "name": "L-lysyl-L-lysine",
+          "concentration": 6.30316,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "m5dC": {
+          "name": "5-methyl-2'-deoxycytidine",
+          "concentration": 0.00020726,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "MetMet": {
+          "name": "L-methionyl-L-methionine",
+          "concentration": 1.79497,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "MG": {
+          "name": "magnesium ion",
+          "concentration": 0.480031,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "MN": {
+          "name": "manganese ion",
+          "concentration": 0.480031,
+          "unit": "mM",
+          "comment": "Set to same concentration as Mg2+.",
+          "reference": NaN
+     },
+     "MOBD": {
+          "name": "Molybdate",
+          "concentration": 0.480031,
+          "unit": "mM",
+          "comment": "Set to same concentration as Mg2+.",
+          "reference": NaN
+     },
+     "NaN": {
+          "name": "sodium ion",
+          "concentration": 99.3872,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "NAC": {
+          "name": "nicotinate",
+          "concentration": 0.000102374,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "NAD": {
+          "name": "nicotinamide adenine dinucleotide, oxidized",
+          "concentration": 0.00528369,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "NADP": {
+          "name": "nicotinamide adenine dinucleotide phosphate, oxidized",
+          "concentration": 0.000674411,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "NI": {
+          "name": "nickel",
+          "concentration": 0.01,
+          "unit": "mM",
+          "comment": "Set to value used by Krishnaswamy and Wilson to study nickel accumulation in E. coli [PUB_0765].",
+          "reference": [
+               11097917,
+               "Krishnaswamy R, Wilson DB",
+               "Construction and characterization of an Escherichia coli strain genetically engineered for Ni(II) bioaccumulation",
+               2000,
+               "Appl Environ Microbiol",
+               66,
+               12,
+               "5383-6",
+               NaN
+          ]
+     },
+     "O2": {
+          "name": "oxygen",
+          "concentration": 0.273011,
+          "unit": "mM",
+          "comment": "Incubator provides ~21% O2 = 160 mmHg [PUB_0171]. Equilbrium constant of solvation is 769.2 L*atm/mol [PUB_0171].",
+          "reference": [
+               NaN,
+               "Wikipedia",
+               2009,
+               "http://en.wikipedia.org/",
+               "Characterizes gas physical properties."
+          ]
+     },
+     "OCDCA": {
+          "name": "octadecanoate (n-C18:0)",
+          "concentration": 0.317496,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 18.5 mg OCDCA / L. However the simulation suggests additional OCDCA is required for growth. Concentration set to 90 mg / L to support growth.",
+          "reference": NaN
+     },
+     "OCDCEA": {
+          "name": "octadecenoate (n-C18:1)",
+          "concentration": 0.31977,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 18.4 mg OCDCEA / L. However the simulation suggests additional OCDCEA is required for growth. Concentration set to 90 mg / L to support growth.",
+          "reference": NaN
+     },
+     "penicillin_G": {
+          "name": "penicillin G",
+          "concentration": 4.15282e-16,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "PhePhe": {
+          "name": "L-phenylalanyl-L-phenylalanine",
+          "concentration": 3.40385,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "PI": {
+          "name": "phosphate",
+          "concentration": 1.50141,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "PL5P": {
+          "name": "Pyridoxal 5'-phosphate",
+          "concentration": 0.000170933,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "ProPro": {
+          "name": "L-prolyl-L-proline",
+          "concentration": 8.24728,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "PTRC": {
+          "name": "putrescine",
+          "concentration": 0.1,
+          "unit": "mM",
+          "comment": "Set to spermidine concentration.",
+          "reference": NaN
+     },
+     "PYDX": {
+          "name": "Pyridoxal",
+          "concentration": 7.48243e-05,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "RIBFLV": {
+          "name": "riboflavin, oxidized",
+          "concentration": 0.00042014,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "SerSer": {
+          "name": "L-seryl-L-serine",
+          "concentration": 5.3761,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "SO4": {
+          "name": "sulphate",
+          "concentration": 0.673983,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "SPMD": {
+          "name": "spermidine",
+          "concentration": 0.1,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media for spermine [PUB_0614].",
+          "reference": [
+               19965476,
+               "Yus E, Maier T, Michalodimitrakis K, van Noort V, Yamada T, Chen WH, Wodke JA, G\u00fcell M, Mart\u00ednez S, Bourgeois R, K\u00fchner S, Raineri E, Letunic I, Kalinina OV, Rode M, Herrmann R, Guti\u00e9rrez-Gallego R, Russell RB, Gavin AC, Bork P, Serrano L",
+               "Impact of genome reduction on bacterial metabolism and its regulation",
+               2009,
+               "Science",
+               326,
+               5957,
+               "1263-8",
+               "Characterizes media ionic, polyamine, and nucleobase composition."
+          ]
+     },
+     "STEROL": {
+          "name": "cholesterol",
+          "concentration": 0.43993,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "THF": {
+          "name": "5,6,7,8-Tetrahydrofolate",
+          "concentration": 0.000169143,
+          "unit": "mM",
+          "comment": "Originally set to value for folic acid. However fast growing cells may exhaust this folic acid. THF concentration now set to 25X that of folic acid.",
+          "reference": NaN
+     },
+     "THM": {
+          "name": "thiamine",
+          "concentration": 0.000115894,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "ThrThr": {
+          "name": "L-threonyl-L-threonine",
+          "concentration": 4.70492,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "THY": {
+          "name": "thymine",
+          "concentration": 0.07929,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media [PUB_0614].",
+          "reference": [
+               19965476,
+               "Yus E, Maier T, Michalodimitrakis K, van Noort V, Yamada T, Chen WH, Wodke JA, G\u00fcell M, Mart\u00ednez S, Bourgeois R, K\u00fchner S, Raineri E, Letunic I, Kalinina OV, Rode M, Herrmann R, Guti\u00e9rrez-Gallego R, Russell RB, Gavin AC, Bork P, Serrano L",
+               "Impact of genome reduction on bacterial metabolism and its regulation",
+               2009,
+               "Science",
+               326,
+               5957,
+               "1263-8",
+               "Characterizes media ionic, polyamine, and nucleobase composition."
+          ]
+     },
+     "TrpTrp": {
+          "name": "L-trytophanyl-L-trytophan",
+          "concentration": 0.313168,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "TTDCA": {
+          "name": "tetradecanoate (n-C14:0)",
+          "concentration": 0.307879,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 14.9 mg TTDCA / L. However the simulation suggests additional TTDCA is required for growth. Concentration set to 70 mg / L to support growth.",
+          "reference": NaN
+     },
+     "TTDCEA": {
+          "name": "tetradecenoate (n-C14:1)",
+          "concentration": 0.310633,
+          "unit": "mM",
+          "comment": "SP4 media composition calculations estimated SP4 media contains 14.75 mg TTDCEA / L. However the simulation suggests additional TTDCEA is required for growth. Concentration set to 70 mg / L to support growth.",
+          "reference": NaN
+     },
+     "TWEEN80": {
+          "name": "Tween 80; Polyoxyethylene (20) sorbitan monooleate; polysorbate 80",
+          "concentration": 0.00190891,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "TyrTyr": {
+          "name": "L-tyrosyl-L-tyrosine",
+          "concentration": 1.12553,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "URA": {
+          "name": "uracil",
+          "concentration": 0.178433,
+          "unit": "mM",
+          "comment": "Set to value in Serrano et al M. pneumoniae minimal media [PUB_0614].",
+          "reference": [
+               19965476,
+               "Yus E, Maier T, Michalodimitrakis K, van Noort V, Yamada T, Chen WH, Wodke JA, G\u00fcell M, Mart\u00ednez S, Bourgeois R, K\u00fchner S, Raineri E, Letunic I, Kalinina OV, Rode M, Herrmann R, Guti\u00e9rrez-Gallego R, Russell RB, Gavin AC, Bork P, Serrano L",
+               "Impact of genome reduction on bacterial metabolism and its regulation",
+               2009,
+               "Science",
+               326,
+               5957,
+               "1263-8",
+               "Characterizes media ionic, polyamine, and nucleobase composition."
+          ]
+     },
+     "UTP": {
+          "name": "UTP",
+          "concentration": 0.00104143,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "ValVal": {
+          "name": "L-valyl-L-valine",
+          "concentration": 5.87101,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "XAN": {
+          "name": "xanthine",
+          "concentration": 0.00430097,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     },
+     "ZN": {
+          "name": "zinc ion",
+          "concentration": 0.00649946,
+          "unit": "mM",
+          "comment": NaN,
+          "reference": NaN
+     }
+}
