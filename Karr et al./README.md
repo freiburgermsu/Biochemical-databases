@@ -5,7 +5,7 @@ The work of Karr et al., 2012 is reformatted through these files and code Notebo
 The WholeCellKB.org database website was both scraped and downloaded. The website was scraped through the "2021-03-21_APF_WCKB web scraping_12.ipynb" Notebook. 
 
 ## Processing
-The database files from various sources were processed and combined. The downloaded database files from the WholeCellKB.org in the "json_data" folder were processed through the "2021-03-23_APF_combining the Karr et al. datasets_01" Notebook. The excel file "tableS3.xlsx" from the supplemental materials of Karr et al. (https://doi.org/10.1016/j.cell.2012.05.044) was processed through the "2021-02-08_APF_Karr excel file data mining_02.ipynb" Notebook. The scraped data was processed through the __________________ Notebook. 
+The database files from various sources were processed and combined. The downloaded database files from the WholeCellKB.org in the "json_data" folder were processed through the "2021-03-23_APF_combining the Karr et al. datasets_02.ipynb" Notebook. The excel file "tableS3.xlsx" from the supplemental materials of Karr et al. (https://doi.org/10.1016/j.cell.2012.05.044) was processed through the "2021-02-08_APF_Karr excel file data mining_02.ipynb" Notebook. The scraped data was processed through the __________________ Notebook. 
 
 ### Final export
 The datasets were combined in the ____________  Notebook. The Notebook code exports the complete data from Karr et al., 2012 into the "2021-03-24_APF_WCKB reactions + references.json" file.
