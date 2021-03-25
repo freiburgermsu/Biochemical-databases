@@ -5,12 +5,12 @@ The work of Karr et al., 2012 is reformatted through these files and code Notebo
 The website was scraped through the "2021-03-21_APF_WCKB web scraping_12.ipynb" Notebook.
 
 ## Processing
-The downloaded JSON files in the "json_data" folder were processed through the "2021-03-23_APF_combining the Karr et al. datasets_02.ipynb" Notebook. 
+The downloaded JSON files in the "json_data" folder were processed through the "2021-03-23_APF_combining the Karr et al. datasets_04.ipynb" Notebook. 
 
 ## Supplemental excel file
-The excel file "tableS3.xlsx" from the supplemental materials of  was processed through the "2021-02-08_APF_Karr excel file data mining_03.ipynb" Notebook.
+The excel file "tableS3.xlsx" from the supplemental materials of  was processed through the "2021-02-08_APF_Karr excel file data mining_02.ipynb" Notebook.
 
 ## Final file
-The WholeCellKB.org datasets were compared in the "2021-02-08_APF_Karr excel file data mining_03.ipynb" Notebook. 
+The WholeCellKB.org datasets were compared in the "2021-03-23_APF_combining the Karr et al. datasets_04.ipynb" Notebook. 
 
 The complete biochemical data of Karr et al., 2012 is presented in the "2021-03-24_APF_WCKB reactions + references.json" file of the main repository page.
