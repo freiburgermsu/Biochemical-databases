@@ -6,3 +6,6 @@ The NIST folder contains the files for acquiring and processing biochemical data
 
 ## Karr et al.
 The Karr et al. folder contains the files for acquiring and processing biochemical data from the work of Karr et al.. The body of work is primarily represented by the exported JSON files for the WholeCellKB.org website, which was complemented by webscraping the WholeCellKB.org website and with the supplementary excel file from the [2012 publication from Karr et al.](https://doi.org/10.1016/j.cell.2012.05.044). The final data is provided in the "2021-03-25_APF_WCKB reactions + references.json" file.
+
+## Combined databases
+The thermodynamically described reactions and the corresponding compounds from the NIST and Karr et al. datasets were combined. The reaction expressions were first standardized to conform with the contribution criteria of the ModelSEED database. The compound IDs were then matched with the KEGG database to remove ambiguity of the described reactions and the corresponding compounds. The codes and final files from the combined database of thermodynamic information is organized in the ModelSEED folder. 
