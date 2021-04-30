@@ -1,0 +1,2 @@
+# Thermodynamic contributions of biochemical reactions
+The thermodynamically described reactions from the NIST and Karr et al. databases were acquired through parsing. The identified reactions and their constituent compounds were separated and exported as JSON files. The KEGG IDs of the compounds in each reaction will be acquired through scraping to clarify the identity of the reaction. The final set of reactions and compounds, with the respective KEGG IDs, will be exported as TSV files that and passed through the ModelSEED repository codes to contribute the data.  
