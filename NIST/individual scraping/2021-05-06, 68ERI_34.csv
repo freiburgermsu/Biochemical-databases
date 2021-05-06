@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1642, alcohol dehydrogenase, trans-2-hexene-1-ol(aq) + NAD(aq) = trans-2-hexenal(aq) + NADH(aq),298.15,8.3,0.283,Eriksson C.E.; J. Food Sci.; 33 525 (1968).,68ERI_34," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.01 mol dm-3)

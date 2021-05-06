@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+585, dipeptidyl-peptidase I, glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq),298.15,4.69,sodium phosphate + sodium acetate,-24.6,Sturtevant J.M.; J. Am. Chem. Soc.; 75 2016 (1953).,53STU_954," 3.4.14.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium phosphate (0.05 mol dm-3) and/or sodium acetate (0.05 mol dm-3)
+586, dipeptidyl-peptidase I, glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq),298.15,4.85,sodium phosphate,-26.3,,,,,
+587, dipeptidyl-peptidase I, glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq),298.15,5.09,sodium phosphate,-26.4,,,,,
+588, dipeptidyl-peptidase I, glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq),298.15,5.11,sodium phosphate,-27.4,,,,,
+589, dipeptidyl-peptidase I, glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq),298.15,5.65,sodium phosphate,-25.6,,,,,

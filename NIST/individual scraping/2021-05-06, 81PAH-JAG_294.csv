@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2875, pyrroline-5-carboxylate reductase, (S)-proline(aq) + NADP(aq) = Î”1-pyrroline-2-carboxylate(aq) + NADPH(aq),298.15,9.23,4.3E-5,Pahlich E.; Jdger H.-J.; Kaschel E.; Z. Pflanzenphysiol.; 101 137 (1981).,81PAH/JAG_294," 1.5.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycine + NaOH (0.15 mol dm-3)

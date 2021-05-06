@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,percent(dimethyl sulfoxide) ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2778, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),293.15,6.5,0,1.92E3,Terekhina T.P.; Rabovskaya N.S.; Biokhimiya; 45 299 (1980).,80TER/RAB_994," 3.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
+2779, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),293.15,6.5,10,1.50E3,,,,,
+2780, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),293.15,6.5,20,1.23E3,,,,,
+2781, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),293.15,6.5,5,1.71E3,,,,,
+2782, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),310.15,6.5,0,1.03E3,,,,,

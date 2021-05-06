@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+4001, tryptophan synthase, indole(aq) + D-glyceraldehyde 3-phosphate(aq) = 1-(indol-3-yl)glycerol 3-phosphate(aq),298.15,7.54,0.37,1.2?104,Kishore N.; Tewari Y. B.; Akers D.L.; Goldberg R.N.; Miles E.W.; Biophys. Chem.; 73 265 (1998).,98KIS/TEW_1181," 4.2.1.20                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

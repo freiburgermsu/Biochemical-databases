@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+918, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,7.0,0.37,Talalay P.; Rec. Chem. Prog. (Kresge-Hooker Sci. Lib.); 18 31 (1957).,57TAL_180," 1.1.1.51                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

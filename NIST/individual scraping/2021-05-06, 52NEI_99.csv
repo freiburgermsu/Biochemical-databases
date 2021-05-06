@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+388, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,10.0,4.4E-2,Neilands J.B.; J. Biol. Chem.; 199 373 (1952).,52NEI_99," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ",, phosphate (0.1 mol dm-3) pyrophosphate (0.1 mol dm-3) and {glycine (0.1 mol dm-3) + NaOH}
+389, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,7.0,2.3E-5,,,,,
+390, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,8.0,3.3E-4,,,,,
+391, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,9.0,3.0E-3,,,,,

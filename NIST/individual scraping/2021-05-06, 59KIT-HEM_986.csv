@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1029, asparaginase, L-asparagine(aq) + H2O(l) = L-aspartate(aq) + ammonia(aq),295.0,8.5,-21.5,Kitzinger C.; Hems R.; Biochem. J.; 71 395 (1959).,59KIT/HEM_986," 3.5.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, borate (0.01 mol dm-3)

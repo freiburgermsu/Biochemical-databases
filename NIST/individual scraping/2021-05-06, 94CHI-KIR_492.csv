@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3813, glutathione transferase, glutathione(aq) + (E)-3-nonen-2-one(aq) = glutathione derivative of (E)-3-nonen-2-one(aq),298.15,7.4,2.6E3,Chien C.; Kirollos S.K.; Linderman R.J.; Dauterman W.C.; Biochim. Biophys. Acta; 1204 175 (1994).,94CHI/KIR_492," 2.5.1.18                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate (0.066 mol dm-3)

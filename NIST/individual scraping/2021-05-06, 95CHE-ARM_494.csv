@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3853, glutathione transferase, reduced glutathione(aq) + (E)-4-phenyl-3-buten-2-one(aq) = 4-(glutathionyl)-4-phenyl-2-butanone(aq),298.15 ,8.0,640,Chen J.; Armstrong R.N.; Chem. Res. Toxicol.; 8 580 (1995),95CHE/ARM_494," 2.5.1.18                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)

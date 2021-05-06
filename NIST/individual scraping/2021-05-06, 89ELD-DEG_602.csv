@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3507, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),286.65,8.2,3.30E-2,Eldar H.; Degani H.; Magn. Reson. Med.; 11 121 (1989).,89ELD/DEG_602," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", NMR, Hepes (0.050 mol dm-3)
+3508, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),295.15,8.2,4.06E-2,,,,,
+3509, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),303.15,8.2,4.17E-2,,,,,
+3510, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),308.15,8.2,4.53E-2,,,,,

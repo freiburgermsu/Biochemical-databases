@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2557, cholesterol oxidase, cholesterol(aq) + O2(aq) = cholest-4-en-3-one(aq) + H2O2(aq),303.15,7.0,-114,McGuinness E.T.; Brown H.D.; Chattopadhyay S.K.; Chen F.; Biochim. Biophys. Acta; 530 247 (1978).,78MCG/BRO_230," 1.1.3.6                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.067 mol dm-3)

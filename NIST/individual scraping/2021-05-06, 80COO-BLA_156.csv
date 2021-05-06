@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>'(mol dm<sup>-3</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2742, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,8.0,1.0,Cook P.F.; Blanchard J.S.; Cleland W.W.; Biochemistry; 19 4853 (1980).,80COO/BLA_156," 1.1.1.42                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.1 mol dm-3)

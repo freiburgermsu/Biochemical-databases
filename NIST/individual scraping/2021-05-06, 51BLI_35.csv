@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+336, alcohol dehydrogenase, vitamin A alcohol(aq) + NAD(aq) = vitamin A aldehyde(aq) + NADH(aq),310.15,7.0,0.033,Bliss A.F.; Arch. Biochem. Biophys.; 31 197 (1951).,51BLI_35," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.015 mol dm-3)
+337, alcohol dehydrogenase, vitamin A alcohol(aq) + NAD(aq) = vitamin A aldehyde(aq) + NADH(aq),310.15,8.0,0.33,,,,,
+338, alcohol dehydrogenase, vitamin A alcohol(aq) + NAD(aq) = vitamin A aldehyde(aq) + NADH(aq),310.15,9.0,3.3,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1333, N-acylglucosamine 2-epimerase, N-acetyl-D-glucosamine(aq) = N-acetyl-D-mannosamine(aq),310.15,7.6,0.26,Ghosh S.; Roseman S.; J. Biol. Chem.; 240 1531 (1965).,65GHO/ROS2_1272," 5.1.3.8                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, Tris (0.063 mol dm-3) + HCl

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2905, aminoacylase, N-acetyl-L-norvaline(aq) + H2O(l) = acetate(aq) + L-norvaline(aq),298.15,7.5,10.5,Galaev I.Yu.; Svedas V.K.; Biochim. Biophys. Acta; 701 389 (1982).,82GAL/SVE_1029," 3.5.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

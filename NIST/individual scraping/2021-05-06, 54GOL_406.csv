@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+615, acetyl-CoA C-acetyltransferase, 2 acetyl-CoA(aq) = CoA(aq) + acetoacetyl-CoA(aq),289.15,8.5,6.0E-5,Goldman D.S.; J. Biol. Chem.; 208 345 (1954).,54GOL_406," 2.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, diol (0.0001 mol dm-3)
+616, acetyl-CoA C-acetyltransferase, 2 acetyl-CoA(aq) = CoA(aq) + acetoacetyl-CoA(aq),289.15,8.8,8.7E-5,,,,,

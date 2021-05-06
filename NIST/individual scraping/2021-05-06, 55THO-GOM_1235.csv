@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+704, alanine racemase, L-alanine(aq) = D-alanine(aq),310.15,7.4,1.0,Thorne C.B.; Gomez C.G.; Housewright R.D.; J. Bacteriol.; 69 357 (1955).,55THO/GOM_1235," 5.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", manometry and enzymatic assay, phosphate (0.01 mol dm-3)

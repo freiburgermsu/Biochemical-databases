@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3788, sinapate 1-glucosyltransferase, UDPglucose(aq) + sinapate(aq) = UDP(aq) + 1-sinapoyl-D-glucose(aq),303.15,6.0,0.21,Mock H.-P.; Strack D.; Phytochemistry; 32 575 (1993).,93MOC/STR_453," 2.4.1.120                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, Mes (0.090 mol dm-3)

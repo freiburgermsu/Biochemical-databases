@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+382, maltose phosphorylase, maltose(aq) + orthophosphate(aq) = D-glucose(aq) + Î²-D-glucose 1-phosphate(aq),310.15,7.0,0.23,Fitting C.; Doudoroff M.; J. Biol. Chem.; 199 153 (1952).,52FIT/DOU_419," 2.4.1.8                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, Tris + HCl

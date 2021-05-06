@@ -1,0 +1,17 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(Mg2+,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2466, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.89,1.10E-3,0.25,0.964,"Lawson J.W.R.; Guynn R.W.; Cornell N.; Veech R.L.; in ""Gluconeogenesis: Its Regulation in Mammalian Species""; R.W. Hanson and M.A. Mehlman eds.; John Wiley and Sons New York (1976) pp. 481-512.",76LAW/GUY_649," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay; spectrophotometry, phosphate (0.0095 M - 0.0097 mol dm-3)
+2467, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.90,1.08E-3,0.25,0.982,,,,,
+2468, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.91,1.08E-3,0.25,0.980,,,,,
+2469, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.91,1.08E-3,0.25,0.983,,,,,
+2470, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.97,0.38E-3,0.25,0.929,,,,,
+2471, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.97,0.38E-3,0.25,0.981,,,,,
+2472, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.98,0.36E-3,0.25,0.871,,,,,
+2473, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.98,0.37E-3,0.25,0.946,,,,,
+2474, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.10E-3,0.25,0.708,,,,,
+2475, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.25E-3,0.25,0.899,,,,,
+2476, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.44E-3,0.25,1.014,,,,,
+2477, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.66E-3,0.25,1.044,,,,,
+2478, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.83E-3,0.25,1.060,,,,,
+2479, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,1.95E-3,0.25,0.842,,,,,
+2480, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,4.45E-3,0.25,0.572,,,,,
+2481, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,9.98E-3,0.25,0.380,,,,,

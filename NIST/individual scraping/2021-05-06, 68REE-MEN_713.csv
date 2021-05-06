@@ -1,0 +1,12 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1685," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,6.51,none,1.75E-4,Reeves R.E.; Menzies R.A.; Hsu D.S.; J. Biol. Chem.; 243 5486 (1968).,68REE/MEN_713," 2.7.9.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, (imidazole + HCl) and (Tris + HCl)
+1686," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,6.91,none,9.35E-4,,,,,
+1687," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.00,none,8.77E-4,,,,,
+1688," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.06,none,8.26E-4,,,,,
+1689," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.18,none,1.19E-3,,,,,
+1690," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.22,none,1.45E-3,,,,,
+1691," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.39,none,5.55E-3,,,,,
+1692," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.53,imidazole (0.021 mol dm-3),1.0E-2,,,,,
+1693," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.88,Tris (0.023 mol dm-3),7.1E-2,,,,,
+1694," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,8.19,Tris (0.023 mol dm-3),0.17,,,,,
+1695," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,8.39,Tris (0.023 mol dm-3),0.50,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1432, glutamate N-acetyltransferase, N2-acetyl-L-ornithine(aq) + L-glutamate(aq) = L-ornithine(aq) + N-acetyl-L-glutamate(aq),310.15,7.5,0.47,Staub M.; Denes G.; Biochim. Biophys. Acta; 128 82 (1966).,66STA/DEN_410," 2.3.1.35                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry chromatography and radioactivity, Tris (0.1 mol dm-3) + HCl

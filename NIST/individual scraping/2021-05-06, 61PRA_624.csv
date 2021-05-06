@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1169, taurocyamine kinase, ATP(aq) + taurocyamine(aq) = ADP(aq) + NÏ‰-phosphotaurocyamine(aq),303.15,7.1,0.53,"Pradel L.A.; T?se Doct. Sci. Phys. Paris (1961); data given in Barman T.E.; ""Enzyme Handbook - Vol. I""; Springer-Verlag New York (1969) p. 443.",61PRA_624," 2.7.3.4                                                    (ENZYME |                                                 KEGG)                                                ",, Tris maleate (0.2 mol dm-3)

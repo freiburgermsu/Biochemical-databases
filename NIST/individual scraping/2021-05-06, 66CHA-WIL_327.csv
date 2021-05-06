@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1406, glutathione-CoA-glutathione transhydrogenase, CoA(aq) + oxidized glutathione(aq) = CoA-glutathione(aq) + reduced glutathione(aq),298.15,6.9,1.25,Chang S.H.; Wilken D.R.; J. Biol. Chem.; 241 4251 (1966).,66CHA/WIL_327," 1.8.4.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and electrophoresis, potassium phosphate (0.05 mol dm-3)

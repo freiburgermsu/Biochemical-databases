@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+811, glycine amidinotransferase, L-arginine(aq) + glycine(aq) = L-ornithine(aq) + guanidinoacetate(aq),311.15,7.5,1.1,Ratner S.; Rochovansky O.; Arch. Biochem. Biophys.; 63 277 (1956).,56RAT/ROC_364," 2.1.4.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.067 mol dm-3)

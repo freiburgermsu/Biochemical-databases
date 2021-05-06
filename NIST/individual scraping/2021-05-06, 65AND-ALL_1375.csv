@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1311, D-lyxose ketol-isomerase, D-lyxose(aq) = D-xylulose(aq),298.15,7.0,0.23,Anderson R.L.; Allison D.P.; J. Biol. Chem.; 240 2367 (1965).,65AND/ALL_1375," 5.3.1.15                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium cacodylate (0.06 mol dm-3)

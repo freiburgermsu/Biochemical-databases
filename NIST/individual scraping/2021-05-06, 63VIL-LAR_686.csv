@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1283, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),303.15,7.45,1,Villar-Palasi C.; Larner J.; Methods Enzymol.; 6 355 (1963).,63VIL/LAR_686," 2.7.7.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.025 mol dm-3)

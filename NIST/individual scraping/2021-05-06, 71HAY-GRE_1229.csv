@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1871, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,7.3,0.065,Hayaishi O.; Greengard P.; Colowick S.P.; J. Biol. Chem.; 246 5840 (1971).,71HAY/GRE_1229," 4.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tris (0.050 mol dm-3) + HCl

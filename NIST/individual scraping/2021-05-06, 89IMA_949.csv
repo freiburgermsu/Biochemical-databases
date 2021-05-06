@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3531, NAD(P)+ nucleosidase, Î²-nicotinamide mononucleotide(aq) + 3-acetylpyridine(aq) = 3-acetylpyridine mononucleotide(aq) + nicotinamide(aq),312.15,6.0,0.61,Imai T.; J. Biochem. (Tokyo); 106 938 (1989).,89IMA_949," 3.2.2.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris maleate (0.05 mol dm-3)

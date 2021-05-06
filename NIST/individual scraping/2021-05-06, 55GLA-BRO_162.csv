@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+673, glucose-6-phosphate dehydrogenase," D-glucose 6-phosphate(aq) + NADP(aq) = D-glucono-1,5-lactone 6-phosphate(aq) + NADPH(aq)",301.15,6.40,1.50,Glaser L.; Brown D.H.; J. Biol. Chem.; 216 67 (1955).,55GLA/BRO_162," 1.1.1.49                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, maleate (0.063 mol dm-3)

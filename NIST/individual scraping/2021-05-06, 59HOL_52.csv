@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1022, D-xylulose reductase, xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq),298.15,7.0,4.18E-4,Hollmann S.; Hoppe-Seyler's Z. Physiol. Chem.; 317 193 (1959).,59HOL_52," 1.1.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3)
+1023, D-xylulose reductase, xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq),298.15,8.0,4.18E-3,,,,,

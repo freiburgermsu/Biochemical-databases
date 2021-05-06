@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1986, glycerol dehydrogenase (NADP+), glycerol(aq) + NADP(aq) = (R)-glyceraldehyde(aq) + NADPH(aq),310.15,7.0,1.67E-6,Kormann A.W.; Hurst R.O.; Flynn T.G.; Biochim. Biophys. Acta; 258 40 (1972).,72KOR/HUR_199," 1.1.1.72                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3)

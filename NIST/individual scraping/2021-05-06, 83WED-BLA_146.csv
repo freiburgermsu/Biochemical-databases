@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3087, malate dehydrogenase (decarboxylating), (S)-malate(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + carbon dioxide(aq),298.15,6.5,1.1E-3,Wedding R.T.; Black M.K.; Plant Physiol.; 72 1021 (1983).,83WED/BLA_146," 1.1.1.39                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, N-(acetamido)-2-aminoethanesulfonic acid (0.050 mol dm-3)

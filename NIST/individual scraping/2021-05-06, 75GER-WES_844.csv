@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2312, phosphohydrolase (unclassified), ethylene phosphate(aq) + H2O(l) = 2-hydroxyethyl phosphate(aq),298.15,7.3,-28.9,Gerlt J.A.; Westheimer F.H.; Sturtevant J.M.; J. Biol. Chem.; 250 5059 (1975).,75GER/WES_844," 3.1.4.-                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Pipes (0.05 mol dm-3)
+2313, phosphohydrolase (unclassified), ethylene phosphate(aq) + H2O(l) = 2-hydroxyethyl phosphate(aq),310.15,7.2,-32.3,,,,,

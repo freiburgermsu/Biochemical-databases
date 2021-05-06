@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+630, 3-dehydroquinate dehydratase, 3-dehydroquinate(aq) = 3-dehydroshikimate(aq) + H2O(l),302.15,7.4,15,Mitsuhashi S.; Davis B.D.; Biochim. Biophys. Acta; 15 54 (1954).,54MIT/DAV_1168," 4.2.1.10                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.033 mol dm-3)

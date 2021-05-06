@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2408, coniferyl-alcohol dehydrogenase, coniferyl alcohol(aq) + NADP(aq) = coniferyl aldehyde(aq) + NADPH(aq),303.15,7.8,0.18,Wyrambik D.; Griesbach H.; Eur. J. Biochem.; 59 9 (1975).,75WYR/GRI_223," 1.1.1.194                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.20 mol dm-3)
+2409, coniferyl-alcohol dehydrogenase, coniferyl alcohol(aq) + NADP(aq) = coniferyl aldehyde(aq) + NADPH(aq),303.15,8.0,0.28,,,,,
+2410, coniferyl-alcohol dehydrogenase, coniferyl alcohol(aq) + NADP(aq) = coniferyl aldehyde(aq) + NADPH(aq),303.15,8.8,1.8,,,,,

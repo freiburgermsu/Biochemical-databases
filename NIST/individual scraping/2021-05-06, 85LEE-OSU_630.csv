@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3151, phosphomevalonate kinase, ATP-Î±-S(aq) + (R)-5-phosphomevalonate(aq) = ADP-Î±-S(aq) + (R)-5-diphosphomevalonate(aq),303.15,8.0,3.25,Lee C.H.; O'Sullivan W.J.; J. Biol. Chem.; 260 13909 (1985).,85LEE/OSU_630," 2.7.4.2                                                    (ENZYME |                                                 KEGG)                                                ", NMR and radioassay, Hepes (0.10 mol dm-3) + KOH

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2600, glyceraldehyde-3-phosphate dehydrogenase, D-glyceraldehyde 3-phosphate(aq) + (chloromethyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-chloromethyl)phosphonate(aq) + NADH(aq),298.15,8.4,2.4E-2,Byers L.D.; She H.S.; Alayoff A.; Biochemistry; 18 2471 (1979).,79BYE/SHE_246," 1.2.1.12                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

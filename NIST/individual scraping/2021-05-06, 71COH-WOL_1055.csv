@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1864, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,10.17,21,Cohen R.M.; Wolfenden R.; J. Biol. Chem.; 246 7566 (1971).,71COH/WOL_1055," 3.5.4.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, methylamine (0.32 mol dm-3) + HCl
+1865, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,10.60,37,,,,,
+1866, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,11.00,163,,,,,
+1867, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,7.50,488,,,,,
+1868, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,8.87,43,,,,,
+1869, cytidine deaminase, N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq),298.15,9.50,22,,,,,

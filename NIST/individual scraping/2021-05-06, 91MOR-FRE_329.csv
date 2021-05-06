@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3632, cytochrome-c oxidase, 4 reduced cytochrome c(aq) + O2(aq) = 4 cytochrome c(aq) + 2 H2O(l),299.4,7.4,-69.0,Morin P.E.; Freire E.; Biochemistry; 30 8494 (1991).,91MOR/FRE_329," 1.9.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate MOPS Tricine and Tris

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1558, ureidoglycolate lyase, (-)-ureidoglycolate(aq) = glyoxylate(aq) + urea(aq),303.15,7.5,0.14,Trijbels F.; Vogels G.D.; Biochim. Biophys. Acta; 132 115 (1967).,67TRI/VOG_1227," 4.3.2.3                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry, triethanolamine (0.07 mol dm-3) + HCl

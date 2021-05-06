@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+119, _-glucosidase, 1-propyl Î²-D-glucopyranoside(aq) + H2O(l) = 1-propanol(aq) + D-glucose(aq),277.15,8.92,Veibel S.; Enzymologia; 1 124 (1936).,36VEI_925," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry,
+120, _-glucosidase, 1-propyl Î²-D-glucopyranoside(aq) + H2O(l) = 1-propanol(aq) + D-glucose(aq),303.15,9.98,,,,,

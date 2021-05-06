@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1826, mannose isomerase, D-mannose(aq) = D-fructose(aq),310.15,7.5,~1.9,Hey-Ferguson A.; Elbein A.D.; J. Bacteriol.; 101 777 (1970).,70HEY/ELB_1343," 5.3.1.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and chemical analysis, Tris + maleate

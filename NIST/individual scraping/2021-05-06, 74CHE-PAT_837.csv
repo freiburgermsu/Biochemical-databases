@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2196," 3',5'-cyclic-nucleotide phosphodiesterase", adenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = AMP(aq),298.15,7.8,-61.1,Cheung W.Y.; Patrick S.M.; Pennington S.N.; Int. J. Biochem.; 5 311 (1974).,74CHE/PAT_837," 3.1.4.17                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.040 mol dm-3)

@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2288, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,7.0,-84.2,Bvhme H.-J.; Schellenberger W.; Hofmann E.; Acta Biol. Med. Germ.; 34 15 (1975).,75BOH/SCH_552," 2.7.1.11                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.1 mol dm-3) + HCl
+2289, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,8.0,-70.4,,,,,
+2290, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",303.15,7.0,-77.4,,,,,
+2291, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",303.15,8.0,-67.3,,,,,
+2292, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",310.15,7.0,-72.9,,,,,
+2293, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",310.15,8.0,-60.4,,,,,

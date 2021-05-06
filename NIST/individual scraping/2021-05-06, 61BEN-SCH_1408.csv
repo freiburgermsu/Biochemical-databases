@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1148, _-phosphoglucomutase, Î²-D-glucose 1-phosphate(aq) = Î²-D-glucose 6-phosphate(aq),310.15,6.5,24,Ben-Zvi R.; Schramm M.; J. Biol. Chem.; 236 2186 (1961).,61BEN/SCH_1408," 5.4.2.6                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, histidine (0.001 mol dm-3)

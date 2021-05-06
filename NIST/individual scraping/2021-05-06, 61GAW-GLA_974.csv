@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1156, chymotrypsin, N-benzoyl-L-tyrosylglycinanilide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + glycylanalide(aq),296.15,6.5,10,Gawron O.; Glaid A.J. III; Boyle R.E.; Odstrchel G.; Arch. Biochem. Biophys.; 95 203 (1961).,61GAW/GLA_974," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate

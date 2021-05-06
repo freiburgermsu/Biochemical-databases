@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+900, 3-hydroxyisobutyrate dehydrogenase, 3-hydroxy-2-methylpropanoate(aq) + NAD(aq) = 2-methyl-3-oxopropanoate(aq) + NADH(aq),298.15,10.0,1.2E-1,Robinson W.G.; Coon M.J.; J. Biol. Chem.; 225 511 (1957).,57ROB/COO_122," 1.1.1.31                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.017 mol dm-3)
+901, 3-hydroxyisobutyrate dehydrogenase, 3-hydroxy-2-methylpropanoate(aq) + NAD(aq) = 2-methyl-3-oxopropanoate(aq) + NADH(aq),298.15,8.0,3.1E-3,,,,,
+902, 3-hydroxyisobutyrate dehydrogenase, 3-hydroxy-2-methylpropanoate(aq) + NAD(aq) = 2-methyl-3-oxopropanoate(aq) + NADH(aq),298.15,9.0,3.6E-2,,,,,

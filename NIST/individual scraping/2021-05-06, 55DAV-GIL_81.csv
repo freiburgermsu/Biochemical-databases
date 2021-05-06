@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+663, quinate dehydrogenase, quinate(aq) + NAD(aq) = 5-dehydroquinate(aq) + NADH(aq),305.15,7.2,4.61E-3,Davis B.D.; Gilvarg C.; Mitsuhashi S.; Methods Enzymol.; 2 300 (1955).,55DAV/GIL_81," 1.1.1.24                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate or (Tris + HCl)

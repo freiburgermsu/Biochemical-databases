@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3391, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),273.15,8.0,carnosine,43,Woledge R.C.; Reilly P.J.; Biophys. J.; 54 97 (1987).,87WOL/REI_801," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.025 mol dm-3) or carnosine (0.010 mol dm-3)
+3392, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,8.0,carnosine,42,,,,,
+3393, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),310.15,8.0,Tris,44,,,,,

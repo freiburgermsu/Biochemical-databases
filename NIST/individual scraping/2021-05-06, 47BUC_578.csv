@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+254, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),298.15,6.9,3.1E-4,B|cher T.; Biochim. Biophys. Acta; 1 292 (1947),47BUC_578," 2.7.2.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

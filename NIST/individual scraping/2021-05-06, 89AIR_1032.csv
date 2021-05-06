@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3500, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),284.95,8.1,0.0383,Airas R.K.; Acta Chem. Scand.; 43 386 (1989).,89AIR_1032," 3.5.1.22                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography and radioactivity, Tris (0.025 mol dm-3) and Tricine (0.025 mol dm-3)
+3501, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),287.75,8.1,0.0411,,,,,
+3502, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),292.35,8.1,0.0664,,,,,
+3503, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),295.65,8.1,0.0655,,,,,
+3504, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),298.15,8.1,0.0790,,,,,
+3505, pantothenase, pantothenate(aq) + H2O(l) = pantoic acid(aq) + Î²-alanine(aq),299.25,8.1,0.0764,,,,,

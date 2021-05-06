@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+515, malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+), (S)-malate(aq) + NADP(aq) + H2O(l) = pyruvate(aq) + NADPH(aq) + carbon dioxide(aq),297,7.4,0.051,Harary I.; Korey S.R.; Ochoa S.; J. Biol. Chem.; 203 595 (1953).,53HAR/KOR_147," 1.1.1.40                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay; spectrophotometry,

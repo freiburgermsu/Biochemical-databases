@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+513, arabinose isomerase, D-arabinose(aq) = D-ribulose(aq),310.15,~0.18,Cohen S.S.; J. Biol. Chem.; 201 71 (1953).,53COH_1294," 5.3.1.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycylglycine (0.1 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1918, pancreatic ribonuclease, uridine 2':3'-(cyclic)phosphate(aq) + H2O(l) = uridine 3'-monophosphate(aq),298.15,7.3,-32.4,Rudolph S.A.; Johnson E.M.; Greengard P.; J. Biol. Chem.; 246 1271 (1971).,71RUD/JOH_858," 3.1.27.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, potassium phosphate (0.036 mol dm-3)

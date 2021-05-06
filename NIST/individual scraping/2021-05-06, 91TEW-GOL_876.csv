@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3645, _-amylase," Î±,Î±-trehalose(aq) + H2O(l) = 2 D-glucose(aq)",286.45,5.65,122,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 40 59 (1991).,91TEW/GOL_876," 3.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate (0.1 mol dm-3)
+3646, _-amylase," Î±,Î±-trehalose(aq) + H2O(l) = 2 D-glucose(aq)",292.25,5.65,123,,,,,
+3647, _-amylase," Î±,Î±-trehalose(aq) + H2O(l) = 2 D-glucose(aq)",298.15,5.65,119,,,,,
+3648, _-amylase," Î±,Î±-trehalose(aq) + H2O(l) = 2 D-glucose(aq)",304.55,5.65,118,,,,,
+3649, _-amylase," Î±,Î±-trehalose(aq) + H2O(l) = 2 D-glucose(aq)",310.25,5.65,115,,,,,

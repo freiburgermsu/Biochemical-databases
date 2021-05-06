@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2726, hydrogen dehydrogenase, H2(aq) + NAD(aq) = NADH(aq),298.15,7.20,-27.4,Rekharsky M.V.; Egorov A.M.; Gal'chenko G.L.; Berezin I.V.; Dokl. Akad. Nauk. SSSR; 249 1156 (1979).,79REK/EGO_334," 1.12.1.2                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, potassium phosphate (0.050 mol dm-3)

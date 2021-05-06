@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3514, lombricine kinase, ATP(aq) + lombricine(aq) = ADP(aq) + NÏ‰-phospholombricine(aq),308.15,7.25,32,Ellington W.R.; J. Exp. Biol.; 143 177 (1989).,89ELL_627," 2.7.3.5                                                    (ENZYME |                                                 KEGG)                                                ", NMR and enzymatic assay, mercaptoethanol (0.014 mol dm-3) + Hepes (0.050 mol dm-3)

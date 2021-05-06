@@ -1,0 +1,9 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3301, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),286.15,7.43,0.00331,Goldberg R.N.; Gajewski E.; Steckler D.K.; Tewari Y.B.; Biophys. Chem.; 24 13 (1986).,86GOL/GAJ_1212," 4.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate
+3302, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),292.15,7.39,0.00374,,,,,
+3303, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),298.25,7.37,0.00471,,,,,
+3304, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),304.25,7.33,0.00559,,,,,
+3305, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),310.15,7.24,0.00854,,,,,
+3306, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),310.15,7.30,0.00507,,,,,
+3307, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),310.25,7.29,0.00669,,,,,
+3308, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),316.25,7.35,0.00763,,,,,

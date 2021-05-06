@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1253, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.14,4.90,Jencks W.P.; Caplow M.; Gilchrist M.; Kallen R.G.; Biochemistry; 2 1313 (1963).,63JEN/CAP_970," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and spectrophotometry,
+1254, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.21,5.85,,,,,
+1255, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.22,5.65,,,,,
+1256, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.59,10.4,,,,,
+1257, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.67,11.5,,,,,
+1258, chymotrypsin, N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq),298.15,6.67,13.0,,,,,

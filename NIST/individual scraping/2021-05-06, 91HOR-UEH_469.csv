@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3613, pyrimidine-nucleoside phosphorylase, 5-methyluridine(aq) + orthophosphate(aq) = thymine(aq) + Î±-D-ribose 1-phosphate(aq),313.15,7.0,0.062,Hori N.; Uehara K.; Mikami Y.; Agric. Biol. Chem.; 55 1071 (1991).,91HOR/UEH_469," 2.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, potassium phosphate (0.005 mol dm-3)

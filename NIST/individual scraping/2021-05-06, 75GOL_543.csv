@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2319, hexokinase, ATP(aq) + D-fructose(aq) = ADP(aq) + D-fructose 6-phosphate(aq),298.19,8.61,0.10,-63.0,Goldberg R.N.; Biophys. Chem.; 3 192 (1975).,75GOL_543," 2.7.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.18 mol kg-1) + HCl
+2320, hexokinase, ATP(aq) + D-fructose(aq) = ADP(aq) + D-fructose 6-phosphate(aq),298.19,8.63,0.098,-61.9,,,,,
+2321, hexokinase, ATP(aq) + D-fructose(aq) = ADP(aq) + D-fructose 6-phosphate(aq),301.66,8.63,0.12,-63.0,,,,,
+2322, hexokinase, ATP(aq) + D-fructose(aq) = ADP(aq) + D-fructose 6-phosphate(aq),305.11,8.61,0.12,-63.1,,,,,

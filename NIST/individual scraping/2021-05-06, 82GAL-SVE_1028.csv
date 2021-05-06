@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2904, aminoacylase, N-acetyl-L-norleucine(aq) + H2O(l) = acetate(aq) + L-norleucine(aq),298.15,7.5,12.5,Galaev I.Yu.; Svedas V.K.; Biochim. Biophys. Acta; 701 389 (1982).,82GAL/SVE_1028," 3.5.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

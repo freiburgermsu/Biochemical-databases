@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1527, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,7.0,0.0054,Eppenberger H.M.; Dawson D.M.; Kaplan N.O.; J. Biol. Chem.; 242 204 (1967).,67EPP/DAW_595," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
+1528, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,7.5,0.041,,,,,
+1529, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,8.0,0.084,,,,,

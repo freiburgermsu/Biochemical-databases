@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+622, acetate-CoA ligase, ATP(aq) + propanoate(aq) + CoA(aq) = AMP(aq) + diphosphate(aq) + propanonyl-CoA(aq),311.15,8.0,1.15,Hele P.; J. Biol. Chem.; 206 671 (1954).,54HEL_1435," 6.2.1.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tris (0.1 mol dm-3)

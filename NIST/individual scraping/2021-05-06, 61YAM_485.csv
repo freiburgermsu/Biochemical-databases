@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1189, guanosine phosphorylase, guanosine(aq) + orthophosphate(aq) = guanine(aq) + D-ribose 1-phosphate(aq),310.15,7.0,0.019,Yamada E.W.; J. Biol. Chem.; 236 3043 (1961).,61YAM_485," 2.4.2.15                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate

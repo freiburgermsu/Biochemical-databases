@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1245, L-rhamnose isomerase, L-rhamnose(aq) = L-rhamnulose(aq),310.15,8.5,0.75,Domagk G.F.; Zech R.; Biochem. Z.; 339 145 (1963).,63DOM/ZEC_1372," 5.3.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.0.063 mol dm-3) + HCl

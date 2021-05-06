@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2594, glutamate dehydrogenase (NAD(P)+), L-glutamate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + ammonia(aq),298.15,7.6,64.6,Subramanian S.; Biophys. Chem.; 7 375 (1978).,78SUB_284," 1.4.1.3                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate
+2595, glutamate dehydrogenase (NAD(P)+), L-glutamate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + ammonia(aq),308.15,7.6,70.3,,,,,

@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2505, chymotrypsin, N-acetyl-L-phenylalanylglycinamide(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + glycinamide(aq),293.15,5.5,2.0,Antonov V.K.; Ginodman L.M.; Gurova A.G.; Mol. Biol. (Moscow); 11 1160 (1977).,77ANT/GIN_964," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", chemical assay, acetate (0.1 mol dm-3)
+2506, chymotrypsin, N-acetyl-L-phenylalanylglycinamide(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + glycinamide(aq),293.15,7.3,2.5,,,,,
+2507, chymotrypsin, N-acetyl-L-phenylalanylglycinamide(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + glycinamide(aq),293.15,8.2,5.9,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1296, phosphoglycerate mutase, 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq),311.15,7.0,9.8,Lowry O.H.; Passonneau J.V.; J. Biol. Chem.; 239 31 (1964).,64LOW/PAS_1394," 5.4.2.1                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry, phosphate (0.04 mol dm-3)

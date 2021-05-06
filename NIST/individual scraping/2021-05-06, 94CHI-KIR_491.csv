@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3812, glutathione transferase, glutathione(aq) + methyl-(E)-2-octenoate(aq) = glutathione derivative of methyl (E)-2-octenoate(aq),298.15,7.4,212,Chien C.; Kirollos S.K.; Linderman R.J.; Dauterman W.C.; Biochim. Biophys. Acta; 1204 175 (1994).,94CHI/KIR_491," 2.5.1.18                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate (0.066 mol dm-3)

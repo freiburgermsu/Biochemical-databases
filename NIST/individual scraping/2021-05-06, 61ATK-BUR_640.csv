@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1145, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),298.15,7.0,0.010,0.48,Atkinson M.R.; Burton R.M.; Morton R.K.; Biochem. J.; 78 813 (1961).,61ATK/BUR_640," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", electrophoresis and enzymatic assay, HCl + NaOH
+1146, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),298.15,7.0,0.025,0.28,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3937, L-iditol 2-dehydrogenase, D-sorbitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq),298.15,7.63,0.197,0.094,Tewari Y.B.; Goldberg R.N.; J. Chem. Thermodyn.; 28 1127 (1996).,96TEW/GOL_70," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and spectrophotometry, phosphate

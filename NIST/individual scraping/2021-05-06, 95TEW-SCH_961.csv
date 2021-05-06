@@ -1,0 +1,9 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3890, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),288.15,6.09,0.11,3.55E-3,Tewari Y.B.; Schantz M.M.; Pandey P.C.; Rekharsky M.V.; Goldberg R.N.; J. Phys. Chem.; 99 1594 (1995).,95TEW/SCH_961," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and GC, phosphate
+3891, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),288.15,6.29,0.11,7.98E-3,,,,,
+3892, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),293.15,6.17,0.11,2.27E-3,,,,,
+3893, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),293.15,6.39,0.13,4.28E-3,,,,,
+3894, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),298.15,6.19,0.12,4.04E-3,,,,,
+3895, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),298.15,6.44,0.13,5.29E-3,,,,,
+3896, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),308.15,5.98,0.11,1.63E-3,,,,,
+3897, chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq),308.15,6.23,0.12,1.99E-3,,,,,

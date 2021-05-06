@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+262, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),295.15,6.95,0.76,Ochoa S.; J. Biol. Chem.; 174 133 (1948).,48OCH_152," 1.1.1.42                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, carbonate/bicarbonate

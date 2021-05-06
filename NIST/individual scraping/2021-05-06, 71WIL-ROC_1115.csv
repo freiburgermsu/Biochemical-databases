@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1932, isocitrate lyase, isocitrate(aq) = succinate(aq) + glyoxylate(aq),303.15,7.7,0.0023,Williams J.O.; Roche T.E.; McFadden B.A.; Biochemistry; 10 1384 (1971).,71WIL/ROC_1115," 4.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Mops (0.10 mol dm-3) + NaOH

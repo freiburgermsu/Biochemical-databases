@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3041, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.5,glycylglycine ,-35.1,"Redman-Furey N.L.; ""Biochemical Thermodynamics and Analytical Enthalpimetry""; Thesis Pennsylvania State University (1982).",82RED_568," 2.7.1.40                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tricine (0.1 mol dm-3) glycylglycine (0.1 mol dm-3) Taps (0.1 mol dm-3) and Tris (0.1 mol dm-3)
+3042, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.5,Taps ,-31.9,,,,,
+3043, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.5,Tricine ,-22.9,,,,,
+3044, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.5,Tris ,-39.3,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2654, malate dehydrogenase, meso-tartrate(aq) + NAD(aq) = 2-oxo-3-hydroxysuccinate(aq) + NADH(aq),298.15,8.0,1.25E-6,Kimball D.F.; Peterson L.; McLoughlin D.J.; Wolfe R.G.; Arch. Biochem. Biophys.; 195 66 (1979).,79KIM/PET_143," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + acetate (0.05 mol dm-3)

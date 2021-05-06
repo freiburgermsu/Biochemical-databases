@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3247, ribose isomerase, D-ribose(aq) = D-ribulose(aq),320.15,~7.1,10.97,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 22 197 (1985).,85TEW/GOL2_1378," 5.3.1.20                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate
+3248, ribose isomerase, D-ribose(aq) = D-ribulose(aq),325.35,~7.1,11.38,,,,,
+3249, ribose isomerase, D-ribose(aq) = D-ribulose(aq),331.65,~7.1,12.11,,,,,
+3250, ribose isomerase, D-ribose(aq) = D-ribulose(aq),338.15,~7.1,12.25,,,,,

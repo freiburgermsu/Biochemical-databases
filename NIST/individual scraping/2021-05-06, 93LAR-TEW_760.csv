@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,"m(MgCl2,mol.kg<sup>-1</sup>)",I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3777, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),298.15,8.02,0.0010,0.078,2.44,Larson J.W.; Tewari Y.B.; Goldberg R.N.; J. Chem. Thermodyn. 25 73 (1993).,93LAR/TEW_760," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + HCl
+3778, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),298.15,8.42,0.0010,0.052,1.76,,,,,
+3779, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),298.15,8.85,0.0010,0.052,0.55,,,,,
+3780, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),304.55,7.78,0.0010,0.086,2.53,,,,,
+3781, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),310.15,7.62,0.0010,0.083,3.50,,,,,

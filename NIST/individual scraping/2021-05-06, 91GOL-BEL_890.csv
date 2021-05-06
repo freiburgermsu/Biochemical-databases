@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3602," glucan 1,4-a-glucosidase", maltohexaose(aq) + 5 H2O(l) = 6 D-glucose(aq),298.15,4.44,-22.40,Goldberg R.N.; Bell D.; Tewari Y.B.; McLaughlin M.A.; Biophys. Chem.; 40 69 (1991).,91GOL/BEL_890," 3.2.1.3                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium acetate (0.1 mol dm-3)
+3603," glucan 1,4-a-glucosidase", maltohexaose(aq) + 5 H2O(l) = 6 D-glucose(aq),304.65,4.44,-22.63,,,,,
+3604," glucan 1,4-a-glucosidase", maltohexaose(aq) + 5 H2O(l) = 6 D-glucose(aq),311.15,4.44,-22.16,,,,,

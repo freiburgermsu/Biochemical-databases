@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1102, lactaldehyde reductase (NADPH)," 1,2-propanediol(aq) + NADP(aq) = L-lactaldehyde(aq) + NADPH(aq)",298.15,10.0,2.4E-3,Gupta N.K.; Robinson W.G.; J. Biol. Chem.; 235 1609 (1960).,60GUP/ROB_186," 1.1.1.55                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris
+1103, lactaldehyde reductase (NADPH)," 1,2-propanediol(aq) + NADP(aq) = L-lactaldehyde(aq) + NADPH(aq)",298.15,8.4,6.0E-5,,,,,
+1104, lactaldehyde reductase (NADPH)," 1,2-propanediol(aq) + NADP(aq) = L-lactaldehyde(aq) + NADPH(aq)",298.15,9.0,2.4E-4,,,,,
+1105, lactaldehyde reductase (NADPH)," 1,2-propanediol(aq) + NADP(aq) = L-lactaldehyde(aq) + NADPH(aq)",298.15,9.5,7.59E-4,,,,,

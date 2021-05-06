@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1267, 21-hydroxysteroid dehydrogenase (NAD+)," 4-pregnene-11Î²,17Î±,21-triol-3,20-dione(aq) + NAD(aq) = 4-pregnene-11Î²,17Î±-diol-3,20,21-trione(aq) + NADH(aq)",303.15,6.9,7.8E-8,Monder C.; White A.; J. Biol. Chem.; 238 767 (1963).,63MON/WHI_219," 1.1.1.150                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, sodium phosphate (0.13 mol dm-3)
+1268, 21-hydroxysteroid dehydrogenase (NAD+)," 4-pregnene-11Î²,17Î±,21-triol-3,20-dione(aq) + NAD(aq) = 4-pregnene-11Î²,17Î±-diol-3,20,21-trione(aq) + NADH(aq)",303.15,8.5,9.8E-4,,,,,

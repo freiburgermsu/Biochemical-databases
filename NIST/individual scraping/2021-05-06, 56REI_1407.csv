@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+812, phosphoacetylglucosamine mutase, N-acetyl-D-glucosamine 1-phosphate(aq) = N-acetyl-D-glucosamine 6-phosphate(aq),310.15,7.7,6,Reissig J.L.; J. Biol. Chem.; 219 753 (1956).,56REI_1407," 5.4.2.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.033 mol dm-3) + acetate

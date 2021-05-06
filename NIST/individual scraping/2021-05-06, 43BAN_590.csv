@@ -1,0 +1,10 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+206, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,7.50,borate,0.0023,Banga I.; Stud. Inst. Med. Chem. Univ. Szeged; 3 59 (1943).,43BAN_590," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, borate and barbital acetate
+207, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,7.60,borate,0.0049,,,,,
+208, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,7.80,borate,0.0239,,,,,
+209, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,8.20,borate,0.0925,,,,,
+210, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,8.50,borate,0.191,,,,,
+211, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,8.55,barbital,0.039,,,,,
+212, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,9.05,borate,0.365,,,,,
+213, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,9.50,borate,0.138,,,,,
+214, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,9.70,borate,0.0061,,,,,

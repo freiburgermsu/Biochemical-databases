@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+4, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),278.15,6.8,8.4,Jacobsohn K.P.; Biochem. Z.; 274 167 (1934).,34JAC_1142," 4.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry, barbital
+5, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),288.15,6.8,6.5,,,,,
+6, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),298.15,6.8,5.1,,,,,
+7, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),311.15,6.8,3.8,,,,,
+8, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),327.15,6.8,2.1,,,,,

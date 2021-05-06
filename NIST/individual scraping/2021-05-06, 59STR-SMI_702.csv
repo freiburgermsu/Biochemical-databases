@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1066, UDP-N-acetylglucosamine pyrophosphorylase, UTP(aq) + N-acetyl-Î±-D-glucosamine 1-phosphate(aq) = UDP-N-acetyl-D-glucosamine(aq) + pyrophosphate(aq),310.15,7.4,0.5,Strominger J.L.; Smith M.S.; J. Biol. Chem.; 234 1822 (1959).,59STR/SMI_702," 2.7.7.23                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and spectrophotometry, Tris (0.1 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1835, diiodophenylpyruvate reductase," Î²-(3,5-diiodo-4-hydroxyphenyl)lactate(aq) + NAD(aq) = Î²-(3,5-diiodo-4-hydroxyphenyl)pyruvate(aq) + NADH(aq)",298.15,6.5,8.2E-7,Nakano M.; Tsutsumi Y.; Danowski T.S.; J. Biol. Chem.; 245 4443 (1970).,70NAK/TSU_205," 1.1.1.96                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.080 mol dm-3)

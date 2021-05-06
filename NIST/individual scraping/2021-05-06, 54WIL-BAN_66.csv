@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+654, L-iditol dehydrogenase, D-sorbitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq),298.15,7.0,2.05E-2,Williams-Ashman H.G.; Banks J.; Arch. Biochem. Biophys.; 50 513 (1954).,54WIL/BAN_66," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

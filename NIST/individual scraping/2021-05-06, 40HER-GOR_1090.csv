@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+187, fructose-biphosphate aldolase," D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",301.15,7.2,6.0E-5,Herbert D.; Gordon H.; Subrahmanyan V.; Green D.E.; Biochem. J.; 34 1108 (1940).,40HER/GOR_1090," 4.1.2.13                                                    (ENZYME |                                                 KEGG)                                                ",, borate (0.8 mol dm-3)
+188, fructose-biphosphate aldolase," D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",311.15,7.2,1.19E-4,,,,,
+189, fructose-biphosphate aldolase," D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",311.15,7.33,1.22E-4,,,,,
+190, fructose-biphosphate aldolase," D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",321.15,7.2,2.34E-4,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1907, 2-methyleneglutarate mutase, 2-methyleneglutarate(aq) = methylitaconate(aq),307.15,7.9,0.23,Kung H.-F.; Stadtman T.C.; J. Biol. Chem.; 246 3378 (1971).,71KUN/STA_1422," 5.4.99.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate

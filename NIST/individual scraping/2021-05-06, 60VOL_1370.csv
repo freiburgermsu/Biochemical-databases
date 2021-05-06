@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1141, arabinose-5-phosphate isomerase, D-arabinose 5-phosphate(aq) = D-ribulose 5-phosphate(aq),310.15,8.0,0.295,Volk W.A.; J. Biol. Chem.; 235 1550 (1960).,60VOL_1370," 5.3.1.13                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycylglycine (0.0033 mol dm-3)

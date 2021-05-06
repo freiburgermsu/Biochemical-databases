@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1251, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),303.15,8.0,0.1,0.32,Hines M.C.; Wolfe R.G.; Biochemistry; 2 770 (1963).,63HIN/WOL_1355," 5.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + acetate

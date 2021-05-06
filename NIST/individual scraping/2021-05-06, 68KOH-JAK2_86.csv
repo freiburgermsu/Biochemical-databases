@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1670, glyoxylate reductase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,8.03,7.2E-5,Kohn L.D.; Jakoby W.B.; J. Biol. Chem.; 243 2486 (1968).,68KOH/JAK2_86," 1.1.1.26                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
+1671, glyoxylate reductase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,8.85,7.0E-4,,,,,
+1672, glyoxylate reductase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,9.08,1.2E-3,,,,,

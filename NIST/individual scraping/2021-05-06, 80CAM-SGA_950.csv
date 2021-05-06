@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2734, adenosine nucleosidase, adenosine(aq) + H2O(l) = adenine(aq) + D-ribose(aq),298.15,7.0,53,Camici M.; Sgarrella F.; Ipata P.L.; Mura U.; Arch. Biochem. Biophys.; 205 191 (1980).,80CAM/SGA_950," 3.2.2.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + HCl (0.107 mol dm-3)

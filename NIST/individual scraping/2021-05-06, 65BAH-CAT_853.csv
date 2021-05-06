@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1313, pancreatic ribonuclease, cytidine 2':3'-(cyclic)phosphate(aq) + H2O(l) = cytidine 3'-monophosphate(aq),298.15,5.0,360,Bahr J.T.; Cathou R.E.; Hammes G.G.; J. Biol. Chem.; 240 3372 (1965).,65BAH/CAT_853," 3.1.27.5                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, acetate (0.05 mol dm-3)
+1314, pancreatic ribonuclease, cytidine 2':3'-(cyclic)phosphate(aq) + H2O(l) = cytidine 3'-monophosphate(aq),298.15,6.0,1060,,,,,

@@ -1,0 +1,20 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(CaCl2,mol dm<sup>-3</sup>)","c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+271, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,5.98,0.077,0,0.15,Soreni E.T.; Degtyar R.G.; Ukr. Biokhim. Zh.; 20 234 (1948).,48SOR/DEG_591," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and spectrophotometry, glycocol
+272, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,6.02,0,0,0.37,,,,,
+273, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,8.72,0.077,0,0.26,,,,,
+274, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.0052,0.15,,,,,
+275, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.0052,0.29,,,,,
+276, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.0105,0.10,,,,,
+277, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.0105,0.12,,,,,
+278, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0037,0,0.45,,,,,
+279, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.037,0.24,,,,,
+280, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.042,0.13,,,,,
+281, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0052,0,0.15,,,,,
+282, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0052,0,0.23,,,,,
+283, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0074,0,0.17,,,,,
+284, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0.074,9.26E-2,,,,,
+285, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0105,0,0.10,,,,,
+286, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0105,0,0.13,,,,,
+287, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.0148,0,0.13,,,,,
+288, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0.042,0,0.10,,,,,
+289, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),310.15,9.1,0,0,7.94,,,,,

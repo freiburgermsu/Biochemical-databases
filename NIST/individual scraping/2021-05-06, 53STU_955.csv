@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+590, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,6.46,-8.7,Sturtevant J.M.; J. Am. Chem. Soc.; 75 2016 (1953).,53STU_955," 3.4.17.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium phosphate (0.05 mol dm-3)
+591, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,6.77,-8.7,,,,,
+592, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,6.81,-8.6,,,,,
+593, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,7.24,-9.2,,,,,
+594, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,7.44,-9.1,,,,,
+595, carboxypeptidase A, benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq),298.15,7.45,-8.9,,,,,

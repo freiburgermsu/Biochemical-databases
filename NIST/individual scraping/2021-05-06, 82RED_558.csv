@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3037, glycerol kinase, ATP(aq) + glycerol(aq) = ADP(aq) + sn-glycerol 3-phosphate(aq),298.15,9.0,Bicine (0.1 mol dm-3),-56.0,"Redman-Furey N.L.; ""Biochemical Thermodynamics and Analytical Enthalpimetry""; Thesis Pennsylvania State University (1982).",82RED_558," 2.7.1.30                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Bicine glycylglycine Taps and Tris
+3038, glycerol kinase, ATP(aq) + glycerol(aq) = ADP(aq) + sn-glycerol 3-phosphate(aq),298.15,9.0,glycylglycine (0.1 mol dm-3),-73.9,,,,,
+3039, glycerol kinase, ATP(aq) + glycerol(aq) = ADP(aq) + sn-glycerol 3-phosphate(aq),298.15,9.0,Taps (0.1 mol dm-3),-69.8,,,,,
+3040, glycerol kinase, ATP(aq) + glycerol(aq) = ADP(aq) + sn-glycerol 3-phosphate(aq),298.15,9.0,Tris (0.1 mol dm-3),-77.3,,,,,

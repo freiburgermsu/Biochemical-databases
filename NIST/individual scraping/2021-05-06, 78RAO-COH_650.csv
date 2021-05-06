@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2591, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),277.15,7.0,2.6,Rao B.D.N.; Cohn M.; Noda L.; J. Biol. Chem.; 253 1149 (1978).,78RAO/COH_650," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", NMR, Hepes

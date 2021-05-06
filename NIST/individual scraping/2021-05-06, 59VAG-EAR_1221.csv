@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1089, _-alanyl-CoA ammonia lyase, Î²-alanylpantetheine(aq) = acrylylpantetheine(aq) + ammonia(aq),298.15,7.5,1.22E-6,Vagelos P.R.; Earl J.M.; Stadtman E.R.; J. Biol. Chem.; 234 490 (1959).,59VAG/EAR_1221," 4.3.1.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine (0.05 mol dm-3) + HCl

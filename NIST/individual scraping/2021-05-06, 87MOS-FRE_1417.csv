@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3373," lysine 2,3-aminomutase"," L-lysine(aq) = (3S)-3,6-diaminohexanoate(aq)",303.15,7.7,5.3,Moss M.; Frey P.A.; J. Biol. Chem.; 262 14859 (1987).,87MOS/FRE_1417," 5.4.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, potassium phosphate (0.04 mol dm-3)

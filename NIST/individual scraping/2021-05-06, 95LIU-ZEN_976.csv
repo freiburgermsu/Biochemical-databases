@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3875, chymotrypsin, 2-propylhippurate(aq) + H2O(l) = 2-propanol(aq) + hippurate(aq),298.15,7.0,-48.9,Liu J.-S.; Zeng X.-C.; Tian A.-M.; Deng Y.; Thermochim. Acta; 253 275 (1995).,95LIU/ZEN_976," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris

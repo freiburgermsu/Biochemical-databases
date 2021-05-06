@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+215, sucrose phosphorylase, sucrose(aq) + orthophosphate(aq) = Î±-D-glucose 1-phosphate(aq) + D-fructose(aq),303.15,5.8,11,Doudoroff M.; J. Biol. Chem.; 151 351 (1943).,43DOU_415," 2.4.1.7                                                    (ENZYME |                                                 KEGG)                                                ",, phosphate and (carbonate + bicarbonate)
+216, sucrose phosphorylase, sucrose(aq) + orthophosphate(aq) = Î±-D-glucose 1-phosphate(aq) + D-fructose(aq),303.15,6.6,20,,,,,

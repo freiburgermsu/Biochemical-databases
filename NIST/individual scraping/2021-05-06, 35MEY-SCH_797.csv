@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+35, alkaline phosphatase, phospho-L-arginine(aq) + H2O(l) = L-arginine(aq) + orthophosphate(aq),293.15,-31.0,Meyerhof O.; Schulz W.; Biochem. Z.; 281 292 (1935).,35MEY/SCH_797," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate

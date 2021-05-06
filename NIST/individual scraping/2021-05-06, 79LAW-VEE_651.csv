@@ -1,0 +1,17 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(Mg2+,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2700, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.89,1.10E-3,0.25,0.964,Lawson J.W.R.; Veech R.L.; J. Biol. Chem.; 254 6528 (1979).,79LAW/VEE_651," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay; spectrophotometry, phosphate (0.0095 mol dm-3 - 0.0097 mol dm-3)
+2701, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.90,1.08E-3,0.25,0.982,,,,,
+2702, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.91,1.08E-3,0.25,0.980,,,,,
+2703, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.91,1.08E-3,0.25,0.983,,,,,
+2704, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.97,0.38E-3,0.25,0.929,,,,,
+2705, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.97,0.38E-3,0.25,0.981,,,,,
+2706, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.98,0.36E-3,0.25,0.871,,,,,
+2707, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.98,0.37E-3,0.25,0.946,,,,,
+2708, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.10E-3,0.25,0.708,,,,,
+2709, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.25E-3,0.25,0.899,,,,,
+2710, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.44E-3,0.25,1.014,,,,,
+2711, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.66E-3,0.25,1.044,,,,,
+2712, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,0.83E-3,0.25,1.060,,,,,
+2713, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,1.95E-3,0.25,0.842,,,,,
+2714, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,4.45E-3,0.25,0.572,,,,,
+2715, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),310.15,6.99,9.98E-3,0.25,0.380,,,,,

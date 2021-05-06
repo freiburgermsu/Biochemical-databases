@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1532, phosphoserine transaminase, 3-phosphonooxypyruvate(aq) + L-glutamate(aq) = 2-oxoglutarate(aq) + O-phospho-L-serine(aq),298.15,8.2,0.15,Hirsch H.; Greenberg D.M.; J. Biol. Chem.; 242 2283 (1967).,67HIR/GRE_538," 2.6.1.52                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and radioactivity, Tris + HCl

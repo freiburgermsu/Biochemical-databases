@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3866, taurocyamine kinase, ATP(aq) + taurocyamine(aq) = ADP(aq) + NÏ‰-phosphotaurocyamine(aq),285.15,7.3,1.E9,Kamp G.; Juretschke H.-P.; Thiel U.; Englisch H.; J. Comp. Physiol. B; 165 143 (1995).,95KAM/JUR_626," 2.7.3.4                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic analysis, Tris (0.1 mol dm-3) + HCl

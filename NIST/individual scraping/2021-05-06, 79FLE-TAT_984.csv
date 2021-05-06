@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2648, thermolysin, benzyloxycarbonylglycyl-L-phenylalaninamide(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalaninamide(aq),298.15,7.2,1.81,Flegmann A.W.; Tattersall R.; J. Mol. Evol.; 12 349 (1979).,79FLE/TAT_984," 3.4.24.27                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, Tris (0.02 mol dm-3) + HCl
+2649, thermolysin, benzyloxycarbonylglycyl-L-phenylalaninamide(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalaninamide(aq),311.15,7.1,1.39,,,,,
+2650, thermolysin, benzyloxycarbonylglycyl-L-phenylalaninamide(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalaninamide(aq),333.15,7.0,1.03,,,,,

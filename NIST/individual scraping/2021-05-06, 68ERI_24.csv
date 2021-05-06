@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1637, alcohol dehydrogenase, 1-hexanol(aq) + NAD(aq) = hexanal(aq) + NADH(aq),298.15,8.3,2.87E-3,Eriksson C.E.; J. Food Sci.; 33 525 (1968).,68ERI_24," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.01 mol dm-3)

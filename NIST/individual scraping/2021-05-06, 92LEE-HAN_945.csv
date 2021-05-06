@@ -1,0 +1,13 @@
+index,Enzyme:,Reaction:,T(K),cosolvent ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3704," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),285.7,none,3.0E3,Lee Y.-H.; Han I.-K.; Kor. J. Appl. Microbiol. Biotechnol.; 20 422 (1992).,92LEE/HAN_945," 3.2.1.41                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, citrate + NaOH
+3705," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),285.7,poly(ethylene glycol) 6000 10 % (w/w),8.6E2,,,,,
+3706," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),294.1,none,1.6E3,,,,,
+3707," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),294.1,poly(ethylene glycol) 6000 10 % (w/w),5.1E2,,,,,
+3708," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),303.0,none,8.1E2,,,,,
+3709," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),303.0,poly(ethylene glycol) 6000 10 % (w/w),3.5E2,,,,,
+3710," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),312.5,none,4.0E2,,,,,
+3711," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),312.5,poly(ethylene glycol) 6000 10 % (w/w),2.2E2,,,,,
+3712," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),322.6,none,2.9E2,,,,,
+3713," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),322.6,poly(ethylene glycol) 6000 10 % (w/w),1.5E2,,,,,
+3714," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),333.3,none,2.0E2,,,,,
+3715," a-dextrin endo-1,6-a-glucosidase", maltosyl-Î²-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq),333.3,poly(ethylene glycol) 6000 10 % (w/w),1.1E2,,,,,

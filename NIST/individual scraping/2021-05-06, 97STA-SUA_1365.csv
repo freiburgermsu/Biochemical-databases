@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3988, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),310.15,7.0,Imidazole,0.33,Staples J.F.; Suarez R.K.; J. Exp. Biol.; 200 1247 (1997).,97STA/SUA_1365," 5.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Imidazole (0.025 mol dm-3) and Tris (0.025 mol dm-3)
+3989, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),310.15,8.0,Tris,0.30,,,,,

@@ -1,0 +1,9 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+858, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,7.0,3.70E-6,Holzer H.; Holldorf A.; Biochem. Z.; 329 292 (1957).,57HOL/HOL_113," 1.1.1.29                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris or diethanolamine
+859, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,7.4,8.57E-6,,,,,
+860, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,7.8,2.49E-5,,,,,
+861, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,8.0,2.73E-5,,,,,
+862, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,8.4,9.34E-5,,,,,
+863, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,8.8,1.63E-4,,,,,
+864, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,9.0,4.65E-4,,,,,
+865, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),296.15,9.4,7.10E-4,,,,,

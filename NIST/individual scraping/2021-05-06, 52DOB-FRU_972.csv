@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+351, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,7.90,3.9,Dobry A.; Fruton J.S.; Sturtevant J.M.; J. Biol. Chem.; 195 149 (1952).,52DOB/FRU_972," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", isotopic tracer method, phosphate (0.5 mol dm-3)

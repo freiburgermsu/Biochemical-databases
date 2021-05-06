@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1988," a,a-trehalose phosphorylase"," Î±,Î±-trehalose(aq) + orthophosphate(aq) = D-glucose(aq) + Î²-D-glucose 1-phosphate(aq)",310.15,6.3,0.059,Marechal L.R.; Belocopitow E.; J. Biol. Chem.; 247 3223 (1972).,72MAR/BEL_450," 2.4.1.64                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, imidazole (0.040 mol dm-3) + HCl
+1989," a,a-trehalose phosphorylase"," Î±,Î±-trehalose(aq) + orthophosphate(aq) = D-glucose(aq) + Î²-D-glucose 1-phosphate(aq)",310.15,7.0,0.24,,,,,

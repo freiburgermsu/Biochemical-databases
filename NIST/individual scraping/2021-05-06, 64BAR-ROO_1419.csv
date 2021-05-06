@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1289, methylaspartate mutase, L-threo-3-methylaspartate(aq) = L-glutamate(aq),303.15,8.2,10.7,Barker H.A.; Rooze V.; Suzuki F.; Iodice A.A.; J. Biol. Chem.; 239 3260 (1964).,64BAR/ROO_1419," 5.4.99.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.050 mol dm-3) + HCl

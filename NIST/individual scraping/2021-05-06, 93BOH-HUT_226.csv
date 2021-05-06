@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3760, glucose oxidase," Î²-D-glucose(aq) + O2(aq) = D-glucono-1,5-lactone(aq) + H2O2(aq)",298.15,6.86,-125,Bohmhammel K.; H|ttl R.; Pritzkat K.; Wolf G.; Thermochim. Acta; 217 1 (1993).,93BOH/HUT_226," 1.1.3.4                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.1 mol dm-3)

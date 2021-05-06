@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2784, alanine dehydrogenase, L-alanine(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + ammonia(aq),298.15,7.9,4.3E-6,Grimshaw C.E.; Cleland W.W.; Biochemistry; 20 5650 (1981).,81GRI/CLE_272," 1.4.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, N-tris(hydroxymethyl)methyl-2-amino-ethanesulfonic acid (0.050 mol dm-3)

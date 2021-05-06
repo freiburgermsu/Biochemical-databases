@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1230, erythrose isomerase, D-erythrose(aq) = D-erythrulose(aq),308.15,5.8,2.3,Uehara K.; Methods Enzymol.; 5 350 (1962).,62UEH_1293," 5.3.1.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, phosphate (0.04 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1911, glucuronate-1-phosphate uridylyltransferase, 1-phospho-Î±-D-glucuronate(aq) + UTP(aq) = UDP-D-glucuronate(aq) + pyrophosphate(aq),303.15,8.2,0.34,Roberts R.M.; J. Biol. Chem.; 246 4995 (1971).,71ROB_710," 2.7.7.44                                                    (ENZYME |                                                 KEGG)                                                ", chromatography electrophoresis and radioactivity, Tris (0.1 mol dm-3) + HCl

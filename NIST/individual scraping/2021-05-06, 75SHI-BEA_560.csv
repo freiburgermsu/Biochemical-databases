@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2406, protein kinase, ATP(aq) + lysozyme(aq) = ADP(aq) + phospholysozyme(aq),303.15,6.9,24,Shizuta Y.; Beavo J.A.; Bechtel P.J.; Hofmann F.; Krebs E.G.; J. Biol. Chem.; 250 6891 (1975).,75SHI/BEA_560," 2.7.1.37                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, Mes (0.05 mol dm-3)

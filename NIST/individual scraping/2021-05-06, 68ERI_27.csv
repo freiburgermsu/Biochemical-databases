@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1640, alcohol dehydrogenase, 1-octanol(aq) + NAD(aq) = octanal(aq) + NADH(aq),298.15,8.3,1.1E-3,Eriksson C.E.; J. Food Sci.; 33 525 (1968).,68ERI_27," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.01 mol dm-3)

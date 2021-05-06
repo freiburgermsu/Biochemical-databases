@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2508, NAD+ kinase, ATP(aq) + NAD(aq) = ADP(aq) + NADP(aq),303.15,6.1,29.3,Apps D.K.; Nairn A.C.; Biochem. J.; 167 87 (1977).,77APP/NAI_556," 2.7.1.23                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and chromatography, sodium cacodylate (0.1 mol dm-3)

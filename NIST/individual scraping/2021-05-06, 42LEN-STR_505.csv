@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+205, alanine transaminase, L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq),310.15,7.3,0.70,Lenard P.; Straub F.B.; Stud. Inst. Med. Chem. Univ. Szeged; 2 59 (1942).,42LEN/STR_505," 2.6.1.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, phosphate (0.1 mol dm-3)

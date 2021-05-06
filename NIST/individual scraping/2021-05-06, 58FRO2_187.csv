@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+952, ribitol dehydrogenase, ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq),310.15,7.4,3.1E-3,Fromm H.J.; J. Biol. Chem.; 233 1049 (1958).,58FRO2_187," 1.1.1.56                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
+953, ribitol dehydrogenase, ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq),310.15,8.0,9.6E-3,,,,,
+954, ribitol dehydrogenase, ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq),310.15,8.5,7.0E-2,,,,,

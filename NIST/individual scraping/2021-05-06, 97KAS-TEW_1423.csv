@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3973, chorismate mutase, chorismate(aq) = prephenate(aq),298.15,6.93,phosphate,0.18,-55.5,Kast P.; Tewari Y.B.; Wiest O.; Hilvert D.; Houk K.N.; Goldberg R.N.; J. Phys. Chem. B; 101 10976-10982 (1997).,97KAS/TEW_1423," 5.4.99.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate and Tris
+3974, chorismate mutase, chorismate(aq) = prephenate(aq),298.15,7.70,Tris,0.071,-55.4,,,,,

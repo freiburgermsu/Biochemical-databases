@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1351, ornithine-oxo-acid transaminase, L-ornithine(aq) + 2-oxoglutarate(aq) = DL-Î”1-pyrroline-5-carboxylate(aq) + L-glutamate(aq),310.15,7.1,71,Strecker H.J.; J. Biol. Chem.; 240 1225 (1965).,65STR_520," 2.6.1.13                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.05 mol dm-3)

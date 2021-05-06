@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1285, L-threonate dehydrogenase, L-threonate(aq) + NAD(aq) = 3-oxo-L-threonate(aq) + NADH(aq),298.15,6.9,5.53E-3,Aspen A.J.; Jakoby W.B.; J. Biol. Chem.; 239 710 (1964).,64ASP/JAK_215," 1.1.1.129                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.3 mol dm-3)
+1286, L-threonate dehydrogenase, L-threonate(aq) + NAD(aq) = 3-oxo-L-threonate(aq) + NADH(aq),298.15,7.0,3.42E-4,,,,,
+1287, L-threonate dehydrogenase, L-threonate(aq) + NAD(aq) = 3-oxo-L-threonate(aq) + NADH(aq),298.15,7.75,1.25E-3,,,,,

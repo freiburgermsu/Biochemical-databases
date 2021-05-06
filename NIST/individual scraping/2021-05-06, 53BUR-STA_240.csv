@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+465, acetaldehyde dehydrogenase (acetylating), acetaldehyde(aq) + CoA(aq) + NAD(aq) = acetyl-CoA(aq) + NADH(aq),298.15,7.30,2.0E3,Burton R.M.; Stadtman E.R.; J. Biol. Chem.; 202 873 (1953).,53BUR/STA_240," 1.2.1.10                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, imidazole (0.033 mol dm-3)+ HCl
+466, acetaldehyde dehydrogenase (acetylating), acetaldehyde(aq) + CoA(aq) + NAD(aq) = acetyl-CoA(aq) + NADH(aq),298.15,7.80,8.2E3,,,,,
+467, acetaldehyde dehydrogenase (acetylating), acetaldehyde(aq) + CoA(aq) + NAD(aq) = acetyl-CoA(aq) + NADH(aq),298.15,7.89,7.2E3,,,,,

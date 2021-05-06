@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1444, glucose-1-phosphate guanylyltransferase, GTP(aq) + Î±-D-glucose 1-phosphate(aq) = GDPglucose(aq) + pyrophosphate(aq),303.15,7.8,0.25,Verachtert H.; Rodriguez P.; Bass S.T.; Hansen R.G.; J. Biol. Chem.; 241 2007 (1966).,66VER/ROD_707," 2.7.7.34                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris

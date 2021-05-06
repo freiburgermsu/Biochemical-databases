@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1316, (deoxy)nucleoside-phosphate kinase, ATP(aq) + dTMP(aq) = ADP(aq) + dTDP(aq),310.15,7.4,1.4,Bessman M.J.; Herriott S.T.; Van Bibber Orr M.J.; J. Biol. Chem.; 240 439 (1965).,65BES/HER_671," 2.7.4.13                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, Tris (0.08 mol dm-3) + HCl

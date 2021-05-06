@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1136, deoxyribose-phosphate aldolase, 2-deoxy-D-ribose 5-phosphate(aq) = D-glyceraldehyde 3-phosphate(aq) + acetaldehyde(aq),310.15,6.3,2.35E-4,Pricer W.E.; Horecker B.L.; J. Biol. Chem.; 235 1292 (1960).,60PRI/HOR_1087," 4.1.2.4                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay chemical analysis and spectrophotometry, maleate (0.025 mol dm-3)

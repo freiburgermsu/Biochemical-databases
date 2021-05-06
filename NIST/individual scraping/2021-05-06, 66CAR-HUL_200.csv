@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1396, glyoxylate reductase (NADP+), glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq),298.15,7.77,1.4E-10,Cartwright L.N.; Hullin R.P.; Biochem. J.; 101 781 (1966).,66CAR/HUL_200," 1.1.1.79                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
+1397, glyoxylate reductase (NADP+), glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq),298.15,7.83,1.4E-10,,,,,
+1398, glyoxylate reductase (NADP+), glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq),298.15,7.88,3.6E-10,,,,,
+1399, glyoxylate reductase (NADP+), glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq),298.15,7.90,3.5E-10,,,,,
+1400, glyoxylate reductase (NADP+), glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq),298.15,7.92,9.0E-11,,,,,

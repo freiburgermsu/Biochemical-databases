@@ -1,0 +1,12 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1600, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),278.05,7.0,0.1,0.00215,Bada J.L.; Miller S.L.; Biochemistry; 7 3403 (1968).,68BAD/MIL_1211," 4.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", amino acid analysis Conway diffusion and UV absorption, Hepes Mes Tris and phosphate
+1601, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),288.45,7.0,0.1,0.00307,,,,,
+1602, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),300.55,7.0,0.1,0.00511,,,,,
+1603, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,5.7,0.1,0.0071,,,,,
+1604, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.10,0.0067,,,,,
+1605, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.1,0.0067,,,,,
+1606, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.1,0.00673,,,,,
+1607, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.30,0.0091,,,,,
+1608, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.52,0.0098,,,,,
+1609, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.0,0.73,0.0098,,,,,
+1610, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),309.45,7.7,0.1,0.0064,,,,,

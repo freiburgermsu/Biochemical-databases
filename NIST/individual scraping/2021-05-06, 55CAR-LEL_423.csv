@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+662, sucrose synthase, UDPglucose(aq) + D-fructose(aq) = UDP(aq) + sucrose(aq),310.15,7.4,5,Cardini C.E.; Leloir L.F.; Chiriboga J.; J. Biol. Chem.; 214 149 (1955).,55CAR/LEL_423," 2.4.1.13                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris

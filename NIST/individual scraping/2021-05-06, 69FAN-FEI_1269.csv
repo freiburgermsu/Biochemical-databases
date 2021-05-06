@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1759, UDParabinose 4-epimerase, UDP-L-arabinose(aq) = UDP-D-xylose(aq),303.15,8.0,1.25,Fan D.-F.; Feingold D.S.; Plant Physiol.; 44 599 (1969).,69FAN/FEI_1269," 5.1.3.5                                                    (ENZYME |                                                 KEGG)                                                ", gas-liquid chromatography, phosphate (0.075 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1208, glycine dehydrogenase, glycine(aq) + NAD(aq) + H2O(l) = glyoxylate(aq) + NADH(aq) + ammonia(aq),303.15,6.4,5.7E-5,Goldman D.S.; Wagner M.J.; Biochim. Biophys. Acta; 65 297 (1962).,62GOL/WAG_289," 1.4.1.10                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.08 mol dm-3)

@@ -1,0 +1,23 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1615, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),273.3,8.5,0.12,0.19,Dyson J.E.D.; Noltmann E.A.; J. Biol. Chem.; 243 1401 (1968).,68DYS/NOL_1358," 5.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.050 mol dm-3) + HCl
+1616, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),274.9,8.5,0.12,0.19,,,,,
+1617, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),278.2,8.5,0.12,0.20,,,,,
+1618, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),279.3,8.5,0.12,0.20,,,,,
+1619, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),283.4,8.5,0.12,0.22,,,,,
+1620, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),284.7,8.5,0.12,0.22,,,,,
+1621, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),288.4,8.5,0.12,0.24,,,,,
+1622, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),289.9,8.5,0.12,0.25,,,,,
+1623, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),293.3,8.5,0.12,0.26,,,,,
+1624, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),294.3,8.5,0.12,0.26,,,,,
+1625, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.2,8.5,0.12,0.29,,,,,
+1626, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),299.0,8.5,0.12,0.27,,,,,
+1627, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),303.6,8.5,0.12,0.30,,,,,
+1628, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),303.6,8.5,0.12,0.31,,,,,
+1629, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),308.2,8.5,0.12,0.33,,,,,
+1630, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),308.8,8.5,0.12,0.33,,,,,
+1631, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),313.3,8.5,0.12,0.36,,,,,
+1632, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),313.7,8.5,0.12,0.34,,,,,
+1633, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),317.5,8.5,0.12,0.38,,,,,
+1634, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),318.7,8.5,0.12,0.38,,,,,
+1635, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),322.0,8.5,0.12,0.41,,,,,
+1636, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),322.8,8.5,0.12,0.41,,,,,

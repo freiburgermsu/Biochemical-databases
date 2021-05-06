@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3325, thermolysin, N-(benzyloxycarbonyl)-L-aspartyl-L-phenylalanine methyl ester(aq) + H2O(l) = N-(benzyloxycarbonyl)-L-aspartic acid(aq) + L-phenylalanine methyl ester(aq),313.15,6.0,0.79,Nakanishi K.; Kimura Y.; Matsuno R.; Eur. J. Biochem.; 161 541 (1986).,86NAK/KIM_1081," 3.4.24.27                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, Mes (0.05 M) + NaOH

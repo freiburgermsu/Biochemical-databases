@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+305, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),297.15,2.9,Meyerhof O.; Oesper P.; J. Biol. Chem.; 179 1371 (1949).,49MEY/OES_1172," 4.2.1.11                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and radioactivity, bicarbonate

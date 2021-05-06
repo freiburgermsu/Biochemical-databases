@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3679, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,7.0,7.51,Iborra J.L.; Obon J.M.; Manjon A.; Canovas M.; Biocatal.; 7 37 (1992).,92IBO/OBO_1030," 3.5.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, acetate + NaOH
+3680, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,7.5,6.75,,,,,
+3681, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,7.8,5.47,,,,,
+3682, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,8.0,5.09,,,,,
+3683, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,8.5,6.49,,,,,
+3684, aminoacylase, N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq),323.15,9.0,7.47,,,,,

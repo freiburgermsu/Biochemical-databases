@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+857, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,9.5,1.73E-2,Hohorst H.J.; Biochem. Z.; 328 509 (1957).,57HOH_102," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycine + NaOH

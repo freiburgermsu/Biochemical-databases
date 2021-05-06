@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+346, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,8.5,barbital,0.040,Askonas B.A.; Thesis Cambridge University (1952).,52ASK_592," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ",, borate barbital acetate glycine and ethanolamine
+347, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),311.15,8.5,borate,0.20,,,,,

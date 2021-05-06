@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1259, 4-hydroxy-2-oxoglutarate aldolase, 4-hydroxy-2-oxoglutarate(aq) = pyruvate(aq) + glyoxylate(aq),310.15,7.5,~0.0037,Kuratomi K.; Fukunaga K.; Biochim. Biophys. Acta; 78 617 (1963).,63KUR/FUK_1131," 4.1.3.16                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.075 mol dm-3)

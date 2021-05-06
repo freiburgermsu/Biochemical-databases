@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+723, glycine hydroxymethyltransferase, glycine(aq) + formaldehyde(aq) = L-serine(aq),310.15,7.2,2760,Alexander N.; Greenberg D.M.; J. Biol. Chem.; 220 775 (1956).,56ALE/GRE_348," 2.1.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.02 mol dm-3)

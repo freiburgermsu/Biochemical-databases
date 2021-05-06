@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+983, cellobiose phosphorylase, cellobiose(aq) + orthophosphate(aq) = D-glucose(aq) + Î±-D-glucose 1-phosphate(aq),310.15,7.0,0.23,"Alexander J. K.; ""Studies on a Purified Cellobiose Phosphorylase""; Thesis Montana State College (1959).",59ALE_443," 2.4.1.20                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, barbital acetate (0.01 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+962, cytidylate kinase, ATP(aq) + dCMP(aq) = ADP(aq) + dCDP(aq),303.15,7.5,1.49,Maley F.; Ochoa S.; J. Biol. Chem.; 233 1538 (1958).,58MAL/OCH_673," 2.7.4.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl

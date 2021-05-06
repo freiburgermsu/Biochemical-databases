@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1207, malate synthase, (S)-malate(aq) + CoA(aq) = acetyl-CoA(aq) + H2O(l) + glyoxylate(aq),298.15,8.5,29,Goldman D.S.; Wagner M.J.; Biochim. Biophys. Acta; 65 297 (1962).,62GOL/WAG_1116," 4.1.3.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.04 mol dm-3)

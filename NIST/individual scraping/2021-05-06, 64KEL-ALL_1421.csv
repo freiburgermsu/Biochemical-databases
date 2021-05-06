@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1293, methylmalonyl-CoA mutase, (R)-methylmalonyl-CoA(aq) = succinyl-CoA(aq),298.15,7.4,23.1,Kellermeyer R.W.; Allen S.H.G.; Stjernholm R.; Wood H.G.; J. Biol. Chem.; 239 2562 (1964).,64KEL/ALL_1421," 5.4.99.2                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tris (0.049 mol dm-3) + HCl

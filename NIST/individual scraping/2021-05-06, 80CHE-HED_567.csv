@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2735, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.00,Tris,-38.2,8.8,Cheer R.L.; Hedwig G.R.; Watson I.D.; Biophys. Chem.; 12 73 (1980).,80CHE/HED_567," 2.7.1.40                                                    (ENZYME |                                                 KEGG)                                                ", flow microcalorimetry, (Tris + HCl) (triethanolamine + HCl) and (Hepes + KOH)
+2736, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.02,Hepes,-14.5,6.2,,,,,
+2737, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.06,triethanolamine,-26.4,7.4,,,,,
+2738, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),298.15,8.54,Tris,-38.6,8.8,,,,,

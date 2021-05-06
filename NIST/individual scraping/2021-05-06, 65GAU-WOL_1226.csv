@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1330, ureidoglycolate lyase, (-)-ureidoglycolate(aq) = glyoxylate(aq) + urea(aq),303.15,8.4,0.15,Gaudy E.T.; Wolfe R.S.; J. Bacteriol.; 90 1531 (1965).,65GAU/WOL_1226," 4.3.2.3                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, sodium barbital (0.040 mol dm-3)
+1331, ureidoglycolate lyase, (-)-ureidoglycolate(aq) = glyoxylate(aq) + urea(aq),303.15,8.8,0.14,,,,,

@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+109, _-glucosidase, 2-butyl Î²-D-glucopyranoside(aq) + H2O(l) = (1)-2-butanol(aq) + D-glucose(aq),277.15,18.5,Veibel S.; Enzymologia; 1 124 (1936).,36VEI_915," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry,
+110, _-glucosidase, 2-butyl Î²-D-glucopyranoside(aq) + H2O(l) = (1)-2-butanol(aq) + D-glucose(aq),303.15,21.1,,,,,

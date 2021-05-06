@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1832, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),298.15,7.6,3.0E-4,Krietsch W.K.G.; B|cher T.; Eur. J. Biochem.; 17 568 (1970).,70KRI/BUC_579," 2.7.2.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine (0.080 mol dm-3)
