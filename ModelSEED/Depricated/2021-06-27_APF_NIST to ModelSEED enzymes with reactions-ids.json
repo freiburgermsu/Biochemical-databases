@@ -1,0 +1,2764 @@
+{
+    "aspartate ammonia-lyase": {
+        "reactions": [
+            "(1) cpd00041[0] <=> (1) cpd00106[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB0"
+        ]
+    },
+    "fumarate hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphopyruvate hydratase": {
+        "reactions": [
+            "(1) cpd00482[0] <=> (1) cpd00061[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB1"
+        ]
+    },
+    "fructose-biphosphate aldolase and triose-phosphate isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "triose-phosphate isomerase and fructose-bisphosphate aldolase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphoglycerate mutase": {
+        "reactions": [
+            "(1) cpd00482[0] <=> (1) cpd00169[0]"
+        ],
+        "ids": [
+            "TECRDB2"
+        ]
+    },
+    "alkaline phosphatase": {
+        "reactions": [
+            "(1) cpd03535[0] + (1) cpd00001[0] <=> (1) cpd00051[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd01550[0] + (1) cpd00001[0] <=> (1) cpd00250[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00061[0] + (1) cpd00001[0] <=> (1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00818[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd02135[0] + (1) cpd00001[0] <=> (1) cpd00646[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd02023[0] + (1) cpd00001[0] <=> (1) cpd00451[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+            "(1) cpd00457[0] + (1) cpd00001[0] <=> (1) cpd00098[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00031[0] + (2) cpd00001[0] <=> (1) cpd00311[0] + (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+            "(1) cpd00126[0] + (1) cpd00001[0] <=> (1) cpd00311[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00038[0] + (3) cpd00001[0] <=> (1) cpd00311[0] + (3) cpd00009[0] + (3) cpd00009[0] + (3) cpd00009[0]",
+            "(1) cpd01773[0] + (1) cpd00001[0] <=> (1) cpd00127[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00171[0] + (1) cpd00001[0] <=> (1) cpd29557[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00114[0] + (1) cpd00001[0] <=> (1) cpd00246[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB3",
+            "TECRDB4",
+            "TECRDB5",
+            "TECRDB6",
+            "TECRDB7",
+            "TECRDB8",
+            "TECRDB9",
+            "TECRDB10",
+            "TECRDB11",
+            "TECRDB12",
+            "TECRDB13",
+            "TECRDB14",
+            "TECRDB15",
+            "TECRDB16",
+            "TECRDB17"
+        ]
+    },
+    "alcohol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00363[0] + (1) cpd00003[0] <=> (1) cpd00071[0] + (1) cpd00004[0]",
+            "(1) cpd01269[0] + (1) cpd00003[0] <=> (1) cpd00178[0] + (1) cpd00004[0]",
+            "(1) cpd00636[0] + (1) cpd00003[0] <=> (1) cpd00329[0] + (1) cpd00004[0]",
+            "(1) cpd27216[0] + (1) cpd00003[0] <=> (1) cpd15611[0] + (1) cpd00004[0]",
+            "(1) cpd10394[0] + (1) cpd00003[0] <=> (1) cpd15618[0] + (1) cpd00004[0]",
+            "(1) cpd00562[0] + (1) cpd00003[0] <=> (1) cpd15619[0] + (1) cpd00004[0]",
+            "(1) cpd03662[0] + (1) cpd00003[0] <=> (1) cpd01011[0] + (1) cpd00004[0]",
+            "(1) cpd00435[0] + (1) cpd00003[0] <=> (1) cpd00225[0] + (1) cpd00004[0]",
+            "(1) cpd03559[0] + (1) cpd03559[0] + (1) cpd00003[0] <=> (1) cpd00371[0] + (1) cpd00371[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB18",
+            "TECRDB19",
+            "TECRDB20",
+            "TECRDB21",
+            "TECRDB22",
+            "TECRDB23",
+            "TECRDB24",
+            "TECRDB25",
+            "TECRDB26"
+        ]
+    },
+    "creatine kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00250[0] <=> (1) cpd00008[0] + (1) cpd01550[0]"
+        ],
+        "ids": [
+            "TECRDB27"
+        ]
+    },
+    "arginine kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "fructose-biphosphate aldolase": {
+        "reactions": [],
+        "ids": []
+    },
+    "_-glucosidase": {
+        "reactions": [
+            "(1) cpd03845[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB28"
+        ]
+    },
+    "glycerol-3-phosphate dehydrogenase (NAD+)": {
+        "reactions": [
+            "(1) cpd00080[0] + (1) cpd00003[0] <=> (1) cpd00095[0] + (1) cpd00004[0]",
+            "(1) cpd00080[0] + (1) cpd00003[0] <=> (1) cpd00095[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB29",
+            "TECRDB29"
+        ]
+    },
+    "L-lactate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00139[0] + (1) cpd00003[0] <=> (1) cpd00040[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB30"
+        ]
+    },
+    "malate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutamate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00023[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB31"
+        ]
+    },
+    "alanine transaminase": {
+        "reactions": [
+            "(1) cpd00035[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB32"
+        ]
+    },
+    "aspartate transaminase": {
+        "reactions": [
+            "(1) cpd00041[0] + (1) cpd00024[0] <=> (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB33"
+        ]
+    },
+    "phosphoglucomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "sucrose phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "adenylate kinase": {
+        "reactions": [
+            "(2) cpd00008[0] <=> (1) cpd00018[0] + (1) cpd00002[0]",
+            "(2) cpd00177[0] <=> (1) cpd00294[0] + (1) cpd00294[0] + (1) cpd00115[0]",
+            "(1) cpd00002[0] + (1) cpd00008[0] <=> (1) cpd02199[0] + (1) cpd00018[0]"
+        ],
+        "ids": [
+            "TECRDB34",
+            "TECRDB35",
+            "TECRDB36"
+        ]
+    },
+    "aconitate hydratase": {
+        "reactions": [
+            "(1) cpd00137[0] <=> (1) cpd00331[0] + (1) cpd00001[0]",
+            "(1) cpd00353[0] <=> (1) cpd00331[0] + (1) cpd00001[0]",
+            "(1) cpd00353[0] <=> (1) cpd00137[0]"
+        ],
+        "ids": [
+            "TECRDB37",
+            "TECRDB38",
+            "TECRDB39"
+        ]
+    },
+    "triose-phosphate isomerase": {
+        "reactions": [
+            "(1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00095[0]"
+        ],
+        "ids": [
+            "TECRDB40"
+        ]
+    },
+    "acetate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd29968[0] <=> (1) cpd00008[0] + (1) cpd00196[0]"
+        ],
+        "ids": [
+            "TECRDB41"
+        ]
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "acid phosphatase": {
+        "reactions": [
+            "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00002[0] + (3) cpd00001[0] <=> (1) cpd00182[0] + (3) cpd00009[0] + (3) cpd00009[0] + (3) cpd00009[0]",
+            "(1) cpd00196[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd02135[0] + (1) cpd00001[0] <=> (1) cpd00646[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB16",
+            "TECRDB42",
+            "TECRDB43",
+            "TECRDB7"
+        ]
+    },
+    "phosphoglycerate kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "nicotinamide-nucleotide adenylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "isocitrate dehydrogenase (NADP+)": {
+        "reactions": [
+            "(1) cpd00353[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB44"
+        ]
+    },
+    "acetylcholinesterase": {
+        "reactions": [
+            "(1) cpd01367[0] + (1) cpd01367[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00098[0]"
+        ],
+        "ids": [
+            "TECRDB45"
+        ]
+    },
+    "pyruvate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00020[0] <=> (1) cpd00008[0] + (1) cpd00061[0]"
+        ],
+        "ids": [
+            "TECRDB46"
+        ]
+    },
+    "purine-nucleoside phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "cyclomaltodextrin glucanotransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "mannose-6-phosphate isomerase": {
+        "reactions": [
+            "(1) cpd00235[0] <=> (1) cpd19035[0]"
+        ],
+        "ids": [
+            "TECRDB47"
+        ]
+    },
+    "glucose-6-phosphate isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "L-iditol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]",
+            "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]",
+            "(1) cpd01171[0] + (1) cpd00003[0] <=> (1) cpd00589[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB48",
+            "TECRDB49",
+            "TECRDB50"
+        ]
+    },
+    "chymotrypsin": {
+        "reactions": [],
+        "ids": []
+    },
+    "alanine racemase": {
+        "reactions": [
+            "(1) cpd00035[0] <=> (1) cpd00117[0]"
+        ],
+        "ids": [
+            "TECRDB51"
+        ]
+    },
+    "_-fructofuranosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "urease": {
+        "reactions": [
+            "(1) cpd00073[0] + (2) cpd00001[0] <=> (2) cpd00013[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB52"
+        ]
+    },
+    "carboxypeptidase A": {
+        "reactions": [],
+        "ids": []
+    },
+    "maltose phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "UDPglucose 4-epimerase and UDPglucose-hexose 1-phosphate uridylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "UDPglucose-hexose 1-phosphate uridylyltransferase and UDPglucose 4-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutamate racemase": {
+        "reactions": [
+            "(1) cpd00023[0] <=> (1) cpd00186[0]"
+        ],
+        "ids": [
+            "TECRDB53"
+        ]
+    },
+    "inorganic pyrophosphatase": {
+        "reactions": [
+            "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB9"
+        ]
+    },
+    "nucleotide pyrophosphatase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphate acetyltransferase": {
+        "reactions": [
+            "(1) cpd00022[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd22528[0] + (1) cpd00196[0]",
+            "(1) cpd00592[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd22528[0] + (1) cpd01598[0]"
+        ],
+        "ids": [
+            "TECRDB54",
+            "TECRDB55"
+        ]
+    },
+    "citrate (si)-synthase and malate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malate dehydrogenase and citrate (si)-synthase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "acetaldehyde dehydrogenase (acetylating)": {
+        "reactions": [
+            "(1) cpd00071[0] + (1) cpd22528[0] + (1) cpd00003[0] <=> (1) cpd00022[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB56"
+        ]
+    },
+    "arabinose isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "xylose isomerase": {
+        "reactions": [
+            "(1) cpd01487[0] <=> (1) cpd00259[0]",
+            "(1) cpd03884[0] <=> (1) cpd03880[0]"
+        ],
+        "ids": [
+            "TECRDB57",
+            "TECRDB58"
+        ]
+    },
+    "acetate-CoA ligase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd29968[0] + (1) cpd22528[0] <=> (1) cpd00018[0] + (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00022[0]"
+        ],
+        "ids": [
+            "TECRDB59"
+        ]
+    },
+    "NAD(P)+ transhydrogenase": {
+        "reactions": [
+            "(1) cpd00003[0] + (1) cpd00005[0] <=> (1) cpd00004[0] + (1) cpd00006[0]"
+        ],
+        "ids": [
+            "TECRDB60"
+        ]
+    },
+    "3-hydroxybutyrate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "acetyl-CoA C-acetyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3-oxoacid CoA-transferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "butyrate-CoA ligase": {
+        "reactions": [],
+        "ids": []
+    },
+    "trimetaphosphatase": {
+        "reactions": [
+            "(1) cpd01622[0] + (1) cpd00001[0] <=> (1) cpd00421[0]"
+        ],
+        "ids": [
+            "TECRDB61"
+        ]
+    },
+    "glutamate dehydrogenase (NAD(P)+)": {
+        "reactions": [
+            "(1) cpd00023[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00004[0] + (1) cpd00013[0]",
+            "(1) cpd00023[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB31",
+            "TECRDB62"
+        ]
+    },
+    "arginosuccinate lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "dipeptidyl-peptidase I": {
+        "reactions": [],
+        "ids": []
+    },
+    "3(or 17)_-hydroxysteroid dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "ribose-5-phosphate isomerase": {
+        "reactions": [
+            "(1) cpd00101[0] <=> (1) cpd00171[0]"
+        ],
+        "ids": [
+            "TECRDB63"
+        ]
+    },
+    "nucleoside-diphosphate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00090[0] <=> (1) cpd00008[0] + (1) cpd00068[0]",
+            "(1) cpd00002[0] + (1) cpd00031[0] <=> (1) cpd00008[0] + (1) cpd00038[0]"
+        ],
+        "ids": [
+            "TECRDB64",
+            "TECRDB65"
+        ]
+    },
+    "ketotetraose-phosphate aldolase": {
+        "reactions": [
+            "(1) cpd02148[0] <=> (1) cpd00055[0] + (1) cpd00095[0]"
+        ],
+        "ids": [
+            "TECRDB66"
+        ]
+    },
+    "butyryl-CoA dehydrogenase": {
+        "reactions": [
+            "(1) cpd00120[0] + (1) cpd00120[0] + (1) cpd01206[0] <=> (1) cpd00650[0] + (1) cpd00650[0] + (1) cpd23609[0]"
+        ],
+        "ids": [
+            "TECRDB67"
+        ]
+    },
+    "glutamate-ammonia ligase": {
+        "reactions": [],
+        "ids": []
+    },
+    "dihydroorotase": {
+        "reactions": [
+            "(1) cpd00282[0] + (1) cpd00001[0] <=> (1) cpd00343[0]"
+        ],
+        "ids": [
+            "TECRDB68"
+        ]
+    },
+    "carboxymethylhydantoinase": {
+        "reactions": [
+            "(1) cpd02324[0] + (1) cpd00001[0] <=> (1) cpd00343[0]"
+        ],
+        "ids": [
+            "TECRDB69"
+        ]
+    },
+    "3-dehydroquinate dehydratase": {
+        "reactions": [
+            "(1) cpd00699[0] + (1) cpd00699[0] <=> (1) cpd01716[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB70"
+        ]
+    },
+    "muconate cycloisomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "imidazole N-acetyltransferase and phosphate acetyltransferase": {
+        "reactions": [
+            "(1) cpd00196[0] + (1) cpd01116[0] <=> (1) cpd01677[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB71"
+        ]
+    },
+    "R,R)-butanediol dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphoenolpyruvate carboxykinase (GTP)": {
+        "reactions": [
+            "(1) cpd00068[0] + (1) cpd00068[0] + (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00001[0] <=> (1) cpd00090[0] + (1) cpd00090[0] + (1) cpd00061[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB72"
+        ]
+    },
+    "3-hydroxyacyl-CoA dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "aspartate-semialdehyde dehydrogenase": {
+        "reactions": [
+            "(1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00006[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd01977[0] + (1) cpd01977[0] + (1) cpd00005[0]",
+            "(1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00006[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd01977[0] + (1) cpd01977[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB73",
+            "TECRDB73"
+        ]
+    },
+    "homoserine dehydrogenase": {
+        "reactions": [
+            "(1) cpd00227[0] + (1) cpd00003[0] <=> (1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00004[0]",
+            "(1) cpd00227[0] + (1) cpd00006[0] <=> (1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB74",
+            "TECRDB75"
+        ]
+    },
+    "aspartate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00041[0] <=> (1) cpd00008[0] + (1) cpd01977[0] + (1) cpd01977[0]"
+        ],
+        "ids": [
+            "TECRDB76"
+        ]
+    },
+    "glycerol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00100[0] + (1) cpd00003[0] <=> (1) cpd00157[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB77"
+        ]
+    },
+    "adenylosuccinate lyase": {
+        "reactions": [
+            "(1) cpd02375[0] <=> (1) cpd00106[0] + (1) cpd00018[0]"
+        ],
+        "ids": [
+            "TECRDB78"
+        ]
+    },
+    "sucrose synthase": {
+        "reactions": [],
+        "ids": []
+    },
+    "quinate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00248[0] + (1) cpd00003[0] <=> (1) cpd00699[0] + (1) cpd00699[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB79"
+        ]
+    },
+    "shikimate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00383[0] + (1) cpd00006[0] <=> (1) cpd01716[0] + (1) cpd01725[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB80"
+        ]
+    },
+    "glucose-6-phosphate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "transaldolase": {
+        "reactions": [
+            "(1) cpd00238[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00236[0] + (1) cpd19035[0]",
+            "(1) cpd00238[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00236[0] + (1) cpd19035[0]"
+        ],
+        "ids": [
+            "TECRDB81",
+            "TECRDB81"
+        ]
+    },
+    "D-lactate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "succinate-CoA ligase (ADP forming)": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00036[0] + (1) cpd22528[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00078[0]"
+        ],
+        "ids": [
+            "TECRDB82"
+        ]
+    },
+    "myosin ATPase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00001[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00068[0] + (1) cpd00068[0] + (1) cpd00001[0] <=> (1) cpd00090[0] + (1) cpd00090[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+            "(1) cpd00038[0] + (1) cpd00001[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB83",
+            "TECRDB84",
+            "TECRDB85"
+        ]
+    },
+    "nucleoside-phosphate kinase": {
+        "reactions": [
+            "(1) cpd00062[0] + (1) cpd00091[0] <=> (2) cpd00014[0]",
+            "(1) cpd00002[0] + (1) cpd00014[0] <=> (1) cpd00008[0] + (1) cpd00062[0]"
+        ],
+        "ids": [
+            "TECRDB86",
+            "TECRDB87"
+        ]
+    },
+    "orotate phosphoribosyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "UTP-glucose-1-phosphate uridylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "trypsin": {
+        "reactions": [],
+        "ids": []
+    },
+    "mannitol-1-phosphate dehydrogenase": {
+        "reactions": [
+            "(1) cpd27436[0] + (1) cpd00003[0] <=> (1) cpd19035[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB88"
+        ]
+    },
+    "glyoxylate reductase": {
+        "reactions": [
+            "(1) cpd00139[0] + (1) cpd00003[0] <=> (1) cpd00040[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB30"
+        ]
+    },
+    "glycine hydroxymethyltransferase": {
+        "reactions": [
+            "(1) cpd00033[0] + (1) cpd00055[0] <=> (1) cpd00054[0]",
+            "(1) cpd00033[0] + (1) cpd00071[0] <=> (1) cpd00161[0]",
+            "(1) cpd00125[0] + (1) cpd00033[0] + (1) cpd00001[0] <=> (1) cpd00087[0] + (1) cpd00087[0] + (1) cpd00054[0]"
+        ],
+        "ids": [
+            "TECRDB89",
+            "TECRDB90",
+            "TECRDB91"
+        ]
+    },
+    "histidinol-phosphate transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "L-ribulose-phosphate 4-epimerase": {
+        "reactions": [
+            "(1) cpd00808[0] <=> (1) cpd00198[0]"
+        ],
+        "ids": [
+            "TECRDB92"
+        ]
+    },
+    "L-rhamnose isomerase": {
+        "reactions": [
+            "(1) cpd01627[0] <=> (1) cpd00642[0]"
+        ],
+        "ids": [
+            "TECRDB93"
+        ]
+    },
+    "dephospho-CoA kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00655[0] <=> (1) cpd00008[0] + (1) cpd22528[0]"
+        ],
+        "ids": [
+            "TECRDB94"
+        ]
+    },
+    "retinal isomerase": {
+        "reactions": [
+            "(1) cpd00304[0] + (1) cpd00304[0] <=> (1) cpd01430[0]"
+        ],
+        "ids": [
+            "TECRDB95"
+        ]
+    },
+    "ribulose-phosphate 3-epimerase": {
+        "reactions": [
+            "(1) cpd00171[0] <=> (1) cpd00198[0]"
+        ],
+        "ids": [
+            "TECRDB96"
+        ]
+    },
+    "ribulose-biphosphate carboxylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "myo-inositol 2-dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucosamine-6-phosphate isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "mannose isomerase": {
+        "reactions": [
+            "(1) cpd00368[0] <=> (1) cpd00259[0]"
+        ],
+        "ids": [
+            "TECRDB97"
+        ]
+    },
+    "glycine formiminotransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glycine amidinotransferase": {
+        "reactions": [
+            "(1) cpd00051[0] + (1) cpd00033[0] <=> (1) cpd00064[0] + (1) cpd00451[0]"
+        ],
+        "ids": [
+            "TECRDB98"
+        ]
+    },
+    "phosphoacetylglucosamine mutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "isocitrate lyase": {
+        "reactions": [
+            "(1) cpd00353[0] <=> (1) cpd00036[0] + (1) cpd00040[0]"
+        ],
+        "ids": [
+            "TECRDB99"
+        ]
+    },
+    "citrate (pro-3S)-lyase": {
+        "reactions": [
+            "(1) cpd00137[0] <=> (1) cpd29968[0] + (1) cpd00032[0] + (1) cpd00032[0]"
+        ],
+        "ids": [
+            "TECRDB100"
+        ]
+    },
+    "enoyl-CoA hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3a-hydroxysteroid dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "thetin-homocysteine S-methyltransferase": {
+        "reactions": [
+            "(1) cpd00540[0] + (1) cpd00135[0] <=> (1) cpd00756[0] + (1) cpd00060[0]",
+            "(1) cpd02027[0] + (1) cpd00135[0] <=> (2) cpd00060[0]",
+            "(1) cpd00740[0] + (1) cpd00135[0] <=> (1) cpd00450[0] + (1) cpd00060[0]"
+        ],
+        "ids": [
+            "TECRDB101",
+            "TECRDB102",
+            "TECRDB103"
+        ]
+    },
+    "adenine phosphoribosyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "aryl sulfotransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glycerate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "L-xylulose reductase": {
+        "reactions": [
+            "(1) cpd00306[0] + (1) cpd00006[0] <=> (1) cpd00261[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB104"
+        ]
+    },
+    "UDPglucose 4-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "ornithine carbamoyltransferase": {
+        "reactions": [
+            "(1) cpd00146[0] + (1) cpd00064[0] <=> (1) cpd00274[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB105"
+        ]
+    },
+    "hexokinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3-hydroxyisobutyrate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00876[0] + (1) cpd00003[0] <=> (1) cpd00287[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB106"
+        ]
+    },
+    "dihydrolipoamide dehydrogenase": {
+        "reactions": [
+            "(1) cpd00449[0] + (1) cpd00003[0] <=> (1) cpd00213[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB107"
+        ]
+    },
+    "a,a-trehalose-phosphate synthase (UDP-forming)": {
+        "reactions": [],
+        "ids": []
+    },
+    "ribitol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB48"
+        ]
+    },
+    "adenylosuccinate synthase": {
+        "reactions": [
+            "(1) cpd00038[0] + (1) cpd00114[0] + (1) cpd00041[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd02375[0]"
+        ],
+        "ids": [
+            "TECRDB108"
+        ]
+    },
+    "L-arabinose isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "estradiol 17_-dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "cytidylate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00206[0] <=> (1) cpd00008[0] + (1) cpd00533[0]",
+            "(1) cpd00002[0] + (1) cpd00046[0] <=> (1) cpd00008[0] + (1) cpd00096[0]"
+        ],
+        "ids": [
+            "TECRDB109",
+            "TECRDB110"
+        ]
+    },
+    "sulfate adenylyltransferase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd30009[0] <=> (1) cpd00193[0] + (1) cpd00193[0] + (1) cpd00012[0] + (1) cpd00012[0]",
+            "(1) cpd00002[0] + (1) cpd30009[0] <=> (1) cpd00193[0] + (1) cpd00193[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+        ],
+        "ids": [
+            "TECRDB111",
+            "TECRDB111"
+        ]
+    },
+    "sulfate adenylyltransferase and inorganic pyrophosphatase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd30009[0] + (1) cpd00001[0] <=> (1) cpd00193[0] + (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+            "(1) cpd00002[0] + (1) cpd30009[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0] + (1) cpd00193[0] + (1) cpd00193[0]"
+        ],
+        "ids": [
+            "TECRDB112",
+            "TECRDB113"
+        ]
+    },
+    "cellobiose phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methylaspartate ammonia-lyase": {
+        "reactions": [
+            "(1) cpd02273[0] <=> (1) cpd01194[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB114"
+        ]
+    },
+    "gluconate 2-dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3-hydroxypropionate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00745[0] + (1) cpd00003[0] <=> (1) cpd00191[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB115"
+        ]
+    },
+    "adenosylhomocysteinase": {
+        "reactions": [
+            "(1) cpd00019[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00135[0]"
+        ],
+        "ids": [
+            "TECRDB116"
+        ]
+    },
+    "D-xylulose reductase": {
+        "reactions": [
+            "(1) cpd33240[0] + (1) cpd00003[0] <=> (1) cpd03884[0] + (1) cpd00004[0]",
+            "(1) cpd01066[0] + (1) cpd00003[0] <=> (1) cpd29573[0] + (1) cpd00004[0]",
+            "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]",
+            "(1) cpd24681[0] + (1) cpd00003[0] <=> (1) cpd01395[0] + (1) cpd00004[0]",
+            "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB117",
+            "TECRDB118",
+            "TECRDB48",
+            "TECRDB119",
+            "TECRDB49"
+        ]
+    },
+    "asparaginase": {
+        "reactions": [
+            "(1) cpd00132[0] + (1) cpd00001[0] <=> (1) cpd00041[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB120"
+        ]
+    },
+    "4-aminobutyrate transaminase": {
+        "reactions": [
+            "(1) cpd00281[0] + (1) cpd00024[0] <=> (1) cpd00199[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB121"
+        ]
+    },
+    "sorbitol-6-phosphate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00491[0] + (1) cpd00003[0] <=> (1) cpd19035[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB122"
+        ]
+    },
+    "UDP-N-acetylglucosamine pyrophosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutamate formiminotransferase": {
+        "reactions": [
+            "(1) cpd00502[0] + (1) cpd00023[0] <=> (1) cpd00344[0] + (1) cpd00087[0] + (1) cpd00087[0]"
+        ],
+        "ids": [
+            "TECRDB123"
+        ]
+    },
+    "_-alanyl-CoA ammonia lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucuronate isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "N-acetylneuraminate lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "UDParabinose 4-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "UDPglucuronate 4-epimerase": {
+        "reactions": [
+            "(1) cpd00144[0] <=> (1) cpd00472[0]"
+        ],
+        "ids": [
+            "TECRDB124"
+        ]
+    },
+    "creatine kinase and myosin ATPase": {
+        "reactions": [
+            "(1) cpd01550[0] + (1) cpd00001[0] <=> (1) cpd00250[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB4"
+        ]
+    },
+    "lactaldehyde reductase (NADPH)": {
+        "reactions": [
+            "(1) cpd00453[0] + (1) cpd00006[0] <=> (1) cpd00334[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB125"
+        ]
+    },
+    "lysine racemase": {
+        "reactions": [
+            "(1) cpd00039[0] <=> (1) cpd00549[0]"
+        ],
+        "ids": [
+            "TECRDB126"
+        ]
+    },
+    "carbamate kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methenyltetrahydrofolate cyclohydrolase": {
+        "reactions": [
+            "(1) cpd00347[0] + (1) cpd00001[0] <=> (1) cpd00201[0]"
+        ],
+        "ids": [
+            "TECRDB127"
+        ]
+    },
+    "UDPglucose-hexose-1-phosphate uridylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "sucrose-phosphate synthase": {
+        "reactions": [
+            "(1) cpd00026[0] + (1) cpd19035[0] <=> (1) cpd00014[0] + (1) cpd19187[0]"
+        ],
+        "ids": [
+            "TECRDB128"
+        ]
+    },
+    "4-hydroxybutyrate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "alanine dehydrogenase": {
+        "reactions": [
+            "(1) cpd00035[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00020[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB129"
+        ]
+    },
+    "deoxyribose-phosphate aldolase": {
+        "reactions": [],
+        "ids": []
+    },
+    "arginosuccinate synthase": {
+        "reactions": [],
+        "ids": []
+    },
+    "arabinose-5-phosphate isomerase": {
+        "reactions": [
+            "(1) cpd00817[0] <=> (1) cpd00171[0]"
+        ],
+        "ids": [
+            "TECRDB130"
+        ]
+    },
+    "galactokinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "_-phosphoglucomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "valine-tRNA ligase": {
+        "reactions": [],
+        "ids": []
+    },
+    "transketolase": {
+        "reactions": [
+            "(1) cpd19035[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00236[0] + (1) cpd00198[0]",
+            "(1) cpd19035[0] + (1) cpd00229[0] <=> (1) cpd01395[0] + (1) cpd00236[0]",
+            "(1) cpd00238[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00101[0] + (1) cpd00198[0]"
+        ],
+        "ids": [
+            "TECRDB131",
+            "TECRDB132",
+            "TECRDB133"
+        ]
+    },
+    "2-hydroxy-3-oxopropionate reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose-1-phosphate thymidylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "dihydroorotate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00282[0] + (1) cpd00003[0] <=> (1) cpd00247[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB134"
+        ]
+    },
+    "thiamin-phosphate pyrophosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "taurocyamine kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "leucyl aminopeptidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "gly-X carboxypeptidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "leucine dehydrogenase": {
+        "reactions": [
+            "(1) cpd00107[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00200[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB135"
+        ]
+    },
+    "phosphoserine phosphatase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methylmalonyl-CoA carboxyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "guanosine phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "2-dehydro-3-deoxyphosphogluconate aldolase": {
+        "reactions": [
+            "(1) cpd02711[0] <=> (1) cpd00020[0] + (1) cpd00102[0] + (1) cpd00102[0]"
+        ],
+        "ids": [
+            "TECRDB136"
+        ]
+    },
+    "2-dehydro-3-deoxy-6-phosphogalactonate aldolase": {
+        "reactions": [
+            "(1) cpd00945[0] <=> (1) cpd00020[0] + (1) cpd00102[0] + (1) cpd00102[0]"
+        ],
+        "ids": [
+            "TECRDB137"
+        ]
+    },
+    "galactose dehydrogenase": {
+        "reactions": [
+            "(1) cpd00709[0] + (1) cpd00003[0] <=> (1) cpd02143[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB138"
+        ]
+    },
+    "glucose-1-phosphate adenylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "L-fuculose-phosphate aldolase": {
+        "reactions": [
+            "(1) cpd00806[0] <=> (1) cpd00095[0] + (1) cpd00334[0]"
+        ],
+        "ids": [
+            "TECRDB139"
+        ]
+    },
+    "malate synthase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glycine dehydrogenase": {
+        "reactions": [
+            "(1) cpd00033[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00040[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB140"
+        ]
+    },
+    "propanoyl-CoA carboxylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "_-alanine-pyruvate transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "formate-tetrahydrofolate ligase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00047[0] + (1) cpd00087[0] + (1) cpd00087[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00201[0]"
+        ],
+        "ids": [
+            "TECRDB141"
+        ]
+    },
+    "succinyldiaminopimelate transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "protein kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "erythrose isomerase": {
+        "reactions": [
+            "(1) cpd01239[0] <=> (1) cpd01383[0]"
+        ],
+        "ids": [
+            "TECRDB142"
+        ]
+    },
+    "D-alanine 2-hydroxymethyltransferase": {
+        "reactions": [
+            "(1) cpd01958[0] <=> (1) cpd00550[0] + (1) cpd00055[0]",
+            "(1) cpd01432[0] + (1) cpd00087[0] + (1) cpd00087[0] <=> (1) cpd00125[0] + (1) cpd00117[0] + (1) cpd00001[0]",
+            "(1) cpd01432[0] <=> (1) cpd00117[0] + (1) cpd00055[0]"
+        ],
+        "ids": [
+            "TECRDB143",
+            "TECRDB144",
+            "TECRDB145"
+        ]
+    },
+    "methylmalonyl-CoA epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "nucleoside deoxyribosyltransferase": {
+        "reactions": [
+            "(1) cpd00184[0] + (1) cpd00128[0] <=> (1) cpd00438[0] + (1) cpd00151[0]",
+            "(1) cpd03279[0] + (1) cpd00128[0] <=> (1) cpd00438[0] + (1) cpd00226[0]"
+        ],
+        "ids": [
+            "TECRDB146",
+            "TECRDB147"
+        ]
+    },
+    "chymosin": {
+        "reactions": [
+            "(1) cpd03279[0] + (1) cpd00128[0] <=> (1) cpd00438[0] + (1) cpd00226[0]"
+        ],
+        "ids": [
+            "TECRDB147"
+        ]
+    },
+    "mannitol dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "carnitine O-acetyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "dihydrofolate reductase": {
+        "reactions": [
+            "(1) cpd00087[0] + (1) cpd00087[0] + (1) cpd00006[0] <=> (1) cpd00330[0] + (1) cpd00330[0] + (1) cpd00005[0]",
+            "(2) cpd00330[0] + (2) cpd00330[0] <=> (1) cpd29254[0] + (1) cpd00087[0] + (1) cpd00087[0]"
+        ],
+        "ids": [
+            "TECRDB148",
+            "TECRDB149"
+        ]
+    },
+    "4-hydroxy-2-oxoglutarate aldolase": {
+        "reactions": [
+            "(1) cpd00830[0] <=> (1) cpd00020[0] + (1) cpd00040[0]"
+        ],
+        "ids": [
+            "TECRDB150"
+        ]
+    },
+    "glutathione reductase (NAD(P)H)": {
+        "reactions": [
+            "(2) cpd00042[0] + (2) cpd00042[0] + (1) cpd00006[0] <=> (1) cpd00111[0] + (1) cpd00005[0]",
+            "(2) cpd00042[0] + (2) cpd00042[0] + (1) cpd00003[0] <=> (1) cpd00111[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB151",
+            "TECRDB152"
+        ]
+    },
+    "D-glutamate cyclase": {
+        "reactions": [
+            "(1) cpd00186[0] <=> (1) cpd01512[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB153"
+        ]
+    },
+    "21-hydroxysteroid dehydrogenase (NAD+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "gluconate 5-dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glyoxylate dehydrogenase (acylating)": {
+        "reactions": [],
+        "ids": []
+    },
+    "4-hydroxyproline epimerase": {
+        "reactions": [
+            "(1) cpd00851[0] <=> (1) cpd02175[0]"
+        ],
+        "ids": [
+            "TECRDB154"
+        ]
+    },
+    "L-threonate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methylaspartate mutase": {
+        "reactions": [
+            "(1) cpd02273[0] <=> (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB155"
+        ]
+    },
+    "oxamate carbamoyltransferase": {
+        "reactions": [
+            "(1) cpd00146[0] + (1) cpd01027[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd22507[0]"
+        ],
+        "ids": [
+            "TECRDB156"
+        ]
+    },
+    "methylmalonyl-CoA mutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "tetrahydroxypteridine cycloisomerase": {
+        "reactions": [
+            "(1) cpd02033[0] <=> (1) cpd02112[0]"
+        ],
+        "ids": [
+            "TECRDB157"
+        ]
+    },
+    "thioredoxin reductase (NADPH)": {
+        "reactions": [],
+        "ids": []
+    },
+    "carnitine O-palmitoyltransferase": {
+        "reactions": [
+            "(1) cpd00134[0] + (1) cpd00266[0] <=> (1) cpd22528[0] + (1) cpd01915[0]"
+        ],
+        "ids": [
+            "TECRDB158"
+        ]
+    },
+    "mannose-1-phosphate guanylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "D-lyxose ketol-isomerase": {
+        "reactions": [
+            "(1) cpd00368[0] <=> (1) cpd00259[0]"
+        ],
+        "ids": [
+            "TECRDB97"
+        ]
+    },
+    "oxaloacetate tautomerase": {
+        "reactions": [
+            "(1) cpd00032[0] + (1) cpd00032[0] <=> (1) cpd02469[0]"
+        ],
+        "ids": [
+            "TECRDB159"
+        ]
+    },
+    "pancreatic ribonuclease": {
+        "reactions": [],
+        "ids": []
+    },
+    "deoxy)nucleoside-phosphate kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "papain": {
+        "reactions": [],
+        "ids": []
+    },
+    "rhamnulose-1-phosphate aldolase": {
+        "reactions": [
+            "(1) cpd00831[0] <=> (1) cpd00095[0] + (1) cpd00334[0]"
+        ],
+        "ids": [
+            "TECRDB160"
+        ]
+    },
+    "2-deoxy-D-gluconate dehydrogenase": {
+        "reactions": [
+            "(1) cpd01795[0] + (1) cpd00003[0] <=> (1) cpd02441[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB161"
+        ]
+    },
+    "ureidoglycolate lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "N-acylglucosamine 2-epimerase": {
+        "reactions": [
+            "(1) cpd02416[0] <=> (1) cpd00492[0]"
+        ],
+        "ids": [
+            "TECRDB162"
+        ]
+    },
+    "N-acylglucosamine-6-phosphate 2-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "5,10-methylenetetrahydrofolate reductase (FADH2)": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose dehydrogenase (NADP+)": {
+        "reactions": [
+            "(1) cpd19001[0] + (1) cpd00006[0] <=> (1) cpd00170[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB163"
+        ]
+    },
+    "D-alanine transaminase": {
+        "reactions": [
+            "(1) cpd00117[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00186[0]"
+        ],
+        "ids": [
+            "TECRDB164"
+        ]
+    },
+    "glucose-1-phosphate cytidylyltransferase": {
+        "reactions": [
+            "(1) cpd00052[0] + (1) cpd00089[0] + (1) cpd00089[0] <=> (1) cpd00390[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+        ],
+        "ids": [
+            "TECRDB165"
+        ]
+    },
+    "glucan 1,4-a-glucosidase": {
+        "reactions": [
+            "(1) cpd00179[0] + (1) cpd00001[0] <=> (2) cpd19001[0]",
+            "(1) cpd01262[0] + (2) cpd00001[0] <=> (3) cpd19001[0]",
+            "(1) cpd00217[0] + (1) cpd00001[0] <=> (2) cpd19001[0]",
+            "(1) cpd00537[0] + (2) cpd00001[0] <=> (3) cpd19001[0]",
+            "(1) cpd01461[0] + (2) cpd00001[0] <=> (3) cpd19001[0]",
+            "(1) cpd03718[0] + (6) cpd00001[0] <=> (7) cpd19001[0]",
+            "(1) cpd01329[0] + (5) cpd00001[0] <=> (6) cpd19001[0]",
+            "(1) cpd15495[0] + (4) cpd00001[0] <=> (5) cpd19001[0]",
+            "(1) cpd01399[0] + (3) cpd00001[0] <=> (4) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB166",
+            "TECRDB167",
+            "TECRDB168",
+            "TECRDB169",
+            "TECRDB170",
+            "TECRDB171",
+            "TECRDB172",
+            "TECRDB173",
+            "TECRDB174"
+        ]
+    },
+    "isopentenyl-diphosphate ?-isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "ornithine-oxo-acid transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphoglycerate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00169[0] + (1) cpd00003[0] <=> (1) cpd02069[0] + (1) cpd02069[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB175"
+        ]
+    },
+    "lactate-malate transhydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "fructose 5-dehydrogenase (NADP+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "glyoxylate reductase (NADP+)": {
+        "reactions": [
+            "(1) cpd00139[0] + (1) cpd00006[0] <=> (1) cpd00040[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB176"
+        ]
+    },
+    "glutathione-CoA-glutathione transhydrogenase": {
+        "reactions": [
+            "(1) cpd22528[0] + (1) cpd00111[0] <=> (1) cpd00682[0] + (1) cpd00042[0] + (1) cpd00042[0]"
+        ],
+        "ids": [
+            "TECRDB177"
+        ]
+    },
+    "levansucrase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glycine-oxaloacetate transaminase": {
+        "reactions": [
+            "(1) cpd00033[0] + (1) cpd00032[0] + (1) cpd00032[0] <=> (1) cpd00040[0] + (1) cpd00041[0]"
+        ],
+        "ids": [
+            "TECRDB178"
+        ]
+    },
+    "laminaribiose phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "dTDP-4-amino-4,6-dideoxy-D-glucose transaminase": {
+        "reactions": [
+            "(1) cpd02616[0] + (1) cpd00024[0] <=> (1) cpd00521[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB179"
+        ]
+    },
+    "CDPabequose epimerase": {
+        "reactions": [
+            "(1) cpd02264[0] <=> (1) cpd02265[0]"
+        ],
+        "ids": [
+            "TECRDB180"
+        ]
+    },
+    "homocysteine S-methyltransferase": {
+        "reactions": [
+            "(1) cpd00017[0] + (1) cpd00135[0] <=> (1) cpd00019[0] + (1) cpd00060[0]"
+        ],
+        "ids": [
+            "TECRDB181"
+        ]
+    },
+    "aldehyde reductase": {
+        "reactions": [
+            "(1) cpd00306[0] + (1) cpd00006[0] <=> (1) cpd01487[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB182"
+        ]
+    },
+    "choline O-acetyltransferase": {
+        "reactions": [
+            "(1) cpd00022[0] + (1) cpd00098[0] <=> (1) cpd22528[0] + (1) cpd01367[0] + (1) cpd01367[0]"
+        ],
+        "ids": [
+            "TECRDB183"
+        ]
+    },
+    "glutamate N-acetyltransferase": {
+        "reactions": [
+            "(1) cpd00342[0] + (1) cpd00023[0] <=> (1) cpd00064[0] + (1) cpd00477[0]"
+        ],
+        "ids": [
+            "TECRDB184"
+        ]
+    },
+    "3-oxoacyl-[acyl-carrier-protein] reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose-1-phosphate guanylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "acyl-carrier-protein] S-acetyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "acyl-carrier-protein] S-malonyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphoenolpyruvate carboxykinase (diphosphate)": {
+        "reactions": [
+            "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00001[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00061[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB185"
+        ]
+    },
+    "citramalate lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutamate dehydrogenase (NADP+)": {
+        "reactions": [
+            "(1) cpd00023[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB62"
+        ]
+    },
+    "phosphoserine transaminase": {
+        "reactions": [
+            "(1) cpd02069[0] + (1) cpd02069[0] + (1) cpd00023[0] <=> (1) cpd00024[0] + (1) cpd00738[0] + (1) cpd00738[0]"
+        ],
+        "ids": [
+            "TECRDB186"
+        ]
+    },
+    "linoleate isomerase": {
+        "reactions": [
+            "(1) cpd01122[0] <=> (1) cpd02510[0]"
+        ],
+        "ids": [
+            "TECRDB187"
+        ]
+    },
+    "ATP citrate(pro-3S)-lyase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00137[0] + (1) cpd22528[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00022[0] + (1) cpd00032[0] + (1) cpd00032[0]"
+        ],
+        "ids": [
+            "TECRDB188"
+        ]
+    },
+    "succinate dehydrogenase": {
+        "reactions": [
+            "(2) cpd00036[0] + (1) cpd00007[0] <=> (2) cpd00106[0] + (2) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB189"
+        ]
+    },
+    "NADH dehydrogenase": {
+        "reactions": [
+            "(2) cpd00004[0] + (1) cpd00007[0] <=> (2) cpd00003[0] + (2) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB190"
+        ]
+    },
+    "pyrimidine-nucleoside phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "amino-acid racemase": {
+        "reactions": [
+            "(1) cpd00107[0] <=> (1) cpd01106[0]"
+        ],
+        "ids": [
+            "TECRDB191"
+        ]
+    },
+    "allantoicase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methylenetetrahydrofolate dehydrogenase (NADP+)": {
+        "reactions": [
+            "(1) cpd00125[0] + (1) cpd00006[0] <=> (1) cpd00347[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB192"
+        ]
+    },
+    "histidine ammonia-lyase": {
+        "reactions": [
+            "(1) cpd00119[0] <=> (1) cpd00581[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB193"
+        ]
+    },
+    "adenosine deaminase": {
+        "reactions": [
+            "(1) cpd00182[0] + (1) cpd00001[0] <=> (1) cpd00246[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB194"
+        ]
+    },
+    "carnitine dehydrogenase": {
+        "reactions": [
+            "(1) cpd00266[0] + (1) cpd00003[0] <=> (1) cpd01715[0] + (1) cpd00004[0]",
+            "(1) cpd10719[0] + (1) cpd00003[0] <=> (1) cpd01715[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB195",
+            "TECRDB196"
+        ]
+    },
+    "pyridoxamine-pyruvate transaminase": {
+        "reactions": [
+            "(1) cpd00419[0] + (1) cpd00020[0] <=> (1) cpd00215[0] + (1) cpd00035[0]"
+        ],
+        "ids": [
+            "TECRDB197"
+        ]
+    },
+    "glucoside 3-dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "alanine aminotransferase": {
+        "reactions": [
+            "(1) cpd00035[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB32"
+        ]
+    },
+    "pyruvate,orthophosphate dikinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00018[0] + (1) cpd00061[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+        ],
+        "ids": [
+            "TECRDB198"
+        ]
+    },
+    "phenylalanine ammonia-lyase": {
+        "reactions": [
+            "(1) cpd00066[0] <=> (1) cpd00333[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB199"
+        ]
+    },
+    "indolelactate dehydrogenase": {
+        "reactions": [
+            "(1) cpd01394[0] + (1) cpd00003[0] <=> (1) cpd00278[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB200"
+        ]
+    },
+    "L-mannose ketol-isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "crotonoyl-[acyl-carrier-protein] hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "galactinol-raffinose galactosyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase and phosphoglycerate kinase": {
+        "reactions": [
+            "(1) cpd00102[0] + (1) cpd00102[0] + (1) cpd00008[0] + (1) cpd00003[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00169[0] + (1) cpd00002[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB201"
+        ]
+    },
+    "phenylpyruvate tautomerase": {
+        "reactions": [
+            "(1) cpd00143[0] <=> (1) cpd01784[0]"
+        ],
+        "ids": [
+            "TECRDB202"
+        ]
+    },
+    "2-dehydro-3-deoxy-L-pentonate aldolase": {
+        "reactions": [
+            "(1) cpd22923[0] <=> (1) cpd00020[0] + (1) cpd00229[0]",
+            "(1) cpd03674[0] <=> (1) cpd00020[0] + (1) cpd00334[0]"
+        ],
+        "ids": [
+            "TECRDB203",
+            "TECRDB204"
+        ]
+    },
+    "phosphodiesterase I": {
+        "reactions": [],
+        "ids": []
+    },
+    "camphor 5-monooxygenase": {
+        "reactions": [
+            "(1) cpd00601[0] + (1) cpd00004[0] + (1) cpd00007[0] <=> (1) cpd02180[0] + (1) cpd00003[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB205"
+        ]
+    },
+    "phosphomevalonate kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "ribose-phosphate pyrophosphokinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphogluconate dehydrogenase (decarboxylating)": {
+        "reactions": [],
+        "ids": []
+    },
+    "S)-2-methylmalate dehydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "diaminopimelate epimerase": {
+        "reactions": [
+            "(1) cpd00504[0] <=> (1) cpd00516[0]"
+        ],
+        "ids": [
+            "TECRDB206"
+        ]
+    },
+    "nucleoside-triphosphate-adenylate kinase": {
+        "reactions": [
+            "(1) cpd00038[0] + (1) cpd00018[0] <=> (1) cpd00008[0] + (1) cpd00031[0]"
+        ],
+        "ids": [
+            "TECRDB207"
+        ]
+    },
+    "lysine 2,3-aminomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "N-methyl-2-oxoglutaramate hydrolase": {
+        "reactions": [],
+        "ids": []
+    },
+    "branched-chain-amino-acid transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutamate-ammonia-ligase] adenylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "2-aminoadipate transaminase": {
+        "reactions": [
+            "(1) cpd00705[0] + (1) cpd00024[0] <=> (1) cpd00269[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB208"
+        ]
+    },
+    "diiodophenylpyruvate reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "2,4-diaminopentanoate dehydrogenase": {
+        "reactions": [
+            "(1) cpd02448[0] + (1) cpd02448[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd02121[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB209"
+        ]
+    },
+    "glyceraldehyde-3-phocphate dehydrogenase and phosphoglycerate kinase": {
+        "reactions": [
+            "(1) cpd00102[0] + (1) cpd00102[0] + (1) cpd00008[0] + (1) cpd00003[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00169[0] + (1) cpd00002[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB201"
+        ]
+    },
+    "cytidine deaminase": {
+        "reactions": [
+            "(1) cpd00367[0] + (1) cpd00001[0] <=> (1) cpd00249[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB210"
+        ]
+    },
+    "adenylate cyclase": {
+        "reactions": [],
+        "ids": []
+    },
+    "sepiapterin reductase": {
+        "reactions": [
+            "(1) cpd01895[0] + (1) cpd00006[0] <=> (1) cpd00622[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB211"
+        ]
+    },
+    "methylitaconate ?-isomerase": {
+        "reactions": [
+            "(1) cpd01545[0] <=> (1) cpd00684[0]"
+        ],
+        "ids": [
+            "TECRDB212"
+        ]
+    },
+    "2-methyleneglutarate mutase": {
+        "reactions": [
+            "(1) cpd01876[0] <=> (1) cpd01545[0]"
+        ],
+        "ids": [
+            "TECRDB213"
+        ]
+    },
+    "glu-X carboxypeptidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucuronate-1-phosphate uridylyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "ribonuclease T2": {
+        "reactions": [],
+        "ids": []
+    },
+    "guanylate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00126[0] <=> (1) cpd00008[0] + (1) cpd00031[0]",
+            "(1) cpd00002[0] + (1) cpd00296[0] <=> (1) cpd00008[0] + (1) cpd00295[0]"
+        ],
+        "ids": [
+            "TECRDB214",
+            "TECRDB215"
+        ]
+    },
+    "phosphate acetyltransferase and formate C-acetyltransferase": {
+        "reactions": [
+            "(1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00196[0] + (1) cpd00047[0]"
+        ],
+        "ids": [
+            "TECRDB216"
+        ]
+    },
+    "L-erythro-3,5-diaminohexanoate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "pyrophosphate-serine phosphotransferase": {
+        "reactions": [
+            "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00054[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00738[0] + (1) cpd00738[0]"
+        ],
+        "ids": [
+            "TECRDB217"
+        ]
+    },
+    "glutamine-pyruvate aminotransaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3-hydroxybenzyl-alcohol dehydrogenase": {
+        "reactions": [
+            "(1) cpd02129[0] + (1) cpd00006[0] <=> (1) cpd01964[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB218"
+        ]
+    },
+    "ribonuclease (unclassified)": {
+        "reactions": [],
+        "ids": []
+    },
+    "glycerol dehydrogenase (NADP+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "a,a-trehalose phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "catalase": {
+        "reactions": [
+            "(1) cpd00025[0] <=> (0.5) cpd00007[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB219"
+        ]
+    },
+    "cyclomaltodextrin glucanotransferase and a-amylase": {
+        "reactions": [
+            "(1) cpd09394[0] + (7) cpd00001[0] <=> (7) cpd19001[0]",
+            "(1) cpd24451[0] + (6) cpd00001[0] <=> (6) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB220",
+            "TECRDB221"
+        ]
+    },
+    "glucose-6-phosphate 1-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "citrate (si)-synthase": {
+        "reactions": [
+            "(1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00022[0] + (1) cpd00001[0] <=> (1) cpd00137[0] + (1) cpd22528[0]"
+        ],
+        "ids": [
+            "TECRDB222"
+        ]
+    },
+    "phosphate acetyltransferase and acetate kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "6-phosphofructokinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malyl-CoA lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "thymidylate synthase": {
+        "reactions": [
+            "(1) cpd00125[0] + (1) cpd00299[0] <=> (1) cpd00330[0] + (1) cpd00330[0] + (1) cpd00298[0]"
+        ],
+        "ids": [
+            "TECRDB223"
+        ]
+    },
+    "D-ornithine 4,5-aminomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphohydrolase (unclassified)": {
+        "reactions": [],
+        "ids": []
+    },
+    "uridine phosphorylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "3',5'-cyclic-nucleotide phosphodiesterase": {
+        "reactions": [],
+        "ids": []
+    },
+    "D-arabino-3-hexulose phosphate formaldehyde lyase": {
+        "reactions": [
+            "(1) cpd03583[0] <=> (1) cpd00171[0] + (1) cpd00055[0]"
+        ],
+        "ids": [
+            "TECRDB224"
+        ]
+    },
+    "phospho-3-hexuloisomerase": {
+        "reactions": [
+            "(1) cpd03583[0] <=> (1) cpd19035[0]"
+        ],
+        "ids": [
+            "TECRDB225"
+        ]
+    },
+    "formate C-acetyltransferase": {
+        "reactions": [
+            "(1) cpd00022[0] + (1) cpd00047[0] <=> (1) cpd22528[0] + (1) cpd00020[0]"
+        ],
+        "ids": [
+            "TECRDB226"
+        ]
+    },
+    "15-hydroxyprostaglandin dehydrogenase (NAD+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "urocanate hydratase": {
+        "reactions": [
+            "(1) cpd00581[0] + (1) cpd00001[0] <=> (1) cpd02311[0]"
+        ],
+        "ids": [
+            "TECRDB227"
+        ]
+    },
+    "ribose isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "pepsin A": {
+        "reactions": [],
+        "ids": []
+    },
+    "alkanal monooxygenase (FMN-linked)": {
+        "reactions": [],
+        "ids": []
+    },
+    "ethanolamine-phosphate cytidylyltransferase": {
+        "reactions": [
+            "(1) cpd00052[0] + (1) cpd00285[0] <=> (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00444[0]"
+        ],
+        "ids": [
+            "TECRDB228"
+        ]
+    },
+    "coniferyl-alcohol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00458[0] + (1) cpd00006[0] <=> (1) cpd01733[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB229"
+        ]
+    },
+    "penicillin amidase": {
+        "reactions": [
+            "(1) cpd03292[0] + (1) cpd00001[0] <=> (1) cpd01896[0] + (1) cpd19069[0]",
+            "(1) cpd04882[0] + (1) cpd00001[0] <=> (1) cpd01696[0] + (1) cpd04878[0]",
+            "(1) cpd03325[0] + (1) cpd00001[0] <=> (1) cpd19069[0] + (1) cpd00033[0]",
+            "(1) cpd04194[0] + (1) cpd00001[0] <=> (1) cpd01896[0] + (1) cpd26803[0]"
+        ],
+        "ids": [
+            "TECRDB230",
+            "TECRDB231",
+            "TECRDB232",
+            "TECRDB233"
+        ]
+    },
+    "cytochrome-c oxidase": {
+        "reactions": [
+            "(4) cpd00110[0] + (1) cpd00007[0] <=> (4) cpd34702[0] + (2) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB234"
+        ]
+    },
+    "fructose-biphosphatase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphomannomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "formate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00047[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd29976[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB235"
+        ]
+    },
+    "glucose oxidase and catalase": {
+        "reactions": [],
+        "ids": []
+    },
+    "tryptophan synthase": {
+        "reactions": [
+            "(1) cpd00359[0] + (1) cpd00054[0] <=> (1) cpd00065[0] + (1) cpd00001[0]",
+            "(1) cpd00054[0] <=> (1) cpd00020[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB236",
+            "TECRDB237"
+        ]
+    },
+    "NAD+ kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00003[0] <=> (1) cpd00008[0] + (1) cpd00006[0]"
+        ],
+        "ids": [
+            "TECRDB238"
+        ]
+    },
+    "urate oxidase and catalase": {
+        "reactions": [
+            "(1) cpd00300[0] + (0.5) cpd00007[0] + (2) cpd00001[0] <=> (1) cpd01092[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB239"
+        ]
+    },
+    "acetate CoA-transferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "choline-phosphate cytidylyltransferase": {
+        "reactions": [
+            "(1) cpd00052[0] + (1) cpd00457[0] <=> (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00256[0]"
+        ],
+        "ids": [
+            "TECRDB240"
+        ]
+    },
+    "succinate-CoA ligase (GDP-forming)": {
+        "reactions": [
+            "(1) cpd00038[0] + (1) cpd00036[0] + (1) cpd22528[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00078[0]"
+        ],
+        "ids": [
+            "TECRDB241"
+        ]
+    },
+    "cholesterol oxidase": {
+        "reactions": [
+            "(1) cpd00160[0] + (1) cpd00007[0] <=> (1) cpd00463[0] + (1) cpd00025[0]"
+        ],
+        "ids": [
+            "TECRDB242"
+        ]
+    },
+    "cholesterol oxidase and catalase": {
+        "reactions": [
+            "(1) cpd00160[0] + (0.5) cpd00007[0] <=> (1) cpd00463[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB243"
+        ]
+    },
+    "_-amylase": {
+        "reactions": [
+            "(1) cpd01399[0] + (1) cpd00001[0] <=> (2) cpd00179[0]"
+        ],
+        "ids": [
+            "TECRDB244"
+        ]
+    },
+    "thermolysin": {
+        "reactions": [],
+        "ids": []
+    },
+    "_-lactamase": {
+        "reactions": [],
+        "ids": []
+    },
+    "2,3-dimethylmalate lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "hydrogen dehydrogenase": {
+        "reactions": [
+            "(1) cpd11640[0] + (1) cpd00003[0] <=> (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB245"
+        ]
+    },
+    "adenosine nucleosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malate dehydrogenase and aspartate aminotransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malate dehydrogenase and aspartate transaminase": {
+        "reactions": [],
+        "ids": []
+    },
+    "aminoacylase": {
+        "reactions": [
+            "(1) cpd01756[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00060[0]",
+            "(1) cpd33748[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00035[0]",
+            "(1) cpd32466[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00156[0]",
+            "(1) cpd01756[0] + (1) cpd00001[0] <=> (1) cpd00060[0] + (1) cpd29968[0]"
+        ],
+        "ids": [
+            "TECRDB246",
+            "TECRDB247",
+            "TECRDB248",
+            "TECRDB249"
+        ]
+    },
+    "sorbitol-6-phosphate dehydrogenase (NADP+)": {
+        "reactions": [],
+        "ids": []
+    },
+    "pyrroline-5-carboxylate reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "GDP-D-mannose 3,5-epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "serine-pyruvate transaminase": {
+        "reactions": [
+            "(1) cpd00035[0] + (1) cpd00145[0] <=> (1) cpd00054[0] + (1) cpd00020[0]"
+        ],
+        "ids": [
+            "TECRDB250"
+        ]
+    },
+    "glycerol kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00100[0] <=> (1) cpd00008[0] + (1) cpd00080[0]"
+        ],
+        "ids": [
+            "TECRDB251"
+        ]
+    },
+    "hypoxanthine phosphoribosyltransferase": {
+        "reactions": [
+            "(1) cpd00126[0] + (1) cpd00226[0] <=> (1) cpd00114[0] + (1) cpd00207[0]"
+        ],
+        "ids": [
+            "TECRDB252"
+        ]
+    },
+    "lactoylglutathione lyase": {
+        "reactions": [],
+        "ids": []
+    },
+    "malate dehydrogenase (decarboxylating)": {
+        "reactions": [],
+        "ids": []
+    },
+    "formate dehydrogenase (NADP+)": {
+        "reactions": [
+            "(1) cpd00047[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd29976[0] + (1) cpd00005[0]"
+        ],
+        "ids": [
+            "TECRDB253"
+        ]
+    },
+    "dimethylmaleate hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "thiamine pyridinylase": {
+        "reactions": [],
+        "ids": []
+    },
+    "methylenetetrahydrofolate dehydrogenase (NAD+)": {
+        "reactions": [
+            "(1) cpd00125[0] + (1) cpd00003[0] <=> (1) cpd00347[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB254"
+        ]
+    },
+    "3-hydroxybutyryl-CoA dehyratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "Ca2+-transporting ATPase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00001[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB83"
+        ]
+    },
+    "glycine dehydrogenase (decarboxylating)": {
+        "reactions": [],
+        "ids": []
+    },
+    "pyrroline-2-carboxylate reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase": {
+        "reactions": [],
+        "ids": []
+    },
+    "AMP nucleosidase": {
+        "reactions": [
+            "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00128[0] + (1) cpd00101[0]"
+        ],
+        "ids": [
+            "TECRDB255"
+        ]
+    },
+    "_-galactosidase": {
+        "reactions": [
+            "(1) cpd00208[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd19001[0]",
+            "(1) cpd22252[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB256",
+            "TECRDB257"
+        ]
+    },
+    "D-octopine dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "alanopine dehydrogenase": {
+        "reactions": [
+            "(1) cpd02051[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00035[0] + (1) cpd00020[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB258"
+        ]
+    },
+    "peroxidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "R)-2-hydroxyglutarate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "DNA-directed DNA polymerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "chalcone isomerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "1-phosphatidylinositol kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "aryl-alcohol dehydrogenase": {
+        "reactions": [
+            "(1) cpd00435[0] + (1) cpd00003[0] <=> (1) cpd00225[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB25"
+        ]
+    },
+    "pantothenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "NAD+ nucleosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "guanidinoacetate kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00451[0] <=> (1) cpd00008[0] + (1) cpd02023[0]"
+        ],
+        "ids": [
+            "TECRDB259"
+        ]
+    },
+    "lombricine kinase": {
+        "reactions": [],
+        "ids": []
+    },
+    "NAD(P)+ nucleosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "a-mannosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "L-iditol 2-dehydrogenase": {
+        "reactions": [
+            "(1) cpd01307[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]",
+            "(1) cpd01066[0] + (1) cpd00003[0] <=> (1) cpd29573[0] + (1) cpd00004[0]",
+            "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]"
+        ],
+        "ids": [
+            "TECRDB260",
+            "TECRDB118",
+            "TECRDB49"
+        ]
+    },
+    "oligo-1,6-glucosidase": {
+        "reactions": [
+            "(1) cpd00217[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB168"
+        ]
+    },
+    "a-glucosidase": {
+        "reactions": [
+            "(1) cpd00179[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB166"
+        ]
+    },
+    "isochorismate synthase": {
+        "reactions": [
+            "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00658[0] + (1) cpd18037[0]",
+            "(1) cpd00216[0] + (1) cpd18037[0] + (1) cpd00013[0] <=> (1) cpd18037[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB261",
+            "TECRDB262"
+        ]
+    },
+    "retinyl-palmitate esterase": {
+        "reactions": [
+            "(1) cpd01691[0] + (1) cpd00001[0] <=> (1) cpd00365[0] + (1) cpd00214[0]"
+        ],
+        "ids": [
+            "TECRDB263"
+        ]
+    },
+    "4-aminobenzoate synthase": {
+        "reactions": [
+            "(1) cpd00216[0] + (1) cpd18037[0] + (1) cpd00013[0] <=> (1) cpd08210[0] + (1) cpd00001[0]"
+        ],
+        "ids": [
+            "TECRDB264"
+        ]
+    },
+    "purine-nucleoside phosphorylase and pyrimidine-nucleoside phosphorylase": {
+        "reactions": [
+            "(1) cpd00246[0] + (1) cpd00151[0] <=> (1) cpd33863[0] + (1) cpd00226[0]"
+        ],
+        "ids": [
+            "TECRDB265"
+        ]
+    },
+    "1-piperidine-2-carboxylate reductase": {
+        "reactions": [],
+        "ids": []
+    },
+    "phosphopentomutase": {
+        "reactions": [],
+        "ids": []
+    },
+    "5'-nucleosidase": {
+        "reactions": [
+            "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+        ],
+        "ids": [
+            "TECRDB16"
+        ]
+    },
+    "a-dextrin endo-1,6-a-glucosidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "triacylglycerol lipase": {
+        "reactions": [
+            "(1) cpd23060[0] + (1) cpd00001[0] <=> (1) cpd00536[0] + (1) cpd23058[0]",
+            "(1) cpd23060[0] + (1) cpd00001[0] <=> (1) cpd00536[0] + (1) cpd23058[0]"
+        ],
+        "ids": [
+            "TECRDB266",
+            "TECRDB266"
+        ]
+    },
+    "D-(-)-phenylglycyl-_-lactamide amidohydrolase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glucose oxidase": {
+        "reactions": [],
+        "ids": []
+    },
+    "sinapate 1-glucosyltransferase": {
+        "reactions": [
+            "(1) cpd00026[0] + (1) cpd00373[0] <=> (1) cpd00014[0] + (1) cpd01867[0]"
+        ],
+        "ids": [
+            "TECRDB267"
+        ]
+    },
+    "2-arylpropionyl-CoA epimerase": {
+        "reactions": [],
+        "ids": []
+    },
+    "arginase": {
+        "reactions": [
+            "(1) cpd00051[0] + (1) cpd00001[0] <=> (1) cpd00064[0] + (1) cpd00073[0]"
+        ],
+        "ids": [
+            "TECRDB268"
+        ]
+    },
+    "arginine deiminase": {
+        "reactions": [
+            "(1) cpd00051[0] + (1) cpd00001[0] <=> (1) cpd00274[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB269"
+        ]
+    },
+    "maleate hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "R)-2-methylmalate dehydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "glutathione transferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "serine acetyltransferase": {
+        "reactions": [
+            "(1) cpd00022[0] + (1) cpd00054[0] <=> (1) cpd22528[0] + (1) cpd00722[0]"
+        ],
+        "ids": [
+            "TECRDB270"
+        ]
+    },
+    "tryptophanase": {
+        "reactions": [
+            "(1) cpd00065[0] + (1) cpd00001[0] <=> (1) cpd00359[0] + (1) cpd00020[0] + (1) cpd00013[0]"
+        ],
+        "ids": [
+            "TECRDB271"
+        ]
+    },
+    "UDP-N-acetylglucosamine 1-carboxyvinyltransferase": {
+        "reactions": [],
+        "ids": []
+    },
+    "a-chymotrypsin": {
+        "reactions": [],
+        "ids": []
+    },
+    "UDPhexose synthase": {
+        "reactions": [],
+        "ids": []
+    },
+    "triacyglycerol lipase": {
+        "reactions": [],
+        "ids": []
+    },
+    "tannase": {
+        "reactions": [],
+        "ids": []
+    },
+    "chorismate mutase": {
+        "reactions": [
+            "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00219[0]"
+        ],
+        "ids": [
+            "TECRDB272"
+        ]
+    },
+    "cyclomaltodextrin glucanotransferase and glucan 1,4-a-glucosidase": {
+        "reactions": [
+            "(1) cpd24451[0] + (6) cpd00001[0] <=> (6) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB221"
+        ]
+    },
+    "a-amylase and glucan 1,4-a-glucosidase": {
+        "reactions": [
+            "(1) cpd09394[0] + (7) cpd00001[0] <=> (7) cpd19001[0]"
+        ],
+        "ids": [
+            "TECRDB220"
+        ]
+    },
+    "polyamine aminotransferase": {
+        "reactions": [
+            "(1) cpd00035[0] + (1) cpd01504[0] <=> (1) cpd00020[0] + (1) cpd00726[0]"
+        ],
+        "ids": [
+            "TECRDB273"
+        ]
+    },
+    "chloine kinase": {
+        "reactions": [
+            "(1) cpd00002[0] + (1) cpd00098[0] <=> (1) cpd00008[0] + (1) cpd00457[0] + (1) cpd00457[0]"
+        ],
+        "ids": [
+            "TECRDB274"
+        ]
+    },
+    "cyclohexa-1,5-diene-1-carboxyl-CoA (dienoyl-CoA) hydratase": {
+        "reactions": [],
+        "ids": []
+    },
+    "chorismate lyase": {
+        "reactions": [
+            "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00136[0] + (1) cpd00020[0]"
+        ],
+        "ids": [
+            "TECRDB275"
+        ]
+    },
+    "tyrosine aminotransferase": {
+        "reactions": [
+            "(1) cpd00066[0] + (1) cpd00024[0] <=> (1) cpd00143[0] + (1) cpd30003[0] + (1) cpd00023[0]",
+            "(1) cpd00069[0] + (1) cpd00024[0] <=> (1) cpd00868[0] + (1) cpd00023[0]"
+        ],
+        "ids": [
+            "TECRDB276",
+            "TECRDB277"
+        ]
+    },
+    "dihydrooratate dehydrogenase": {
+        "reactions": [],
+        "ids": []
+    },
+    "prephenate dehydratase": {
+        "reactions": [
+            "(1) cpd00219[0] <=> (1) cpd00143[0] + (1) cpd30003[0] + (1) cpd00001[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB278"
+        ]
+    },
+    "prephenate dehydrogenase": {
+        "reactions": [
+            "(1) cpd00219[0] + (1) cpd00003[0] <=> (1) cpd00868[0] + (1) cpd00004[0] + (1) cpd29976[0]"
+        ],
+        "ids": [
+            "TECRDB279"
+        ]
+    }
+}

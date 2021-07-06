@@ -1,0 +1,4166 @@
+{
+    "aspartate ammonia-lyase": {
+        "unique reactions": [
+            " L-aspartate(aq) = fumarate(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.016874999999999998,
+        "average enthalpy": 24.049999999999997,
+        "average temperature kelvin": 304.7378787878786,
+        "average pH": 7.138125000000001
+    },
+    "fumarate hydratase": {
+        "unique reactions": [
+            " fumarate(aq) + H2O(l) = (S)-malate(aq)"
+        ],
+        "average keq": 4.761100000000001,
+        "average enthalpy": -16.573846153846155,
+        "average temperature kelvin": 299.1120353982303,
+        "average pH": 6.945045045045048
+    },
+    "phosphopyruvate hydratase": {
+        "unique reactions": [
+            " 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l)"
+        ],
+        "average keq": 1.64875,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.90000000000003,
+        "average pH": 7.22
+    },
+    "fructose-biphosphate aldolase and triose-phosphate isomerase": {
+        "unique reactions": [
+            " D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)"
+        ],
+        "average keq": 0.17673182926829273,
+        "average enthalpy": 61.0,
+        "average temperature kelvin": 303.4058139534881,
+        "average pH": 7.146341463414634
+    },
+    "triose-phosphate isomerase and fructose-bisphosphate aldolase": {
+        "unique reactions": [
+            " D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)"
+        ],
+        "average keq": 0.17673182926829273,
+        "average enthalpy": 61.0,
+        "average temperature kelvin": 303.4058139534881,
+        "average pH": 7.146341463414634
+    },
+    "phosphoglycerate mutase": {
+        "unique reactions": [
+            " 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq)"
+        ],
+        "average keq": 7.867391304347828,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.64999999999975,
+        "average pH": 6.346857142857142
+    },
+    "alkaline phosphatase": {
+        "unique reactions": [
+            " phospho-L-arginine(aq) + H2O(l) = L-arginine(aq) + orthophosphate(aq)",
+            " phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq)",
+            " (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq)",
+            " phosphoenolpyruvate(aq) + H2O(l) = pyruvate(aq) + orthophosphate(aq)",
+            " D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 1-phosphate(aq) + orthophosphate(aq)",
+            " D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + orthophosphate(aq)",
+            " D-fructose 1-phosphate(aq) + H2O(l) = D-fructose(aq) + orthophosphate(aq)",
+            " D-fructose 6-phosphate(aq) + H2O(l) = D-fructose(aq) + orthophosphate(aq)",
+            " D-galactose 6-phosphate(aq) + H2O(l) = D-galactose(aq) + orthophosphate(aq)",
+            " D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq)",
+            " L-\u00ce\u00b1-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq)",
+            " D-mannose 6-phosphate(aq) + H2O(l) = D-mannose(aq) + orthophosphate(aq)",
+            " 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq)",
+            " N-acetylethanolamine phosphate(aq) + H2O(l) = N-acetylethanolamine(aq) + orthophosphate(aq)",
+            " phosphoguanidinoacetate(aq) + H2O(l) = guanidinoacetate(aq) + orthophosphate(aq)",
+            " phosphotaurocyamine(aq) + H2O(l) = taurocyamine(aq) + orthophosphate(aq)",
+            " pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq)",
+            " ADP3-(aq) + H2O(l) = AMP2--(aq) + HPO42-(aq) + H+(aq)",
+            " AMP2--(aq) + H2O(l) = adenosine(aq) + HPO42-(aq)",
+            " acetyl phosphate2-(aq) + H2O(l) = acetate-(aq) + HPO42-(aq)",
+            " D-glucose 6-phosphate2-(aq) + H2O(l) = D-glucose(aq) + HPO42-(aq)",
+            " phosphoenolpyruvate3-(aq) + H2O(l) = pyruvate-(aq) + HPO42-(aq)",
+            " 3-hydroxypropyl phosphate(aq) + H2O(l) = 1,3-propanediol(aq) + orthophosphate(aq)",
+            " methyl \u00ce\u00b1-D-glucopyranoside 6-phosphate(aq) + H2O(l) = methyl \u00ce\u00b1-D-glucopyranose(aq) + orthophosphate(aq)",
+            " methyl \u00ce\u00b2-D-ribofuranoside 5-phosphate(aq) + H2O(l) = methyl \u00ce\u00b2-D-ribofuranose + orthophosphate(aq)",
+            " monoethyl phosphate(aq) + H2O(l) = ethanol(aq) + orthophosphate(aq)",
+            " phosphorylcholine(aq) + H2O(l) = choline(aq) + orthophosphate(aq)",
+            " 4-nitrophenyl phenylphosphonate(aq) + H2O(l) = 4-nitrophenol(aq) + phenylphosphonate(aq)",
+            " GDP(aq) + 2 H2O(l) = guanosine(aq) + 2 orthophosphate(aq)",
+            " GMP(aq) + H2O(l) = guanosine(aq) + orthophosphate(aq)",
+            " GTP(aq) + 3 H2O(l) = guanosine(aq) + 3 orthophosphate(aq)",
+            " 1-naphthyl phosphate(aq) + H2O(l) = 1-naphthol(aq) + orthophosphate(aq)",
+            " phenyl phosphate(aq) + H2O(l) = phenol(aq) + orthophosphate(aq)",
+            " D-ribose 5-phosphate(aq) + H2O(l) = D-ribose(aq) + orthophosphate(aq)",
+            " D-ribulose 5-phosphate(aq) + H2O(l) = D-ribulose(aq) + orthophosphate(aq)",
+            " ethylene glycol phosphate(aq) + H2O(l) = ethylene glycol(aq) + orthophosphate(aq)",
+            " AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq)",
+            " IMP(aq) + H2O(l) = inosine(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 785.118811881188,
+        "average enthalpy": -14.695955056179773,
+        "average temperature kelvin": 306.4395833333343,
+        "average pH": 7.794010989010984
+    },
+    "alcohol dehydrogenase": {
+        "unique reactions": [
+            " ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq)",
+            " ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq)",
+            " vitamin A alcohol(aq) + NAD(aq) = vitamin A aldehyde(aq) + NADH(aq)",
+            " 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq)",
+            " ethanol(aq) + AP-NAD(aq) = acetaldehyde(aq) + AP-NADH(aq)",
+            " cyclohexanol(aq) + NAD(aq) = cyclohexanone(aq) + NADH(aq)",
+            " 1-hexanol(aq) + NAD(aq) = hexanal(aq) + NADH(aq)",
+            " cis-3-hexene-1-ol(aq) + NAD(aq) = cis-3-hexenal(aq) + NADH(aq)",
+            " 1-nonanol(aq) + NAD(aq) = nonanal(aq) + NADH(aq)",
+            " 1-octanol(aq) + NAD(aq) = octanal(aq) + NADH(aq)",
+            " 1-butanol(aq) + NAD(aq) = butanal(aq) + NADH(aq)",
+            " trans-2-hexene-1-ol(aq) + NAD(aq) = trans-2-hexenal(aq) + NADH(aq)",
+            " benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq)",
+            " 1-propanol(aq) + NAD(aq) = propanal(aq) + NADH(aq)"
+        ],
+        "average keq": 1.4227630802721085,
+        "average enthalpy": 50.275,
+        "average temperature kelvin": 298.49966887417276,
+        "average pH": 7.8692251655629075
+    },
+    "creatine kinase": {
+        "unique reactions": [
+            " ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq)",
+            " phosphocreatine(aq) + cyclocreatine(aq) = creatine(aq) + phosphocyclocreatine(aq)",
+            " ATP-\u00ce\u00b2-S(aq) + creatine(aq) = ADP-\u00ce\u00b2-S(aq) + phosphocreatine(aq)",
+            " adenosine 5'-(\u00ce\u00b1,\u00ce\u00b2-methylene)triphosphate(aq) + creatine(aq) = adenosine 5'-(\u00ce\u00b1,\u00ce\u00b2-methylene)diphosphate(aq) + phosphocreatine(aq)",
+            " phosphocreatine(aq) + \u00ce\u00b2-guanadinopropionate(aq) = creatine(aq) + phospho-\u00ce\u00b2-guanadinopropionate(aq)",
+            " ATP(aq) + cyclocreatine(aq) = ADP(aq) + phosphocyclocreatine(aq)",
+            " phosphocreatine(aq) + \u00ce\u00b2-guanidopropionate(aq) = creatine(aq) + \u00ce\u00b2-phosphoguanidopropionate(aq)"
+        ],
+        "average keq": 1.006006433566434,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.56901408450784,
+        "average pH": 7.503356643356646
+    },
+    "arginine kinase": {
+        "unique reactions": [
+            " ATP(aq) + L-arginine(aq) = ADP(aq) + N\u00cf\u2030-phospho-L-arginine(aq)",
+            " ATP-\u00ce\u00b2-S(aq) + L-arginine(aq) = ADP-\u00ce\u00b2-S(aq) + N\u00cf\u2030-phospho-L-arginine(aq)"
+        ],
+        "average keq": 3.7525846153846154,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.84230769230777,
+        "average pH": 7.6692307692307695
+    },
+    "fructose-biphosphate aldolase": {
+        "unique reactions": [
+            " methylerythrulose 1-phosphate(aq) = acetaldehyde(aq) + glycerone phosphate(aq)",
+            " D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq)",
+            " D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",
+            " 5,6-dideoxyfructose 1-phosphate(aq) = glycerone phosphate(aq) + propionaldehyde(aq)"
+        ],
+        "average keq": 2.5286085200000006,
+        "average enthalpy": -60.2,
+        "average temperature kelvin": 305.2269230769229,
+        "average pH": 7.674090909090911
+    },
+    "_-glucosidase": {
+        "unique reactions": [
+            " 1-butyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = 1-butanol(aq) + D-glucose(aq)",
+            " 2-butyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = (1)-2-butanol(aq) + D-glucose(aq)",
+            " ethyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = ethanol(aq) + D-glucose(aq)",
+            " methyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = methanol(aq) + D-glucose(aq)",
+            " 2-methyl-1-propyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = 2-methyl-1-propanol(aq) + D-glucose(aq)",
+            " 2-methyl-2-propyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = 2-methyl-2-propanol(aq) + D-glucose(aq)",
+            " 1-propyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = 1-propanol(aq) + D-glucose(aq)",
+            " 2-propyl \u00ce\u00b2-D-glucopyranoside(aq) + H2O(l) = 2-propanol(aq) + D-glucose(aq)",
+            " cellobiose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " \u00ce\u00b2-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " \u00ce\u00b1-D-melibiose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq)"
+        ],
+        "average keq": 16.724999999999998,
+        "average enthalpy": -0.25285714285714284,
+        "average temperature kelvin": 295.70666666666665,
+        "average pH": 5.65
+    },
+    "glycerol-3-phosphate dehydrogenase (NAD+)": {
+        "unique reactions": [
+            " sn-glycerol 3-phosphate(aq) + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq)",
+            " sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq)"
+        ],
+        "average keq": 3.4612569333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 297.44533333333334,
+        "average pH": 7.4399999999999995
+    },
+    "L-lactate dehydrogenase": {
+        "unique reactions": [
+            " (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq)",
+            " (S)-lactate(aq) + AP-NAD(aq)= pyruvate(aq) + AP-NADH(aq)",
+            " glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq)",
+            " 2-hydroxybutanoate(aq) + NAD(aq) = 2-oxobutanoate(aq) + NADH(aq)",
+            " 2,4-dihydroxybutanoate(aq) + NAD(aq) = 2-oxo-4-hydroxybutanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 1.9207682340909087,
+        "average enthalpy": 54.221999999999994,
+        "average temperature kelvin": 299.3540816326528,
+        "average pH": 8.026122448979592
+    },
+    "malate dehydrogenase": {
+        "unique reactions": [
+            " (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq)",
+            " meso-tartrate(aq) + NAD(aq) = (E)-dihydroxyfumarate(aq) + NADH(aq)",
+            " meso-tartrate(aq) + NAD(aq) = 2-oxo-3-hydroxysuccinate(aq) + NADH(aq)"
+        ],
+        "average keq": 1.9116399863013704,
+        "average enthalpy": 89.5,
+        "average temperature kelvin": 301.2445945945948,
+        "average pH": 7.888378378378377
+    },
+    "glutamate dehydrogenase": {
+        "unique reactions": [
+            " L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq)",
+            " L-glutamate(aq) + AP-NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + AP-NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 4.201002777777779,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.31597222222223,
+        "average pH": 7.195833333333332
+    },
+    "alanine transaminase": {
+        "unique reactions": [
+            " L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 0.891,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.90000000000003,
+        "average pH": 7.374999999999999
+    },
+    "aspartate transaminase": {
+        "unique reactions": [
+            " L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq)",
+            " erythro-3-hydroxyaspartate(aq) + 2-oxoglutarate(aq) = 2-oxo-3-hydroxybutanedioic acid(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 1.0786153846153848,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.45769230769235,
+        "average pH": 7.246923076923076
+    },
+    "phosphoglucomutase": {
+        "unique reactions": [
+            " \u00ce\u00b1-D-glucose 1-phosphate(aq) =\u00ce\u00b1-D-glucose 6-phosphate(aq)",
+            " D-glucosamine 6-phosphate(aq) = D-glucosamine 1-phosphate(aq)",
+            " \u00ce\u00b1-D-glucose 1-phosphate(aq) = \u00ce\u00b1-D-glucose 6-phosphate(aq)",
+            " D-fructose 6-phosphate(aq) + \u00ce\u00b1-D-glucose 1,6-diphosphate(aq) = \u00ce\u00b1-D-glucose 6-phosphate(aq) + D-fructose 1,6-bisphosphate(aq)",
+            " 6-thioglucose 6-phosphate(aq) = 6-thioglucose 1-phosphate(aq)"
+        ],
+        "average keq": 15.058333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.9833333333334,
+        "average pH": 7.530000000000001
+    },
+    "sucrose phosphorylase": {
+        "unique reactions": [
+            " sucrose(aq) + orthophosphate(aq) = \u00ce\u00b1-D-glucose 1-phosphate(aq) + D-fructose(aq)"
+        ],
+        "average keq": 19.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.15,
+        "average pH": 6.85
+    },
+    "adenylate kinase": {
+        "unique reactions": [
+            " 2 ADP(aq) = AMP(aq) + ATP(aq)",
+            " 2 dADP(aq) = dAMP(aq) + dATP(aq)",
+            " ADP(aq) + ADP-N1-oxide(aq) = ATP-N1-oxide(aq) + AMP(aq)",
+            " ATP(aq) + ADP(aq) = adenosine 5'-tetraphosphate(aq) + AMP(aq)"
+        ],
+        "average keq": 0.7104010152284261,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.9106598984781,
+        "average pH": 7.195128205128208
+    },
+    "aconitate hydratase": {
+        "unique reactions": [
+            " citrate(aq) = cis-aconitate(aq) + H2O(l)",
+            " isocitrate(aq) = cis-aconitate(aq) + H2O(l)",
+            " isocitrate(aq) = citrate(aq)"
+        ],
+        "average keq": 19.985929824561403,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.37807017543844,
+        "average pH": 7.069298245614032
+    },
+    "triose-phosphate isomerase": {
+        "unique reactions": [
+            " D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq)"
+        ],
+        "average keq": 19.058823529411764,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.50294117647053,
+        "average pH": 7.470588235294114
+    },
+    "acetate kinase": {
+        "unique reactions": [
+            " ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq)"
+        ],
+        "average keq": 0.006352272727272728,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.8772727272726,
+        "average pH": 7.352380952380956
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase": {
+        "unique reactions": [
+            " D-glyceraldehyde 3-phosphate(aq) + orthophosphate(aq) + NAD(aq) = 3-phospho-D-glyceroyl phosphate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (aminomethyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-aminomethyl)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (chloroethyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-chloroethyl)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (chloromethyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-chloromethyl)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (ethyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-ethyl)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (methoxy)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-methoxy)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + (methyl)phosphonate(aq) + NAD(aq) = (3-phospho-D-glycerol-methyl)phosphonate(aq) + NADH(aq)",
+            " D-glyceraldehyde 3-phosphate(aq) + phosphonate(aq) + NAD(aq) = (3-phospho-D-glyceroyl)phosphonate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.8466476190476193,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.81666666666644,
+        "average pH": 7.377142857142861
+    },
+    "acid phosphatase": {
+        "unique reactions": [
+            " AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq)",
+            " ATP(aq) + 3 H2O(l) = adenosine(aq) + 3 orthophosphate(aq)",
+            " L-\u00ce\u00b1-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq)",
+            " D-fructose 1-phosphate(aq) + H2O(l) = D-fructose(aq) + orthophosphate(aq)",
+            " D-fructose 6-phosphate(aq) + H2O(l) = D-fructose(aq) + orthophosphate(aq)",
+            " D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 1-phosphate(aq) + orthophosphate(aq)",
+            " D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + orthophosphate(aq)",
+            " acetyl phosphate(aq) + H2O(l) = acetate(aq) + orthophosphate(aq)",
+            " 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 68.69999999999999,
+        "average enthalpy": -27.549285714285713,
+        "average temperature kelvin": 300.2499999999999,
+        "average pH": 4.96391304347826
+    },
+    "phosphoglycerate kinase": {
+        "unique reactions": [
+            " ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq)",
+            " ATP-\u00ce\u00b2-S(aq) + 3-phospho-D-glycerate(aq) = ADP-\u00ce\u00b2-S(aq) + 3-phospho-D-glyceroyl phosphate(aq)"
+        ],
+        "average keq": 0.3483032173913043,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.71521739130424,
+        "average pH": 7.091304347826087
+    },
+    "nicotinamide-nucleotide adenylyltransferase": {
+        "unique reactions": [
+            " ATP(aq) + \u00ce\u00b2-nicotinamide mononucleotide(aq) = NAD(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.42500000000000004,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.4
+    },
+    "isocitrate dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.7585999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.140000000000001
+    },
+    "acetylcholinesterase": {
+        "unique reactions": [
+            " acetylcholine(aq) + H2O(l) = acetate(aq) + choline(aq)",
+            " propionylcholine(aq) + H2O(l) = propionate(aq) + choline(aq)"
+        ],
+        "average keq": 1086.6,
+        "average enthalpy": -3.252,
+        "average temperature kelvin": 298.55000000000007,
+        "average pH": 6.133333333333334
+    },
+    "pyruvate kinase": {
+        "unique reactions": [
+            " ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq)"
+        ],
+        "average keq": 0.001214888888888889,
+        "average enthalpy": -30.862499999999997,
+        "average temperature kelvin": 301.0346153846152,
+        "average pH": 8.2172
+    },
+    "purine-nucleoside phosphorylase": {
+        "unique reactions": [
+            " 2'-deoxyinosine(aq) + orthophosphate(aq) = hypoxanthine(aq) + 2-deoxy-\u00ce\u00b1-D-ribose 1-phosphate(aq)",
+            " nicotinamide(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq) = nicotinamide riboside(aq) + orthophosphate(aq)",
+            " inosine(aq) + orthophosphate(aq) = hypoxanthine(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)",
+            " adenosine(aq) + orthophosphate(aq) = adenine(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)",
+            " guanosine(aq) + orthophosphate(aq) = guanine(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)",
+            " xanthosine(aq) + orthophosphate(aq) = xanthine(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)"
+        ],
+        "average keq": 0.03134846153846154,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.53461538461545,
+        "average pH": 7.269230769230769
+    },
+    "cyclomaltodextrin glucanotransferase": {
+        "unique reactions": [
+            " Gu(aq) = cyclomaltohexaose(aq) + G(u-6)(aq)",
+            " Gv(aq) = cyclomaltoheptaose(aq) + G(v-7)(aq)",
+            " Gw(aq) = cyclomaltooctaose(aq) + G(w-8)(aq)"
+        ],
+        "average keq": 0.02206666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 320.375,
+        "average pH": 6.0249999999999995
+    },
+    "mannose-6-phosphate isomerase": {
+        "unique reactions": [
+            " D-mannose 6-phosphate(aq) = D-fructose 6-phosphate(aq)"
+        ],
+        "average keq": 1.33,
+        "average enthalpy": 8.585,
+        "average temperature kelvin": 303.1816666666667,
+        "average pH": 7.883333333333333
+    },
+    "glucose-6-phosphate isomerase": {
+        "unique reactions": [
+            " D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq)",
+            " 6-amino-D-glucose 6-phosphate(aq) = 6-amino-D-fructose 6-phosphate(aq)"
+        ],
+        "average keq": 0.3252083333333333,
+        "average enthalpy": 11.852500000000001,
+        "average temperature kelvin": 300.8607142857142,
+        "average pH": 8.354464285714283
+    },
+    "L-iditol dehydrogenase": {
+        "unique reactions": [
+            " D-sorbitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " D-mannitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq)",
+            " xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq)",
+            " galactitol(aq) + NAD(aq) = D-tagatose(aq) + NADH(aq)"
+        ],
+        "average keq": 0.27854999999999996,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 296.52500000000003,
+        "average pH": 8.0
+    },
+    "chymotrypsin": {
+        "unique reactions": [
+            " N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + glycinamide(aq)",
+            " N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq)",
+            " N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq)",
+            " N-benzoyl-L-tyrosylglycinanilide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + glycylanalide(aq)",
+            " N-acetyl-L-tyrosine hydroxamic acid(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + hydroxylamine(aq)",
+            " N-acetyl-L-tryptophan ethyl ester(aq) + H2O(l) = N-acetyl-L-tryptophan(aq) + ethanol(aq)",
+            " N-acetyl-L-phenylalanine methyl ester(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + methanol(aq)",
+            " N-acetyl-L-phenylalanylglycinamide(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + glycinamide(aq)",
+            " N-acetyl-L-tyrosine ethyl ester(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + ethanol(aq)",
+            " 3-(2-furyl)acryloylimidazole(aq) + H2O(l) = furylacrylic acid(aq) + imidazole(aq)",
+            " N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln)",
+            " 2-propylhippurate(aq) + H2O(l) = 2-propanol(aq) + hippurate(aq)",
+            " N-acetyl-L-phenylalanine ethyl ester(aq) + H2O(l) =  N-acetyl-L-phenylalanine(aq) + ethanol(aq)"
+        ],
+        "average keq": 29.300391304347826,
+        "average enthalpy": -21.185925925925922,
+        "average temperature kelvin": 297.5982758620688,
+        "average pH": 6.758333333333334
+    },
+    "alanine racemase": {
+        "unique reactions": [
+            " L-alanine(aq) = D-alanine(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 309.4,
+        "average pH": 8.175
+    },
+    "_-fructofuranosidase": {
+        "unique reactions": [
+            " sucrose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq)",
+            " raffinose(aq) + H2O(l) = \u00ce\u00b1-D-melibiose(aq) + D-fructose(aq)",
+            " stachyose(aq) + H2O(l) = D-fructose(aq) + O-\u00ce\u00b1-D-galactopyranosyl-(1->6)-O-\u00ce\u00b1-D-galactopyranosyl-(1->6)-\u00ce\u00b1-D-glucopyranose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -14.660125,
+        "average temperature kelvin": 303.27500000000003,
+        "average pH": 5.4625
+    },
+    "urease": {
+        "unique reactions": [
+            " urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq)",
+            " ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 1478.0,
+        "average enthalpy": -36.552,
+        "average temperature kelvin": 299.18333333333317,
+        "average pH": 6.917586206896553
+    },
+    "carboxypeptidase A": {
+        "unique reactions": [
+            " benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq)",
+            " benzyloxycarbonylglycyl-L-leucine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-leucine(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -9.532857142857143,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.093571428571429
+    },
+    "maltose phosphorylase": {
+        "unique reactions": [
+            " maltose(aq) + orthophosphate(aq) = D-glucose(aq) + \u00ce\u00b2-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 0.23,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "UDPglucose 4-epimerase and UDPglucose-hexose 1-phosphate uridylyltransferase": {
+        "unique reactions": [
+            " \u00ce\u00b1-D-galactose 1-phosphate(aq) = \u00ce\u00b1-D-glucose 1-phosphate(aq)",
+            " \u00ce\u00b1-D-galactose 1-phosphate(aq) =\u00ce\u00b1-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 3.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.15,
+        "average pH": 7.25
+    },
+    "UDPglucose-hexose 1-phosphate uridylyltransferase and UDPglucose 4-epimerase": {
+        "unique reactions": [
+            " \u00ce\u00b1-D-galactose 1-phosphate(aq) = \u00ce\u00b1-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 3.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.4
+    },
+    "glutamate racemase": {
+        "unique reactions": [
+            " L-glutamate(aq) = D-glutamate(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.8
+    },
+    "inorganic pyrophosphatase": {
+        "unique reactions": [
+            " pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq)"
+        ],
+        "average keq": 1180.35,
+        "average enthalpy": -37.4,
+        "average temperature kelvin": 305.5785714285713,
+        "average pH": 7.200000000000001
+    },
+    "nucleotide pyrophosphatase": {
+        "unique reactions": [
+            " NAD(aq) + H2O(l) = \u00ce\u00b2-nicotinamide mononucleotide(aq) + AMP(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -54.6,
+        "average temperature kelvin": 306.15,
+        "average pH": 7.0
+    },
+    "phosphate acetyltransferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + orthophosphate(aq) = CoA(aq) + acetyl phosphate(aq)",
+            " formyl-CoA(aq) + orthophosphate(aq) =  CoA(aq) + formyl phosphate(aq)"
+        ],
+        "average keq": 0.026537500000000002,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.40000000000003,
+        "average pH": 7.4750000000000005
+    },
+    "citrate (si)-synthase and malate dehydrogenase": {
+        "unique reactions": [
+            " (S)-malate(aq) + acetyl-CoA(aq) + NAD(aq) + H2O(l) = citrate(aq) + CoA(aq) + NADH(aq)"
+        ],
+        "average keq": 1264.2559999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 295.15,
+        "average pH": 7.589999999999999
+    },
+    "malate dehydrogenase and citrate (si)-synthase": {
+        "unique reactions": [
+            " (S)-malate(aq) + acetyl-CoA(aq) + NAD(aq) + H2O(l) = citrate(aq) + CoA(aq) + NADH(aq)"
+        ],
+        "average keq": 1264.2559999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 295.15,
+        "average pH": 7.589999999999999
+    },
+    "glucose dehydrogenase": {
+        "unique reactions": [
+            " \u00ce\u00b2-D-glucose(aq) + NAD(aq) = D-glucono-1,5-lactone(aq) + NADH(aq)"
+        ],
+        "average keq": 9.05,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.65,
+        "average pH": 6.85
+    },
+    "acetaldehyde dehydrogenase (acetylating)": {
+        "unique reactions": [
+            " acetaldehyde(aq) + CoA(aq) + NAD(aq) = acetyl-CoA(aq) + NADH(aq)"
+        ],
+        "average keq": 4650.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4975
+    },
+    "arabinose isomerase": {
+        "unique reactions": [
+            " D-arabinose(aq) = D-ribulose(aq)",
+            " L-fucose(aq) = L-fuculose(aq)"
+        ],
+        "average keq": 0.182,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 325.97499999999997,
+        "average pH": 7.485714285714286
+    },
+    "malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)": {
+        "unique reactions": [
+            " (S)-malate(aq) + NADP(aq) + H2O(l) = pyruvate(aq) + NADPH(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.039099999999999996,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.4583333333333,
+        "average pH": 7.1000000000000005
+    },
+    "xylose isomerase": {
+        "unique reactions": [
+            " D-xylose(aq) = D-xylulose(aq)",
+            " D-glucose(aq) = D-fructose(aq)",
+            " D-psicose(aq) = \u00ce\u00b2-D-allose(aq)",
+            " D-psicose(aq) = D-altrose(aq)"
+        ],
+        "average keq": 0.9652500000000002,
+        "average enthalpy": 11.576666666666668,
+        "average temperature kelvin": 331.1929752066119,
+        "average pH": 7.310743801652895
+    },
+    "acetate-CoA ligase": {
+        "unique reactions": [
+            " ATP(aq) + acetate(aq) + CoA(aq) = AMP(aq) + diphosphate(aq) + acetyl-CoA(aq)",
+            " ATP(aq) + propanoate(aq) + CoA(aq) = AMP(aq) + diphosphate(aq) + propanonyl-CoA(aq)"
+        ],
+        "average keq": 9.842307692307688,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 309.12435897435876,
+        "average pH": 7.186666666666666
+    },
+    "NAD(P)+ transhydrogenase": {
+        "unique reactions": [
+            " NAD(aq) + NADPH(aq) = NADH(aq) + NADP(aq)"
+        ],
+        "average keq": 1.4400000000000002,
+        "average enthalpy": -4.1,
+        "average temperature kelvin": 307.15,
+        "average pH": 6.75
+    },
+    "3-hydroxybutyrate dehydrogenase": {
+        "unique reactions": [
+            " (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.22149375,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.275,
+        "average pH": 7.655000000000001
+    },
+    "acetyl-CoA C-acetyltransferase": {
+        "unique reactions": [
+            " 2 acetyl-CoA(aq) = CoA(aq) + acetoacetyl-CoA(aq)"
+        ],
+        "average keq": 3.3073214545454546,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 296.5136363636364,
+        "average pH": 8.045454545454545
+    },
+    "3-oxoacid CoA-transferase": {
+        "unique reactions": [
+            " succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq)"
+        ],
+        "average keq": 0.009210526315789475,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.3605263157894,
+        "average pH": 7.973684210526314
+    },
+    "butyrate-CoA ligase": {
+        "unique reactions": [
+            " ATP(aq) + heptanoate(aq) + CoA(aq) = AMP(aq) + diphosphate(aq) + n-heptanoyl-CoA(aq)"
+        ],
+        "average keq": 1.11,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 8.0
+    },
+    "trimetaphosphatase": {
+        "unique reactions": [
+            " trimetaphosphate(aq) + H2O(l) = triphosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -80.8,
+        "average temperature kelvin": 306.15,
+        "average pH": 6.95
+    },
+    "glutamate dehydrogenase (NAD(P)+)": {
+        "unique reactions": [
+            " L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq)",
+            " L-glutamate(aq) + desamino NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + desamino NADH(aq) + ammonia(aq)",
+            " L-glutamate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + ammonia(aq)",
+            " L-glutamate(aq) + AP-NAD(aq) + H2O(l) = 2-oxoglutarate(aq)+ AP-NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 4.96,
+        "average enthalpy": 58.3,
+        "average temperature kelvin": 300.79705882352937,
+        "average pH": 7.44705882352941
+    },
+    "arginosuccinate lyase": {
+        "unique reactions": [
+            " N-(L-argino)succinate(aq) = fumarate(aq) + L-arginine(aq)"
+        ],
+        "average keq": 0.0114,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.5
+    },
+    "dipeptidyl-peptidase I": {
+        "unique reactions": [
+            " glycyl-L-phenylalaninamide(aq) + H2O(l) = glycyl-L-phenylalanine(aq) + ammonia(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -26.060000000000002,
+        "average temperature kelvin": 298.15,
+        "average pH": 5.078
+    },
+    "3(or 17)_-hydroxysteroid dehydrogenase": {
+        "unique reactions": [
+            " 4-androstene-17\u00ce\u00b2-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-androstane-3\u00ce\u00b2,17\u00ce\u00b1-diol(aq) + NAD(aq) = 5\u00ce\u00b1-androstane-17\u00ce\u00b1-ol-3-one(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-pregnane-3\u00ce\u00b2,17\u00ce\u00b1,21-triol-11,20-dione(aq) + NAD(aq) = 5\u00ce\u00b1-pregnane-17\u00ce\u00b1,21-diol-3,11,20-trione(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-pregnane-3\u00ce\u00b2,17\u00ce\u00b1,21-triol-20-one(aq) + NAD(aq) = 5\u00ce\u00b1-pregnane-17\u00ce\u00b1,21-diol-3,20-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b2-pregnane-3\u00ce\u00b2,17\u00ce\u00b1,21-triol-20-one(aq) + NAD(aq) = 5\u00ce\u00b2-pregnane-17\u00ce\u00b1,21-diol-3,20-dione(aq) + NADH(aq)"
+        ],
+        "average keq": 22.17753043478261,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.236956521739,
+        "average pH": 7.739130434782608
+    },
+    "ribose-5-phosphate isomerase": {
+        "unique reactions": [
+            " D-ribose 5-phosphate(aq) = D-ribulose 5-phosphate(aq)"
+        ],
+        "average keq": 0.36684615384615377,
+        "average enthalpy": 14.0,
+        "average temperature kelvin": 302.04285714285714,
+        "average pH": 7.394285714285714
+    },
+    "nucleoside-diphosphate kinase": {
+        "unique reactions": [
+            " ATP(aq) + inosine 5'-diphosphate(aq) = ADP(aq) + inosine 5'-triphosphate(aq)",
+            " ATP(aq) + GDP(aq) = ADP(aq) + GTP(aq)"
+        ],
+        "average keq": 1.02,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.65,
+        "average pH": 6.5
+    },
+    "ketotetraose-phosphate aldolase": {
+        "unique reactions": [
+            " erythrulose 1-phosphate(aq) = formaldehyde(aq) + glycerone phosphate(aq)"
+        ],
+        "average keq": 0.00043,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.15,
+        "average pH": 7.4
+    },
+    "butyryl-CoA dehydrogenase": {
+        "unique reactions": [
+            " butanoyl-CoA(aq) + indophenol(aq) = 2-butenoyl-CoA(aq) + reduced indophenol(aq)",
+            " butanoyl-CoA(aq) + pyocyanine(aq) = 2-butenoyl-CoA(aq) + reduced pyocyanine(aq)"
+        ],
+        "average keq": 5.115,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.65,
+        "average pH": 7.1
+    },
+    "glutamate-ammonia ligase": {
+        "unique reactions": [
+            " ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq)"
+        ],
+        "average keq": 1034.4,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.45000000000005,
+        "average pH": 7.108
+    },
+    "dihydroorotase": {
+        "unique reactions": [
+            " (S)-dihydroorotate(aq) + H2O(l) = N-carbamoyl-L-aspartate(aq)"
+        ],
+        "average keq": 6.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.81666666666666,
+        "average pH": 6.7
+    },
+    "carboxymethylhydantoinase": {
+        "unique reactions": [
+            " L-5-carboxymethylhydantoin(aq) + H2O(l) = N-carbamoyl-L-aspartate(aq)"
+        ],
+        "average keq": 0.53,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": 6.1
+    },
+    "3-dehydroquinate dehydratase": {
+        "unique reactions": [
+            " 3-dehydroquinate(aq) = 3-dehydroshikimate(aq) + H2O(l)"
+        ],
+        "average keq": 15.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.15,
+        "average pH": 7.4
+    },
+    "muconate cycloisomerase": {
+        "unique reactions": [
+            " 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",
+            " (-)-4-carboxymethyl-\u00ce\u201d-\u00ce\u00b1--but-2-en-4-olide(aq) = cis-trans-hexadienedioate(aq)"
+        ],
+        "average keq": 0.7383333333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15000000000003,
+        "average pH": 7.5
+    },
+    "imidazole N-acetyltransferase and phosphate acetyltransferase": {
+        "unique reactions": [
+            " acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 0.00868,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.15,
+        "average pH": 6.81
+    },
+    "R,R)-butanediol dehydrogenase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.15,
+        "average pH": "nan"
+    },
+    "phosphoenolpyruvate carboxykinase (GTP)": {
+        "unique reactions": [
+            " ITP(aq) + oxaloacetate(aq) + H2O(l) = IDP(aq) + phosphoenolpyruvate(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 3.7275,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.4,
+        "average pH": 7.3725
+    },
+    "3-hydroxyacyl-CoA dehydrogenase": {
+        "unique reactions": [
+            " (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq)",
+            " (S)-3-hydroxyhexanoyl-CoA(aq) + NAD(aq) = 3-oxohexanoyl-CoA(aq) + NADH(aq)"
+        ],
+        "average keq": 0.18496799999999997,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 8.54
+    },
+    "aspartate-semialdehyde dehydrogenase": {
+        "unique reactions": [
+            " L-aspartate 4-semialdehyde(aq) + NADP(aq) + orthophosphate(aq) = L-4-aspartyl phosphate(aq) + NADPH(aq)",
+            " L-aspartate-4-semialdehyde(aq) + NADP(aq) + orthophosphate(aq) =  L-4-aspartyl phosphate(aq) + NADPH(aq)"
+        ],
+        "average keq": 80.13333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.033333333333334
+    },
+    "homoserine dehydrogenase": {
+        "unique reactions": [
+            " L-homoserine(aq) + NAD(aq) = L-aspartate 4-semialdehyde(aq) + NADH(aq)",
+            " L-homoserine(aq) + NADP(aq) = L-aspartate 4-semialdehyde(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.0047150000000000004,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.9
+    },
+    "aspartate kinase": {
+        "unique reactions": [
+            " ATP(aq) + L-aspartate(aq) = ADP(aq) + 4-phospho-L-aspartate(aq)"
+        ],
+        "average keq": 0.00035,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 288.15,
+        "average pH": 7.0
+    },
+    "glycerol dehydrogenase": {
+        "unique reactions": [
+            " glycerol(aq) + NAD(aq) = dihydroxyacetone(aq) + NADH(aq)"
+        ],
+        "average keq": 3.2070000000000003,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.05
+    },
+    "adenylosuccinate lyase": {
+        "unique reactions": [
+            " adenylosuccinate(aq) = fumarate(aq) + AMP(aq)",
+            " N-(5-amino-1-\u00ce\u00b2-D-ribosyl-4-imidazoyl-carbonyl)-L-aspartic acid 5'-phosphate(aq) = fumarate(aq) +  5-amino-1-\u00ce\u00b2-D-ribosyl-4-imidazolecarboxamide 5'-phosphate(aq)"
+        ],
+        "average keq": 0.006959999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.55,
+        "average pH": 6.790000000000001
+    },
+    "sucrose synthase": {
+        "unique reactions": [
+            " UDPglucose(aq) + D-fructose(aq) = UDP(aq) + sucrose(aq)",
+            " ADPglucose(aq) + D-fructose(aq) = ADP(aq) + sucrose(aq)"
+        ],
+        "average keq": 34.525,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.52500000000003,
+        "average pH": 7.6125
+    },
+    "quinate dehydrogenase": {
+        "unique reactions": [
+            " quinate(aq) + NAD(aq) = 5-dehydroquinate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.00461,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.15,
+        "average pH": 7.2
+    },
+    "shikimate dehydrogenase": {
+        "unique reactions": [
+            " shikimate(aq) + NADP(aq) = 5-dehydroshikimate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.10482,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.15,
+        "average pH": 7.460000000000001
+    },
+    "glucose-6-phosphate dehydrogenase": {
+        "unique reactions": [
+            " D-glucose 6-phosphate(aq) + NADP(aq) = D-glucono-1,5-lactone 6-phosphate(aq) + NADPH(aq)"
+        ],
+        "average keq": 18.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.9,
+        "average pH": 7.0
+    },
+    "transaldolase": {
+        "unique reactions": [
+            " sedoheptulose 7-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-erythrose 4-phosphate(aq) + D-fructose 6-phosphate(aq)",
+            " D-fructose(aq) + D-glyceraldehyde-3-phosphate(aq) = D-fructose 6-phosphate(aq) + D-glyceraldehyde(aq)",
+            "sedoheptulose 7-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-erythrose 4-phosphate(aq) + D-fructose 6-phosphate(aq)"
+        ],
+        "average keq": 0.712,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.55,
+        "average pH": 7.4
+    },
+    "D-lactate dehydrogenase": {
+        "unique reactions": [
+            " (R)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 1.4,
+        "average enthalpy": 44.4,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.15
+    },
+    "succinate-CoA ligase (ADP forming)": {
+        "unique reactions": [
+            " ATP(aq) + succinate(aq) + CoA(aq) = ADP(aq) + phosphate(aq) + succinyl-CoA(aq)"
+        ],
+        "average keq": 0.27,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.15,
+        "average pH": 7.4
+    },
+    "myosin ATPase": {
+        "unique reactions": [
+            " ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq)",
+            " ITP(aq) + H2O(l) = IDP(aq) + orthophosphate(aq)",
+            " ATP4-(aq) + H2O(l) = ADP3-(aq) + HPO42-(aq) + H+(aq)",
+            " GTP(aq) + H2O(l) = GDP(aq) + orthophosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -63.266551724137926,
+        "average temperature kelvin": 297.47758620689643,
+        "average pH": 8.139642857142857
+    },
+    "nucleoside-phosphate kinase": {
+        "unique reactions": [
+            " UTP(aq) + UMP(aq) = 2 UDP(aq)",
+            " ATP(aq) + UDP(aq) = ADP(aq) + UTP(aq)"
+        ],
+        "average keq": 1.0433333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.15,
+        "average pH": 7.833333333333333
+    },
+    "orotate phosphoribosyltransferase": {
+        "unique reactions": [
+            " orotidine 5'-phosphate(aq) + pyrophosphate(aq) = orotate(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq)",
+            " orotidine 5'-phosphate(aq) + thiopyrophosphate(aq) = orotate(aq) + phosphoribosyl-1-O-(2-thiodiphosphate)(aq)"
+        ],
+        "average keq": 5.1452,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.75,
+        "average pH": 7.88
+    },
+    "UTP-glucose-1-phosphate uridylyltransferase": {
+        "unique reactions": [
+            " UTP(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq)"
+        ],
+        "average keq": 0.3843571428571429,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.1499999999998,
+        "average pH": 7.737777777777774
+    },
+    "trypsin": {
+        "unique reactions": [
+            " (L-lysine)n(aq) + (n-1) H2O(l) = L-lysine(aq)",
+            " N\u00ce\u00b1-benzoyl-L-argininamide(aq) + H2O(l) = N\u00ce\u00b1-benzoyl-L-arginine(aq) + ammonia(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -25.901,
+        "average temperature kelvin": 298.14999999999975,
+        "average pH": 7.0715
+    },
+    "mannitol-1-phosphate dehydrogenase": {
+        "unique reactions": [
+            " D-mannitol 1-phosphate(aq) + NAD(aq) = D-fructose 6-phosphate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.0049499999999999995,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 297.15,
+        "average pH": 7.0
+    },
+    "glyoxylate reductase": {
+        "unique reactions": [
+            " (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq)",
+            " glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq)"
+        ],
+        "average keq": 3.578505439999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.14999999999986,
+        "average pH": 8.202800000000002
+    },
+    "glycine hydroxymethyltransferase": {
+        "unique reactions": [
+            " glycine(aq) + formaldehyde(aq) = L-serine(aq)",
+            " glycine(aq) + acetaldehyde(aq) = L-threonine(aq)",
+            " 5,10-methylenetetrahydrofolate(aq) + glycine(aq) + H2O(l) = tetrahydrofolate(aq) + L-serine(aq)",
+            " CH2-H4PteGlu4(aq) + glycine(aq) + H2O(l) = H4PteGlu4(aq) + L-serine(aq)"
+        ],
+        "average keq": 402.348,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15000000000003,
+        "average pH": 7.3999999999999995
+    },
+    "histidinol-phosphate transaminase": {
+        "unique reactions": [
+            " L-histidinol phosphate(aq) + 2-oxoglutarate(aq) = 3-(imidazol-4-yl)-2-oxopropyl phosphate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 25.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.1
+    },
+    "glutaminase": {
+        "unique reactions": [
+            " L-glutamine(aq) + H2O(l) = L-glutamate(aq) + ammonia(aq)",
+            " \u00ce\u00b3-/glutamohydroxamic acid(aq) + H2O(l) = L-glutamate(aq) + hydroxylamine(aq)"
+        ],
+        "average keq": 583.0,
+        "average enthalpy": -23.195,
+        "average temperature kelvin": 299.91999999999996,
+        "average pH": 5.568
+    },
+    "L-ribulose-phosphate 4-epimerase": {
+        "unique reactions": [
+            " L-ribulose 5-phosphate(aq) = D-xylulose 5-phosphate(aq)"
+        ],
+        "average keq": 1.2520000000000002,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": 7.2
+    },
+    "L-rhamnose isomerase": {
+        "unique reactions": [
+            " L-rhamnose(aq) = L-rhamnulose(aq)"
+        ],
+        "average keq": 1.125,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": 8.200000000000001
+    },
+    "dephospho-CoA kinase": {
+        "unique reactions": [
+            " ATP(aq) + 3'-dephospho-CoA(aq) = ADP(aq) + CoA(aq)"
+        ],
+        "average keq": 1.6,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.3
+    },
+    "retinal isomerase": {
+        "unique reactions": [
+            " all-trans-retinal(aq) = 11-cis-retinal(aq)"
+        ],
+        "average keq": 0.05,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 309.15,
+        "average pH": 7.0
+    },
+    "ribulose-phosphate 3-epimerase": {
+        "unique reactions": [
+            " D-ribulose 5-phosphate(aq) = D-xylulose 5-phosphate(aq)"
+        ],
+        "average keq": 1.7100000000000002,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.95,
+        "average pH": 7.4
+    },
+    "ribulose-biphosphate carboxylase": {
+        "unique reactions": [
+            " D-ribulose 1,5-biphosphate(aq) + carbon dioxide(aq) = 2 3-phospho-D-glycerate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -52.1,
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "myo-inositol 2-dehydrogenase": {
+        "unique reactions": [
+            " myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq)"
+        ],
+        "average keq": 0.006444,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.65000000000003,
+        "average pH": 8.767
+    },
+    "glucosamine-6-phosphate isomerase": {
+        "unique reactions": [
+            " D-glucosamine 6-phosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.15,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.45
+    },
+    "mannose isomerase": {
+        "unique reactions": [
+            " D-lyxose(aq) = D-xylulose(aq)",
+            " D-mannose(aq) = D-fructose(aq)",
+            " D-rhamnose(aq) = D-rhamnulose(aq)"
+        ],
+        "average keq": 2.3419999999999996,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 297.65000000000003,
+        "average pH": 7.17
+    },
+    "glycine formiminotransferase": {
+        "unique reactions": [
+            " 5-formiminotetrahydrofolate(aq) + glycine(aq) = N-formiminoglycine(aq) + tetrahydrofolate(aq)"
+        ],
+        "average keq": 4.05,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.15,
+        "average pH": 7.0
+    },
+    "glycine amidinotransferase": {
+        "unique reactions": [
+            " L-arginine(aq) + glycine(aq) = L-ornithine(aq) + guanidinoacetate(aq)"
+        ],
+        "average keq": 1.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.5
+    },
+    "phosphoacetylglucosamine mutase": {
+        "unique reactions": [
+            " N-acetyl-D-glucosamine 1-phosphate(aq) = N-acetyl-D-glucosamine 6-phosphate(aq)"
+        ],
+        "average keq": 6.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.7
+    },
+    "isocitrate lyase": {
+        "unique reactions": [
+            " isocitrate(aq) = succinate(aq) + glyoxylate(aq)"
+        ],
+        "average keq": 0.020100000000000003,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.15,
+        "average pH": 7.633333333333333
+    },
+    "citrate (pro-3S)-lyase": {
+        "unique reactions": [
+            " citrate(aq) = acetate(aq) + oxaloacetate(aq)"
+        ],
+        "average keq": 0.18256,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.02999999999986,
+        "average pH": 8.032000000000004
+    },
+    "enoyl-CoA hydratase": {
+        "unique reactions": [
+            " (3R)-3-hydroxybutanoyl-CoA(aq) = cis-but-2-enoyl-CoA(aq) + H2O(l)",
+            " (3S)-3-hydroxybutanoyl-CoA(aq) = trans-but-2-enoyl-CoA(aq) + H2O(l)",
+            " (3R)-3-hydroxyhexanoyl-CoA(aq) = cis-hex-2-enoyl-CoA(aq) + H2O(l)",
+            " (3S)-3-hydroxyhexanoyl-CoA(aq) = trans-hex-2-enoyl-CoA(aq) + H2O(l)"
+        ],
+        "average keq": 0.3325,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.5
+    },
+    "3a-hydroxysteroid dehydrogenase": {
+        "unique reactions": [
+            " 5\u00ce\u00b1-androstane-3\u00ce\u00b1-ol-17-one(aq) + NAD(aq) = 5\u00ce\u00b1-androstane-3,17-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b2-pregnane-3\u00ce\u00b1,17\u00ce\u00b1,21-triol-11,20-dione(aq) + NAD(aq) = 5\u00ce\u00b2-pregnane-17\u00ce\u00b1,21-diol-3,11,20-trione(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-androstane-3\u00ce\u00b1,17\u00ce\u00b2-diol(aq) + NAD(aq) = 5\u00ce\u00b1-androstane-17\u00ce\u00b2-ol-3-one(aq) + NADH(aq)",
+            " 5\u00ce\u00b2-androstane-3\u00ce\u00b1-ol-17-one(aq) + NAD(aq) = 5\u00ce\u00b2-androstane-3,17-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-pregnane-3\u00ce\u00b1,17\u00ce\u00b1,21-triol-20-one(aq) + NAD(aq) = 5\u00ce\u00b1-pregnane-17\u00ce\u00b1,21-diol-3,20-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b2-pregnane-3\u00ce\u00b1,17\u00ce\u00b1,21-triol-20-one(aq) + NAD(aq) = 5\u00ce\u00b2-pregnane-17\u00ce\u00b1,21-diol-3,20-dione(aq) + NADH(aq)",
+            " 5\u00ce\u00b1-androstane-3\u00ce\u00b1-ol-17-one(aq) + TNAD(aq) = 5\u00ce\u00b1-androstane-3,17-dione(aq) + TNADH(aq)"
+        ],
+        "average keq": 3.79678,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.14999999999986,
+        "average pH": 7.712000000000001
+    },
+    "thetin-homocysteine S-methyltransferase": {
+        "unique reactions": [
+            " dimethylacetothetin(aq) + L-homocysteine(aq) = S-methylthioglycolate(aq) + L-methionine(aq)",
+            " betaine(aq) + L-homocysteine(aq) = N,N-dimethylglycine(aq) + L-methionine(aq)",
+            " S-methylmethionine(aq) + L-homocysteine(aq) = 2 L-methionine(aq)",
+            " dimethylpropiothetin(aq) + L-homocysteine(aq) = S-methylpropiothetin(aq) + L-methionine(aq)",
+            " trimethylsulfonium(aq) + L-homocysteine(aq) = dimethylsulfide(aq) + L-methionine(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -44.01428571428571,
+        "average temperature kelvin": 297.7214285714286,
+        "average pH": 7.087142857142857
+    },
+    "adenine phosphoribosyltransferase": {
+        "unique reactions": [
+            " 5-amino-4-imidazolecarboxamide(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq) = 5-amino-1-\u00ce\u00b2-D-ribosyl-4-imidazolecarboxamide 5'-phosphate(aq) + pyrophosphate(aq)",
+            " adenine(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq) = AMP(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 766.5666666666666,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.4833333333333,
+        "average pH": 7.6000000000000005
+    },
+    "aryl sulfotransferase": {
+        "unique reactions": [
+            " 3,5-dinitrophenol(aq) + 3'-phosphoadenylylsulfate(aq) = 3,5-dinitrophenolsulfate(aq) + adenosine 3',5'-biphosphate(aq)",
+            " 4-nitrophenol(aq) + 3'-phosphoadenylylsulfate(aq) = 4-nitrophenol sulfate(aq) + adenosine 3',5'-biphosphate(aq)"
+        ],
+        "average keq": 15.25,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.8
+    },
+    "glycerate dehydrogenase": {
+        "unique reactions": [
+            " (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 3.975035210526317,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.5710526315787,
+        "average pH": 7.352631578947368
+    },
+    "L-xylulose reductase": {
+        "unique reactions": [
+            " xylitol(aq) + NADP(aq) = L-xylulose(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.003573,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.648000000000001
+    },
+    "UDPglucose 4-epimerase": {
+        "unique reactions": [
+            " UDPglucose(aq) = UDPgalactose(aq)",
+            " UDP-D-quinovose(aq) = UDP-D-fucose(aq)"
+        ],
+        "average keq": 0.41641666666666666,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.3166666666667,
+        "average pH": 8.516666666666667
+    },
+    "ornithine carbamoyltransferase": {
+        "unique reactions": [
+            " carbamoyl phosphate(aq) + L-ornithine(aq) = L-citrulline(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 100000.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.4
+    },
+    "hexokinase": {
+        "unique reactions": [
+            " ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq)",
+            " ATP(aq) + D-fructose(aq) = ADP(aq) + D-fructose 6-phosphate(aq)",
+            " ATP(aq) + D-mannose(aq) = ADP(aq) + D-mannose 6-phosphate(aq)",
+            " ATP(aq) + 6-amino-D-glucose(aq) = ADP(aq) + 6-amino-D-glucose 6-phosphate(aq)"
+        ],
+        "average keq": 288.5865161290323,
+        "average enthalpy": -67.81800000000003,
+        "average temperature kelvin": 300.4958024691357,
+        "average pH": 7.480987654320991
+    },
+    "3-hydroxyisobutyrate dehydrogenase": {
+        "unique reactions": [
+            " 3-hydroxy-2-methylpropanoate(aq) + NAD(aq) = 2-methyl-3-oxopropanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.05303333333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 9.0
+    },
+    "dihydrolipoamide dehydrogenase": {
+        "unique reactions": [
+            " dihydro-\u00ce\u00b1-lipoate(aq) + NAD(aq) = \u00ce\u00b1-lipoate(aq) + NADH(aq)",
+            " dihydrolipoamide(aq) + NAD(aq) = lipoamide(aq) + NADH(aq)"
+        ],
+        "average keq": 0.7899166666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.65000000000003,
+        "average pH": 7.275000000000002
+    },
+    "a,a-trehalose-phosphate synthase (UDP-forming)": {
+        "unique reactions": [
+            " UDPglucose(aq) + D-glucose 6-phosphate(aq) = UDP(aq) + \u00ce\u00b1,\u00ce\u00b1-trehalose 6-phosphate(aq)"
+        ],
+        "average keq": 40.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.1
+    },
+    "ribitol dehydrogenase": {
+        "unique reactions": [
+            " ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq)"
+        ],
+        "average keq": 0.018634,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.95,
+        "average pH": 7.779999999999999
+    },
+    "adenylosuccinate synthase": {
+        "unique reactions": [
+            " GTP(aq) + IMP(aq) + L-aspartate(aq) = GDP(aq) + phosphate(aq) + adenylosuccinate(aq)"
+        ],
+        "average keq": 2.9,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "L-arabinose isomerase": {
+        "unique reactions": [
+            " L-arabinose(aq) = L-ribulose(aq)"
+        ],
+        "average keq": 0.15333333333333335,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.4833333333333,
+        "average pH": 7.0
+    },
+    "estradiol 17_-dehydrogenase": {
+        "unique reactions": [
+            " estradiol-17\u00ce\u00b2(aq) + NAD(aq) = estrone(aq) + NADH(aq)"
+        ],
+        "average keq": 49.995000000000005,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.5
+    },
+    "cytidylate kinase": {
+        "unique reactions": [
+            " ATP(aq) + dCMP(aq) = ADP(aq) + dCDP(aq)",
+            " ATP(aq) + CMP(aq) = ADP(aq) + CDP(aq)"
+        ],
+        "average keq": 1.245,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.65,
+        "average pH": 7.5
+    },
+    "sulfate adenylyltransferase": {
+        "unique reactions": [
+            " ATP(aq) + sulfate(aq) = adenosine 5'-phosphosulfate(aq) + pyrophosphate(aq)",
+            " ATP(aq) + sulfate(aq) = adenosine 5'-phosphosulfate(aq) + pyrophosphate(aq)  This is an approximate result.",
+            " ATP(aq) + sulfate(aq) = adenosine 5'-phosphosulfate(aq) + pyrophosphate(aq) "
+        ],
+        "average keq": 3.275,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.9,
+        "average pH": 7.675
+    },
+    "sulfate adenylyltransferase and inorganic pyrophosphatase": {
+        "unique reactions": [
+            " ATP(aq) + sulfate(aq) + H2O(l) = adenylyl sulfate(aq) + 2 orthophosphate(aq)",
+            " ATP(aq) + sulfate(aq) + H2O(l) = 2 orthophosphate(aq) + adenosine 5'-phosphosulfate(aq)"
+        ],
+        "average keq": 6.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.5
+    },
+    "cellobiose phosphorylase": {
+        "unique reactions": [
+            " cellobiose(aq) + orthophosphate(aq) = D-glucose(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq)",
+            " cellotriose(aq) + orthophosphate(aq) = cellobiose(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 0.29500000000000004,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.125
+    },
+    "methylaspartate ammonia-lyase": {
+        "unique reactions": [
+            " L-threo-3-methylaspartate(aq) = 2-methylfumarate(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.272,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.8
+    },
+    "gluconate 2-dehydrogenase": {
+        "unique reactions": [
+            " D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.004456909090909091,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.15000000000003,
+        "average pH": 7.656363636363637
+    },
+    "3-hydroxypropionate dehydrogenase": {
+        "unique reactions": [
+            " 3-hydroxypropanoate(aq) + NAD(aq) = 3-oxopropanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.009,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 9.0
+    },
+    "adenosylhomocysteinase": {
+        "unique reactions": [
+            " S-adenosyl-L-homocysteine(aq) + H2O(l) = adenosine(aq) + L-homocysteine(aq)",
+            " 4',5'-anhydroadenosine(aq) + H2O(l) = adenosine(aq)"
+        ],
+        "average keq": 0.94,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.65
+    },
+    "D-xylulose reductase": {
+        "unique reactions": [
+            " allitol(aq) + NAD(aq) = D-psicose(aq) + NADH(aq)",
+            " D-glycero-D-glucoheptitol(aq) + NAD(aq) = D-sedoheptulose(aq) + NADH(aq)",
+            " L-iditol(aq) + NAD(aq) = L-sorbose(aq) + NADH(aq)",
+            " ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq)",
+            " D-sorbitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " L-threitol(aq) + NAD(aq) = L-erythrulose(aq) + NADH(aq)",
+            " xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq)"
+        ],
+        "average keq": 0.41639011764705874,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.5588235294117645
+    },
+    "asparaginase": {
+        "unique reactions": [
+            " L-asparagine(aq) + H2O(l) = L-aspartate(aq) + ammonia(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -23.896666666666665,
+        "average temperature kelvin": 297.09999999999997,
+        "average pH": 7.463333333333334
+    },
+    "4-aminobutyrate transaminase": {
+        "unique reactions": [
+            " 4-aminobutanoate(aq) + 2-oxoglutarate(aq) = 4-oxobutanoate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 0.14,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 8.1
+    },
+    "sorbitol-6-phosphate dehydrogenase": {
+        "unique reactions": [
+            " D-sorbitol 6-phosphate(aq) + NAD(aq) = D-fructose 6-phosphate(aq) + NADH(aq)"
+        ],
+        "average keq": 2.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 9.31
+    },
+    "UDP-N-acetylglucosamine pyrophosphorylase": {
+        "unique reactions": [
+            " UTP(aq) + N-acetyl-\u00ce\u00b1-D-glucosamine 1-phosphate(aq) = UDP-N-acetyl-D-glucosamine(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.4
+    },
+    "glutamate formiminotransferase": {
+        "unique reactions": [
+            " 5-formiminotetrahydrofolate(aq) + L-glutamate(aq) = N-formimino-L-glutamate(aq) + tetrahydrofolate(aq)"
+        ],
+        "average keq": 0.6950000000000001,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.15,
+        "average pH": 6.65
+    },
+    "_-alanyl-CoA ammonia lyase": {
+        "unique reactions": [
+            " \u00ce\u00b2-alanylpantetheine(aq) = acrylylpantetheine(aq) + ammonia(aq)"
+        ],
+        "average keq": 1.22,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.5
+    },
+    "glucuronate isomerase": {
+        "unique reactions": [
+            " D-galacturonate(aq) = D-tagaturonate(aq)",
+            " D-glucuronate(aq) = D-fructuronate(aq)"
+        ],
+        "average keq": 0.8233333333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "N-acetylneuraminate lyase": {
+        "unique reactions": [
+            " N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq)",
+            " N-glycolylneuraminate(aq) = N-glycolyl-D-mannosamine(aq) + pyruvate(aq)",
+            " 2-keto-3-deoxy-D-glycero-D-galacto-nonopyranulosonate(aq) = D-mannose(aq) + pyruvate(aq)"
+        ],
+        "average keq": 0.05812153846153846,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.6692307692308,
+        "average pH": 7.438461538461539
+    },
+    "UDParabinose 4-epimerase": {
+        "unique reactions": [
+            " UDP-L-arabinose(aq) = UDP-D-xylose(aq)"
+        ],
+        "average keq": 1.0633333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.81666666666666,
+        "average pH": 8.066666666666666
+    },
+    "UDPglucuronate 4-epimerase": {
+        "unique reactions": [
+            " UDP-D-glucuronate(aq) = UDP-D-galacturonate(aq)"
+        ],
+        "average keq": 1.85,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.15,
+        "average pH": 7.5
+    },
+    "creatine kinase and myosin ATPase": {
+        "unique reactions": [
+            " phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -37.4,
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "lactaldehyde reductase (NADPH)": {
+        "unique reactions": [
+            " 1,2-propanediol(aq) + NADP(aq) = L-lactaldehyde(aq) + NADPH(aq)"
+        ],
+        "average keq": 1.50084975,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 9.225
+    },
+    "lysine racemase": {
+        "unique reactions": [
+            " L-lysine(aq) = D-lysine(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.0
+    },
+    "carbamate kinase": {
+        "unique reactions": [
+            " ATP(aq) + ammonium carbamate(aq) = ADP(aq) + carbamoyl phosphate(aq)"
+        ],
+        "average keq": 0.0345,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 290.65,
+        "average pH": 8.77
+    },
+    "methenyltetrahydrofolate cyclohydrolase": {
+        "unique reactions": [
+            " 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)"
+        ],
+        "average keq": 8.9977,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 6.107777777777778
+    },
+    "UDPglucose-hexose-1-phosphate uridylyltransferase": {
+        "unique reactions": [
+            " UDPglucose(aq) + \u00ce\u00b1-D-galactose 1-phosphate(aq) = \u00ce\u00b1-D-glucose 1-phosphate(aq) + UDPgalactose(aq)"
+        ],
+        "average keq": 1.6,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.65,
+        "average pH": 8.625
+    },
+    "sucrose-phosphate synthase": {
+        "unique reactions": [
+            " UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq)"
+        ],
+        "average keq": 487.3285714285715,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.5785714285715,
+        "average pH": 7.071428571428571
+    },
+    "4-hydroxybutyrate dehydrogenase": {
+        "unique reactions": [
+            " 4-hydroxybutanoate(aq) + NAD(aq) = 4-oxobutanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 14.45,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.57
+    },
+    "alanine dehydrogenase": {
+        "unique reactions": [
+            " L-alanine(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 2.7407748666666665,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.808666666666664
+    },
+    "deoxyribose-phosphate aldolase": {
+        "unique reactions": [
+            " 2-deoxy-D-ribose 5-phosphate(aq) = D-glyceraldehyde 3-phosphate(aq) + acetaldehyde(aq)"
+        ],
+        "average keq": 0.00024249999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.65,
+        "average pH": 6.9
+    },
+    "arginosuccinate synthase": {
+        "unique reactions": [
+            " ATP(aq) + L-citrulline(aq) + L-aspartate(aq) = AMP(aq) + diphosphate(aq) + L-arginosuccinate(aq)"
+        ],
+        "average keq": 27.52,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.075
+    },
+    "arabinose-5-phosphate isomerase": {
+        "unique reactions": [
+            " D-arabinose 5-phosphate(aq) = D-ribulose 5-phosphate(aq)"
+        ],
+        "average keq": 0.295,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "galactokinase": {
+        "unique reactions": [
+            " ATP(aq) + D-galactose(aq) = ADP(aq) + \u00ce\u00b1-D-galactose 1-phosphate(aq)"
+        ],
+        "average keq": 25.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "_-phosphoglucomutase": {
+        "unique reactions": [
+            " \u00ce\u00b2-D-glucose 1-phosphate(aq) = \u00ce\u00b2-D-glucose 6-phosphate(aq)"
+        ],
+        "average keq": 18.76666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.15,
+        "average pH": 6.833333333333333
+    },
+    "valine-tRNA ligase": {
+        "unique reactions": [
+            "ATP(aq) +L-valine(aq) +tRNAval(aq) = AMP(aq) + diphosphate(aq) + L-valyl-tRNAval(aq)"
+        ],
+        "average keq": 0.32,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "transketolase": {
+        "unique reactions": [
+            " D-fructose 6-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-erythrose 4-phosphate(aq) + D-xylulose 5-phosphate(aq)",
+            " D-fructose 6-phosphate(aq) + glycolaldehyde(aq) = L-erythrulose(aq) + D-erythrose 4-phosphate(aq)",
+            " sedoheptulose 7-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-ribose 5-phosphate(aq) + D-xylulose 5-phosphate(aq)",
+            " D-fructose 6-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-erythrose 4-phospahte(aq) + D-xylulose 5-phosphate(aq)"
+        ],
+        "average keq": 0.30326,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.35,
+        "average pH": 7.359999999999999
+    },
+    "2-hydroxy-3-oxopropionate reductase": {
+        "unique reactions": [
+            " (R)-glycerate(aq) + NAD(aq) = 2-hydroxy-3-oxopropanoate(aq) + NADH(aq)"
+        ],
+        "average keq": 2.9333333333333336,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 296.81666666666666,
+        "average pH": 7.826666666666667
+    },
+    "glucose-1-phosphate thymidylyltransferase": {
+        "unique reactions": [
+            " dTTP(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq) = dTDPglucose(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.67,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "dihydroorotate dehydrogenase": {
+        "unique reactions": [
+            " (S)-dihydroorotate(aq) + NAD(aq) = orotate(aq) + NADH(aq)",
+            " (S)-dihydroorotate(aq) + AP-NAD(aq) = orotate(aq) + AP-NADH(aq)"
+        ],
+        "average keq": 0.046701428571428574,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.15000000000003,
+        "average pH": 6.514285714285714
+    },
+    "thiamin-phosphate pyrophosphorylase": {
+        "unique reactions": [
+            " 2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate(aq) + 4-methyl-5-(2-phosphonoxyethyl)-thiazole(aq) = pyrophosphate(aq) + thiamine monophosphate(aq)"
+        ],
+        "average keq": 6.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 9.2
+    },
+    "taurocyamine kinase": {
+        "unique reactions": [
+            " ATP(aq) + taurocyamine(aq) = ADP(aq) + N\u00cf\u2030-phosphotaurocyamine(aq)"
+        ],
+        "average keq": 333333343.1766667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.81666666666666,
+        "average pH": 7.216666666666666
+    },
+    "leucyl aminopeptidase": {
+        "unique reactions": [
+            " L-tyrosylglycinamide(aq) + H2O(l) = L-tyrosine(aq) + glycinamide(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -5.3999999999999995,
+        "average temperature kelvin": 298.15,
+        "average pH": 8.266666666666666
+    },
+    "gly-X carboxypeptidase": {
+        "unique reactions": [
+            " N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq)",
+            " N-benzoyl-L-tyrosylglycine(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + glycine(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -7.5175,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.525
+    },
+    "leucine dehydrogenase": {
+        "unique reactions": [
+            " L-leucine(aq) + NAD(aq) + H2O(l) = 4-methyl-2-oxopentanoate(aq) + NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.0111,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 11.1
+    },
+    "phosphoserine phosphatase": {
+        "unique reactions": [
+            " L-O-phosphoserine(aq) + H2O(l) = L-serine(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 74.96530612244901,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.0275510204079,
+        "average pH": 7.082653061224489
+    },
+    "methylmalonyl-CoA carboxyltransferase": {
+        "unique reactions": [
+            " oxaloacetate(aq) + propanoyl-CoA(aq) = pyruvate(aq) + methylmalonyl-CoA(aq)"
+        ],
+        "average keq": 1.9,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.5
+    },
+    "guanosine phosphorylase": {
+        "unique reactions": [
+            " guanosine(aq) + orthophosphate(aq) = guanine(aq) + D-ribose 1-phosphate(aq)"
+        ],
+        "average keq": 0.019,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "2-dehydro-3-deoxyphosphogluconate aldolase": {
+        "unique reactions": [
+            " 6-phospho-2-dehydro-3-deoxy-D-gluconate(aq) = pyruvate(aq) + D-glyceraldehyde 3-phosphate(aq)"
+        ],
+        "average keq": 0.0014,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "2-dehydro-3-deoxy-6-phosphogalactonate aldolase": {
+        "unique reactions": [
+            " 2-dehydro-3-deoxy-D-galactonate 6-phosphate(aq) = pyruvate(aq) + D-glyceraldehyde 3-phosphate(aq)"
+        ],
+        "average keq": 0.0037,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.8
+    },
+    "galactose dehydrogenase": {
+        "unique reactions": [
+            " D-galactose(aq) + NAD(aq) = D-galactono-1,4-lactone(aq) + NADH(aq)"
+        ],
+        "average keq": 6590.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 276.9,
+        "average pH": 7.2250000000000005
+    },
+    "glucose-1-phosphate adenylyltransferase": {
+        "unique reactions": [
+            " ATP(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq) = ADPglucose(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 1.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.9
+    },
+    "L-fuculose-phosphate aldolase": {
+        "unique reactions": [
+            " L-fuculose 1-phosphate(aq) = glycerone phosphate(aq) + (S)-lactaldehyde(aq)"
+        ],
+        "average keq": 0.00046,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.2
+    },
+    "malate synthase": {
+        "unique reactions": [
+            " (S)-malate(aq) + CoA(aq) = acetyl-CoA(aq) + H2O(l) + glyoxylate(aq)"
+        ],
+        "average keq": 29.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.5
+    },
+    "glycine dehydrogenase": {
+        "unique reactions": [
+            " glycine(aq) + NAD(aq) + H2O(l) = glyoxylate(aq) + NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 5.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.4
+    },
+    "propanoyl-CoA carboxylase": {
+        "unique reactions": [
+            " ATP(aq) + propanoyl-CoA(aq) + carbon dioxide(aq) = ADP(aq) + phosphate(aq) + (S)-methylmalonyl-CoA(aq)"
+        ],
+        "average keq": 2.85405,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.65,
+        "average pH": 8.125
+    },
+    "_-alanine-pyruvate transaminase": {
+        "unique reactions": [
+            " L-alanine(aq) + 3-oxopropanoate(aq) = \u00ce\u00b2-alanine(aq) + pyruvate(aq)"
+        ],
+        "average keq": 0.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 8.0
+    },
+    "formate-tetrahydrofolate ligase": {
+        "unique reactions": [
+            " ATP(aq) + formate(aq) + tetrahydrofolate(aq) = ADP(aq) + phosphate(aq) + 10-formyltetrahydrofolate(aq)"
+        ],
+        "average keq": 41.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.7
+    },
+    "succinyldiaminopimelate transaminase": {
+        "unique reactions": [
+            " N-succinyl-2-L-amino-6-oxoheptanedioate(aq) + L-glutamate(aq) = N-succinyl-L-2,6-diaminoheptanedioate(aq) + 2-oxoglutarate(aq)"
+        ],
+        "average keq": 1.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "protein kinase": {
+        "unique reactions": [
+            " ATP(aq) + phosvitin(aq) = ADP(aq) + dephosvitin(aq)",
+            " ATP(aq) + lysozyme(aq) = ADP(aq) + phospholysozyme(aq)",
+            " ATP(aq) + pyruvate kinase(aq) = ADP(aq) + phosphoenolpyruvate kinase(aq)"
+        ],
+        "average keq": 28.666666666666668,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 305.4833333333333,
+        "average pH": 6.5
+    },
+    "erythrose isomerase": {
+        "unique reactions": [
+            " D-erythrose(aq) = D-erythrulose(aq)"
+        ],
+        "average keq": 2.3,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 5.8
+    },
+    "D-alanine 2-hydroxymethyltransferase": {
+        "unique reactions": [
+            " 2-hydroxymethylserine(aq) + tetrahydrofolate(aq) = 5,10-methylenetetrahydrofolate(aq) + D-serine(aq) + H2O(1)",
+            " 2-hydroxymethylserine(aq) = D-serine(aq) + formaldehyde(aq)",
+            " 2-methylserine(aq) + tetrahydrofolate(aq) = 5,10-methylenetetrahydrofolate(aq) + D-alanine(aq) + H2O(l)",
+            " 2-methylserine(aq) = D-alanine(aq) + formaldehyde(aq)"
+        ],
+        "average keq": 2.750135,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.5
+    },
+    "methylmalonyl-CoA epimerase": {
+        "unique reactions": [
+            " (R)-methylmalonyl-CoA(aq) = (S)-methylmalonyl-CoA(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.4
+    },
+    "nucleoside deoxyribosyltransferase": {
+        "unique reactions": [
+            " thymidine(aq) + adenine(aq) = 2'-deoxyadenosine(aq) + thymine(aq)",
+            " 2'-deoxyinosine(aq) + adenine(aq) = 2'-deoxyadenosine(aq) + hypoxanthine(aq)"
+        ],
+        "average keq": 8.25,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.65,
+        "average pH": 5.9
+    },
+    "chymosin": {
+        "unique reactions": [
+            " cleavage of a single bond in casein  "
+        ],
+        "average keq": "nan",
+        "average enthalpy": -10.166666666666666,
+        "average temperature kelvin": 298.15,
+        "average pH": 6.599999999999999
+    },
+    "mannitol dehydrogenase": {
+        "unique reactions": [
+            " D-mannitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " D-mannitol(aq) + NADP(aq) = D-fructose(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.07723333333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.15,
+        "average pH": 7.583333333333333
+    },
+    "carnitine O-acetyltransferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-acetylcarnitine(aq)",
+            " butyryl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-butyrylcarnitine(aq)",
+            " propionyl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-propionylcarnitine(aq)"
+        ],
+        "average keq": 1.455,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.98333333333335,
+        "average pH": 7.25
+    },
+    "dihydrofolate reductase": {
+        "unique reactions": [
+            " 5,6,7,8-tetrahydrofolate(aq) + NADP(aq) = 7,8-dihydrofolate(aq) + NADPH(aq)",
+            " 2 7,8-dihydrofolate(aq) = folate(aq) + 5,6,7,8-tetrahydrofolate(aq)"
+        ],
+        "average keq": 4.41158,
+        "average enthalpy": 52.7,
+        "average temperature kelvin": 300.77500000000003,
+        "average pH": 7.5375000000000005
+    },
+    "4-hydroxy-2-oxoglutarate aldolase": {
+        "unique reactions": [
+            " 4-hydroxy-2-oxoglutarate(aq) = pyruvate(aq) + glyoxylate(aq)"
+        ],
+        "average keq": 0.008566666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.1
+    },
+    "glutathione reductase (NAD(P)H)": {
+        "unique reactions": [
+            " 2 reduced glutathione(aq) + NADP(aq) =  oxidized glutathione(aq) + NADPH(aq)",
+            " 2 reduced glutathione(aq) + NAD(aq) =  oxidized glutathione(aq) + NADH(aq)"
+        ],
+        "average keq": 0.128955,
+        "average enthalpy": 3.6,
+        "average temperature kelvin": 299.8833333333333,
+        "average pH": 7.412666666666667
+    },
+    "D-glutamate cyclase": {
+        "unique reactions": [
+            " D-glutamate(aq) = 5-oxo-D-proline(aq) + H2O(l)",
+            " \u00ce\u00b3-fluoroglutamate(aq) = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l)",
+            " \u00ce\u00b3-fluoroglutamate(aq) = trans-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l)"
+        ],
+        "average keq": 12.834999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.51000000000005,
+        "average pH": 7.94
+    },
+    "21-hydroxysteroid dehydrogenase (NAD+)": {
+        "unique reactions": [
+            " 4-pregnene-11\u00ce\u00b2,17\u00ce\u00b1,21-triol-3,20-dione(aq) + NAD(aq) = 4-pregnene-11\u00ce\u00b2,17\u00ce\u00b1-diol-3,20,21-trione(aq) + NADH(aq)"
+        ],
+        "average keq": 3.90049,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.7
+    },
+    "gluconate 5-dehydrogenase": {
+        "unique reactions": [
+            " D-gluconate(aq) + NADP(aq) = 5-oxo-D-gluconate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.001265,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.25
+    },
+    "glyoxylate dehydrogenase (acylating)": {
+        "unique reactions": [
+            " glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq)"
+        ],
+        "average keq": 46.540000000000006,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.786000000000001
+    },
+    "4-hydroxyproline epimerase": {
+        "unique reactions": [
+            " trans-4-hydroxy-L-proline(aq) = cis-4-hydroxy-D-proline(aq)"
+        ],
+        "average keq": 0.99,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.1
+    },
+    "L-threonate dehydrogenase": {
+        "unique reactions": [
+            " L-threonate(aq) + NAD(aq) = 3-oxo-L-threonate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.0023740000000000002,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.216666666666666
+    },
+    "methylaspartate mutase": {
+        "unique reactions": [
+            " L-threo-3-methylaspartate(aq) = L-glutamate(aq)"
+        ],
+        "average keq": 10.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.2
+    },
+    "oxamate carbamoyltransferase": {
+        "unique reactions": [
+            " carbamoyl phosphate(aq) + oxamate(aq) = orthophosphate(aq) + carbamoyl oxamate(aq)"
+        ],
+        "average keq": 0.62,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.3
+    },
+    "methylmalonyl-CoA mutase": {
+        "unique reactions": [
+            " (R)-methylmalonyl-CoA(aq) = succinyl-CoA(aq)"
+        ],
+        "average keq": 20.85,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.65,
+        "average pH": 7.45
+    },
+    "tetrahydroxypteridine cycloisomerase": {
+        "unique reactions": [
+            " tetrahydroxypteridine(aq) = xanthine-8-carboxylate(aq)"
+        ],
+        "average keq": 620.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 296.15,
+        "average pH": 7.5
+    },
+    "thioredoxin reductase (NADPH)": {
+        "unique reactions": [
+            " reduced thioredoxin(aq) + NADP(aq) = oxidized thioredoxin(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.7686666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "carnitine O-palmitoyltransferase": {
+        "unique reactions": [
+            " palmitoyl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-palmitoylcarnitine(aq)"
+        ],
+        "average keq": 0.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "mannose-1-phosphate guanylyltransferase": {
+        "unique reactions": [
+            " GTP(aq) + \u00ce\u00b1-D-mannose 1-phosphate(aq) = GDPmannose(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 2.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.26
+    },
+    "D-lyxose ketol-isomerase": {
+        "unique reactions": [
+            " D-lyxose(aq) = D-xylulose(aq)"
+        ],
+        "average keq": 0.23,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "oxaloacetate tautomerase": {
+        "unique reactions": [
+            " keto-oxaloacetate(aq) = enol-oxaloacetate(aq)"
+        ],
+        "average keq": 0.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": "nan"
+    },
+    "pancreatic ribonuclease": {
+        "unique reactions": [
+            " cytidine 2':3'-(cyclic)phosphate(aq) + H2O(l) = cytidine 3'-monophosphate(aq)",
+            " uridine 2':3'-(cyclic)phosphate(aq) + H2O(l) = uridine 3'-monophosphate(aq)",
+            " guanosine 2':3'-(cyclic)phosphate(aq) + methanol(aq) = guanosine 3'-methylphosphate(aq)"
+        ],
+        "average keq": 465.2375,
+        "average enthalpy": -37.7,
+        "average temperature kelvin": 299.40000000000003,
+        "average pH": 6.25
+    },
+    "deoxy)nucleoside-phosphate kinase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.40000000000003,
+        "average pH": "nan"
+    },
+    "papain": {
+        "unique reactions": [
+            " hippurylanilide(aq) + H2O(l) = hippuric acid(aq) + aniline(aq)"
+        ],
+        "average keq": 11.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 312.15,
+        "average pH": 5.0
+    },
+    "rhamnulose-1-phosphate aldolase": {
+        "unique reactions": [
+            " L-rhamnulose 1-phosphate(aq) = glycerone phosphate(aq) + (S)-lactaldehyde(aq)"
+        ],
+        "average keq": 0.083,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "2-deoxy-D-gluconate dehydrogenase": {
+        "unique reactions": [
+            " 2-deoxy-D-gluconate(aq) + NAD(aq) = 2-deoxy-3-dehydro-D-gluconate(aq) + NADH(aq)"
+        ],
+        "average keq": 0.0034,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 9.0
+    },
+    "ureidoglycolate lyase": {
+        "unique reactions": [
+            " (-)-ureidoglycolate(aq) = glyoxylate(aq) + urea(aq)"
+        ],
+        "average keq": 0.14333333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.233333333333334
+    },
+    "N-acylglucosamine 2-epimerase": {
+        "unique reactions": [
+            " N-acetyl-D-glucosamine(aq) = N-acetyl-D-mannosamine(aq)"
+        ],
+        "average keq": 0.2305,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.15,
+        "average pH": 7.55
+    },
+    "N-acylglucosamine-6-phosphate 2-epimerase": {
+        "unique reactions": [
+            " N-acetyl-D-glucosamine 6-phosphate(aq) = N-acetyl-D-mannosamine 6-phosphate(aq)"
+        ],
+        "average keq": 0.43,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.6
+    },
+    "5,10-methylenetetrahydrofolate reductase (FADH2)": {
+        "unique reactions": [
+            " 5-methyltetrahydrofolate(aq) + flavin-adenine dinucleotide(aq) = 5,10-methylenetetrahydrofolate(aq) + reduced flavin-adenine dinucleotide(aq)"
+        ],
+        "average keq": 0.00042,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.3
+    },
+    "glucose dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " D-glucose(aq) + NADP(aq) = D-glucono-1,5-lactone(aq) + NADPH(aq)"
+        ],
+        "average keq": 2.08675,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.9,
+        "average pH": 6.5025
+    },
+    "D-alanine transaminase": {
+        "unique reactions": [
+            " D-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + D-glutamate(aq)"
+        ],
+        "average keq": 0.59,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.3
+    },
+    "glucose-1-phosphate cytidylyltransferase": {
+        "unique reactions": [
+            " CTP(aq) + D-glucose 1-phosphate(aq) = CDPglucose(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.7849999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.25
+    },
+    "glucan 1,4-a-glucosidase": {
+        "unique reactions": [
+            " maltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " phenyl \u00ce\u00b1-maltoside(aq) + H2O(l) = phenyl \u00ce\u00b1-D-glucopyranoside(aq) + D-glucose(aq)",
+            " O-\u00ce\u00b1-D-glucopyranosyl-(1->4)n(aq) + (n-1) H2O(l) = D-glucose(aq)",
+            " maltotriose(aq) + 2 H2O(l) = 3 D-glucose(aq)",
+            " isomaltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " panose(aq) + 2 H2O(l) = 3 D-glucose(aq)",
+            " isomaltotriose(aq) + 2 H2O(l) = 3 D-glucose(aq)",
+            " maltoheptaose(aq) + 6 H2O(l) = 7 D-glucose(aq)",
+            " maltohexaose(aq) + 5 H2O(l) = 6 D-glucose(aq)",
+            " maltopentaose(aq) + 4 H2O(l) = 5 D-glucose(aq)",
+            " maltotetraose(aq) + 3 H2O(l) = 4 D-glucose(aq)",
+            " 6-O-\u00ce\u00b1-D-galactopyranosyl-D-galactopyranose(aq) + H2O(l) = 2 D-galactose(aq)",
+            " 4-O-\u00ce\u00b1-D-glucopyranosyl-D-fructofuranose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq)",
+            " 3-O-\u00ce\u00b1-D-glucopyranosyl-lyxopyranose(aq) + H2O(l) = D-glucose(aq) + lyxose(aq)",
+            " \u00ce\u00b1-isomaltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " \u00ce\u00b2-isomaltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " 1-O-\u00ce\u00b1-D-mannopyranosyl-D-mannofuranose(aq) + H2O(l) = 2 D-mannose(aq)",
+            " 6-O-\u00ce\u00b1-D-mannopyranose-D-mannopyranose(aq) + H2O(l) = 2 D-mannose(aq)",
+            " \u00ce\u00b1-D-melibiose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq)",
+            " \u00ce\u00b2-D-melibiose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq)"
+        ],
+        "average keq": 142.51875,
+        "average enthalpy": -9.968571428571428,
+        "average temperature kelvin": 308.24189189189167,
+        "average pH": 4.5779411764705875
+    },
+    "isopentenyl-diphosphate ?-isomerase": {
+        "unique reactions": [
+            " isopentenyl diphosphate(aq) = dimethylallyl diphosphate(aq)"
+        ],
+        "average keq": 6.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "ornithine-oxo-acid transaminase": {
+        "unique reactions": [
+            " L-ornithine(aq) + 2-oxoglutarate(aq) = DL-\u00ce\u201d1-pyrroline-5-carboxylate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 71.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.1
+    },
+    "phosphoglycerate dehydrogenase": {
+        "unique reactions": [
+            " 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 1.970676190476191,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.62619047619035,
+        "average pH": 7.336666666666666
+    },
+    "lactate-malate transhydrogenase": {
+        "unique reactions": [
+            " (S)-lactate(aq) + oxaloacetate(aq) = (S)-malate(aq) + pyruvate(aq)"
+        ],
+        "average keq": 3.05,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.15,
+        "average pH": 7.65
+    },
+    "fructose 5-dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " D-fructose(aq) + NADP(aq) = 5-dehydro-D-fructose(aq) + NADPH(aq)"
+        ],
+        "average keq": 2.1402830000000006,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.6625
+    },
+    "glyoxylate reductase (NADP+)": {
+        "unique reactions": [
+            " glycolate(aq) + NADP(aq) = glyoxylate(aq) + NADPH(aq)"
+        ],
+        "average keq": 3.78,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.860000000000001
+    },
+    "glutathione-CoA-glutathione transhydrogenase": {
+        "unique reactions": [
+            " CoA(aq) + oxidized glutathione(aq) = CoA-glutathione(aq) + reduced glutathione(aq)"
+        ],
+        "average keq": 1.25,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.9
+    },
+    "levansucrase": {
+        "unique reactions": [
+            " sucrose(aq) + (2,6-\u00ce\u00b2-D-fructosyl)n(aq) = D-glucose(aq) + (2,6-\u00ce\u00b2-D-fructosyl)n+1(aq)"
+        ],
+        "average keq": 0.036,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.0
+    },
+    "glycine-oxaloacetate transaminase": {
+        "unique reactions": [
+            " glycine(aq) + oxaloacetate(aq) = glyoxylate(aq) + L-aspartate(aq)"
+        ],
+        "average keq": 0.016,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.1
+    },
+    "laminaribiose phosphorylase": {
+        "unique reactions": [
+            " laminaribiose(aq) + orthophosphate(aq) = D-glucose(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq)",
+            " laminaritetraose(aq) + orthophosphate(aq) = laminaritriose(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq)",
+            " laminaritriose(aq) + orthophosphate(aq) = laminaribiose(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 0.30666666666666664,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.5
+    },
+    "dTDP-4-amino-4,6-dideoxy-D-glucose transaminase": {
+        "unique reactions": [
+            " dTDP-4-amino-4,6-dideoxy-D-glucose(aq) + 2-oxoglutarate(aq) = dTDP-4-dehydro-6-deoxy-D-glucose(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 2.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "CDPabequose epimerase": {
+        "unique reactions": [
+            " CDP-3,6-dideoxy-D-glucose(aq) = CDP-3,6-dideoxy-D-mannose(aq)"
+        ],
+        "average keq": 1.3,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.4
+    },
+    "homocysteine S-methyltransferase": {
+        "unique reactions": [
+            " S-adenosyl-L-methionine(aq) + L-homocysteine(aq) = S-adenosyl-L-homocysteine(aq) + L-methionine(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -65.3,
+        "average temperature kelvin": 297.15,
+        "average pH": 7.07
+    },
+    "aldehyde reductase": {
+        "unique reactions": [
+            " xylitol(aq) + NADP(aq) = D-xylose(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.012100000000000001,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.65
+    },
+    "choline O-acetyltransferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + choline(aq) = CoA(aq) + O-acetylcholine(aq)"
+        ],
+        "average keq": 972.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.48333333333335,
+        "average pH": 7.043333333333333
+    },
+    "glutamate N-acetyltransferase": {
+        "unique reactions": [
+            " N2-acetyl-L-ornithine(aq) + L-glutamate(aq) = L-ornithine(aq) + N-acetyl-L-glutamate(aq)"
+        ],
+        "average keq": 0.47,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "3-oxoacyl-[acyl-carrier-protein] reductase": {
+        "unique reactions": [
+            " (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) + NADP(aq) = 3-oxobutanoyl-[acyl-carrier protein](aq) + NADPH(aq)"
+        ],
+        "average keq": 8.125,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "glucose-1-phosphate guanylyltransferase": {
+        "unique reactions": [
+            " GTP(aq) + \u00ce\u00b1-D-glucose 1-phosphate(aq) = GDPglucose(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.25,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.8
+    },
+    "acyl-carrier-protein] S-acetyltransferase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": "nan"
+    },
+    "acyl-carrier-protein] S-malonyltransferase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": "nan"
+    },
+    "phosphoenolpyruvate carboxykinase (diphosphate)": {
+        "unique reactions": [
+            " diphosphate(aq) + oxaloacetate(aq) + H2O(l) = phosphate(aq) + phosphoenolpyruvate(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.013,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.5
+    },
+    "citramalate lyase": {
+        "unique reactions": [
+            " (S)-2-methylmalate(aq) = acetate(aq) + pyruvate(aq)"
+        ],
+        "average keq": 1.5448333333333337,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.3999999999999995
+    },
+    "glutamate dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " L-glutamate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + ammonia(aq)"
+        ],
+        "average keq": 4.078421052631579,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 302.64736842105265,
+        "average pH": 6.949473684210526
+    },
+    "phosphoserine transaminase": {
+        "unique reactions": [
+            " 3-phosphonooxypyruvate(aq) + L-glutamate(aq) = 2-oxoglutarate(aq) + O-phospho-L-serine(aq)"
+        ],
+        "average keq": 84.91603773584906,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.9047169811318,
+        "average pH": 7.046603773584904
+    },
+    "linoleate isomerase": {
+        "unique reactions": [
+            " 9-cis,12-cis-octadecadienoate(aq) = 9-cis,11-trans-octadecadienoate(aq)"
+        ],
+        "average keq": 61.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 7.0
+    },
+    "ATP citrate(pro-3S)-lyase": {
+        "unique reactions": [
+            " ATP(aq) + citrate(aq) + CoA(aq) = ADP(aq) + phosphate(aq) + acetyl-CoA(aq) + oxaloacetate(aq)"
+        ],
+        "average keq": 1.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.1
+    },
+    "succinate dehydrogenase": {
+        "unique reactions": [
+            " 2 succinate(aq) + O2(aq) = 2 fumarate(aq) + 2 H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -72.4,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "NADH dehydrogenase": {
+        "unique reactions": [
+            " 2 NADH(aq) + O2(aq) = 2 NAD(aq) + 2 H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -516.0,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "pyrimidine-nucleoside phosphorylase": {
+        "unique reactions": [
+            " uridine(aq) + orthophosphate(aq) = uracil(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)",
+            " 5-methyluridine(aq) + orthophosphate(aq) = thymine(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)"
+        ],
+        "average keq": 0.5006666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.666666666666667
+    },
+    "amino-acid racemase": {
+        "unique reactions": [
+            " L-leucine(aq) = D-leucine(aq)",
+            " L-\u00ce\u00b1-amino-n-butyrate(aq) = D-\u00ce\u00b1-amino-n-butyrate(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.3
+    },
+    "allantoicase": {
+        "unique reactions": [
+            " allantoate(aq) + H2O(l) = (-)-ureidoglycolate(aq) + urea(aq)"
+        ],
+        "average keq": 0.21,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.5
+    },
+    "methylenetetrahydrofolate dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " 5,10-methylenetetrahydrofolate(aq) + NADP(aq) = 5,10-methenyltetrahydrofolate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.14,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.9
+    },
+    "histidine ammonia-lyase": {
+        "unique reactions": [
+            " L-histidine(aq) = urocanate(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.5348333333333334,
+        "average enthalpy": 9.34,
+        "average temperature kelvin": 304.735,
+        "average pH": 7.741000000000001
+    },
+    "adenosine deaminase": {
+        "unique reactions": [
+            " adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq)"
+        ],
+        "average keq": 1135.9333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.684
+    },
+    "carnitine dehydrogenase": {
+        "unique reactions": [
+            " L-carnitine(aq) + NAD(aq) = 3-dehydrocarnitine(aq) + NADH(aq)",
+            " D-carnitine(aq) + NAD(aq) = 3-dehydrocarnitine(aq) + NADH(aq)"
+        ],
+        "average keq": 0.0033699999999999993,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.95,
+        "average pH": 8.2
+    },
+    "pyridoxamine-pyruvate transaminase": {
+        "unique reactions": [
+            " 5-deoxypyridoxamine(aq) + pyruvate(aq) = 5-deoxypyridoxal(aq) + L-alanine(aq)",
+            " 3-hydroxy-4-aminomethylpyridine(aq) + pyruvate(aq) = 3-hydroxypyridine-4-aldehyde(aq) + L-alanine(aq)",
+            " \u00ce\u00bf-methylpyridoxamine(aq) + pyruvate(aq) = \u00ce\u00bf-methylpyridoxal(aq) + L-alanine(aq)",
+            " norpyridoxamine(aq) + pyruvate(aq) = norpyridoxal(aq) + L-alanine(aq)",
+            " pyridoxamine(aq) + pyruvate(aq) = pyridoxal(aq) + L-alanine(aq)"
+        ],
+        "average keq": 1.06,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.85
+    },
+    "glucoside 3-dehydrogenase": {
+        "unique reactions": [
+            " lactose(aq) + 2 cytochrome c(aq) = 3-oxolactose(aq) + 2 reduced cytochrome c(aq)"
+        ],
+        "average keq": 6.3,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 5.92
+    },
+    "alanine aminotransferase": {
+        "unique reactions": [
+            " L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 0.7150000000000001,
+        "average enthalpy": 5.2,
+        "average temperature kelvin": 303.35,
+        "average pH": 7.040000000000001
+    },
+    "pyruvate,orthophosphate dikinase": {
+        "unique reactions": [
+            " ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.059007923076923076,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 297.9192307692308,
+        "average pH": 7.446153846153845
+    },
+    "phenylalanine ammonia-lyase": {
+        "unique reactions": [
+            " L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq)"
+        ],
+        "average keq": 6.2200000000000015,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.6499999999999,
+        "average pH": 7.5249999999999995
+    },
+    "indolelactate dehydrogenase": {
+        "unique reactions": [
+            " indole-3-lactate(aq) + NAD(aq) = indole-3-pyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 630.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "L-mannose ketol-isomerase": {
+        "unique reactions": [
+            " L-mannose(aq) = L-fructose(aq)"
+        ],
+        "average keq": 1.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.6
+    },
+    "crotonoyl-[acyl-carrier-protein] hydratase": {
+        "unique reactions": [
+            " (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) = cis-but-2-enoyl-[acyl-carrier protein](aq) + H2O(l)"
+        ],
+        "average keq": 0.32,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.5
+    },
+    "galactinol-raffinose galactosyltransferase": {
+        "unique reactions": [
+            " 1-\u00ce\u00b1-D-galactosyl-myo-inositol(aq) + raffinose(aq) = myo-inositol(aq) + stachyose(aq)"
+        ],
+        "average keq": 4.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.65,
+        "average pH": 6.75
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase and phosphoglycerate kinase": {
+        "unique reactions": [
+            " D-glyceraldehyde 3-phosphate(aq) + ADP(aq) + NAD(aq) + orthophosphate(aq) = 3-phospho-D-glycerate(aq) + ATP(aq) + NADH(aq)"
+        ],
+        "average keq": 527.3272727272728,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.60454545454525,
+        "average pH": 6.982181818181818
+    },
+    "phenylpyruvate tautomerase": {
+        "unique reactions": [
+            " keto-phenylpyruvate(aq) = enol-phenylpyruvate(aq)"
+        ],
+        "average keq": 0.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.8
+    },
+    "2-dehydro-3-deoxy-L-pentonate aldolase": {
+        "unique reactions": [
+            " 2-dehydro-3-deoxy-L-pentonate(aq) = pyruvate(aq) + glycolaldehyde(aq)",
+            " 2-dehydro-3-deoxy-D-fuconate(aq) = pyruvate(aq) + (S)-lactaldehyde(aq)"
+        ],
+        "average keq": 0.000245,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.15,
+        "average pH": 7.45
+    },
+    "phosphodiesterase I": {
+        "unique reactions": [
+            " adenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = AMP(aq)",
+            " guanosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = GMP(aq)",
+            " 2'-deoxyadenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = 2'-deoxyadenosine 5'-monophosphate(aq)",
+            " inosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = IMP(aq)",
+            " uridine 3':5'-(cyclic)phosphate(aq) + H2O(l) = UMP(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -52.7,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.3
+    },
+    "camphor 5-monooxygenase": {
+        "unique reactions": [
+            " (+)-camphor(aq) + NADH(aq) + O2(aq) = (+)-5-exo-hydroxycamphor(aq) + NAD(aq) + H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -405.8,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "phosphomevalonate kinase": {
+        "unique reactions": [
+            " ATP(aq) + (R)-5-phosphomevalonate(aq) = ADP(aq) + (R)-5-diphosphomevalonate(aq)",
+            " ATP-\u00ce\u00b1-S(aq) + (R)-5-phosphomevalonate(aq) = ADP-\u00ce\u00b1-S(aq) + (R)-5-diphosphomevalonate(aq)",
+            " ATP-\u00ce\u00b2-S(aq) + (R)-5-phosphomevalonate(aq) = ADP-\u00ce\u00b2-S(aq) + (R)-5-diphosphomevalonate(aq)",
+            " ATP-\u00ce\u00b3-S(aq) + (R)-5-phosphomevalonate(aq) =  ADP(aq) + 2-thio-5-diphosphomevalonate(aq)"
+        ],
+        "average keq": 17.384,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 304.55,
+        "average pH": 7.859999999999999
+    },
+    "ribose-phosphate pyrophosphokinase": {
+        "unique reactions": [
+            " ATP(aq) + D-ribose 5-phosphate(aq) = AMP(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq)"
+        ],
+        "average keq": 46.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.65,
+        "average pH": 7.45
+    },
+    "phosphogluconate dehydrogenase (decarboxylating)": {
+        "unique reactions": [
+            " 6-phospho-D-gluconate(aq) + NADP(aq) + H2O(l) = D-ribulose 5-phosphate(aq) + NADPH(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.07677777777777778,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 6.9944444444444445
+    },
+    "S)-2-methylmalate dehydratase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": "nan"
+    },
+    "diaminopimelate epimerase": {
+        "unique reactions": [
+            " L,L-2,6-diaminoheptanedioate(aq) = meso-diaminoheptanedioate(aq)"
+        ],
+        "average keq": 1.9,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "nucleoside-triphosphate-adenylate kinase": {
+        "unique reactions": [
+            " GTP(aq) + AMP(aq) = ADP(aq) + GDP(aq)"
+        ],
+        "average keq": 0.82,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.5
+    },
+    "lysine 2,3-aminomutase": {
+        "unique reactions": [
+            " L-lysine(aq) = (3S)-3,6-diaminohexanoate(aq)"
+        ],
+        "average keq": 6.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.65,
+        "average pH": 7.75
+    },
+    "N-methyl-2-oxoglutaramate hydrolase": {
+        "unique reactions": [
+            " 5-hydroxy-N-methylpyroglutamate(aq) + H2O(l) = 2-oxoglutarate(aq) + methylamine(aq)"
+        ],
+        "average keq": 0.002,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.0
+    },
+    "branched-chain-amino-acid transaminase": {
+        "unique reactions": [
+            " L-leucine(aq) + 2-oxoglutarate(aq) = 4-methyl-2-oxopentanooate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 1.75,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.3
+    },
+    "glutamate-ammonia-ligase] adenylyltransferase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": "nan"
+    },
+    "2-aminoadipate transaminase": {
+        "unique reactions": [
+            " L-2-aminoadipate(aq) + 2-oxoglutarate(aq) = 2-oxoadipate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 1.32,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "diiodophenylpyruvate reductase": {
+        "unique reactions": [
+            " \u00ce\u00b2-(3,5-diiodo-4-hydroxyphenyl)lactate(aq) + NAD(aq) = \u00ce\u00b2-(3,5-diiodo-4-hydroxyphenyl)pyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 8.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.5
+    },
+    "2,4-diaminopentanoate dehydrogenase": {
+        "unique reactions": [
+            " 2,4-diaminopentanoate(aq) + NAD(aq) + H2O(l) = 2-amino-4-oxopentanoate(aq) + NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 0.000324,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.15,
+        "average pH": 8.75
+    },
+    "glyceraldehyde-3-phocphate dehydrogenase and phosphoglycerate kinase": {
+        "unique reactions": [
+            " D-glyceraldehyde 3-phosphate(aq) + ADP(aq) + NAD(aq) + orthophosphate(aq) = 3-phospho-D-glycerate(aq) + ATP(aq) + NADH(aq)"
+        ],
+        "average keq": 59.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.0
+    },
+    "cytidine deaminase": {
+        "unique reactions": [
+            " cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq)",
+            " N4-methylcytidine(aq) + H2O(l) = uridine(aq) + methylamine(aq)"
+        ],
+        "average keq": 1317.076923076923,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 9.203846153846154
+    },
+    "adenylate cyclase": {
+        "unique reactions": [
+            " ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq)"
+        ],
+        "average keq": 0.110625,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.77500000000003,
+        "average pH": 7.0125
+    },
+    "sepiapterin reductase": {
+        "unique reactions": [
+            " 7,8-dihydrobiopterin(aq) + NADP(aq) = sepiapterin(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.04933333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.876666666666667
+    },
+    "methylitaconate ?-isomerase": {
+        "unique reactions": [
+            " methylitaconate(aq) = dimethylmaleate(aq)"
+        ],
+        "average keq": 3.4,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": 7.9
+    },
+    "2-methyleneglutarate mutase": {
+        "unique reactions": [
+            " 2-methyleneglutarate(aq) = methylitaconate(aq)"
+        ],
+        "average keq": 0.23,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": 7.9
+    },
+    "glu-X carboxypeptidase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.15,
+        "average pH": "nan"
+    },
+    "glucuronate-1-phosphate uridylyltransferase": {
+        "unique reactions": [
+            " 1-phospho-\u00ce\u00b1-D-glucuronate(aq) + UTP(aq) = UDP-D-glucuronate(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 0.34,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.2
+    },
+    "ribonuclease T2": {
+        "unique reactions": [
+            " adenosine 2':3'-(cyclic)phosphate(aq) + H2O(l) = adenosine 3'-monophosphate(aq)",
+            " guanosine 2':3'-(cyclic)phosphate(aq) + H2O(l) = guanosine 3'-monophosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -39.6,
+        "average temperature kelvin": 298.15,
+        "average pH": 6.5
+    },
+    "guanylate kinase": {
+        "unique reactions": [
+            " ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq)",
+            " ATP(aq) + dGMP(aq) = ADP(aq) + dGDP(aq)"
+        ],
+        "average keq": 2.5314285714285716,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 301.5785714285715,
+        "average pH": 7.528571428571429
+    },
+    "phosphate acetyltransferase and formate C-acetyltransferase": {
+        "unique reactions": [
+            " pyruvate(aq) + orthophosphate(aq) = acetyl phosphate(aq) + formate(aq)"
+        ],
+        "average keq": 23.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.2
+    },
+    "L-erythro-3,5-diaminohexanoate dehydrogenase": {
+        "unique reactions": [
+            " L-erythro-3,5-diaminohexanoate(aq) + NAD(aq) + H2O(l) = (S)-5-amino-3-oxohexanoate(aq) + NADH(aq) + ammonia(aq)"
+        ],
+        "average keq": 1.903342857142857,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.15000000000003,
+        "average pH": 7.197142857142857
+    },
+    "pyrophosphate-serine phosphotransferase": {
+        "unique reactions": [
+            " pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq)"
+        ],
+        "average keq": 588.2857142857143,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15000000000003,
+        "average pH": 6.985714285714287
+    },
+    "glutamine-pyruvate aminotransaminase": {
+        "unique reactions": [
+            " L-glutamine(aq) + glyoxylate(aq) = 2-oxoglutaramate(aq) + glycine(aq)",
+            " L-glutamine(aq) + 2-oxo-4-methiolbutyrate(aq) = 2-oxoglutaramate(aq) + L-methionine(aq)",
+            " L-glutamine(aq) + pyruvate(aq) = 2-oxoglutaramate(aq) + L-alanine(aq)"
+        ],
+        "average keq": 338.6666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.4
+    },
+    "3-hydroxybenzyl-alcohol dehydrogenase": {
+        "unique reactions": [
+            " 3-hydroxybenzyl alcohol(aq) + NADP(aq) = 3-hydroxybenzaldehyde(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.18,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.6
+    },
+    "ribonuclease (unclassified)": {
+        "unique reactions": [
+            " adenylyl(3'->5')adenosine(aq) = adenosine 2':3'-(cyclic)phosphate(aq) + adenosine(aq)",
+            " adenylyl(3'->5')cytidine(aq) = adenosine 2':3'-(cyclic)phosphate(aq) + cytidine(aq)",
+            " adenylyl(3'->5')uridine(aq) = adenosine 2':3'-(cyclic)phosphate(aq) + uridine(aq)",
+            " cytidylyl(3'->5')cytidine(aq) = cytidine 2':3'-(cyclic)phosphate(aq) + cytidine(aq)",
+            " cytidylyl(3'->5')uridine(aq) = cytidine 2':3'-(cyclic)phosphate(aq) + uridine(aq)",
+            " guanylyl(3'->5')adenosine(aq) = guanosine 2':3'-(cyclic)phosphate(aq) + adenosine(aq)",
+            " guanylyl(3'->5')cytidine(aq) = guanosine 2':3'-(cyclic)phosphate(aq) + cytidine(aq)",
+            " guanylyl(3'->5')uridine(aq) = guanosine 2':3'-(cyclic)phosphate(aq) + uridine(aq)",
+            " uridylyl(3'->5')cytidine(aq) = uridine 2':3'-(cyclic)phosphate(aq) + cytidine(aq)",
+            " uridylyl(3'->5')uridine(aq) = uridine 2':3'-(cyclic)phosphate(aq) + uridine(aq)"
+        ],
+        "average keq": 5.757142857142857,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 273.15000000000003,
+        "average pH": 6.446428571428571
+    },
+    "glycerol dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " glycerol(aq) + NADP(aq) = (R)-glyceraldehyde(aq) + NADPH(aq)"
+        ],
+        "average keq": 1.67,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "a,a-trehalose phosphorylase": {
+        "unique reactions": [
+            " \u00ce\u00b1,\u00ce\u00b1-trehalose(aq) + orthophosphate(aq) = D-glucose(aq) + \u00ce\u00b2-D-glucose 1-phosphate(aq)"
+        ],
+        "average keq": 0.1495,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 6.65
+    },
+    "catalase": {
+        "unique reactions": [
+            " H2O2(aq) = 1/2 O2(aq) + H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -90.99333333333334,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "cyclomaltodextrin glucanotransferase and a-amylase": {
+        "unique reactions": [
+            " cyclomaltoheptaose(aq) + 7 H2O(l) = 7 D-glucose(aq)",
+            " cyclomaltohexaose(aq) + 6 H2O(l) = 6 D-glucose(aq)",
+            " cyclomaltooctaose(aq) + 8 H2O(l) = 8 D-glucose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -51.73333333333333,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 5.0
+    },
+    "glucose-6-phosphate 1-epimerase": {
+        "unique reactions": [
+            " \u00ce\u00b1-D-glucose 6-phosphate(aq) = \u00ce\u00b2-D-glucose 6-phosphate(aq)"
+        ],
+        "average keq": 1.7,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.6
+    },
+    "citrate (si)-synthase": {
+        "unique reactions": [
+            " oxaloacetate(aq) + acetyl-CoA(aq) + H2O(l) = citrate(aq) + CoA(aq)"
+        ],
+        "average keq": 1666826.0869565217,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.14999999999986,
+        "average pH": 6.920434782608695
+    },
+    "phosphate acetyltransferase and acetate kinase": {
+        "unique reactions": [
+            " CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq)"
+        ],
+        "average keq": 0.4443333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15000000000003,
+        "average pH": 7.009999999999999
+    },
+    "6-phosphofructokinase": {
+        "unique reactions": [
+            " ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)"
+        ],
+        "average keq": 2260.0,
+        "average enthalpy": -65.38000000000001,
+        "average temperature kelvin": 302.5184210526315,
+        "average pH": 7.831578947368421
+    },
+    "malyl-CoA lyase": {
+        "unique reactions": [
+            " (R,S)-malyl-CoA(aq) = acetyl-CoA(aq) + glyoxylate(aq)"
+        ],
+        "average keq": 0.0029,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.4
+    },
+    "thymidylate synthase": {
+        "unique reactions": [
+            " 5,10-methylenetetrahydrofolate(aq) + dUMP(aq) = dihydrofolate(aq) + dTMP(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -40.6,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "D-ornithine 4,5-aminomutase": {
+        "unique reactions": [
+            " D-ornithine(aq) = D-threo-2,4-diaminopentanoate(aq)"
+        ],
+        "average keq": 0.9,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 9.0
+    },
+    "phosphohydrolase (unclassified)": {
+        "unique reactions": [
+            " diethyl phosphate(aq) + H2O(l) = monoethyl phosphate(aq) + ethanol(aq)",
+            " ethylene phosphate(aq) + H2O(l) = 2-hydroxyethyl phosphate(aq)",
+            " tetramethylene phosphate(aq) + H2O(l) = 4-hydroxybutyl phosphate(aq)",
+            " trimethylene phosphate(aq) + H2O(l) = 3-hydroxypropyl phosphate(aq)",
+            " adenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = adenosine 3'-monophosphate(aq)",
+            " methyl \u00ce\u00b1-D-glucopyranoside 4,6-(cyclic)phosphate(aq) + H2O(l) = methyl \u00ce\u00b1-D-glucopyranoside 6-phosphate(aq)",
+            " methyl \u00ce\u00b2-D-ribofuranoside 3,5-(cyclic)phosphate(aq) + H2O(l) = methyl \u00ce\u00b2-D-ribofuranoside 5-phosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -34.324999999999996,
+        "average temperature kelvin": 300.4,
+        "average pH": 7.281249999999999
+    },
+    "uridine phosphorylase": {
+        "unique reactions": [
+            " uridine(aq) + orthophosphate(aq) = uracil(aq) + \u00ce\u00b1-D-ribose 1-phosphate(aq)"
+        ],
+        "average keq": 0.0545,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.8
+    },
+    "3',5'-cyclic-nucleotide phosphodiesterase": {
+        "unique reactions": [
+            " adenosine 3':5'-(cyclic)phosphate(aq) + H2O(l) = AMP(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -55.699999999999996,
+        "average temperature kelvin": 302.15,
+        "average pH": 7.433333333333334
+    },
+    "D-arabino-3-hexulose phosphate formaldehyde lyase": {
+        "unique reactions": [
+            " D-arabino-3-hexulose 6-phosphate(aq) = D-ribulose 5-phosphate(aq) + formaldehyde(aq)"
+        ],
+        "average keq": 4.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "phospho-3-hexuloisomerase": {
+        "unique reactions": [
+            " D-arabino-3-hexulose 6-phosphate(aq) = D-fructose 6-phosphate(aq)"
+        ],
+        "average keq": 188.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "formate C-acetyltransferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + formate(aq) = CoA(aq) + pyruvate(aq)"
+        ],
+        "average keq": 0.00133,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.1
+    },
+    "15-hydroxyprostaglandin dehydrogenase (NAD+)": {
+        "unique reactions": [
+            " prostaglandin E1(aq) + NAD(aq) = 15-oxo-prostaglandin E1(aq) + NADH(aq)",
+            " prostaglandin E2(aq) + NAD(aq) = 15-oxo-prostaglandin E2(aq) + NADH(aq)"
+        ],
+        "average keq": 2.151,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.2
+    },
+    "urocanate hydratase": {
+        "unique reactions": [
+            " urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)"
+        ],
+        "average keq": 60.760000000000005,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.35,
+        "average pH": 7.5
+    },
+    "ribose isomerase": {
+        "unique reactions": [
+            " D-ribose(aq) = D-ribulose(aq)"
+        ],
+        "average keq": 0.484375,
+        "average enthalpy": 11.6775,
+        "average temperature kelvin": 327.175,
+        "average pH": 7.308333333333331
+    },
+    "pepsin A": {
+        "unique reactions": [
+            " N-acetyl-L-phenylalanine-L-dibromidetyrosine ethyl ester(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + L-dibromotyrosine ethyl ester(aq)",
+            " N-acetyl-L-phenylalanyl-L-phenylalanylglycine(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + L-phenylalanylglycine(aq)",
+            " N-acetyl-L-phenylalanyl-L-phenylalanylglycine methyl ester(aq) + H2O(l) = N-acetyl-L-phenylalanine(aq) + L-phenylalanylglycine methyl ester(aq)"
+        ],
+        "average keq": 2.766666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.15,
+        "average pH": 4.433333333333333
+    },
+    "alkanal monooxygenase (FMN-linked)": {
+        "unique reactions": [
+            " dodecanal(aq) + FMN(reduced) + O2(aq) = dodecanoic acid(aq) + FMN(oxidized) + H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -329.0,
+        "average temperature kelvin": 289.15,
+        "average pH": 7.0
+    },
+    "ethanolamine-phosphate cytidylyltransferase": {
+        "unique reactions": [
+            " CTP(aq) + O-phosphorylethanolamine(aq) = pyrophosphate(aq) + CDPethanolamine(aq)"
+        ],
+        "average keq": 0.46,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.8
+    },
+    "coniferyl-alcohol dehydrogenase": {
+        "unique reactions": [
+            " coniferyl alcohol(aq) + NADP(aq) = coniferyl aldehyde(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.7533333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.200000000000001
+    },
+    "penicillin amidase": {
+        "unique reactions": [
+            " penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq)",
+            " ampicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D(-)-\u00ce\u00b1-aminophenylacetic acid(aq)",
+            " cephalexin(aq) + H2O(l) = 7-aminodeacetoxycephalosporanic acid(aq) + D(-)-\u00ce\u00b1-aminophenylacetic acid(aq)",
+            " cephaloridine(aq) + H2O(l) = 2-thienylacetic acid(aq) + 7-amino-3-(1-pyridyl-methyl)-3-cephem-4-carboxylic acid(aq)",
+            " cephalothin(aq) + H2O(l) = 2-thienylacetic acid(aq) + 7-aminocephalosporanic acid(aq)",
+            " penicillinoic acid(aq) + H2O(l) = penicic acid(aq) + phenylacetic acid(aq)",
+            " 7-phenylacetamidodeacetoxycephalosporanic acid(aq) + H2O(l) = 7-aminodeacetoxycephalosporanic acid(aq) + phenylacetic acid(aq)",
+            " phenylacetylglycine(aq) + H2O(l) = phenylacetic acid(aq) + glycine(aq)",
+            " penicillin G-(aq) + H2O(l) = 6-aminopenicillanic acid-(aq) + phenylacetic acid(aq)",
+            " phenoxymethylpenicillin-(aq) + H2O(l) = 6-aminopenicillanate-(aq) + phenoxyacetate(aq)",
+            " phenylacetyl-L-phenylglycine(aq) + H2O(l) = phenylacetic acid(aq) + L-phenylglycine(aq)",
+            " amoxicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D-4-hydroxyphenylglycine(aq)"
+        ],
+        "average keq": 1.8080164705882353,
+        "average enthalpy": 19.348181818181814,
+        "average temperature kelvin": 304.3907407407405,
+        "average pH": 6.305961538461541
+    },
+    "cytochrome-c oxidase": {
+        "unique reactions": [
+            " 4 reduced cytochrome c(aq) + O2(aq) = 4 cytochrome c(aq) + 2 H2O(l)"
+        ],
+        "average keq": 0.75,
+        "average enthalpy": -69.0,
+        "average temperature kelvin": 298.775,
+        "average pH": 7.4
+    },
+    "fructose-biphosphatase": {
+        "unique reactions": [
+            " D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 110.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 299.15,
+        "average pH": 7.245
+    },
+    "phosphomannomutase": {
+        "unique reactions": [
+            " D-mannose 1-phosphate(aq) = D-mannose 6-phosphate(aq)",
+            " \u00ce\u00b2-D-glucose 1-phosphate(aq) = \u00ce\u00b2-D-glucose 6-phosphate(aq)"
+        ],
+        "average keq": 6.7749999999999995,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.65,
+        "average pH": 7.125
+    },
+    "formate dehydrogenase": {
+        "unique reactions": [
+            " formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq)"
+        ],
+        "average keq": 420.0,
+        "average enthalpy": -14.559999999999999,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 6.9
+    },
+    "glucose oxidase and catalase": {
+        "unique reactions": [
+            " \u00ce\u00b2-D-glucose(aq) + 1/2 O2(aq) = D-glucono-1,5-lactone(aq) + H2O(liq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -215.05,
+        "average temperature kelvin": 300.65,
+        "average pH": 6.93
+    },
+    "tryptophan synthase": {
+        "unique reactions": [
+            " D-glyceraldehyde 3-phosphate(aq) + indole(aq) = 1-(indol-3-yl)glycerol 3-phosphate(aq)",
+            " indole(aq) + L-serine(aq) = L-tryptophan(aq) + H2O(l)",
+            " 1-(indol-3-yl)glycerol 3-phosphate(aq) + L-serine(aq) = L-tryptophan(aq) + D-glyceraldehyde 3-phosphate(aq) + H2O(l)",
+            " L-serine(aq) = pyruvate(aq) + ammonia(aq)",
+            " indole(aq) + D-glyceraldehyde 3-phosphate(aq) = 1-(indol-3-yl)glycerol 3-phosphate(aq)"
+        ],
+        "average keq": 2300.0,
+        "average enthalpy": -50.65454545454545,
+        "average temperature kelvin": 299.3038461538462,
+        "average pH": 7.42923076923077
+    },
+    "NAD+ kinase": {
+        "unique reactions": [
+            " ATP(aq) + NAD(aq) = ADP(aq) + NADP(aq)"
+        ],
+        "average keq": 29.3,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.1
+    },
+    "urate oxidase and catalase": {
+        "unique reactions": [
+            " urate(aq) + 1/2 O2(aq) + 2 H2O(l) = allantoin(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -149.6,
+        "average temperature kelvin": 303.15,
+        "average pH": 9.0
+    },
+    "acetate CoA-transferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + acetoacetate(aq) = acetoacetyl-CoA(aq) + acetate(aq)"
+        ],
+        "average keq": 0.13,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.1
+    },
+    "choline-phosphate cytidylyltransferase": {
+        "unique reactions": [
+            " CTP(aq) + phosphorylcholine(aq) = pyrophosphate(aq) + CDPcholine(aq)"
+        ],
+        "average keq": 0.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "succinate-CoA ligase (GDP-forming)": {
+        "unique reactions": [
+            " GTP(aq) + succinate(aq) + CoA(aq) = GDP(aq) + phosphate(aq) + succinyl-CoA(aq)"
+        ],
+        "average keq": 0.9105263157894737,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.4131578947366,
+        "average pH": 7.024210526315791
+    },
+    "cholesterol oxidase": {
+        "unique reactions": [
+            " cholesterol(aq) + O2(aq) = cholest-4-en-3-one(aq) + H2O2(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -114.0,
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "cholesterol oxidase and catalase": {
+        "unique reactions": [
+            " cholesterol(aq) + 1/2 O2(aq) = cholest-4-en-3-one(aq) + H2O(l)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -183.7,
+        "average temperature kelvin": 303.15,
+        "average pH": 6.95
+    },
+    "_-amylase": {
+        "unique reactions": [
+            " maltotetraose(aq) + H2O(l) = 2 maltose(aq)",
+            " \u00ce\u00b1,\u00ce\u00b1-trehalose(aq) + H2O(l) = 2 D-glucose(aq)"
+        ],
+        "average keq": 335.0,
+        "average enthalpy": 4.73,
+        "average temperature kelvin": 298.99285714285713,
+        "average pH": 5.6499999999999995
+    },
+    "thermolysin": {
+        "unique reactions": [
+            " benzyloxycarbonylglycyl-L-phenylalaninamide(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalaninamide(aq)",
+            " N-(benzyloxycarbonyl)-L-aspartyl-L-phenylalanine methyl ester(aq) + H2O(l) = N-(benzyloxycarbonyl)-L-aspartic acid(aq) + L-phenylalanine methyl ester(aq) ",
+            " N-(benzyloxycarbonyl)-L-aspartyl-L-phenylalanine methyl ester(aq) + H2O(l) = N-(benzyloxycarbonyl)-L-aspartic acid(aq) + L-phenylalanine methyl ester(aq)"
+        ],
+        "average keq": 1.1380000000000001,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 313.75,
+        "average pH": 6.825
+    },
+    "_-lactamase": {
+        "unique reactions": [
+            " ampicillin(aq) + H2O(l) = ampicillinoic acid(aq)",
+            " penicillin G(aq) + H2O(l) = penicillinoic acid(aq)",
+            " phenoxymethylpenicillin(aq) + H2O(l) = phenoxymethylpenicillinoic acid(aq)"
+        ],
+        "average keq": 48.95,
+        "average enthalpy": -86.98,
+        "average temperature kelvin": 298.6911764705882,
+        "average pH": 6.896470588235296
+    },
+    "2,3-dimethylmalate lyase": {
+        "unique reactions": [
+            " 2,3-dimethylmalate(aq) = propanoate(aq) + pyruvate(aq)"
+        ],
+        "average keq": 0.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "hydrogen dehydrogenase": {
+        "unique reactions": [
+            " H2(aq) + NAD(aq) = NADH(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -27.4,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.2
+    },
+    "adenosine nucleosidase": {
+        "unique reactions": [
+            " adenosine(aq) + H2O(l) = adenine(aq) + D-ribose(aq)"
+        ],
+        "average keq": 53.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "malate dehydrogenase and aspartate aminotransferase": {
+        "unique reactions": [
+            " L-glutamate(aq) + (S)-malate(aq) + NAD(aq) = L-aspartate(aq) + 2-oxoglutarate(aq) + NADH(aq)"
+        ],
+        "average keq": 4.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "malate dehydrogenase and aspartate transaminase": {
+        "unique reactions": [
+            " L-glutamate(aq) + (S)-malate(aq) + NAD(aq) = L-aspartate(aq) + 2-oxoglutarate(aq) + NADH(aq)"
+        ],
+        "average keq": 4.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "aminoacylase": {
+        "unique reactions": [
+            " N-acetyl-L-methionine(aq) + H2O(l) = acetate(aq) + L-methionine(aq)",
+            " N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq)",
+            " N-acetyl-L-\u00ce\u00b1-amino-n-butyrate(aq) + H2O(l) = acetate(aq) + L-\u00ce\u00b1-amino-n-butyrate(aq)",
+            " N-acetyl-L-glycine(aq) + H2O(l) = acetate(aq) + glycine(aq)",
+            " N-acetyl-L-norleucine(aq) + H2O(l) = acetate(aq) + L-norleucine(aq)",
+            " N-acetyl-L-norvaline(aq) + H2O(l) = acetate(aq) + L-norvaline(aq)",
+            " phenylacetyl-L-phenylglycine(aq) + H2O(l) = phenylacetic acid(aq) + L-phenylglycine(aq)",
+            " N-acetyl-L-valine(aq) + H2O(l) = acetate(aq) + L-valine(aq)",
+            " N-acetyl-L-methionine(aq) + H2O(l) = L-methionine(aq) + acetate(aq)"
+        ],
+        "average keq": 9.599166666666667,
+        "average enthalpy": -4.093333333333334,
+        "average temperature kelvin": 304.14999999999986,
+        "average pH": 7.273333333333334
+    },
+    "sorbitol-6-phosphate dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " D-sorbitol 6-phosphate(aq) + NADP(aq) = D-glucose 6-phosphate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.234,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.66
+    },
+    "pyrroline-5-carboxylate reductase": {
+        "unique reactions": [
+            " (S)-proline(aq) + NADP(aq) = \u00ce\u201d1-pyrroline-2-carboxylate(aq) + NADPH(aq)"
+        ],
+        "average keq": 4.3,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 9.23
+    },
+    "GDP-D-mannose 3,5-epimerase": {
+        "unique reactions": [
+            " GDPmannose(aq) = GDP-L-galactose(aq)"
+        ],
+        "average keq": 0.52,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.0
+    },
+    "serine-pyruvate transaminase": {
+        "unique reactions": [
+            " L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq)"
+        ],
+        "average keq": 5.81,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.02500000000003,
+        "average pH": 7.25
+    },
+    "glycerol kinase": {
+        "unique reactions": [
+            " ATP(aq) + glycerol(aq) = ADP(aq) + sn-glycerol 3-phosphate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -69.25,
+        "average temperature kelvin": 298.15,
+        "average pH": 9.0
+    },
+    "hypoxanthine phosphoribosyltransferase": {
+        "unique reactions": [
+            " GMP(aq) + hypoxanthine(aq) = IMP(aq) + guanine(aq)",
+            " guanine(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq) = GMP(aq) + pyrophosphate(aq)",
+            " hypoxanthine(aq) + 5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq) = IMP(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 66666.79333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.81666666666666,
+        "average pH": 7.400000000000001
+    },
+    "lactoylglutathione lyase": {
+        "unique reactions": [
+            " (R)-S-lactoylglutathione(aq) = glutathione (reduced)(aq) + methylglyoxal(aq)"
+        ],
+        "average keq": 9.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "malate dehydrogenase (decarboxylating)": {
+        "unique reactions": [
+            " (S)-malate(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.0011,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.5
+    },
+    "formate dehydrogenase (NADP+)": {
+        "unique reactions": [
+            " formate(aq) + NADP(aq) + H2O(l) = carbon dioxide(aq) + NADPH(aq)"
+        ],
+        "average keq": 6.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 328.15,
+        "average pH": 7.5
+    },
+    "dimethylmaleate hydratase": {
+        "unique reactions": [
+            " (2R,3S)-2,3-dimethylmalate(aq) = dimethylmaleate(aq) + H2O(l)"
+        ],
+        "average keq": 0.2595,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "thiamine pyridinylase": {
+        "unique reactions": [
+            " thiamine(aq) + aniline(aq) = 4-methyl-5-(2'-hydroxyethyl)-thiazole(aq) + heteroanilithiamine(aq)",
+            " thiamine(aq) + nicotinamide(aq) = 4-methyl-5-(2'-hydroxyethyl)-thiazole(aq) + heteronicotinathiamine(aq)"
+        ],
+        "average keq": 0.026,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.5
+    },
+    "methylenetetrahydrofolate dehydrogenase (NAD+)": {
+        "unique reactions": [
+            " 5,10-methylenetetrahydrofolate(aq) + NAD(aq) = 5,10-methenyltetrahydrofolate(aq) + NADH(aq)",
+            " 5,10-methylenetetrahydrofolate(aq) + AP-NAD(aq) = 5,10-methenyltetrahydrofolate(aq) + AP-NADH(aq)"
+        ],
+        "average keq": 0.59832,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 307.75,
+        "average pH": 7.5699999999999985
+    },
+    "3-hydroxybutyryl-CoA dehyratase": {
+        "unique reactions": [
+            " DL-3-hydroxybutanoyl-CoA(aq) = trans-but-2-enoyl-CoA(aq) + H2O(l)"
+        ],
+        "average keq": 0.28,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 7.4
+    },
+    "Ca2+-transporting ATPase": {
+        "unique reactions": [
+            " ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 40000.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 295.15,
+        "average pH": 7.0
+    },
+    "glycine dehydrogenase (decarboxylating)": {
+        "unique reactions": [
+            " glycine(aq) + \u00ce\u00b1-lipoate(aq) = S-aminomethyldihydro-\u00ce\u00b1-lipoate(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": 0.026886000000000004,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 6.961333333333334
+    },
+    "pyrroline-2-carboxylate reductase": {
+        "unique reactions": [
+            " (S)-proline(aq) + NADP(aq) = \u00ce\u201d1-pyrroline-2-carboxylate(aq) + NADPH(aq)"
+        ],
+        "average keq": 0.0036,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.649999999999999
+    },
+    "glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase": {
+        "unique reactions": [
+            " D-glucose 6-phosphate(aq) + NADP(aq) + H2O(l) = 6-phospho-D-gluconate(aq) + NADPH(aq)"
+        ],
+        "average keq": 31133.333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15000000000003,
+        "average pH": 6.510000000000001
+    },
+    "AMP nucleosidase": {
+        "unique reactions": [
+            " AMP(aq) + H2O(l) = adenine(aq) + D-ribose 5-phosphate(aq)"
+        ],
+        "average keq": 170.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.0
+    },
+    "_-galactosidase": {
+        "unique reactions": [
+            " lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq)",
+            " 3-O-\u00ce\u00b2-D-galactopyranosyl-D-arabinose(aq) + H2O(l) = D-galactose(aq) + D-arabinose(aq)",
+            " lactulose(aq) + H2O(l) = D-galactose(aq) + D-fructose(aq)",
+            " allolactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq)"
+        ],
+        "average keq": 80.75,
+        "average enthalpy": 1.2111666666666667,
+        "average temperature kelvin": 301.0184210526315,
+        "average pH": 5.870526315789474
+    },
+    "D-octopine dehydrogenase": {
+        "unique reactions": [
+            " N2-(D-1-carboxyethyl)-L-arginine(aq) + NAD(aq) + H2O(l) = L-arginine(aq) + pyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 3.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "alanopine dehydrogenase": {
+        "unique reactions": [
+            " 2,2'-iminodipropanoate(aq) + NAD(aq) + H2O(l) = L-alanine(aq) + pyruvate(aq) + NADH(aq)",
+            " 2-methyliminodiacetate(aq) + NAD(aq) + H2O(l) = glycine(aq) + pyruvate(aq) + NADH(aq)"
+        ],
+        "average keq": 2.35,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "peroxidase": {
+        "unique reactions": [
+            " H2O2(aq) + thiocyanate(aq) = oxidized thiocyanate(aq) + H2O(l)"
+        ],
+        "average keq": 3800.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.0
+    },
+    "R)-2-hydroxyglutarate dehydrogenase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": "nan"
+    },
+    "DNA-directed DNA polymerase": {
+        "unique reactions": [
+            " dTTP(aq) + 9/20-DNA oligomer(aq) = 10/20-DNA oligomer(aq) + pyrophosphate(aq)"
+        ],
+        "average keq": 513.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 295.15,
+        "average pH": 7.4
+    },
+    "chalcone isomerase": {
+        "unique reactions": [
+            " 2',4,4'-trihydroxychalcone(aq) = (2S)-4',7-dihydroxyflavanone(aq)"
+        ],
+        "average keq": 7.6,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.6
+    },
+    "1-phosphatidylinositol kinase": {
+        "unique reactions": [
+            " ATP(aq) + 1-phosphatidyl-1D-myo-inositol(aq) = ADP(aq) + 1-phosphatidyl-1D-myo-inositol 4-phosphate(aq)"
+        ],
+        "average keq": 0.003,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 8.0
+    },
+    "aryl-alcohol dehydrogenase": {
+        "unique reactions": [
+            " benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq)"
+        ],
+        "average keq": 0.097,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.15,
+        "average pH": 9.5
+    },
+    "pantothenase": {
+        "unique reactions": [
+            " pantothenate(aq) + H2O(l) = pantoic acid(aq) + \u00ce\u00b2-alanine(aq)"
+        ],
+        "average keq": 0.06111666666666667,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 293.01666666666665,
+        "average pH": 8.1
+    },
+    "NAD+ nucleosidase": {
+        "unique reactions": [
+            " NAD(aq) + H2O(l) = nicotinamide(aq) + ADPribose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": 25.8,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.4
+    },
+    "guanidinoacetate kinase": {
+        "unique reactions": [
+            " ATP(aq) + guanidinoacetate(aq) = ADP(aq) + phosphoguanidinoacetate(aq)"
+        ],
+        "average keq": 29.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 7.25
+    },
+    "lombricine kinase": {
+        "unique reactions": [
+            " ATP(aq) + lombricine(aq) = ADP(aq) + N\u00cf\u2030-phospholombricine(aq)"
+        ],
+        "average keq": 32.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.15,
+        "average pH": 7.25
+    },
+    "NAD(P)+ nucleosidase": {
+        "unique reactions": [
+            " NAD(aq) + 3-acetylpyridine(aq) = 3-acetylpyridine adenine dinucleotide(aq) + nicotinamide(aq)",
+            " \u00ce\u00b2-nicotinamide mononucleotide(aq) + 3-acetylpyridine(aq) = 3-acetylpyridine mononucleotide(aq) + nicotinamide(aq)"
+        ],
+        "average keq": 0.8799999999999999,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 312.15,
+        "average pH": 6.0
+    },
+    "a-mannosidase": {
+        "unique reactions": [
+            " disaccharide(aq) + H2O(l) = 2 D-mannose(aq)",
+            " tetrasaccharide(aq) + H2O(l) = trisaccharide(aq) + D-mannose(aq)",
+            " trisaccharide(aq) + H2O(l) = disaccharide(aq) + D-mannose(aq)"
+        ],
+        "average keq": 6.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 328.15,
+        "average pH": 5.5
+    },
+    "L-iditol 2-dehydrogenase": {
+        "unique reactions": [
+            " D-arabitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq)",
+            " D-mannitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " D-sorbitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq)",
+            " L-iditol(aq) + NAD(aq) = L-sorbose(aq) + NADH(aq)",
+            " xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq)"
+        ],
+        "average keq": 0.05547,
+        "average enthalpy": -20.933333333333334,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.343333333333334
+    },
+    "oligo-1,6-glucosidase": {
+        "unique reactions": [
+            " isomaltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " palatinose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": 3.8979999999999997,
+        "average temperature kelvin": 303.16818181818184,
+        "average pH": 5.539999999999999
+    },
+    "a-glucosidase": {
+        "unique reactions": [
+            " maltose(aq) + H2O(l) = 2 D-glucose(aq)",
+            " D-turanose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -3.48,
+        "average temperature kelvin": 300.28333333333336,
+        "average pH": 5.650000000000001
+    },
+    "isochorismate synthase": {
+        "unique reactions": [
+            " chorismate(aq) = isochorismate(aq)",
+            " chorismate(aq) + ammonia(aq) = 2-amino-2-deoxyisochorismate(aq) + H2O(l)"
+        ],
+        "average keq": 1.2933333333333332,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.833333333333333
+    },
+    "retinyl-palmitate esterase": {
+        "unique reactions": [
+            " retinyl palmitate(aq) + H2O(l) = retinol(aq) + palmitate(aq)"
+        ],
+        "average keq": 0.0028,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.5
+    },
+    "4-aminobenzoate synthase": {
+        "unique reactions": [
+            " chorismate(aq) + ammonia(aq) = 4-amino-4-deoxychorismate(aq) + H2O(l)"
+        ],
+        "average keq": 6.1,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 8.6
+    },
+    "purine-nucleoside phosphorylase and pyrimidine-nucleoside phosphorylase": {
+        "unique reactions": [
+            " inosine(aq) + thymine(aq) = 5-methyluridine(aq) + hypoxanthine(aq)"
+        ],
+        "average keq": 0.21,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 313.15,
+        "average pH": 7.0
+    },
+    "1-piperidine-2-carboxylate reductase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 313.15,
+        "average pH": "nan"
+    },
+    "phosphopentomutase": {
+        "unique reactions": [
+            " D-ribose 1-phosphate(aq) = D-ribose 5-phosphate(aq)"
+        ],
+        "average keq": 26.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.0
+    },
+    "5'-nucleosidase": {
+        "unique reactions": [
+            " AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq)"
+        ],
+        "average keq": 176.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 311.15,
+        "average pH": 7.0
+    },
+    "a-dextrin endo-1,6-a-glucosidase": {
+        "unique reactions": [
+            " maltosyl-\u00ce\u00b2-cyclomaltoheptaose(aq) + H2O(l) = cyclomaltoheptaose(aq) + maltose(aq)"
+        ],
+        "average keq": 708.3333333333334,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 308.53333333333336,
+        "average pH": "nan"
+    },
+    "triacylglycerol lipase": {
+        "unique reactions": [
+            " diolein(aq) + H2O(l) = oleic acid(aq) + monoolein(aq)",
+            " monoolein(aq) + H2O(l) = oleic acid(aq) + glycerol(aq)",
+            " triolein(aq) + H2O(l) = oleic acid(aq) + diolein(aq)",
+            " n-decanoic acid glycerol diester(sln) + H2O(sln) = n-decanoic acid(sln) + n-decanoic acid glycerol monoester(sln)",
+            " n-decanoic acid glycerol monoester(sln) + H2O(sln) = n-decanoic acid(sln) + glycerol(sln)",
+            " n-decanoic acid glycerol triester(sln) + H2O(sln) = n-decanoic acid(sln) + n-decanoic acid glycerol diester(sln)",
+            " n-octanoic acid glycerol diester(sln) + H2O(sln) = n-octanoic acid(sln) + n-octanoic acid glycerol monoester(sln)",
+            " n-octanoic acid glycerol monoester(sln) + H2O(sln) = n-octanoic acid(sln) + glycerol(sln)",
+            " n-octanoic acid glycerol triester(sln) + H2O(sln) = n-octanoic acid(sln) + n-octanoic acid glycerol diester(sln)",
+            " diolein(sln) + H2O(sln) = oleic acid(sln) + monoolein(sln)",
+            " monoolein(sln) + H2O(sln) = oleic acid(sln) + glycerol(sln)",
+            " triolein(sln) + H2O(sln) = oleic acid(sln) + diolein(sln)",
+            " dodecyldodecanoate(sln) + H2O(sln) = 1-dodecanol(sln) + 1-dodecanoic acid(sln)",
+            " 1-dodecanoic acid(sln) + (-)-menthol(sln) = (-)-menthyl dodecanoate(sln) + H2O(sln)"
+        ],
+        "average keq": 4.272591666666666,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 306.27499999999986,
+        "average pH": "nan"
+    },
+    "D-(-)-phenylglycyl-_-lactamide amidohydrolase": {
+        "unique reactions": [
+            " ampicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D(-)-\u00ce\u00b1-aminophenylacetic acid(aq)",
+            " cephalexin(aq) + H2O(l) = 7-aminodeacetoxycephalosporanic acid(aq) + D(-)-\u00ce\u00b1-aminophenylacetic acid(aq)"
+        ],
+        "average keq": 0.15,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 5.375
+    },
+    "glucose oxidase": {
+        "unique reactions": [
+            " \u00ce\u00b2-D-glucose(aq) + O2(aq) = D-glucono-1,5-lactone(aq) + H2O2(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -125.0,
+        "average temperature kelvin": 298.15,
+        "average pH": 6.86
+    },
+    "sinapate 1-glucosyltransferase": {
+        "unique reactions": [
+            " UDPglucose(aq) + sinapate(aq) = UDP(aq) + 1-sinapoyl-D-glucose(aq)"
+        ],
+        "average keq": 0.21,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 6.0
+    },
+    "2-arylpropionyl-CoA epimerase": {
+        "unique reactions": [
+            " (S)-2-(4-isobutylphenyl)propionyl-CoA(aq) =  (R)-2-(4-isobutylphenyl)propionyl-CoA(aq)"
+        ],
+        "average keq": 1.5,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 7.0
+    },
+    "arginase": {
+        "unique reactions": [
+            " L-arginine(aq) + H2O(l) = L-ornithine(aq) + urea(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -20.825,
+        "average temperature kelvin": 299.70000000000005,
+        "average pH": 7.916666666666667
+    },
+    "arginine deiminase": {
+        "unique reactions": [
+            " L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -32.4425,
+        "average temperature kelvin": 300.46250000000003,
+        "average pH": 6.20375
+    },
+    "maleate hydratase": {
+        "unique reactions": [
+            " (R)-malate(aq) = maleate(aq) + H2O(l)"
+        ],
+        "average keq": 0.000488,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "R)-2-methylmalate dehydratase": {
+        "unique reactions": [],
+        "average keq": "nan",
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": "nan"
+    },
+    "glutathione transferase": {
+        "unique reactions": [
+            " glutathione(aq) + ethyl-(E)-2-octenoate(aq)= glutathione derivative of ethyl (E)-2-octenoate(aq)",
+            " glutathione(aq) + methyl-(E)-2-octenoate(aq) = glutathione derivative of methyl (E)-2-octenoate(aq)",
+            " glutathione(aq) + (E)-3-nonen-2-one(aq) = glutathione derivative of (E)-3-nonen-2-one(aq)",
+            " glutathione(aq) + (E)-2-octenal(aq) = glutathione derivative of (E)-2-octenal(aq)",
+            " reduced glutathione(aq) + (E)-4-phenyl-3-buten-2-one(aq) = 4-(glutathionyl)-4-phenyl-2-butanone(aq)"
+        ],
+        "average keq": 2197.4,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.5200000000000005
+    },
+    "serine acetyltransferase": {
+        "unique reactions": [
+            " acetyl-CoA(aq) + L-serine(aq) = CoA(aq) + O-acetyl-L-serine(aq)"
+        ],
+        "average keq": 15.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 6.0
+    },
+    "tryptophanase": {
+        "unique reactions": [
+            " L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": 63.2,
+        "average temperature kelvin": 299.99761904761897,
+        "average pH": 7.958571428571427
+    },
+    "UDP-N-acetylglucosamine 1-carboxyvinyltransferase": {
+        "unique reactions": [
+            " (Z)-phosphoenolbutyrate(aq) + UDP-N-acetyl-D-glucosamine(aq) = orthophosphate(aq) + (Z)-enolbutyryl-UDP-N-acetylglucosamine(aq)"
+        ],
+        "average keq": 65.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 8.0
+    },
+    "a-chymotrypsin": {
+        "unique reactions": [
+            " N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln)"
+        ],
+        "average keq": 0.1609083333333333,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 290.7,
+        "average pH": "nan"
+    },
+    "UDPhexose synthase": {
+        "unique reactions": [
+            "UDPglucose(aq) + imidazole(aq) = glucose 1-phosphate(aq) + UMPimidazole(aq)"
+        ],
+        "average keq": 0.01132,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 300.15,
+        "average pH": 7.75
+    },
+    "triacyglycerol lipase": {
+        "unique reactions": [
+            " tributyrylglycerol(sln) + (R)-2-decanol(sln) = (R)-2-decyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",
+            " tributyrylglycerol(sln) + (R)-2-dodecanol(sln) = (R)-2-dodecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",
+            " tributyrylglycerol(sln) + (R)-2-heptanol(sln) = (R)-2-heptyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",
+            " tributyrylglycerol(sln) + (R)-2-nonanol(sln) = (R)-2-nonyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",
+            " tributyrylglycerol(sln) + (R)-2-octanol(sln) = (R)-2-octyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",
+            " tributyrylglycerol(sln) + (R)-2-undecanol(sln) = (R)-2-undecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)"
+        ],
+        "average keq": 0.023958333333333342,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.14999999999986,
+        "average pH": "nan"
+    },
+    "tannase": {
+        "unique reactions": [
+            " 3,4,5-trihydroxybenzoic acid propyl ester(sln) + H2O(sln) = 3,4,5-trihydroxybenzoate(sln) + propan-1-ol(sln)",
+            " 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)"
+        ],
+        "average keq": 0.011699999999999999,
+        "average enthalpy": -14.065000000000001,
+        "average temperature kelvin": 299.52272727272714,
+        "average pH": 5.566111111111111
+    },
+    "chorismate mutase": {
+        "unique reactions": [
+            " chorismate(aq) = prephenate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -55.45,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.3149999999999995
+    },
+    "cyclomaltodextrin glucanotransferase and glucan 1,4-a-glucosidase": {
+        "unique reactions": [
+            " cyclomaltohexaose(aq) + 6 H2O(l) = 6 D-glucose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -50.85,
+        "average temperature kelvin": 298.15,
+        "average pH": 4.58
+    },
+    "a-amylase and glucan 1,4-a-glucosidase": {
+        "unique reactions": [
+            " cyclomaltoheptaose(aq) + 7 H2O(l) = 7 D-glucose(aq)",
+            " cyclomaltooctaose(aq) + 8 H2O(l) = 8 D-glucose(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -50.54,
+        "average temperature kelvin": 298.15,
+        "average pH": 5.145
+    },
+    "polyamine aminotransferase": {
+        "unique reactions": [
+            " L-alanine(aq) + 3-aminopropionaldehyde(aq) = pyruvate(aq) + 1,3-diaminopropane(aq)"
+        ],
+        "average keq": 2.9,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 9.0
+    },
+    "chloine kinase": {
+        "unique reactions": [
+            " ATP(aq) + choline(aq) = ADP(aq) + O-phosphocholine(aq)"
+        ],
+        "average keq": 0.2,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 303.15,
+        "average pH": 9.5
+    },
+    "cyclohexa-1,5-diene-1-carboxyl-CoA (dienoyl-CoA) hydratase": {
+        "unique reactions": [
+            " cyclohexa-1,5-diene-1-carboxyl-CoA(aq) + H2O(l) = 6-hydroxycyclohex-1-ene-carboxyl-CoA(aq)"
+        ],
+        "average keq": 1.0,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 310.15,
+        "average pH": 7.4
+    },
+    "chorismate lyase": {
+        "unique reactions": [
+            " chorismate(aq) = 4-hydroxybenzoate(aq) + pyruvate(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -144.1,
+        "average temperature kelvin": 298.15,
+        "average pH": 6.98
+    },
+    "tyrosine aminotransferase": {
+        "unique reactions": [
+            " L-phenylalanine(aq) + 2-oxoglutarate(aq) = phenylpyruvate(aq) + L-glutamate(aq)",
+            " L-tyrosine(aq) + 2-oxoglutarate(aq) = 4-hydroxyphenylpyruvate(aq) + L-glutamate(aq)"
+        ],
+        "average keq": 0.9622499999999999,
+        "average enthalpy": 8.350000000000001,
+        "average temperature kelvin": 298.15000000000003,
+        "average pH": 7.526666666666667
+    },
+    "dihydrooratate dehydrogenase": {
+        "unique reactions": [
+            " (S)-dihydroorotate(aq) + oxonic acid(aq) = orotate(aq) + dihydroxonic acid(aq)"
+        ],
+        "average keq": 0.04,
+        "average enthalpy": "nan",
+        "average temperature kelvin": 298.15,
+        "average pH": 7.0
+    },
+    "prephenate dehydratase": {
+        "unique reactions": [
+            " prephenate(aq) = phenylpyruvate(aq) + H2O(l) + carbon dioxide(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -127.0,
+        "average temperature kelvin": 298.15,
+        "average pH": 7.17
+    },
+    "prephenate dehydrogenase": {
+        "unique reactions": [
+            " prephenate(aq) + NAD(aq) = 4-hydroxyphenylpyruvate(aq) + NADH(aq) + carbon dioxide(aq)"
+        ],
+        "average keq": "nan",
+        "average enthalpy": -79.0,
+        "average temperature kelvin": 298.15,
+        "average pH": 6.98
+    }
+}
