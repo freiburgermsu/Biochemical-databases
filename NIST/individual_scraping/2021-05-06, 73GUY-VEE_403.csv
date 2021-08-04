@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(Mg2+,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2097, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,2.5E-6,0.25   ,0.989,Guynn R.W.; Veech R.L.; J. Biol. Chem.; 248 6966 (1973).,73GUY/VEE_403," 2.3.1.8 & 2.7.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and enzymatic assay,
-2098, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,2.7E-3,0.25,0.164,,,,,
-2099, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,2.9E-4,0.25,0.395,,,,,
-2100, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,4.1E-3 ,0.25,0.171,,,,,
-2101, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,4.8E-5,0.25,0.695,,,,,
-2102, phosphate acetyltransferase and acetate kinase, CoA(aq) + acetate(aq) + ATP(aq) = acetyl-CoA(aq) + ADP(aq) + orthophospate(aq),311.15,7.01,6.9E-4 ,0.25,0.252,,,,,

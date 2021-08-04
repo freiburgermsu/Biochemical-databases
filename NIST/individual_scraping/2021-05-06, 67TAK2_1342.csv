@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1551, mannose isomerase, D-mannose(aq) = D-fructose(aq),274.15,7.0,3.1,Takasaki Y.; Agric. Biol. Chem.; 31 435 (1967).,67TAK2_1342," 5.3.1.7                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and polarimetry, phosphate (0.05 mol dm-3)
-1552, mannose isomerase, D-mannose(aq) = D-fructose(aq),279.15,7.0,3.1,,,,,
-1553, mannose isomerase, D-mannose(aq) = D-fructose(aq),284.15,7.0,3.0,,,,,
-1554, mannose isomerase, D-mannose(aq) = D-fructose(aq),298.15,7.0,3.0,,,,,
-1555, mannose isomerase, D-mannose(aq) = D-fructose(aq),308.15,7.0,2.9,,,,,
-1556, mannose isomerase, D-mannose(aq) = D-fructose(aq),313.15,7.0,3.0,,,,,

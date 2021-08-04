@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1833, [glutamate-ammonia-ligase] adenylyltransferase, ATP(aq) + [L-glutamate:ammonia ligase(ADP-forming)](aq) = pyrophosphate(aq) + adenylyl-[L-glutamate:ammonia ligase(ADP-forming)](aq),303.15,7.36,8.5,Mantel M.; Holzer H.; Proc. Natl. Acad. Sci. USA; 65 660 (1970).,70MAN/HOL_708," 2.7.7.42                                                    (ENZYME |                                                 KEGG)                                                ",, Tris (0.1 mol dm-3) + HCl

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3229, asparaginase, L-asparagine(aq) + H2O(l) = L-aspartate(aq) + ammonia(aq),298.15,6.86,-24.56,Rekharsky M.V.; Slozhenikina Yu.B.; Skuya A.Zh.; Egorov A.M.; Gal'chenko G.L.; Thermochim. Acta; 91 79 (1985).,85REK/SLO_987," 3.5.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.05 mol dm-3)

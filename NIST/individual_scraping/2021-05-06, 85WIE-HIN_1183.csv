@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3265, tryptophan synthase, indole(aq) + L-serine(aq) = L-tryptophan(aq) + H2O(l),283.15,7.5,sodium diphosphate (0.1 mol dm-3),-78.7,Wiesinger H.; Hinz H.J.; Arch. Biochem. Biophys.; 242 440 (1985).,85WIE/HIN_1183," 4.2.1.20                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry and spectrophotometry, sodium diphosphate (0.1 mol dm-3) and Tris (0.2 mol dm-3)
-3266, tryptophan synthase, indole(aq) + L-serine(aq) = L-tryptophan(aq) + H2O(l),298.15,7.5,sodium diphosphate (0.1 mol dm-3),-80.3,,,,,
-3267, tryptophan synthase, indole(aq) + L-serine(aq) = L-tryptophan(aq) + H2O(l),298.15,7.5,Tris (0.2 mol dm-3),-81.2,,,,,
-3268, tryptophan synthase, indole(aq) + L-serine(aq) = L-tryptophan(aq) + H2O(l),308.15,7.5,sodium diphosphate (0.1 mol dm-3),-80.6,,,,,

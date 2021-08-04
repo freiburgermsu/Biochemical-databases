@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3276, glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase, D-glucose 6-phosphate(aq) + NADP(aq) + H2O(l) = 6-phospho-D-gluconate(aq) + NADPH(aq),311.15,6.03,1.5E3,Casazza J.P.; Veech R.L.; J. Biol. Chem.; 261 690 (1986).,86CAS/VEE2_165," 1.1.1.49 & 3.1.1.31                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry,
-3277, glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase, D-glucose 6-phosphate(aq) + NADP(aq) + H2O(l) = 6-phospho-D-gluconate(aq) + NADPH(aq),311.15,6.47,8.9E3,,,,,
-3278, glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase, D-glucose 6-phosphate(aq) + NADP(aq) + H2O(l) = 6-phospho-D-gluconate(aq) + NADPH(aq),311.15,7.03,8.3E4,,,,,

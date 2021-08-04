@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3149, adenosylhomocysteinase," 4',5'-anhydroadenosine(aq) + H2O(l) = adenosine(aq)",310.15,7.0,0.48,Hershfield M.S.; Aiyar V.N.; Premakumar R.; Small W.C.; Biochem. J.; 230 43 (1985).,85HER/AIY_952," 3.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, potassium phosphate (0.010 mol dm-3)

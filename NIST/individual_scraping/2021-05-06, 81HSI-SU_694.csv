@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgSO4,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2797, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0002,0.33,Hsiao P.-H.; Su J.-C.; Sung H.-Y.; Proc. Natl. Sci. Counc. Repub. China; 5 31 (1981).,81HSI/SU_694," 2.7.7.9                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris (0.00020 mol dm-3) + HCl
-2798, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0004,0.32,,,,,
-2799, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0006,0.32,,,,,
-2800, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0008,0.30,,,,,
-2801, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0010,0.32,,,,,
-2802, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0020,0.36,,,,,
-2803, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0040,0.44,,,,,
-2804, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),310.15,7.2,0.0100,0.44,,,,,

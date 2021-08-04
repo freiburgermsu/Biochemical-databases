@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,protein ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3125, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),311.15,7.6,----,3.1E-6,Ansari H.; Price N.C.; Stevens L.; Biochem. Soc. Trans.; 13 362 (1985).,85ANS/PRI_277," 1.4.1.2                                                    (ENZYME |                                                 KEGG)                                                ",, sodium phosphate (0.1 mol dm-3)
-3126, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),311.15,7.6,BSA,4.8E-7,,,,,
-3127, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),311.15,7.6,ovalbumin,8.0E-8,,,,,

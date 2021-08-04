@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3095, dimethylmaleate hydratase," (2R,3S)-2,3-dimethylmalate(aq) = dimethylmaleate(aq) + H2O(l)",308.15,7.0,0.43,Kollmann-Koch A.; Eggerer H.; Hoppe-Seyler's Z. Physiol. Chem.; 365 847 (1984).,84KOL/EGG_1201," 4.2.1.85                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.10 mol dm-3)

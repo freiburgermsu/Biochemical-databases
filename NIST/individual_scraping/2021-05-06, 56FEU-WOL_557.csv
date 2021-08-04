@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-742, dephospho-CoA kinase, ATP(aq) + 3'-dephospho-CoA(aq) = ADP(aq) + CoA(aq),310.15,7.3,1.6,Feuer G.; Wollemann M.; Acta Physiol. Acad. Sci. Hung.; 10 1 (1956).,56FEU/WOL_557," 2.7.1.24                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, borate

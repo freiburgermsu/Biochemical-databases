@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1375, glycine formiminotransferase, 5-formiminotetrahydrofolate(aq) + glycine(aq) = N-formiminoglycine(aq) + tetrahydrofolate(aq),298.15,7.0,3.1,Uyeda K.; Rabinowitz J.C.; J. Biol. Chem.; 240 1701 (1965).,65UYE/RAB_354," 2.1.2.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.069 mol dm-3)

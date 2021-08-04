@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-643," (R,R)-butanediol dehydrogenase"," (R,R)-2,3-butanediol(aq) + NAD(aq) = (R)-acetoin(aq) + NADH(aq)",300.15,7.4,7.23E-3,Strecker H.J.; Harary I.; J. Biol. Chem.; 211 263 (1954).,54STR/HAR_38," 1.1.1.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3) and Tris (0.05 mol dm-3)
-644," (R,R)-butanediol dehydrogenase"," (R,R)-2,3-butanediol(aq) + NAD(aq) = (R)-acetoin(aq) + NADH(aq)",300.15,8.4,6.68E-2,,,,,

@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3370, (R)-2-hydroxyglutarate dehydrogenase, (R)-2-hydroxyglutarate(aq) + NAD(aq) = 2-oxoglutarate(aq) + NADH(aq),298.15,7.0,phosphate,1.47E-5,Buckel W.; Miller S.; Eur. J. Biochem.; 164 565 (1987).,87BUC/MIL_224," 1.1.1.-                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, (Tris + HCl) and phosphate
-3371, (R)-2-hydroxyglutarate dehydrogenase, (R)-2-hydroxyglutarate(aq) + NAD(aq) = 2-oxoglutarate(aq) + NADH(aq),298.15,7.0,Tris + HCl,1.83E-5,,,,,

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1246, mannitol dehydrogenase, D-mannitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq),310.15,8.05,0.056,Edmundowicz J.M.; Wriston J.C. Jr.; J. Biol. Chem.; 238 3539 (1963).,63EDM/WRI_195," 1.1.1.67                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3)

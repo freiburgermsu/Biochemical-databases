@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1749, glycerol dehydrogenase, glycerol(aq) + NAD(aq) = dihydroxyacetone(aq) + NADH(aq),298.15,9.0,1.4E-2,"Barrett M.J.; ""The Purification Properties and Subunit Structure of Glycerol Dehydrogenase""; Thesis University of Tennessee (1969).",69BAR_40," 1.1.1.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium carbonate (0.5 mol dm-3)

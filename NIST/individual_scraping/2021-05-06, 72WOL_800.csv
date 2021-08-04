@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2004, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,6.10,-20.0,Woledge R.C.; Cold Spring Harbor Symp. Quant. Biol.; 37 629 (1972).,72WOL_800," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, histidine + ammonia
-2005, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,7.10,-28.0,,,,,
-2006, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,7.78,-34.0,,,,,
-2007, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,8.33,-37.5,,,,,
-2008, alkaline phosphatase, phosphocreatine(aq) + H2O(l) = creatine(aq) + orthophosphate(aq),298.15,8.73,-40.0,,,,,

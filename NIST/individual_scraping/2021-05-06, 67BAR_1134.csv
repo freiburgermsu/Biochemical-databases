@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1451, citramalate lyase, (S)-2-methylmalate(aq) = acetate(aq) + pyruvate(aq),298.15,7.4,8.3,Barker H.A.; Arch. Mikrobiol.; 59 4 (1967).,67BAR_1134," 4.1.3.22                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.05 mol dm-3)

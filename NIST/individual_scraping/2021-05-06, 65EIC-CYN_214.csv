@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1329, 2-deoxy-D-gluconate dehydrogenase, 2-deoxy-D-gluconate(aq) + NAD(aq) = 2-deoxy-3-dehydro-D-gluconate(aq) + NADH(aq),308.15,9.0,3.4E-3,Eichhorn M.M.; Cynkin M.A.; Biochemistry; 4 159 (1965).,65EIC/CYN_214," 1.1.1.125                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium glycinate (0.12 mol dm-3)

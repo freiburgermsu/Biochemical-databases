@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-676, succinate-CoA ligase (ADP forming), ATP(aq) + succinate(aq) + CoA(aq) = ADP(aq) + phosphate(aq) + succinyl-CoA(aq),293.15,7.4,0.27,Kaufman S.; Alivisatos S.G.A.; J. Biol. Chem.; 216 141 (1955).,55KAU/ALI_1438," 6.2.1.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.10 mol dm-3) + HCl

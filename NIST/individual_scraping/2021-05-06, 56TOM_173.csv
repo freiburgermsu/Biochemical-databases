@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-844, 3a-hydroxysteroid dehydrogenase," 5Î²-pregnane-3Î±,17Î±,21-triol-11,20-dione(aq) + NAD(aq) = 5Î²-pregnane-17Î±,21-diol-3,11,20-trione(aq) + NADH(aq)",298.15,7.0,0.89,Tomkins G.M.; J. Biol. Chem.; 218 437 (1956).,56TOM_173," 1.1.1.50                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.020 mol dm-3)
-845, 3a-hydroxysteroid dehydrogenase," 5Î²-pregnane-3Î±,17Î±,21-triol-11,20-dione(aq) + NAD(aq) = 5Î²-pregnane-17Î±,21-diol-3,11,20-trione(aq) + NADH(aq)",298.15,7.8,5.8,,,,,

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2129," pyruvate,orthophosphate dikinase", ATP(aq) + pyruvate(aq) + orthophosphate(aq) = AMP(aq) + phosphoenolpyruvate(aq) + pyrophosphate(aq),298.15,7.24,4.9E-3,Sugiyama T.; Biochemistry; 12 2862 (1973).,73SUG_714," 2.7.9.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry,

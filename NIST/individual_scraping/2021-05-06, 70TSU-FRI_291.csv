@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1837," 2,4-diaminopentanoate dehydrogenase"," 2,4-diaminopentanoate(aq) + NAD(aq) + H2O(l) = 2-amino-4-oxopentanoate(aq) + NADH(aq) + ammonia(aq)",301.15,8.75,3.24E-4,Tsuda Y.; Friedman H.C.; J. Biol. Chem.; 245 5914 (1970).,70TSU/FRI_291," 1.4.1.12                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.050 mol dm-3)

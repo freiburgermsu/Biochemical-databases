@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3873, arginase, L-arginine(aq) + H2O(l) = L-ornithine(aq) + urea(aq),298.15,9.5,-18.1,Liu J.-S.; Zeng X.-C.; Tian A.-M.; Deng Y.; Thermochim. Acta; 253 275 (1995).,95LIU/ZEN_1049," 3.5.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, glycine + NaOH

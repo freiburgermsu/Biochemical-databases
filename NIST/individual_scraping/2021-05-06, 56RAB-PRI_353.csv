@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-809, glycine formiminotransferase, 5-formiminotetrahydrofolate(aq) + glycine(aq) = N-formiminoglycine(aq) + tetrahydrofolate(aq),310.15,7.0,5,Rabinowitz J.C.; Pricer W.E.; J. Am. Chem. Soc.; 78 4176 (1956).,56RAB/PRI_353," 2.1.2.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium maleate

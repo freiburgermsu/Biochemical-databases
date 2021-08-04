@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2278, galactose dehydrogenase," D-galactose(aq) + NAD(aq) = D-galactono-1,4-lactone(aq) + NADH(aq)",203.15,8.6,2.5E4,Ueberschdr K.-H.; Blachnitzky E.-O.; Kurz G.; Eur. J. Biochem.; 48 389 (1974).,74UEB/BLA_161," 1.1.1.48                                                    (ENZYME |                                                 KEGG)                                                ", gas-liquid chromatography, potassium phosphate and sodium phosphate (0.1 mol dm-3)
-2279, galactose dehydrogenase," D-galactose(aq) + NAD(aq) = D-galactono-1,4-lactone(aq) + NADH(aq)",298.15,6.8,3.9E2,,,,,
-2280, galactose dehydrogenase," D-galactose(aq) + NAD(aq) = D-galactono-1,4-lactone(aq) + NADH(aq)",303.15,6.8,4.0E2,,,,,

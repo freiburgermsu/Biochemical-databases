@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2161, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),298.15,8.3,1.1E-3,Vidal-Leiria M.; van Uden N.; Biochim. Biophys. Acta; 293 295 (1973) .,73VID/UDE_78," 1.1.1.18                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, tetrapotassium tetraphosphate (0.0167 mol dm-3)
-2162, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),298.15,8.5,1.7E-3,,,,,
-2163, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),298.15,9.0,5.3E-3,,,,,
-2164, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),298.15,9.5,1.7E-2,,,,,
-2165, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),298.15,9.8,3.3E-2,,,,,

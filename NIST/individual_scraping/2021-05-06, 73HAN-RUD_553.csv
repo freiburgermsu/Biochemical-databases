@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2103, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",303.15,8.0,2.29E3,Hanson R.L.; Rudolph F.B.; Lardy H.A.; J. Biol. Chem.; 248 7852 (1973).,73HAN/RUD_553," 2.7.1.11                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay; spectrophotometry, Tris (0.033 mol dm-3) + HCl

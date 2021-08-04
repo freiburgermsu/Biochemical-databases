@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3816, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),298.15,6.51,0.241,-76.4,Kishore N.; Tewari Y.B.; Yap W.T.; Goldberg R.N.; Biophys. Chem.; 49 163 (1994).,94KIS/TEW_1042," 3.5.2.6                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate
-3817, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),298.15,7.06,0.287,-76.9,,,,,
-3818, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),298.15,7.50,0.296,-83.2,,,,,
-3819, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),298.15,7.96,0.300,-84.0,,,,,
-3820, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),304.65,6.58,0.254,-78.0,,,,,

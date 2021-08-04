@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3633, L-iditol dehydrogenase, galactitol(aq) + NAD(aq) = D-tagatose(aq) + NADH(aq),298.15,7.0,0.013,Schneider K.H.; Giffhorn F.; Enzyme Microb. Technol.; 13 332 (1991).,91SCH/GIF_59," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.1 mol dm-3)

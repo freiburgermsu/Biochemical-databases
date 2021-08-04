@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1009, adenosylhomocysteinase, S-adenosyl-L-homocysteine(aq) + H2O(l) = adenosine(aq) + L-homocysteine(aq),310.15,6.3,1.4E-6,de la Haba G.; Cantoni G.L.; J. Biol. Chem.; 234 603 (1959).,59HAB/CAN_951," 3.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, potassium phosphate (0.04 mol dm-3)

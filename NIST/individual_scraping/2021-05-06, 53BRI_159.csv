@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-461, glucose dehydrogenase," Î²-D-glucose(aq) + NAD(aq) = D-glucono-1,5-lactone(aq) + NADH(aq)",294.15,7.0,3.1,Brink N.G.; Acta Chem. Scand.; 7 1081 (1953).,53BRI_159," 1.1.1.47                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.13 mol dm-3)

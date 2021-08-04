@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1776, camphor 5-monooxygenase, (+)-camphor(aq) + NADH(aq) + O2(aq) = (+)-5-exo-hydroxycamphor(aq) + NAD(aq) + H2O(l),298.15,7.4,-405.8,Peterson J.A.; McKenna E.J.; Estabrook R.W.; Coon M.J.; Arch. Biochem. Biophys.; 131 245 (1969).,69PET/MCK_337," 1.14.15.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + HCl

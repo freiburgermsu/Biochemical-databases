@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-4014, alanine aminotransferase, L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq),298.15,6.60,0.15,0.72,Tewari Y.B.; Kishore N.; Goldberg R.N.; Luong T. N.; J. Chem. Thermodyn.; 30 777 (1998).,98TEW/KIS_513," 2.6.1.2                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate
-4015, alanine aminotransferase, L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq),298.15,7.23,0.19,0.78,,,,,

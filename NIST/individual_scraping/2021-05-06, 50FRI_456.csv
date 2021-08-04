@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-314, purine-nucleoside phosphorylase, 2'-deoxyinosine(aq) + orthophosphate(aq) = hypoxanthine(aq) + 2-deoxy-Î±-D-ribose 1-phosphate(aq),297.15,7.4,0.019,Friedkin M.; J. Biol. Chem.; 184 449 (1950).,50FRI_456," 2.4.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.03 mol dm-3) + HCl

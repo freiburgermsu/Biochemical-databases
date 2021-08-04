@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-4000, chloine kinase, ATP(aq) + choline(aq) = ADP(aq) + O-phosphocholine(aq),303.15,9.5,0.2,Kim K.-H.; Voelker D.R.; Flocco M.T.; Carman G.M.; J. Biol. Chem.; 273 6844 (1998).,98KIM/VOE_559," 2.7.1.32                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, glycine (0.067 mol dm-3) + NaOH

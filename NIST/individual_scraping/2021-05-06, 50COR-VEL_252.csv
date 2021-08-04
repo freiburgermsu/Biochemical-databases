@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-310, glyceraldehyde-3-phosphate dehydrogenase, D-glyceraldehyde 3-phosphate(aq) + orthophosphate(aq) + NAD(aq) = 3-phospho-D-glyceroyl phosphate(aq) + NADH(aq),298.15,7.08,0.156,Cori C.F.; Velick S.F.; Cori G.T.; Biochim. Biophys. Acta; 4 160 (1950).,50COR/VEL_252," 1.2.1.12                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry,
-311, glyceraldehyde-3-phosphate dehydrogenase, D-glyceraldehyde 3-phosphate(aq) + orthophosphate(aq) + NAD(aq) = 3-phospho-D-glyceroyl phosphate(aq) + NADH(aq),298.15,7.09,0.0984,,,,,
-312, glyceraldehyde-3-phosphate dehydrogenase, D-glyceraldehyde 3-phosphate(aq) + orthophosphate(aq) + NAD(aq) = 3-phospho-D-glyceroyl phosphate(aq) + NADH(aq),298.15,7.85,0.193,,,,,
-313, glyceraldehyde-3-phosphate dehydrogenase, D-glyceraldehyde 3-phosphate(aq) + orthophosphate(aq) + NAD(aq) = 3-phospho-D-glyceroyl phosphate(aq) + NADH(aq),298.15,8.10,0.187,,,,,

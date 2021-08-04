@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3259, xylose isomerase, D-xylose(aq) = D-xylulose(aq),313.15,7.4,16.85,Tewari Y.B.; Steckler D.K.; Goldberg R.N.; Biophys. Chem.; 22 181 (1985).,85TEW/STE_1329," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (~0.025 mol dm-3)
-3260, xylose isomerase, D-xylose(aq) = D-xylulose(aq),320.15,7.4,16.55,,,,,
-3261, xylose isomerase, D-xylose(aq) = D-xylulose(aq),325.35,7.4,17.26,,,,,
-3262, xylose isomerase, D-xylose(aq) = D-xylulose(aq),331.65,7.4,17.57,,,,,
-3263, xylose isomerase, D-xylose(aq) = D-xylulose(aq),338.15,7.4,17.64,,,,,

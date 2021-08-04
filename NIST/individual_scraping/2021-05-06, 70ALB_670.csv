@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1801, nucleoside-triphosphate-adenylate kinase, GTP(aq) + AMP(aq) = ADP(aq) + GDP(aq),298.15,8.5,0.82,Albrecht G.J.; Biochemistry; 9 2462 (1970).,70ALB_670," 2.7.4.10                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, triethanolamine (0.05 mol dm-3) + HCl

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-790, L-lactate dehydrogenase, (S)-lactate(aq) + AP-NAD(aq)= pyruvate(aq) + AP-NADH(aq),303.15,9.0,0.27,Kaplan N.O.; Ciotti M.M.; Stolzenbach F.E.; J. Biol. Chem.; 221 833 (1956).,56KAP/CIO_110," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

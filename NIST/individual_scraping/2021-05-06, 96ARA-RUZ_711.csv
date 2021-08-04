@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3900, UDPhexose synthase,UDPglucose(aq) + imidazole(aq) = glucose 1-phosphate(aq) + UMPimidazole(aq),300.15,7.0,MOPS,0.00064,Arabshahi A.; Ruzicka F.J.; Geeganage S.; Frey P.A.; Biochemistry; 35 3426 (1996).,96ARA/RUZ_711," 2.7.7.-                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and fluorimetry, MOPS (0.095 mol dm-3) and Bicine (0.095 mol dm-3)
-3901, UDPhexose synthase,UDPglucose(aq) + imidazole(aq) = glucose 1-phosphate(aq) + UMPimidazole(aq),300.15,8.5,Bicine,0.022,,,,,

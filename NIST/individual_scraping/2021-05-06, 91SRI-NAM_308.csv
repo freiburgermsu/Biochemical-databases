@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3639, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),277.8,0.0111,Srinivasan R.; Nambi P.; Biophys. Chem.; 40 81 (1991).,91SRI/NAM_308," 1.5.1.21                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3) and Tris (0.1 mol dm-3)
-3640, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),281.2,0.0103,,,,,
-3641, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),285.3,0.00719,,,,,
-3642, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),291.1,0.00775,,,,,
-3643, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),297.6,0.00585,,,,,
-3644, ?1-piperidine-2-carboxylate reductase, L-pipecolate(aq) + NADP(aq) = Î”1-piperidine-2-carboxylate(aq) + NADPH(aq),305.0,0.00526,,,,,

@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)","c(Tris,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3447, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.15,8.7,0.00010,0.10,0.287,Tewari Y.B.; Steckler D.K.; Goldberg R.N.; J. Biol. Chem.; 263 3664 (1988).,88TEW/STE_1360," 5.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris
-3448, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.15,8.7,0.0010,0.10,0.293,,,,,
-3449, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.15,8.7,0.0010,0.30,0.299,,,,,
-3450, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.15,8.7,0.0010,0.64,0.302,,,,,
-3451, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),298.15,8.7,0.0025,0.10,0.308,,,,,
-3452, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),304.95,8.7,0.00010,0.10,0.310,,,,,
-3453, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),310.15,8.7,0.00010,0.10,0.329,,,,,
-3454, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),316.15,8.7,0.00010,0.10,0.357,,,,,

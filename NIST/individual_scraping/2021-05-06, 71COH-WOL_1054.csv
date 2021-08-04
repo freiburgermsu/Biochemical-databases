@@ -1,8 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1857, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,10.69,2.43E3,Cohen R.M.; Wolfenden R.; J. Biol. Chem.; 246 7566 (1971).,71COH/WOL_1054," 3.5.4.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, ammonia (2.0 mol dm-3) + HCl
-1858, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,7.00,1.03E4,,,,,
-1859, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,7.92,1.86E3,,,,,
-1860, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,8.48,6.22E2,,,,,
-1861, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,8.84,3.79E2,,,,,
-1862, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,9.31,3.18E2,,,,,
-1863, cytidine deaminase, cytidine(aq) + H2O(l) = uridine(aq) + ammonia(aq),298.15,9.77,4.39E2,,,,,

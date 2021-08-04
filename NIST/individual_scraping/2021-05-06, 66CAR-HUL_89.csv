@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1401, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.00,7.6E-10,Cartwright L.N.; Hullin R.P.; Biochem. J.; 101 781 (1966).,66CAR/HUL_89," 1.1.1.26                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
-1402, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.05,6.4E-10,,,,,
-1403, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.07,5.2E-10,,,,,
-1404, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.09,5.2E-10,,,,,
-1405, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.12,1.08E-9,,,,,

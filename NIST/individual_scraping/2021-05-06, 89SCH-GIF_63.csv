@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3563, L-iditol 2-dehydrogenase, D-mannitol(aq) + NAD(aq) = D-fructose(aq) + NADH(aq),298.15,7.0,4.5E-2,Schneider K.-H.; Giffhorn F.; Eur. J. Biochem.; 184 15 (1989).,89SCH/GIF_63," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.10 mol dm-3)

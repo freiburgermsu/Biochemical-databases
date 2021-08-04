@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3565," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),286.35,5.65,15.8,Tewari Y.B.; Goldberg R.N.; J. Biol. Chem.; 264 3966 (1989).,89TEW/GOL_909," 3.2.1.10                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate (0.1 mol dm-3)
-3566," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),292.45,5.65,16.2,,,,,
-3567," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),298.15,5.65,17.2,,,,,
-3568," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),304.15,5.65,18.0,,,,,
-3569," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),310.25,5.65,19.4,,,,,
-3570," oligo-1,6-glucosidase", isomaltose(aq) + H2O(l) = 2 D-glucose(aq),316.35,5.65,19.7,,,,,

@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-13, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",266.15,7,0.00018,Meyerhof O.; Lohmann K.; Biochem. Z.; 271 89 (1934).,34MEY/LOH_1100," 4.1.2.13 & 5.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
-14, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",273.15,7,0.00030,,,,,
-15, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",293.15,7,0.0015,,,,,
-16, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",333.15,7,0.013,,,,,
-17, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",343.15,7,0.022,,,,,

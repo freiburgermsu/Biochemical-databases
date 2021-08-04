@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1010, D-xylulose reductase, allitol(aq) + NAD(aq) = D-psicose(aq) + NADH(aq),298.15,7.00,1.44E-4,Hollmann S.; Hoppe-Seyler's Z. Physiol. Chem.; 317 193 (1959).,59HOL_46," 1.1.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3)
-1011, D-xylulose reductase, allitol(aq) + NAD(aq) = D-psicose(aq) + NADH(aq),298.15,8.00,1.44E-3,,,,,

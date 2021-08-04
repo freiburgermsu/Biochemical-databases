@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-230, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.0,24,Meyerhof O.; Junowicz-Kocholaty R.; J. Biol. Chem.; 149 71 (1943).,43MEY/JUN_1281," 5.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and polarimetry,
-231, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),312.15,7.0,21,,,,,
-232, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),333.15,7.0,25,,,,,

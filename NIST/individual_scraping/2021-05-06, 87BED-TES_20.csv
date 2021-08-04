@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3364, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,7.4,2.4E-4,Bedino S.; Testore G.; Obert F.; Ital. J. Biochem.; 36 243 (1987).,87BED/TES_20," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium phosphate (0.10 mol dm-3)

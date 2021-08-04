@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1388, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.37,2.43E-5,Bergmeyer H.U.; Moellering H.; Biochem. Z.; 344 167 (1966).,66BER/MOE_133," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine (0.15 mol dm-3)
-1389, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.54,3.49E-5,,,,,
-1390, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.68,4.74E-5,,,,,
-1391, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.76,6.19E-5,,,,,
-1392, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.87,7.67E-5,,,,,
-1393, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.99,1.01E-4,,,,,
-1394, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,8.09,1.29E-4,,,,,
-1395, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,8.19,1.62E-4,,,,,

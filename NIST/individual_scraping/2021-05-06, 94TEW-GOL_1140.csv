@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3851, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.82,0.30,63.2,Tewari Y.B.; Goldberg R.N.; J. Solution Chem. 23 167 (1994).,94TEW/GOL_1140," 4.1.99.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, potassium phosphate (0.10 mol kg-1)

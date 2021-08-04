@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-958, estradiol 17_-dehydrogenase, estradiol-17Î²(aq) + NAD(aq) = estrone(aq) + NADH(aq),298.15,10.00,180,Langer L.J.; Engel L.L.; J. Biol. Chem.; 233 583 (1958).,58LAN/ENG_194," 1.1.1.62                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate Tris and carbonate/bicarbonate
-959, estradiol 17_-dehydrogenase, estradiol-17Î²(aq) + NAD(aq) = estrone(aq) + NADH(aq),298.15,7.00,0.18,,,,,
-960, estradiol 17_-dehydrogenase, estradiol-17Î²(aq) + NAD(aq) = estrone(aq) + NADH(aq),298.15,8.00,1.8,,,,,
-961, estradiol 17_-dehydrogenase, estradiol-17Î²(aq) + NAD(aq) = estrone(aq) + NADH(aq),298.15,9.00,18,,,,,

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1536, succinate dehydrogenase, 2 succinate(aq) + O2(aq) = 2 fumarate(aq) + 2 H2O(l),298.15,7.4,-72.4,Poe M.; Gutfreund H.; Estabrook R.W.; Arch. Biochem. Biophys.; 122 204 (1967).,67POE/GUT_263," 1.3.99.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.10 mol dm-3) and Tris (0.10 mol dm-3)

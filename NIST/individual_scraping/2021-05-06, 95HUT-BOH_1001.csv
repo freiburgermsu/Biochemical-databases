@@ -1,8 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3854, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.0,phosphate,-52.9,H|ttl R.; Bohmhammel K.; Wolf G.; Oehmgen R.; Thermochim. Acta; 250 1 (1995).,95HUT/BOH_1001," 3.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate Tris Mes and Hepes
-3855, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.3,Mes,-46.0,,,,,
-3856, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.5,phosphate,-61.0,,,,,
-3857, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.86,phosphate,-58.6,,,,,
-3858, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.0,Hepes,-42.0,,,,,
-3859, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.0,Tris,-16.4,,,,,
-3860, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.6,phosphate,-50.9,,,,,

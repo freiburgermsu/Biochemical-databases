@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3116, xylose isomerase, D-glucose(aq) = D-fructose(aq),298.15,~7.4,2.76,Tewari Y.B.; Goldberg R.N.; J. Solution Chem.; 13 523 (1984).,84TEW/GOL_1315," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", microcalorimetry, Tris + HCl
-3117, xylose isomerase, D-glucose(aq) = D-fructose(aq),313.25,~7.4,4.01,,,,,
-3118, xylose isomerase, D-glucose(aq) = D-fructose(aq),331.85,~7.4,5.21,,,,,
-3119, xylose isomerase, D-glucose(aq) = D-fructose(aq),344.15,~7.4,6.34,,,,,

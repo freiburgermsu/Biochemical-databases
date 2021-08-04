@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-707, mannitol-1-phosphate dehydrogenase, D-mannitol 1-phosphate(aq) + NAD(aq) = D-fructose 6-phosphate(aq) + NADH(aq),298.15,7.0,5E-3,Wolff J.B.; Kaplan N.O.; Methods Enzymol.; 1 346 (1955).,55WOL/KAP_75," 1.1.1.17                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3) or bicarbonate (0.1 mol dm-3)

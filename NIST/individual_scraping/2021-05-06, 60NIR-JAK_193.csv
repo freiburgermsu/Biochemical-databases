@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1123, 4-hydroxybutyrate dehydrogenase, 4-hydroxybutanoate(aq) + NAD(aq) = 4-oxobutanoate(aq) + NADH(aq),298.15,7.14,3.9,Nirenberg M.W.; Jakoby W.B.; J. Biol. Chem.; 235 954 (1960).,60NIR/JAK_193," 1.1.1.61                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + HCl
-1124, 4-hydroxybutyrate dehydrogenase, 4-hydroxybutanoate(aq) + NAD(aq) = 4-oxobutanoate(aq) + NADH(aq),298.15,8.00,25.,,,,,

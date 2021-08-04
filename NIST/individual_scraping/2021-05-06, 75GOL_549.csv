@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2361, hexokinase, ATP(aq) + D-mannose(aq) = ADP(aq) + D-mannose 6-phosphate(aq),298.19,8.57,0.12,-68.9,Goldberg R.N.; Biophys. Chem.; 3 192 (1975).,75GOL_549," 2.7.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.18 mol kg-1) + HCl
-2362, hexokinase, ATP(aq) + D-mannose(aq) = ADP(aq) + D-mannose 6-phosphate(aq),298.19,8.62,0.10,-69.7,,,,,
-2363, hexokinase, ATP(aq) + D-mannose(aq) = ADP(aq) + D-mannose 6-phosphate(aq),301.66,8.60,0.12,-68.8,,,,,
-2364, hexokinase, ATP(aq) + D-mannose(aq) = ADP(aq) + D-mannose 6-phosphate(aq),305.11,8.63,0.12,-69.1,,,,,

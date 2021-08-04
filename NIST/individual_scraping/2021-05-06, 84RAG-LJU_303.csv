@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3106, methylenetetrahydrofolate dehydrogenase (NAD+)," 5,10-methylenetetrahydrofolate(aq) + NAD(aq) = 5,10-methenyltetrahydrofolate(aq) + NADH(aq)",298.15,6.7,2.0,Ragsdale S.W.; Ljungdahl L.G.; J. Biol. Chem.; 259 3499 (1984).,84RAG/LJU_303," 1.5.1.15                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + maleate (0.5 mol dm-3)

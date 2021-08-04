@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1445, [acyl-carrier-protein] S-acetyltransferase, acetyl-CoA(aq) + acyl-carrier protein(aq) = CoA(aq) + acetyl-[acyl-carrier protein](aq),311.15,6.5,2.09,Williamson I.P.; Wakil S.J.; J. Biol. Chem.; 241 2326 (1966).,66WIL/WAK_411," 2.3.1.38                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, potassium phosphate (0.1 mol dm-3)

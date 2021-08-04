@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1559, methylenetetrahydrofolate dehydrogenase (NADP+)," 5,10-methylenetetrahydrofolate(aq) + NADP(aq) = 5,10-methenyltetrahydrofolate(aq) + NADPH(aq)",298.15,6.9,0.14,Uyeda K.; Rabinowitz J.C.; J. Biol. Chem.; 242 4378 (1967).,67UYE/RAB_301," 1.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium maleate (0.05 mol dm-3)

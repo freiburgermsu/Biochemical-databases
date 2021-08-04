@@ -1,10 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,cosolvent ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3396, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,2-propanol (14 mass percent),21,Lim W.A.; Raines R.T.; Knowles J.R.; Biochemistry; 27 1158 (1988).,88LIM/RAI_1287," 5.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry; NMR, triethanolamine (0.1 mol dm-3)
-3397, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (10 mass percent),19,,,,,
-3398, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (18 mass percent),16,,,,,
-3399, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (27 mass percent),11,,,,,
-3400, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (34 mass percent),14,,,,,
-3401, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (36 mass percent),10,,,,,
-3402, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,glycerol (9 mass percent),20,,,,,
-3403, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,none,22,,,,,
-3404, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),303.15,7.6,poly(ethylene glycol) (18 mass percent),19,,,,,

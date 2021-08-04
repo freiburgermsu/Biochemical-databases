@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-31, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",293.15,58,Meyerhof O.; Lohmann K.; Biochem. Z.; 275 430 (1935).,35MEY/LOH_1102," 4.1.2.13 & 5.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate
-32, fructose-biphosphate aldolase and triose-phosphate isomerase," D-fructose 1,6-bisphosphate(aq) = 2 glycerone phosphate(aq)",313.15,64,,,,,

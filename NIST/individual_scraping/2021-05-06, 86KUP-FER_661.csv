@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3319, adenylate kinase, ATP(aq) + ADP(aq) = adenosine 5'-tetraphosphate(aq) + AMP(aq),303.15,8.0,0.1,Kupriyanov V.V.; Ferretti J.A.; Balaban R.S.; Biochim. Biophys. Acta; 869 107 (1986).,86KUP/FER_661," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", NMR, {Tris (0.10 mol dm-3) + HCl} and {triethanolamine (0.10 mol dm-3) + HCl}

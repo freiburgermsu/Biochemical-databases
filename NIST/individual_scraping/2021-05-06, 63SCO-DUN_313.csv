@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1278, glutathione reductase (NAD(P)H), 2 reduced glutathione(aq) + NADP(aq) =  oxidized glutathione(aq) + NADPH(aq),283.15,6.8,6.44E-3,Scott E.M.; Duncan I.W.; Ekstrand V.; J. Biol. Chem.; 238 3928 (1963).,63SCO/DUN_313," 1.6.4.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.167 mol dm-3)
-1279, glutathione reductase (NAD(P)H), 2 reduced glutathione(aq) + NADP(aq) =  oxidized glutathione(aq) + NADPH(aq),298.15,6.8,6.44E-3,,,,,
-1280, glutathione reductase (NAD(P)H), 2 reduced glutathione(aq) + NADP(aq) =  oxidized glutathione(aq) + NADPH(aq),313.15,6.8,5.95E-3,,,,,

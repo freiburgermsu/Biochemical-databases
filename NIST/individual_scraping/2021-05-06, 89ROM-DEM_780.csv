@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,added solute ,"c(MgCl2,mol dm<sup>-3</sup>)",K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3556, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),308.15,7.0,none,0.100,73,Romero P.J.; de Meis L.; J. Biol. Chem.; 264 7869 (1989).,89ROM/DEM_780," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, Mops (0.10 mol dm-3) + KOH
-3557, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),308.15,7.0,none,0,68,,,,,
-3558, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),308.15,8.0,dimethyl sulfoxide (50% v/v),0.0009,22,,,,,
-3559, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),308.15,8.0,none,0.0009,26,,,,,
-3560, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),308.15,8.0,poly(ethylene glycol) (50% w/v),0.0009,9,,,,,

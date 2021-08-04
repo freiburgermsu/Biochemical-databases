@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3935, L-iditol 2-dehydrogenase, L-iditol(aq) + NAD(aq) = L-sorbose(aq) + NADH(aq),298.15,7.58,0.191,0.186,Tewari Y.B.; Goldberg R.N.; J. Chem. Thermodyn.; 28 1127 (1996).,96TEW/GOL_60," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and spectrophotometry, phosphate

@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2744, alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),298.15,7.5,9.8E-4,Cook P.F.; Blanchard J.S.; Cleland W.W.; Biochemistry; 19 4853 (1980).,80COO/BLA_2," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
-2745, alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),298.15,8.0,3.1E-3,,,,,
-2746, alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),298.15,8.5,9.8E-3,,,,,
-2747, alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),298.15,9.0,3.1E-2,,,,,
-2748, alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),298.15,9.5,9.8E-2,,,,,

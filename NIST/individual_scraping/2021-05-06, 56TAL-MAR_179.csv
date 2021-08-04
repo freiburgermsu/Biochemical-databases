@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-840, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,6.0,0.026,Talalay P.; Marcus P.I.; J. Biol. Chem.; 218 675 (1956).,56TAL/MAR_179," 1.1.1.51                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, orthophosphate (0.033 mol dm-3) and pyrophosphate (0.033 mol dm-3)
-841, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,7.0,0.26,,,,,
-842, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,8.0,2.6,,,,,
-843, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,9.0,26,,,,,

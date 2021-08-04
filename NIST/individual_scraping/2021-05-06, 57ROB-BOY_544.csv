@@ -1,30 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-871, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,5.70,0.146,88,Robbins E.A.; Boyer P.D.; J. Biol. Chem.; 224 121 (1957).,57ROB/BOY_544," 2.7.1.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, phosphate
-872, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,5.94,0.00217,222,,,,,
-873, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,5.94,0.00217,230,,,,,
-874, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,5.94,0.099,172,,,,,
-875, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,5.99,0.149,139,,,,,
-876, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.00,0.00250,430,,,,,
-877, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.00,0.00250,618,,,,,
-878, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.00,0.00395,304,,,,,
-879, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.00,0.0855,193,,,,,
-880, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.00,0.105,222,,,,,
-881, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.01,0.00485,300,,,,,
-882, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.01,0.080,123,,,,,
-883, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.02,0.00216,249,,,,,
-884, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.02,0.01084,203,,,,,
-885, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.03,0.00756,245,,,,,
-886, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.03,0.0140,186,,,,,
-887, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.03,0.117,260,,,,,
-888, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.03,0.177,205,,,,,
-889, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.03,0.177,214,,,,,
-890, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.04,0.0903,184,,,,,
-891, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.04,0.119,154,,,,,
-892, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.07,0.00214,294,,,,,
-893, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.07,0.00214,299,,,,,
-894, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.07,0.00214,303,,,,,
-895, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.08,0.00492,356,,,,,
-896, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.12,0.00205,277,,,,,
-897, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.34,0.151,286,,,,,
-898, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,6.67,0.153,540,,,,,
-899, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),303.15,7.00,0.155,1310,,,,,

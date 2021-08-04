@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1093, glucuronate isomerase, D-galacturonate(aq) = D-tagaturonate(aq),310.15,8.0,borate,~1.4,Ashwell G.; Wahba A.J.; Hickman J.; J. Biol. Chem.; 235 1559 (1960).,60ASH/WAH_1368," 5.3.1.12                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, phosphate and borate
-1094, glucuronate isomerase, D-galacturonate(aq) = D-tagaturonate(aq),310.15,8.0,phosphate,0.25,,,,,

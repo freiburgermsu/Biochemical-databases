@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2374, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.7,citrate,-21.9,Jespersen N.D.; J. Am. Chem. Soc.; 97 1662 (1975).,75JES_999," 3.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate maleate citrate and Tris
-2375, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.7,maleate,-56.7,,,,,
-2376, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.7,phosphate,-48.2,,,,,
-2377, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.5,phosphate,-61.3,,,,,
-2378, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.5,Tris,-18.7,,,,,

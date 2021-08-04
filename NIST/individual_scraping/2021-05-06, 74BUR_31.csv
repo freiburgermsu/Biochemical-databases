@@ -1,15 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2182, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),282.45,7.650,0.131,Burton K.; Biochem. J.; 143 365 (1974).,74BUR_31," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.005 mol dm-3)
-2183, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),282.55,7.621,0.128,,,,,
-2184, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),282.65,7.621,0.131,,,,,
-2185, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),285.55,7.653,0.157,,,,,
-2186, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),285.65,7.653,0.162,,,,,
-2187, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),285.85,7.653,0.158,,,,,
-2188, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),286.10,7.663,0.171,,,,,
-2189, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),298.75,7.581,0.318,,,,,
-2190, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),309.95,7.548,0.498,,,,,
-2191, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),310.15,7.552,0.549,,,,,
-2192, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),310.35,7.547,0.516,,,,,
-2193, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),311.35,7.546,0.556,,,,,
-2194, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),313.75,7.516,0.591,,,,,
-2195, alcohol dehydrogenase, 2-propanol(aq) + NAD(aq) = acetone(aq) + NADH(aq),314.85,7.565,0.713,,,,,

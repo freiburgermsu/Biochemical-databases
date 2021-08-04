@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2495, xylose isomerase, D-glucose(aq) = D-fructose(aq),303.15,7.0,0.828,Sproull R.D.; Lim H.C.; Schneider D.R.; Biotechnol. Bioeng.; 18 633 (1976).,76SPR/LIM_1310," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and chemical analysis,
-2496, xylose isomerase, D-glucose(aq) = D-fructose(aq),318.15,7.0,0.957,,,,,
-2497, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,7.0,1.141,,,,,
-2498, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.15,7.0,1.283,,,,,
-2499, xylose isomerase, D-glucose(aq) = D-fructose(aq),353.15,7.0,1.381,,,,,

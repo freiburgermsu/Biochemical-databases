@@ -1,8 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(phosphate,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1953, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,6.7,0.020,388,Cagen L.M.; Friedmann H.C.; J. Biol. Chem.; 247 3382 (1972).,72CAG/FRI_570," 2.7.1.80                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
-1954, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,6.7,0.025,391,,,,,
-1955, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,6.7,0.050,480,,,,,
-1956, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,6.7,0.075,480,,,,,
-1957, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,6.7,0.10,470,,,,,
-1958, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,7.7,0.075,918,,,,,
-1959, pyrophosphate-serine phosphotransferase, pyrophosphate(aq) + L-serine(aq) = orthophosphate(aq) + O-phospho-L-serine(aq),310.15,7.7,0.10,991,,,,,

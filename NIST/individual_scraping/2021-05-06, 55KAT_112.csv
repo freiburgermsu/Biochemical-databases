@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-675, D-lactate dehydrogenase, (R)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,7.3,44.4,Katz S.; Biochim. Biophys. Acta; 17 226 (1955).,55KAT_112," 1.1.1.28                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.15 mol dm-3)

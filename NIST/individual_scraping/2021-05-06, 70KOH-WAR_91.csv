@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1829, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.50,phosphate,9.3E-7,Kohn L.D.; Warren W.A.; J. Biol. Chem.; 245 3831 (1970).,70KOH/WAR_91," 1.1.1.26                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, (Tris + HCl) and phosphate
-1830, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.50,Tris + HCl,7.3E-7,,,,,
-1831, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.83,Tris + HCl,1.8E-6,,,,,

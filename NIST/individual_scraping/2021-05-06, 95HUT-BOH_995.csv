@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3861, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.3,Mes,-18.2,H|ttl R.; Bohmhammel K.; Wolf G.; Oehmgen R.; Thermochim. Acta; 250 1 (1995).,95HUT/BOH_995," 3.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate Tris Mes and Hepes
-3862, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,6.86,phosphate,-32.7,,,,,
-3863, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,7.0,Hepes,-14.7,,,,,
-3864, urease, ammonium carbamate(aq) + H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),298.15,8.0,Tris,8.7,,,,,

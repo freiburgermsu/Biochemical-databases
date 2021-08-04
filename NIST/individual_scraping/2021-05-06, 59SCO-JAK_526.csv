@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1064, 4-aminobutyrate transaminase, 4-aminobutanoate(aq) + 2-oxoglutarate(aq) = 4-oxobutanoate(aq) + L-glutamate(aq),311.15,8.1,0.14,Scott E.M.; Jakoby W.B.; J. Biol. Chem.; 234 932 (1959).,59SCO/JAK_526," 2.6.1.19                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, pyrophosphate (0.1 mol dm-3)

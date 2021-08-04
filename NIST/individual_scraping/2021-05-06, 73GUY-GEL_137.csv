@@ -1,19 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(Mg2+,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2079, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.06,0.0,0.25,1.13E-5,Guynn R.W.; Gelberg H.J.; Veech R.L.; J. Biol. Chem.; 248 6957 (1973).,73GUY/GEL_137," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.050 mol dm-3)
-2080, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.06,0.0,0.25,1.20E-5,,,,,
-2081, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.08,0.0,0.25,1.04E-5,,,,,
-2082, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.08,0.0,0.25,1.08E-5,,,,,
-2083, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.08,0.0,0.25,1.27E-5,,,,,
-2084, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,7.11,0.0,0.25,1.23E-5,,,,,
-2085, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.05,1.11E-3,0.25,3.45E-5,,,,,
-2086, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.06,1.11E-3,0.25,3.39E-5,,,,,
-2087, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.07,0.0,0.25,3.41E-5,,,,,
-2088, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.07,1.11E-3,0.25,3.19E-5,,,,,
-2089, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.08,0.0,0.25,3.59E-5,,,,,
-2090, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.09,1.11E-3,0.25,3.29E-5,,,,,
-2091, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.09,1.11E-3,0.25,3.76E-5,,,,,
-2092, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.11,0.0,0.25,8.98E-6,,,,,
-2093, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.11,1.11E-3,0.25,3.94E-5,,,,,
-2094, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.13,0.0,0.25,1.78E-5,,,,,
-2095, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.14,0.0,0.25,3.96E-5,,,,,
-2096, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.17,0.0,0.25,1.79E-5,,,,,

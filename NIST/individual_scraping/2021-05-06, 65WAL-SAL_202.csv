@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1376, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),298.15,8.0,1.0E-4,Walsh D.A.; Sallach H.J.; Biochemistry; 4 1076 (1965).,65WAL/SAL_202," 1.1.1.95                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.25 mol dm-3) + HCl

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2490, formate dehydrogenase, formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq),298.15,6.2,~420,Ruschig U.; M|ller U.; Willnow P.; Hvpner T.; Eur. J. Biochem.; 70 325 (1976).,76RUS/MUL_237," 1.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, histidine hydrochloride (0.071 mol dm-3)

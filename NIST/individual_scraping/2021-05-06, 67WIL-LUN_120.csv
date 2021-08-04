@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1565, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),311.15,7.00,0.255,4.94E-2,Williamson D.H.; Lund P.; Krebs H.A.; Biochem. J.; 103 514 (1967).,67WIL/LUN_120," 1.1.1.30                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.0125 mol dm-3 to 0.10 mol dm-3)
-1566, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),311.15,7.04,0.134,5.26E-2,,,,,
-1567, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),311.15,7.09,0.073,5.61E-2,,,,,
-1568, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),311.15,7.10,0.042,4.82E-2,,,,,

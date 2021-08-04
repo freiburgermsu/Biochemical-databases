@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-623, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),295.15,7.0,1800,Levintow L.; Meister A.; J. Biol. Chem.; 209 265 (1954).,54LEV/MEI_1439," 6.3.1.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and enzymatic assay, imidazole (0.1 mol dm-3) or Tris (0.1 mol dm-3)
-624, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,6.0, 400,,,,,
-625, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.0,1233,,,,,
-626, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.9,3000,,,,,

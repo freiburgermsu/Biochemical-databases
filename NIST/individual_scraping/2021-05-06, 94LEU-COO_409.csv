@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3829, serine acetyltransferase, acetyl-CoA(aq) + L-serine(aq) = CoA(aq) + O-acetyl-L-serine(aq),298.15,6.0,15,Leu L.-S.; Cook P.F.; Biochemistry; 33 2667 (1994).,94LEU/COO_409," 2.3.1.30                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Mes (0.1 mol dm-3)
