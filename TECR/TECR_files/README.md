@@ -2,7 +2,7 @@
 
 ## Raw data
 -> 2021-05-06_concatenated_TECR_01.csv = The raw CSV of scraped TECR enzymes \
--> 2021-08-04_vetted&reorganized_TECR.csv = The raw CSV with like columns combined and renamed for clarity. \
+-> 2021-08-04_vetted&reorganized_TECR.csv = The raw CSV with like-columns combined and renamed for clarity. \
 
 ## Processed data
 -> 2021-08-04_TECR_consolidated.json = A JSON of consolidated TECR data \
