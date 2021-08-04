@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+321, cyclomaltodextrin glucanotransferase, Gu(aq) = cyclomaltohexaose(aq) + G(u-6)(aq),311.15,6.5,0.0134,"Pazur J.H.; ""Mathematical Analysis of Amylase Reaction""; Thesis Iowa State College (1950)",50PAZ_433," 2.4.1.19                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

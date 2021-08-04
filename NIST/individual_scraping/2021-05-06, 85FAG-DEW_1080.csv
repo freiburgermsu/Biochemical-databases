@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3132, Ca2+-transporting ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),295.15,7.0,4E4,Fagan M.H.; Dewey T.G.; J. Biol. Chem.; 260 6147 (1985).,85FAG/DEW_1080," 3.6.1.38                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Mops (0.050 mol dm-3)

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1754, carnitine O-acetyltransferase, butyryl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-butyrylcarnitine(aq),298.15,7.5,1.0,"Bremer J.; Aas M.; in ""Mitochondria Structure and Function""; L. Ernster and Z. Drahota eds.; Academic Press New York (1969) pp. 127-135.",69BRE/AAS_392," 2.3.1.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.02 mol dm-3)

@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3926, guanylate kinase, ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq),298.15,7.5,0.0056,1.5,Li Y.; Zhang Y.; Yan H.; J. Biol. Chem.; 271 28038 (1996).,96LI/ZHA_668," 2.7.4.8                                                    (ENZYME |                                                 KEGG)                                                ", NMR and radioactivity, Tris + HCl
+3927, guanylate kinase, ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq),298.15,7.5,0.013 ,3.1,,,,,
+3928, guanylate kinase, ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq),298.15,7.5,0.020 ,5.2,,,,,
+3929, guanylate kinase, ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq),298.15,7.5,0.045 ,5.3,,,,,
+3930, guanylate kinase, ATP(aq) + GMP(aq) = ADP(aq) + GDP(aq),298.15,7.7,0.0050,2.1,,,,,

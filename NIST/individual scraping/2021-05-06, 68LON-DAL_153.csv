@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1675, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,6.6,0.054,0.90,Londesborough J.C.; Dalziel K.; Biochem. J.; 110 217 (1968).,68LON/DAL_153," 1.1.1.42                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, carbonate + bicarbonate
-1676, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,6.9,0.254,0.72,,,,,
-1677, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,6.9,0.404,0.62,,,,,
-1678, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,7.05,0.104,0.86,,,,,
-1679, isocitrate dehydrogenase (NADP+), isocitrate(aq) + NADP(aq) + H2O(l) = 2-oxoglutarate(aq) + NADPH(aq) + carbon dioxide(aq),298.15,7.2,0.017,0.93,,,,,

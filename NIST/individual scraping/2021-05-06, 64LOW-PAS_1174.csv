@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1295, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),311.15,7.1,4.6,Lowry O.H.; Passonneau J.V.; J. Biol. Chem.; 239 31 (1964).,64LOW/PAS_1174," 4.2.1.11                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry, imidazole (0.020 mol dm-3)

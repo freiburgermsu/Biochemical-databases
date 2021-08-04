@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+795, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),303.15,7.6,2.43E-6,Kaplan N.O.; Ciotti M.M.; Stolzenbach F.E.; J. Biol. Chem.; 221 833 (1956).,56KAP/CIO_275," 1.4.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3)

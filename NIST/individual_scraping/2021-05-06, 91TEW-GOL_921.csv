@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3654, _-glucosidase, Î±-D-melibiose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),298.15,5.65,123,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 40 59 (1991).,91TEW/GOL_921," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate (0.1 mol dm-3)

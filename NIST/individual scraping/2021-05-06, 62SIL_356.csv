@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1229, glutamate formiminotransferase, 5-formiminotetrahydrofolate(aq) + L-glutamate(aq) = N-formimino-L-glutamate(aq) + tetrahydrofolate(aq),310.15,6.6,0.09,Silverman M.; Methods Enzymol.; 5 790 (1962).,62SIL_356," 2.1.2.5                                                    (ENZYME |                                                 KEGG)                                                ",, potassium phosphate (0.047 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2796, sorbitol-6-phosphate dehydrogenase (NADP+), D-sorbitol 6-phosphate(aq) + NADP(aq) = D-glucose 6-phosphate(aq) + NADPH(aq),303.15,8.66,0.234,Hirai M.; Plant Physiol.; 67 221 (1981).,81HIR_225," 1.1.1.-                                                    (ENZYME |                                                 KEGG)                                                ",, Tris (0.05 mol dm-3) + HCl

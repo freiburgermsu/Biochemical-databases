@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3575, a-glucosidase, maltose(aq) + H2O(l) = 2 D-glucose(aq),298.15,5.65,-4.02,Tewari Y.B.; Goldberg R.N.; J. Biol. Chem.; 264 3966 (1989).,89TEW/GOL_912," 3.2.1.20                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium acetate (0.1 mol dm-3)
+3576, a-glucosidase, maltose(aq) + H2O(l) = 2 D-glucose(aq),304.55,5.65,-3.74,,,,,

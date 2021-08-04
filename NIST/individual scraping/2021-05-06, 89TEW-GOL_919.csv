@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3586, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),298.15,5.65,2.36,Tewari Y.B.; Goldberg R.N.; J. Biol. Chem.; 264 3966 (1989).,89TEW/GOL_919," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium acetate (0.1 mol dm-3)
-3587, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),304.55,5.65,1.91,,,,,
-3588, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),310.15,5.65,2.11,,,,,

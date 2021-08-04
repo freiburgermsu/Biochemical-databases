@@ -1,0 +1,30 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2953, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.41,0.0,0.25,1.09E-6,Guynn R.W.; Arch. Biochem. Biophys.; 218 14 (1982).,82GUY_115," 1.1.1.29                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.025 mol dm-3)
+2954, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.41,0.0,0.25,1.15E-6,,,,,
+2955, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.49,0.0,0.25,9.49E-7,,,,,
+2956, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.96,0.0,0.25,3.36E-6,,,,,
+2957, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.96,0.0,0.25,3.72E-6,,,,,
+2958, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.97,0.0,0.25,4.13E-6,,,,,
+2959, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,3.77E-6,,,,,
+2960, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,3.82E-6,,,,,
+2961, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,3.84E-6,,,,,
+2962, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,4.11E-6,,,,,
+2963, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,4.19E-6,,,,,
+2964, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,4.22E-6,,,,,
+2965, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,5.44E-6,,,,,
+2966, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.98,0.0,0.25,5.53E-6,,,,,
+2967, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,6.99,0.0,0.25,3.79E-6,,,,,
+2968, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.00,0.0,0.25,1.98E-6,,,,,
+2969, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.03,0.0,0.25,4.36E-6,,,,,
+2970, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.03,0.0,0.25,4.54E-6,,,,,
+2971, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.22,0.0,0.25,6.91E-6,,,,,
+2972, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.72,0.0,0.25,2.17E-5,,,,,
+2973, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.72,0.0,0.25,2.22E-5,,,,,
+2974, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,7.80,0.0,0.25,3.28E-5,,,,,
+2975, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,8.05,0.0,0.25,6.10E-5,,,,,
+2976, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),303.15,7.00,0.0,0.25,2.64E-6,,,,,
+2977, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,0.0595,3.80E-6,,,,,
+2978, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0030,0.25,4.19E-6,,,,,
+2979, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,0.5,4.52E-6,,,,,
+2980, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.010,0.25,4.36E-6,,,,,
+2981, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,1.0,5.40E-6,,,,,

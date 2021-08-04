@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1769, L-lactate dehydrogenase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.65,8.0,0.1,Lane R.S.; Dekker E.E.; Biochemistry; 8 2958 (1969).,69LAN/DEK_92," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.3 mol dm-3) + HCl
+1770, L-lactate dehydrogenase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.65,9.0,1.0,,,,,

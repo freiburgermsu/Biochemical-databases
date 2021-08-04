@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2516, dihydroorotase, (S)-dihydroorotate(aq) + H2O(l) = N-carbamoyl-L-aspartate(aq),310.15,7.50,10.8,Christopherson R.I.; Matsuura T.; Jones M.E.; Anal. Biochem.; 89 225 (1978).,78CHR/MAT_1038," 3.5.2.3                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, Hepes (0.060 mol dm-3)

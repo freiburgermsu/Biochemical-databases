@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1416, glucose-1-phosphate cytidylyltransferase, CTP(aq) + D-glucose 1-phosphate(aq) = CDPglucose(aq) + pyrophosphate(aq),310.15,8.5,0.57,Kimata K.; Suzuki S.; J. Biol. Chem.; 241 1099 (1966).,66KIM/SUZ_706," 2.7.7.33                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and enzymatic assay, Tris (0.063 mol dm-3) + HCl

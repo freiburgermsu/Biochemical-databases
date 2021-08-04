@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2107, malyl-CoA lyase," (R,S)-malyl-CoA(aq) = acetyl-CoA(aq) + glyoxylate(aq)",303.15,7.4,0.0029,Hersh L.B.; J. Biol. Chem.; 248 7295 (1973).,73HER_1136," 4.1.3.24                                                    (ENZYME |                                                 KEGG)                                                ",, Tris (0.05 mol dm-3) + HCl

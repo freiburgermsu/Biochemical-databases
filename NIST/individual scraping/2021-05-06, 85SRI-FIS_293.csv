@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3230, pyrroline-2-carboxylate reductase, (S)-proline(aq) + NADP(aq) = Î”1-pyrroline-2-carboxylate(aq) + NADPH(aq),298.15,7.9,3.6E-3,Srinivasan R.; Fisher H.F.; Biochemistry; 24 618 (1985).,85SRI/FIS_293," 1.5.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.01 mol dm-3) and Tris (0.1 mol dm-3)
-3231, pyrroline-2-carboxylate reductase, (S)-proline(aq) + NADP(aq) = Î”1-pyrroline-2-carboxylate(aq) + NADPH(aq),298.15,8.5,3.6E-3,,,,,
-3232, pyrroline-2-carboxylate reductase, (S)-proline(aq) + NADP(aq) = Î”1-pyrroline-2-carboxylate(aq) + NADPH(aq),298.15,9.0,3.6E-3,,,,,
-3233, pyrroline-2-carboxylate reductase, (S)-proline(aq) + NADP(aq) = Î”1-pyrroline-2-carboxylate(aq) + NADPH(aq),298.15,9.2,3.6E-3,,,,,

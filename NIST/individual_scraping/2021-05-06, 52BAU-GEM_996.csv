@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+349, urease, urea(aq) + 2 H2O(l) = 2 ammonia(aq) + carbon dioxide(aq),303.15,7.14,-56.6,Bauer C.R.; Gemmill C.L.; Arch. Biochem. Biophys.; 35 110 (1952).,52BAU/GEM_996," 3.5.1.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium phosphate (0.2 mol dm-3)

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-531, butyrate-CoA ligase, ATP(aq) + heptanoate(aq) + CoA(aq) = AMP(aq) + diphosphate(aq) + n-heptanoyl-CoA(aq),311.15,8.0,1.11,Mahler H.R.; Wakil S.J.; Bock R.M.; J. Biol. Chem.; 204 453 (1953).,53MAH/WAK_1436," 6.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycylglycine (0.002 mol dm-3)

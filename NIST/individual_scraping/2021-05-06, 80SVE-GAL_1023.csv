@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2767, aminoacylase, N-acetyl-L-methionine(aq) + H2O(l) = acetate(aq) + L-methionine(aq),298.15,7.5,3.6,Svedas V.K.; Galaev I.Yu.; Berezin I.V.; Biokhimiya; 45 1833 (1980).,80SVE/GAL_1023," 3.5.1.14                                                    (ENZYME |                                                 KEGG)                                                ",, none

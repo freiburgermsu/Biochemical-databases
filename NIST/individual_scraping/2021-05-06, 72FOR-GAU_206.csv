@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1965, 3-hydroxybenzyl-alcohol dehydrogenase, 3-hydroxybenzyl alcohol(aq) + NADP(aq) = 3-hydroxybenzaldehyde(aq) + NADPH(aq),303.15,7.6,0.18,Forrester P.I.; Gaucher G.M.; Biochemistry; 11 1108 (1972).,72FOR/GAU_206," 1.1.1.97                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, N-tris(hydroxymethyl)methyl-2-aminoethanesulfonic acid

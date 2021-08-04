@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1306, glutathione reductase (NAD(P)H), 2 reduced glutathione(aq) + NAD(aq) =  oxidized glutathione(aq) + NADH(aq),313.15,7.0,0.001,Rost J.; Rapoport S.; Nature; 201 185 (1964).,64ROS/RAP_311," 1.6.4.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.125 mol dm-3)

@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1184, phosphoserine phosphatase, L-O-phosphoserine(aq) + H2O(l) = L-serine(aq) + orthophosphate(aq),308.15,7.05,673,Vladimirov G.E.; Komkova A.I.; Fedorova N.A.; Biokhimiya; 26 426 (1961).,61VLA/KOM_827," 3.1.3.3                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, barbital (0.9 mol dm-3)
+1185, phosphoserine phosphatase, L-O-phosphoserine(aq) + H2O(l) = L-serine(aq) + orthophosphate(aq),308.15,9.7,287,,,,,

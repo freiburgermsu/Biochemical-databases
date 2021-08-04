@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3322, alanopine dehydrogenase," 2,2'-iminodipropanoate(aq) + NAD(aq) + H2O(l) = L-alanine(aq) + pyruvate(aq) + NADH(aq)",298.15,7.0,1.0E-6,Meinardus-Hager G.; Gdde G.; J. Comp. Physiol. B; 156 873 (1986) .,86MEI/GAD_306," 1.5.1.17                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.20 mol dm-3)

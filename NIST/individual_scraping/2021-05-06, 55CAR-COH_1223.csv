@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+661, adenylosuccinate lyase, adenylosuccinate(aq) = fumarate(aq) + AMP(aq),298.15,7.0,0.012,Carter C.E.; Cohen L.H.; J. Am. Chem. Soc.; 77 499 (1955).,55CAR/COH_1223," 4.3.2.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

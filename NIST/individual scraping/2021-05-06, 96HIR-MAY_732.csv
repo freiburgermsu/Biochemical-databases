@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),solvent ,K ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3906, triacyglycerol lipase," tributyrylglycerol(sln) + (R)-2-dodecanol(sln) = (R)-2-dodecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",303.15,acetonitrile,0.025,Hirata H.; Mayama M.; Kasahara A.; Yanagishita H.; Sugiura M.; Nihon Yukagakkaishi; 45 761 (1996),96HIR/MAY_732," 3.1.1.3                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and GC,
-3907, triacyglycerol lipase," tributyrylglycerol(sln) + (R)-2-dodecanol(sln) = (R)-2-dodecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",303.15,benzene,0.017,,,,,
-3908, triacyglycerol lipase," tributyrylglycerol(sln) + (R)-2-dodecanol(sln) = (R)-2-dodecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",303.15,dioxane,0.020,,,,,
-3909, triacyglycerol lipase," tributyrylglycerol(sln) + (R)-2-dodecanol(sln) = (R)-2-dodecyl butyrate(sln) + glycerol-1,2-dibutyrate(sln)",303.15,hexane,0.017,,,,,

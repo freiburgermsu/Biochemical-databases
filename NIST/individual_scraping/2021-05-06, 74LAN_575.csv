@@ -1,0 +1,20 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)","c(Mg2+,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2248, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.002,2.40E-5,2.07E-2,"Langer R.S.; ""Enzymatic Regeneration of ATP""; Thesis Massachusetts Institute of Technology (1974).",74LAN_575," 2.7.2.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris (0.2 mol dm-3)
+2249, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.002,2.48E-5,2.10E-2,,,,,
+2250, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.005,7.02E-5,7.87E-3,,,,,
+2251, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.005,7.22E-5,8.55E-3,,,,,
+2252, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.010,3.33E-4,6.25E-3,,,,,
+2253, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.010,3.91E-4,5.65E-3,,,,,
+2254, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.015,1.46E-3,5.49E-3,,,,,
+2255, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.015,1.49E-3,4.65E-3,,,,,
+2256, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.016,1.76E-3,3.60E-3,,,,,
+2257, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.016,1.97E-3,4.08E-3,,,,,
+2258, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.020,4.24E-3,2.68E-3,,,,,
+2259, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.020,4.92E-3,2.70E-3,,,,,
+2260, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.030,1.23E-2,2.55E-3,,,,,
+2261, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.040,2.05E-2,2.82E-3,,,,,
+2262, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.040,2.10E-2,2.79E-3,,,,,
+2263, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.080,5.67E-2,2.88E-3,,,,,
+2264, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.080,5.72E-2,2.76E-3,,,,,
+2265, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.200,0.174,2.51E-3,,,,,
+2266, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),298.15,7.4,0.200,0.175,2.92E-3,,,,,

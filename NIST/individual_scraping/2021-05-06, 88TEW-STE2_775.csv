@@ -1,0 +1,15 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)","c(Tris,mol dm<sup>-3</sup>)",δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3477, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),298.15,8.9,0.00054,0.10,0.99,Tewari Y.B.; Steckler D.K.; Goldberg R.N.; Gitomer W.L.; J. Biol. Chem.; 263 3670 (1988).,88TEW/STE2_775," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + (HCl or HNO3)
+3478, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),298.15,8.9,0.0010,0.10,0.94,,,,,
+3479, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),304.80,8.9,0.00054,0.10,0.76,,,,,
+3480, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,7.87,0.0063,0.10,2.46,,,,,
+3481, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.53,0.0063,0.10,1.17,,,,,
+3482, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.58,0.0063,0.10,1.09,,,,,
+3483, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.68,0.0063,0.10,1.37,,,,,
+3484, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.8,0.00054,0.10,0.47,,,,,
+3485, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.8,0.00108,0.10,0.42,,,,,
+3486, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.8,0.0032,0.10,0.80,,,,,
+3487, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.8,0.0063,0.10,1.17,,,,,
+3488, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.83,0.00066,0.30,0.18,,,,,
+3489, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,8.83,0.00066,0.64,-0.44,,,,,
+3490, alkaline phosphatase, D-glucose 6-phosphate(aq) + H2O(l) = D-glucose(aq) + orthophosphate(aq),311.15,9.15,0.0063,0.10,0.95,,,,,

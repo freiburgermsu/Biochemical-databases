@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2166, glucose-6-phosphate dehydrogenase," D-glucose 6-phosphate(aq) + NADP(aq) = D-glucono-1,5-lactone 6-phosphate(aq) + NADPH(aq)",298.15,7.6,20,Wurster B.; Hess B.; Hoppe-Seyler's Z. Physiol. Chem.; 354 407 (1973).,73WUR/HES_164," 1.1.1.49                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, imidazole (0.050 mol dm-3) + HCl

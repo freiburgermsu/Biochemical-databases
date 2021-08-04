@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1212, formate-tetrahydrofolate ligase, ATP(aq) + formate(aq) + tetrahydrofolate(aq) = ADP(aq) + phosphate(aq) + 10-formyltetrahydrofolate(aq),310.15,7.7,41,Himes R.H.; Rabinowitz J.C.; J. Biol. Chem.; 237 2903 (1962).,62HIM/RAB_1442," 6.3.4.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine (0.1 mol dm-3)

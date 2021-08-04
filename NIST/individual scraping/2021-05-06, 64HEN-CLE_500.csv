@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1291, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),310.15,7.4,0.13,0.165,Henson C.P.; Cleland W.W.; Biochemistry; 3 338 (1964).,64HEN/CLE_500," 2.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris

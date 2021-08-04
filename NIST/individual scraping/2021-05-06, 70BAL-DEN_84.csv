@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1802, shikimate dehydrogenase, shikimate(aq) + NADP(aq) = 5-dehydroshikimate(aq) + NADPH(aq),298.15,7.6,0.097,Balinsky D.; Dennis A.W.; Methods Enzymol.; 17A 354 (1970).,70BAL/DEN_84," 1.1.1.25                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

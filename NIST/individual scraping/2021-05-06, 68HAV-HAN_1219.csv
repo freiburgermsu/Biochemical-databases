@@ -1,21 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1644, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.08 mol dm-3),4.7,Havir E.A.; Hanson K.R.; Biochemistry; 7 1904 (1968).,68HAV/HAN_1219," 4.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, sodium diphosphate and potassium phosphate
-1645, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.08 mol dm-3),5.7,,,,,
-1646, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.08 mol dm-3),5.9,,,,,
-1647, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.08 mol dm-3),7.4,,,,,
-1648, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.08 mol dm-3),7.4,,,,,
-1649, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.12 mol dm-3),5.2,,,,,
-1650, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.12 mol dm-3),6.1,,,,,
-1651, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.12 mol dm-3),8.0,,,,,
-1652, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.13 mol dm-3),6.0,,,,,
-1653, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.19 mol dm-3),7.9,,,,,
-1654, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,6.8,potassium phosphate (0.19 mol dm-3),7.9,,,,,
-1655, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.069 mol dm-3),6.2,,,,,
-1656, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.069 mol dm-3),6.3,,,,,
-1657, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.084 mol dm-3),5.4,,,,,
-1658, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.084 mol dm-3),6.2,,,,,
-1659, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.08 mol dm-3),3.9,,,,,
-1660, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.08 mol dm-3),5.4,,,,,
-1661, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.08 mol dm-3),5.5,,,,,
-1662, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.08 mol dm-3),6.6,,,,,
-1663, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),303.15,8.5,sodium diphosphate (0.08 mol dm-3),6.7,,,,,

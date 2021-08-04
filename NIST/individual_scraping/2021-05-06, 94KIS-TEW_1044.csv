@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3821, _-lactamase, penicillin G(aq) + H2O(l) = penicillinoic acid(aq),298.15,6.01,0.25,2.9,Kishore N.; Tewari Y.B.; Yap W.T.; Goldberg R.N.; Biophys. Chem.; 49 163 (1994).,94KIS/TEW_1044," 3.5.2.6                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

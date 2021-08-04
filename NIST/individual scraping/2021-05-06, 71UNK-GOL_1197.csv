@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1928, D-glutamate cyclase, D-glutamate(aq) = 5-oxo-D-proline(aq) + H2O(l),293.4,7.9,24.3,Unkeless J.C.; Goldman P.; J. Biol. Chem.; 246 2354 (1971).,71UNK/GOL_1197," 4.2.1.48                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, 2-methylimidazole (0.15 mol dm-3) + HCl
-1929, D-glutamate cyclase, D-glutamate(aq) = 5-oxo-D-proline(aq) + H2O(l),302.3,7.9,27.0,,,,,
-1930, D-glutamate cyclase, D-glutamate(aq) = 5-oxo-D-proline(aq) + H2O(l),303.2,7.9,26.8,,,,,
-1931, D-glutamate cyclase, D-glutamate(aq) = 5-oxo-D-proline(aq) + H2O(l),310.9,7.9,30.3,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+826, enoyl-CoA hydratase, (3S)-3-hydroxyhexanoyl-CoA(aq) = trans-hex-2-enoyl-CoA(aq) + H2O(l),298.15,7.5,0.66,Stern J.R.; del Campillo A.; J. Biol. Chem.; 218 985 (1956).,56STE/DEL_1178," 4.2.1.17                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris

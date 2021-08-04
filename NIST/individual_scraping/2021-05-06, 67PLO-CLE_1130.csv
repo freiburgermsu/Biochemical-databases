@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1535, ATP citrate(pro-3S)-lyase, ATP(aq) + citrate(aq) + CoA(aq) = ADP(aq) + phosphate(aq) + acetyl-CoA(aq) + oxaloacetate(aq),298.15,8.1,~1.2,Plowman K.M.; Cleland W.W.; J. Biol. Chem.; 242 4239 (1967).,67PLO/CLE_1130," 4.1.3.8                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and paper chromatography, Tris + HCl

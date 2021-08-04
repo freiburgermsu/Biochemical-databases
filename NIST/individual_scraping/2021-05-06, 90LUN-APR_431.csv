@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3590, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),298.15,7.0,0.0025,5.3,Lunn J.E.; Ap Rees T.; Biochem. J.; 267 739 (1990).,90LUN/APR_431," 2.4.1.14                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Pipes (0.050 mol dm-3) + NaOH
+3591, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),298.15,7.0,0.010,26,,,,,
+3592, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),298.15,7.5,0.0025,10,,,,,
+3593, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),298.15,7.5,0.010,62,,,,,

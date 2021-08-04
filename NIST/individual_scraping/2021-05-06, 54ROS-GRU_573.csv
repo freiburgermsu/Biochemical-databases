@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+631, acetate kinase, ATP(aq) + acetate(aq) = ADP(aq) + acetyl phosphate(aq),302.15,7.3,8.7E-3,Rose I.A.; Grunberg-Manago M.; Korey S.R.; Ochoa S.; J. Biol. Chem.; 211 737 (1954).,54ROS/GRU_573," 2.7.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3)

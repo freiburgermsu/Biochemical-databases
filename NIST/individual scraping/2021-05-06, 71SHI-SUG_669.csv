@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1920, guanylate kinase, ATP(aq) + dGMP(aq) = ADP(aq) + dGDP(aq),310.15,7.5,0.28,Shimono H.; Sugino Y.; Eur. J. Biochem.; 19 256 (1971).,71SHI/SUG_669," 2.7.4.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.04 mol dm-3)

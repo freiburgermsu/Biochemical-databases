@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2655, alkaline phosphatase, 4-nitrophenyl phenylphosphonate(aq) + H2O(l) = 4-nitrophenol(aq) + phenylphosphonate(aq),303.15,8.0,-72.2,Labadie M.; Debord J.; Breton J.-C.; Biochimie; 61 1091 (1979).,79LAB/DEB_795," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + HCl

@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3338, xylose isomerase, D-glucose(aq) = D-fructose(aq),303.15,7.0,1.060,Polishchuk E.G.; Menyailova I.I.; Nachapetyan L.A.; Bioteknologiya; No. 5 pp. 79-82 (1986).,86POL/MEN_1318," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry,
+3339, xylose isomerase, D-glucose(aq) = D-fructose(aq),313.15,7.0,1.080,,,,,
+3340, xylose isomerase, D-glucose(aq) = D-fructose(aq),323.15,7.0,1.093,,,,,
+3341, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,7.0,1.162,,,,,

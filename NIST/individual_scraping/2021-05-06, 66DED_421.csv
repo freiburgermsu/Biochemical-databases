@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1407, levansucrase," sucrose(aq) + (2,6-Î²-D-fructosyl)n(aq) = D-glucose(aq) + (2,6-Î²-D-fructosyl)n+1(aq)",310.15,6.0,0.036,Dedonder R.; Methods Enzymol.; 8 500 (1966).,66DED_421," 2.4.1.10                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate

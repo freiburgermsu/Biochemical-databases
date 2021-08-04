@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2652, _-lactamase, penicillin G(aq) + H2O(l) = penicillinoic acid(aq),298.15,7.5,-114.7,Grime J.K.; Tan B.; Anal. Chim. Acta; 107 319 (1979).,79GRI/TAN_1043," 3.5.2.6                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + HCl

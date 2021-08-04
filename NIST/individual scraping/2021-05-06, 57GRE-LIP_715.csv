@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-855, aryl sulfotransferase," 3,5-dinitrophenol(aq) + 3'-phosphoadenylylsulfate(aq) = 3,5-dinitrophenolsulfate(aq) + adenosine 3',5'-biphosphate(aq)",303.15,7.8,4.1,Gregory J.D.; Lipmann F.; J. Biol. Chem.; 229 1081 (1957).,57GRE/LIP_715," 2.8.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.11 mol dm-3) + HCl

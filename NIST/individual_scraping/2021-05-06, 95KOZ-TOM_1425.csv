@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3868, isochorismate synthase, chorismate(aq) = isochorismate(aq),298.15,8.0,0.55,Kozlowski M.C.; Tom N.J.; Seto C.T.; Sefler A.M.; Bartlett P.A.; J. Am. Chem. Soc.; 117 2128 (1995),95KOZ/TOM_1425," 5.4.99.6                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, (NH4)2SO4 (0.050 mol dm-3)

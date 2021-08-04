@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+807, mannose isomerase, D-rhamnose(aq) = D-rhamnulose(aq),303.15,7.4,0.58,Palleroni N.J.; Doudoroff M.; J. Biol. Chem.; 218 535 (1956).,56PAL/DOU_1344," 5.3.1.7.                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and spectrophotometry, Tris (0.1 mol dm-3) + HCl

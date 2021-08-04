@@ -1,11 +1,0 @@
-index,Enzyme:,Reaction:,T(K),solvent ,cosolvent ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3665, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,2-butanone,none,2.0,Blanco R.M.; Guisan J.M.; Halling P.J.; Biotech. Bioeng.; 40 1092 (1992),92BLA/GUI_966," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC,
-3666, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,3-pentanone,none,0.91,,,,,
-3667, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,ethyl acetate,none,0.77,,,,,
-3668, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,isopropyl ether,none,0.21,,,,,
-3669, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,acetonitrile (21 % v/v),0.17,,,,,
-3670, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,acetonitrile (3 % v/v),0.056,,,,,
-3671, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,dimethylformamide (10 % v/v),0.63,,,,,
-3672, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,dimethylformamide (3 % v/v),0.21,,,,,
-3673, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,dimethylformamide (6 % v/v),0.30,,,,,
-3674, chymotrypsin, N-acetyl-L-tryptophan phenylethyl ester(sln) + H2O(sln) = N-acetyl-L-tryptophan(sln) + 2-phenylethanol(sln),298.15,trichloroethane,none,0.053,,,,,

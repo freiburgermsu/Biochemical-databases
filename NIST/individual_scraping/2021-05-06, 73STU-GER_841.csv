@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2123, phosphohydrolase (unclassified), diethyl phosphate(aq) + H2O(l) = monoethyl phosphate(aq) + ethanol(aq),298.15,7.3,Pipes,-20.1,Sturtevant J.M.; Gerlt J.A.; Westheimer F.H.; J. Am. Chem. Soc.; 95 8168 (1973).,73STU/GER_841," 3.1.4.-                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Pipes (0.05 mol dm-3)

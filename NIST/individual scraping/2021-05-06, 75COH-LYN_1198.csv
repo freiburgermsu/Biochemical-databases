@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2297, urocanate hydratase," urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",277.15,7.5,35.5,Cohn M.S.; Lynch M.C.; Phillips A.T.; Biochim. Biophys. Acta; 337 444 (1975).,75COH/LYN_1198," 4.2.1.49                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.025 mol dm-3)
-2298, urocanate hydratase," urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",288.15,7.5,49.1,,,,,
-2299, urocanate hydratase," urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",293.15,7.5,58.2,,,,,
-2300, urocanate hydratase," urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",298.15,7.5,69.8,,,,,
-2301, urocanate hydratase," urocanate(aq) + H2O(l) = 4,5-dihydro-4-oxo-5-imidazolepropanoate(aq)",310.15,7.5,91.2,,,,,

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1674, 2-hydroxy-3-oxopropionate reductase, (R)-glycerate(aq) + NAD(aq) = 2-hydroxy-3-oxopropanoate(aq) + NADH(aq),298.15,7.5,5.3E-5,Kohn L.D.; J. Biol. Chem.; 243 4426 (1968).,68KOH_192," 1.1.1.60                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, {Tris (0.2 mol dm-3) + HCl} and phosphate (0.15 mol dm-3)

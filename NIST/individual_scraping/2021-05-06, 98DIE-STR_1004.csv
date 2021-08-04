@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3997, penicillin amidase, amoxicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D-4-hydroxyphenylglycine(aq),298.15,5.0,2.86,Diender M.B.; Straathof A.J.J.; van der Wielen L.A.M.; Ras C.; Heijnen J.J.; J. Mol. Catal. B: Enzymatic; 5 249 (1998).,98DIE/STR_1004," 3.5.1.11                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, K2HPO4 (0.1 mol dm-3) + NaOH or HCl
+3998, penicillin amidase, amoxicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D-4-hydroxyphenylglycine(aq),298.15,5.6,7.04,,,,,
+3999, penicillin amidase, amoxicillin(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + D-4-hydroxyphenylglycine(aq),298.15,6.0,17.7,,,,,

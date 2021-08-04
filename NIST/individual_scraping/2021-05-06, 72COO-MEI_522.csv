@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1961, glutamine-pyruvate aminotransaminase, L-glutamine(aq) + 2-oxo-4-methiolbutyrate(aq) = 2-oxoglutaramate(aq) + L-methionine(aq),310.15,8.4,69,Cooper A.J.L.; Meister A.; Biochemistry; 11 661 (1972).,72COO/MEI_522," 2.6.1.15                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.050 mol dm-3) + HCl

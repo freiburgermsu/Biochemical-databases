@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2197, nucleoside deoxyribosyltransferase, 2'-deoxyinosine(aq) + adenine(aq) = 2'-deoxyadenosine(aq) + hypoxanthine(aq),313.15,6.0,1.4,Danzin C.; Cardinaud R.C.; Eur. J. Biochem.; 48 255 (1974).,74DAN/CAR_473," 2.4.2.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3405, aryl-alcohol dehydrogenase, benzyl alcohol(aq) + NAD(aq) = benzaldehyde(aq) + NADH(aq),300.15,9.5,9.7E-2,MacKintosh R.W.; Fewson C.A.; Biochem. J.; 250 743 (1988).,88MAC/FEW_201," 1.1.1.90                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, bicine + NaOH (0.1 mol dm-3)

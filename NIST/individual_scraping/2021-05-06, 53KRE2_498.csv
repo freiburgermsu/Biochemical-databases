@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+525, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),298.15,7.4,0.148,Krebs H.A.; Biochem. J.; 54 82 (1953).,53KRE2_498," 2.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", manometry, phosphate (0.033 mol dm-3)

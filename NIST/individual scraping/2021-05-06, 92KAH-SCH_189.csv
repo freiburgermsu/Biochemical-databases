@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3685, ribitol dehydrogenase, ribitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq),298.15,7.0,0.0033,Kahle C.; Schneider K.-H.; Giffhorn F.; J. Gen. Microbiol.; 138 1277 (1992).,92KAH/SCH_189," 1.1.1.56                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3355, xylose isomerase, D-psicose(aq) = Î²-D-allose(aq),317.25,7.4,2.15,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 24 291 (1986).,86TEW/GOL_1321," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate (0.039 mol dm-3)
-3356, xylose isomerase, D-psicose(aq) = Î²-D-allose(aq),325.15,7.4,2.32,,,,,
-3357, xylose isomerase, D-psicose(aq) = Î²-D-allose(aq),333.15,7.4,2.55,,,,,
-3358, xylose isomerase, D-psicose(aq) = Î²-D-allose(aq),341.55,7.4,2.77,,,,,
-3359, xylose isomerase, D-psicose(aq) = Î²-D-allose(aq),349.25,7.4,3.01,,,,,

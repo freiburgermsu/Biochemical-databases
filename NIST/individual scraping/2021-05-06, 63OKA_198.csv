@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1269, gluconate 5-dehydrogenase, D-gluconate(aq) + NADP(aq) = 5-oxo-D-gluconate(aq) + NADPH(aq),303.15,7.5,1.1E-4,Okamoto K.; J. Biochem. (Tokyo); 53 448 (1963).,63OKA_198," 1.1.1.69                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)
-1270, gluconate 5-dehydrogenase, D-gluconate(aq) + NADP(aq) = 5-oxo-D-gluconate(aq) + NADPH(aq),303.15,8.0,3.5E-4,,,,,
-1271, gluconate 5-dehydrogenase, D-gluconate(aq) + NADP(aq) = 5-oxo-D-gluconate(aq) + NADPH(aq),303.15,8.5,1.1E-3,,,,,
-1272, gluconate 5-dehydrogenase, D-gluconate(aq) + NADP(aq) = 5-oxo-D-gluconate(aq) + NADPH(aq),303.15,9.0,3.5E-3,,,,,

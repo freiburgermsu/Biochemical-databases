@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1825, N-methyl-2-oxoglutaramate hydrolase, 5-hydroxy-N-methylpyroglutamate(aq) + H2O(l) = 2-oxoglutarate(aq) + methylamine(aq),303.15,8.0,2E-3,Hersh L.B.; J. Biol. Chem.; 245 3526 (1970).,70HER_1035," 3.5.1.36                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tricine (0.2 mol dm-3)

@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1719, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.15,phosphate,0.25,3.90E-5,"Veech R.L.; ""Measurement of Respiratory Metabolism in Animal Tissues""; Thesis Oxford University (1968).",68VEE_136," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, {Tris (0.5 mol dm-3) + acetate (0.25 mol dm-3)} and potassium phosphate (0.10 mol dm-3)
-1720, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,8.02,phosphate,0.25,2.57E-4,,,,,
-1721, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,8.15,Tris + acetate,0.25,2.0E-4,,,,,

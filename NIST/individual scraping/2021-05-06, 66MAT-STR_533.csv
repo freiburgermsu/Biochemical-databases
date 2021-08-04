@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1419," dTDP-4-amino-4,6-dideoxy-D-glucose transaminase"," dTDP-4-amino-4,6-dideoxy-D-glucose(aq) + 2-oxoglutarate(aq) = dTDP-4-dehydro-6-deoxy-D-glucose(aq) + L-glutamate(aq)",310.15,7.0,2.0,Matsuhashi M.; Strominger J.L.; Methods Enzymol.; 8 317 (1966).,66MAT/STR_533," 2.6.1.33                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.12 mol dm-3)

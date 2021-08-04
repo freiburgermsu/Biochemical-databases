@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1294, fructose-biphosphate aldolase," D-fructose 1,6-bisphosphate(aq) = glycerone phosphate(aq) + D-glyceraldehyde 3-phosphate(aq)",311.15,7.1,9.3E-5,Lowry O.H.; Passonneau J.V.; J. Biol. Chem.; 239 31 (1964).,64LOW/PAS_1093," 4.1.2.13                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry, imidazole (0.020 mol dm-3)

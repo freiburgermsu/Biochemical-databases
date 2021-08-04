@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1834, 2-aminoadipate transaminase, L-2-aminoadipate(aq) + 2-oxoglutarate(aq) = 2-oxoadipate(aq) + L-glutamate(aq),310.15,7.5,1.32,Nakatani Y.; Fujioka M.; Higashino K.; Biochim. Biophys. Acta; 198 219 (1970).,70NAK/FUJ_535," 2.6.1.39                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.17 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2783, xylose isomerase, D-xylose(aq) = D-xylulose(aq),313.15,6.0,0.20,Gong C.-S.; Chen L.-F.; Flickinger M.C.; Chiang L.-C.; Tsao G.T.; Appl. Environ. Microbiol.; 41 430 (1981).,81GON/CHE_1326," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, sodium phosphate (0.05 mol dm-3)

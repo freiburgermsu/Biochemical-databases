@@ -1,0 +1,16 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+152, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,6.05,3.9E-11,von Euler H.; Adler E.; G|nther G.; Das N.B.; Hoppe-Seyler's Z. Physiol. Chem.; 254 61 (1938).,38EUL/ADL_273," 1.4.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
+153, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,6.63,1.3E-9,,,,,
+154, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.01,1.3E-9,,,,,
+155, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.26,7.6E-9,,,,,
+156, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.36,6.5E-9,,,,,
+157, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.39,9.4E-9,,,,,
+158, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.40,7.9E-9,,,,,
+159, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.43,1.5E-8,,,,,
+160, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.45,1.7E-8,,,,,
+161, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.57,7.7E-9,,,,,
+162, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.60,2.0E-8,,,,,
+163, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.66,1.1E-8,,,,,
+164, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,7.82,2.4E-8,,,,,
+165, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,8.01,3.6E-8,,,,,
+166, glutamate dehydrogenase, L-glutamate(aq) + NAD(aq) + H2O(l) = 2-oxoglutarate(aq) + NADH(aq) + ammonia(aq),298.15,8.05,7.0E-8,,,,,

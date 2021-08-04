@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,pMg ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3776, alkaline phosphatase, AMP(aq) + H2O(l) = adenosine(aq) + orthophosphate(aq),298.15,8.86,4.50,1.40,189,Larson J.W.; Tewari Y.B.; Goldberg R.N.; J. Chem. Thermodyn. 25 73 (1993).,93LAR/TEW_759," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1119, UDPglucose-hexose-1-phosphate uridylyltransferase, UDPglucose(aq) + Î±-D-galactose 1-phosphate(aq) = Î±-D-glucose 1-phosphate(aq) + UDPgalactose(aq),303.15,8.75,1.1,Hurahashi K.; Sugimura A.; J. Biol. Chem.; 235 940 (1960).,60KUR/SUG_696," 2.7.7.12                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and enzymatic assay, glycine (0.1 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1149, valine-tRNA ligase,ATP(aq) +L-valine(aq) +tRNAval(aq) = AMP(aq) + diphosphate(aq) + L-valyl-tRNAval(aq),310.15,7.0,0.32,Berg P.; Bergmann F.H.; Ofengand E.J.; Dieckmann M.; J. Biol. Chem.; 236 1726 (1961).,61BER/BER_1431," 6.1.1.9                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, sodium cacodylate (0.1 mol dm-3)

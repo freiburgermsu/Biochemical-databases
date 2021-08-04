@@ -1,23 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3006, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.72,0.0010,0.25,306,Guynn R.W.; Arch. Biochem. Biophys.; 218 14 (1982).,82GUY_803," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.025 mol dm-3)
-3007, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.73,0.0010,0.25,307,,,,,
-3008, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.86,0,0.25,341,,,,,
-3009, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.87,0.0100,0.25,247,,,,,
-3010, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.88,0.0100,0.25,270,,,,,
-3011, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.89,0.0070,0.25,260,,,,,
-3012, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.90,0.0070,0.25,255,,,,,
-3013, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.91,0,0.25,298,,,,,
-3014, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.92,0.0040,0.25,301,,,,,
-3015, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.92,0,0.25,290,,,,,
-3016, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.93,0.0040,0.25,297,,,,,
-3017, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.95,0.0010,0.25,338,,,,,
-3018, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.95,0,0.25,288,,,,,
-3019, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,6.96,0.0010,0.25,384,,,,,
-3020, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0001,0.25,332,,,,,
-3021, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.00099,0.25,319,,,,,
-3022, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.00099,0.25,336,,,,,
-3023, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0010,0.25,294,,,,,
-3024, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0048,0.25,269,,,,,
-3025, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0048,0.25,310,,,,,
-3026, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0091,0.25,294,,,,,
-3027, alkaline phosphatase, (R)-3-phosphoglycerate(aq) + H2O(l) = (R)-glycerate(aq) + orthophosphate(aq),311.15,7.00,0.0091,0.25,303,,,,,

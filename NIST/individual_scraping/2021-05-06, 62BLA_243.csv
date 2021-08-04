@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1192, aspartate-semialdehyde dehydrogenase, L-aspartate-4-semialdehyde(aq) + NADP(aq) + orthophosphate(aq) =  L-4-aspartyl phosphate(aq) + NADPH(aq),298.15,8.0,~33,Black S.; Methods Enzymol.; 5 820 (1962),62BLA_243," 1.2.1.11                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl

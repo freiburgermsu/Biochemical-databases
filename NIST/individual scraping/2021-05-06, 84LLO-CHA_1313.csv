@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3096, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,7.0,1.039,Lloyd N.E.; Chan Y.C.; personal communication (1984) cited in [84TEW/GOL].,84LLO/CHA_1313," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium sulfite + sodium hydrogen sulfite
-3097, xylose isomerase, D-glucose(aq) = D-fructose(aq),338.15,7.0,1.062,,,,,
-3098, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.15,7.0,1.103,,,,,
-3099, xylose isomerase, D-glucose(aq) = D-fructose(aq),348.15,7.0,1.131,,,,,
-3100, xylose isomerase, D-glucose(aq) = D-fructose(aq),353.15,7.0,1.182,,,,,
-3101, xylose isomerase, D-glucose(aq) = D-fructose(aq),358.15,7.0,1.209,,,,,

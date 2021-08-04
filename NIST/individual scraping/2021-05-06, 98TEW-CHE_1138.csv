@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-4013, chorismate lyase, chorismate(aq) = 4-hydroxybenzoate(aq) + pyruvate(aq),298.15,6.98,0.38,-144.1,Tewari Y.B.; Chen J.; Holden M.J.; Houk K.N.; Goldberg R.N.; J. Phys. Chem. B; 102 8634 (1998).,98TEW/CHE_1138," 4.1.3.-                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate

@@ -1,15 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-367, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.06,-23.60,Dobry A.; Sturtevant J.M.; J. Biol. Chem.; 195 141 (1952).,52DOB/STU_969," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, lithium phosphate
-368, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.27,-25.02,,,,,
-369, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.49,-23.64,,,,,
-370, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.51,-22.80,,,,,
-371, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.76,-29.25,,,,,
-372, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.83,-19.12,,,,,
-373, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,6.99,-25.96,,,,,
-374, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.08,-21.00,,,,,
-375, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.09,-24.06,,,,,
-376, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.11,-22.84,,,,,
-377, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.14,-23.64,,,,,
-378, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.21,-24.77,,,,,
-379, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.27,-24.89,,,,,
-380, chymotrypsin, N-benzoyl-L-tyrosinamide(aq) + H2O(l) = N-benzoyl-L-tyrosine(aq) + ammonia(aq),298.15,7.28,-24.89,,,,,

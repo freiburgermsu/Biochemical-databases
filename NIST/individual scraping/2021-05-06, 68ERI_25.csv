@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1638, alcohol dehydrogenase, cis-3-hexene-1-ol(aq) + NAD(aq) = cis-3-hexenal(aq) + NADH(aq),298.15,8.3,7.2E-4,Eriksson C.E.; J. Food Sci.; 33 525 (1968).,68ERI_25," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.01 mol dm-3)

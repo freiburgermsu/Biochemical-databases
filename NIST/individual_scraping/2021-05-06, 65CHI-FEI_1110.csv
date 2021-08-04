@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1326, rhamnulose-1-phosphate aldolase, L-rhamnulose 1-phosphate(aq) = glycerone phosphate(aq) + (S)-lactaldehyde(aq),310.15,7.5,0.083,Chiu T.H.; Feingold D.S.; Biochem. Biophys. Res. Commun.; 19 511 (1965).,65CHI/FEI_1110," 4.1.2.19                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycylglycine

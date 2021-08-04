@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3379, orotate phosphoribosyltransferase, orotidine 5'-phosphate(aq) + pyrophosphate(aq) = orotate(aq) + 5-phospho-Î±-D-ribose 1-diphosphate(aq),301.15,8.0,1.4,Tavares A.; Lee C.S.; O'Sullivan W.J.; Biochim. Biophys. Acta; 913 279 (1987).,87TAV/LEE_483," 2.4.2.10                                                    (ENZYME |                                                 KEGG)                                                ", NMR, Hepes (0.025 mol dm-3) + KOH

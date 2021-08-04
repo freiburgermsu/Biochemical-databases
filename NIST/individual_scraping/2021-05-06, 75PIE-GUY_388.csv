@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2398, choline O-acetyltransferase, acetyl-CoA(aq) + choline(aq) = CoA(aq) + O-acetylcholine(aq),298.15,7.03,0.25,11.7,Pieklik J.R.; Guynn R.W.; J. Biol. Chem.; 250 4445 (1975).,75PIE/GUY_388," 2.3.1.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.050 mol dm-3)
+2399, choline O-acetyltransferase, acetyl-CoA(aq) + choline(aq) = CoA(aq) + O-acetylcholine(aq),311.15,7.03,0.25,12.3,,,,,

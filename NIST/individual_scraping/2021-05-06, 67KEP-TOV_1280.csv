@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1533, linoleate isomerase," 9-cis,12-cis-octadecadienoate(aq) = 9-cis,11-trans-octadecadienoate(aq)",308.15,7.0,61,Kepler C.; Tove S.B.; J. Biol. Chem.; 242 5686 (1967).,67KEP/TOV_1280," 5.2.1.5                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, phosphate (0.1 mol dm-3)

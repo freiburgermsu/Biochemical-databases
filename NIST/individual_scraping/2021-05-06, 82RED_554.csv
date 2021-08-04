@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3033, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,9.0,glycylglycine (0.1 mol dm-3),-53.0,"Redman-Furey N.L.; ""Biochemical Thermodynamics and Analytical Enthalpimetry""; Thesis Pennsylvania State University (1982).",82RED_554," 2.7.1.11                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, (NH3 + NH4Cl) glycylglycine Taps and Tris
+3034, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,9.0,(NH3 + NH4Cl) (0.1 mol dm-3),-61.2,,,,,
+3035, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,9.0,Taps (0.1 mol dm-3),-50.3,,,,,
+3036, 6-phosphofructokinase," ATP(aq) + D-fructose 6-phosphate(aq) = ADP(aq) + D-fructose 1,6-bisphosphate(aq)",298.15,9.0,Tris (0.1 mol dm-3),-56.7,,,,,

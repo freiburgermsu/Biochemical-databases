@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1137, arginosuccinate synthase, ATP(aq) + L-citrulline(aq) + L-aspartate(aq) = AMP(aq) + diphosphate(aq) + L-arginosuccinate(aq),311.15,5.90,0.0066,0.14,Schuegraf A.; Ratner S.; Warner R.C.; J. Biol. Chem.; 235 3597 (1960).,60SCH/RAT_1444," 6.3.4.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)
+1138, arginosuccinate synthase, ATP(aq) + L-citrulline(aq) + L-aspartate(aq) = AMP(aq) + diphosphate(aq) + L-arginosuccinate(aq),311.15,6.91,0.0066,2.14,,,,,
+1139, arginosuccinate synthase, ATP(aq) + L-citrulline(aq) + L-aspartate(aq) = AMP(aq) + diphosphate(aq) + L-arginosuccinate(aq),311.15,7.70,0.0066,38.3,,,,,
+1140, arginosuccinate synthase, ATP(aq) + L-citrulline(aq) + L-aspartate(aq) = AMP(aq) + diphosphate(aq) + L-arginosuccinate(aq),311.15,7.79,0.0066,69.5,,,,,

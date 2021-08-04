@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-401, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,6.05,1.34E-6,Stern J.R.; Ochoa S.; Lynen F.; J. Biol. Chem.; 198 313 (1952).,52STE/OCH_128," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.025 mol dm-3)
-402, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,6.55,5.55E-6,,,,,
-403, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,7.20,2.33E-5,,,,,
-404, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,7.75,6.94E-5,,,,,
-405, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,8.30,2.08E-4,,,,,
-406, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),295.15,9.95,6.76E-3,,,,,

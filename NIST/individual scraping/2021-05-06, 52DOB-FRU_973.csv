@@ -1,8 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-352, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.30,-5.19,Dobry A.; Fruton J.S.; Sturtevant J.M.; J. Biol. Chem.; 195 149 (1952).,52DOB/FRU_973," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.05 mol dm-3)
-353, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.40,-5.73,,,,,
-354, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.41,-5.67,,,,,
-355, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.61,-5.16,,,,,
-356, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.73,-4.00,,,,,
-357, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.86,-3.54,,,,,
-358, chymotrypsin, N-benzoyl-L-tyrosylglycinamide(aq) + H2O(l) = N-benzoyl-L-tyrosylglycine(aq) + ammonia(aq),298.15,6.87,-3.54,,,,,

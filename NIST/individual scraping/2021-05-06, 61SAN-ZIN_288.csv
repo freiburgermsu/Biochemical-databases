@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1182, leucine dehydrogenase, L-leucine(aq) + NAD(aq) + H2O(l) = 4-methyl-2-oxopentanoate(aq) + NADH(aq) + ammonia(aq),298.15,11.1,1.11E-2,Sanwal B.D.; Zink M.W.; Arch. Biochem. Biophys.; 94 430 (1961).,61SAN/ZIN_288," 1.4.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycine (0.1 mol dm-3) + NaOH

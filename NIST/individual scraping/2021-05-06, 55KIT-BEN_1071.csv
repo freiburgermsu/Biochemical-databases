@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,"c(KCl,mol dm<sup>-3</sup>)",δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-677, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),291.6,8.0,phosphate,0.60,-28.3,Kitzinger C.; Benzinger T.; Z. Naturforsch.; 10b 375 (1955).,55KIT/BEN_1071," 3.6.1.32                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, (Tris + HCl) and phosphate
-678, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),292.4,8.0,phosphate,0.60,-28.6,,,,,
-679, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),293.15,8.0,Tris,0.01,-66.5,,,,,
-680, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),293.15,8.0,Tris,0.15,-66.2,,,,,
-681, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),293.15,8.0,Tris,0.60,-68.5,,,,,

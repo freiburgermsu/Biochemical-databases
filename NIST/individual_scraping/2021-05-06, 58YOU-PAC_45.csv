@@ -1,0 +1,8 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+976, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),282.95,7.0,9.62E-5,Young H.L.; Pace N.; Arch. Biochem. Biophys.; 75 125 (1958).,58YOU/PAC_45," 1.1.1.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.2 mol dm-3)
+977, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),294.58,7.0,7.15E-5,,,,,
+978, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),295.26,7.0,6.64E-5,,,,,
+979, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),297.65,7.0,5.80E-5,,,,,
+980, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),298.28,7.0,5.59E-5,,,,,
+981, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),301.06,7.0,5.34E-5,,,,,
+982, glycerol-3-phosphate dehydrogenase (NAD+), sn-glycerol 3-phosphate + NAD(aq) = dihydroxyacetone phosphate(aq) + NADH(aq),309.70,7.0,3.07E-5,,,,,

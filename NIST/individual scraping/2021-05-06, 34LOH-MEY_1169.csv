@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-9, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),273.15,0.33,Lohman K.; Meyerhof O.; Biochem. Z.; 273 60 (1934).,34LOH/MEY_1169," 4.2.1.11                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis,
-10, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),293.15,0.39,,,,,
-11, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),313.15,0.54,,,,,
-12, phosphopyruvate hydratase, 2-phospho-D-glycerate(aq) = phosphoenolpyruvate(aq) + H2O(l),333.15,0.70,,,,,

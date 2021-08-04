@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1328, glycerate dehydrogenase, (R)-glycerate(aq) + NAD(aq) = hydroxypyruvate(aq) + NADH(aq),298.15,9.0,6.1E-5,Dawkins P.D.; Dickens F.; Biochem. J.; 94 353 (1965).,65DAW/DIC_114," 1.1.1.29                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.17 mol dm-3) and hydrazine (0.13 mol dm-3)

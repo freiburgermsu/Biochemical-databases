@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-687, nucleoside-phosphate kinase, UTP(aq) + UMP(aq) = 2 UDP(aq),309.15,7.5,0.94,Lieberman I.; Kornberg A.; Simms E.S.; J. Biol. Chem.; 215 429 (1955).,55LIE/KOR2_664," 2.7.4.4                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, glycylglycine (0.067 mol dm-3)

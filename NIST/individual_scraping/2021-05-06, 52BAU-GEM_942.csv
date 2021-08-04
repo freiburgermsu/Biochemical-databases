@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+348, _-fructofuranosidase, sucrose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq),303.15,4.5,-13.9,Bauer C.R.; Gemmill C.L.; Arch. Biochem. Biophys.; 35 110 (1952).,52BAU/GEM_942," 3.2.1.26                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, acetate (0.03 mol dm-3)

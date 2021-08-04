@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1243, purine-nucleoside phosphorylase, inosine(aq) + orthophosphate(aq) = hypoxanthine(aq) + Î±-D-ribose 1-phosphate(aq),310.15,7.0,0.025,de Verdier C.-H.; Gould B.J.; Biochim. Biophys. Acta; 68 333 (1963).,63DEV/GOU_459," 2.4.2.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, Tris + phosphate

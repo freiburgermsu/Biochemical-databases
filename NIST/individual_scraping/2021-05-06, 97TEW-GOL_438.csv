@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3992, cyclomaltodextrin glucanotransferase, Gw(aq) = cyclomaltooctaose(aq) + G(w-8)(aq),329.6,5.55,0.0103,Tewari Y.B.; Goldberg R.N.; Sato M.; Carbohyd. Res.; 301 11 (1997).,97TEW/GOL_438," 2.4.1.19                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

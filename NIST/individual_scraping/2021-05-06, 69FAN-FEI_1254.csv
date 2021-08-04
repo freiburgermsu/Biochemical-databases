@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1758, UDPglucose 4-epimerase, UDPglucose(aq) = UDPgalactose(aq),303.15,9.0,0.32,Fan D.-F.; Feingold D.S.; Plant Physiol.; 44 599 (1969).,69FAN/FEI_1254," 5.1.3.2                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, glycine (0.12 mol dm-3) + NaOH

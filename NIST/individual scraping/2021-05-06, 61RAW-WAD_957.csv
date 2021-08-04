@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1174, gly-X carboxypeptidase, N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq),298.15,7.05,-8.85,Rawitscher M.; Wadsv I.; Sturtevant J.M.; J. Am. Chem. Soc.; 83 3180 (1961).,61RAW/WAD_957," 3.4.17.4                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (~ 0.04 mol dm-3) + HCl
-1175, gly-X carboxypeptidase, N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq),298.15,7.15,-7.95,,,,,
-1176, gly-X carboxypeptidase, N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq),298.15,7.50,-8.12,,,,,
-1177, gly-X carboxypeptidase, N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq),298.15,7.95,-9.04,,,,,
-1178, gly-X carboxypeptidase, N-benzoyl-L-tyrosine(aq) + H2O(l) = benzoic acid(aq) + L-tyrosine(aq),298.15,8.05,-9.08,,,,,

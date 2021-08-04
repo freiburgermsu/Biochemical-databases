@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1384, fructose 5-dehydrogenase (NADP+), D-fructose(aq) + NADP(aq) = 5-dehydro-D-fructose(aq) + NADPH(aq),303.15,6.20,8.56E-5,Avigad G.; Englard S.; Pifko S.; J. Biol. Chem.; 241 373 (1966).,66AVI/ENG_213," 1.1.1.124                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.017 mol dm-3) + potassium phosphate (0.0017 mol dm-3)
+1385, fructose 5-dehydrogenase (NADP+), D-fructose(aq) + NADP(aq) = 5-dehydro-D-fructose(aq) + NADPH(aq),303.15,6.55,1.77E-4,,,,,
+1386, fructose 5-dehydrogenase (NADP+), D-fructose(aq) + NADP(aq) = 5-dehydro-D-fructose(aq) + NADPH(aq),303.15,6.80,3.03E-4,,,,,
+1387, fructose 5-dehydrogenase (NADP+), D-fructose(aq) + NADP(aq) = 5-dehydro-D-fructose(aq) + NADPH(aq),303.15,7.10,6.52E-4,,,,,

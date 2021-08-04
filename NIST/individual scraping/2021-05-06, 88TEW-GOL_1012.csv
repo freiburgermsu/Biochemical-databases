@@ -1,11 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3432, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),298.15,6.00,19.73,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 29 245 (1988).,88TEW/GOL_1012," 3.5.1.11                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.1 mol dm-3)
-3433, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),298.15,6.54,22.95,,,,,
-3434, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),298.15,7.00,23.80,,,,,
-3435, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),304.40,6.00,19.63,,,,,
-3436, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),304.40,6.54,22.91,,,,,
-3437, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),304.40,7.00,23.44,,,,,
-3438, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),304.40,7.44,23.26,,,,,
-3439, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),310.15,6.00,19.60,,,,,
-3440, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),310.15,6.54,22.61,,,,,
-3441, penicillin amidase, penicillin G(aq) + H2O(l) = 6-aminopenicillanic acid(aq) + phenylacetic acid(aq),310.15,7.00,23.48,,,,,

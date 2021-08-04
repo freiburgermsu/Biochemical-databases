@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+4017, tyrosine aminotransferase, L-phenylalanine(aq) + 2-oxoglutarate(aq) = phenylpyruvate(aq) + L-glutamate(aq),298.15,7.46,0.32,1.024,Tewari Y.B.; Kishore N.; Goldberg R.N.; Luong T. N.; J. Chem. Thermodyn.; 30 777 (1998).,98TEW/KIS_515," 2.6.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate
+4018, tyrosine aminotransferase, L-phenylalanine(aq) + 2-oxoglutarate(aq) = phenylpyruvate(aq) + L-glutamate(aq),298.15,7.57,0.33,1.069,,,,,

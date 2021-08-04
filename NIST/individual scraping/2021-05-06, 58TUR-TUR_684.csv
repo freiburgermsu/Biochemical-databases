@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-968, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),303.15,7.0,0.0025,0.286,Turner D.H.; Turner J.F.; Biochem. J.; 69 448 (1958).,58TUR/TUR_684," 2.7.7.9                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and spectrophotometry, Tris (0.2 mol dm-3) + HCl
-969, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),303.15,7.9,0.0025,0.119,,,,,
-970, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),303.15,7.9,0.0050,0.139,,,,,
-971, UTP-glucose-1-phosphate uridylyltransferase, UTP(aq) + Î±-D-glucose 1-phosphate(aq) = pyrophosphate(aq) + UDPglucose(aq),303.15,7.9,0.010,0.263,,,,,

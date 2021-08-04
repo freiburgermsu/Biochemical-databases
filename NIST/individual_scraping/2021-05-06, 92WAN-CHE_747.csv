@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,media ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3753, acetylcholinesterase, acetylcholine(aq) + H2O(l) = acetate(aq) + choline(aq),298.15,7.0,acetylcholine receptor membrane vesicles,-1.63,Wang Y.; Chen C.-H.; Biophys. Chem.; 43 51 (1992).,92WAN/CHE_747," 3.1.1.7                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium phosphate (0.05 mol dm-3)
+3754, acetylcholinesterase, acetylcholine(aq) + H2O(l) = acetate(aq) + choline(aq),298.15,7.0,sodium phosphate buffer,-2.76,,,,,

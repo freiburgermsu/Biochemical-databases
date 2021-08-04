@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-799, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),303.15,8.11,6.7E-4,Larner J.; Jackson W.T.; Graves D.J.; Stamer J.R.; Arch. Biochem. Biophys.; 60 352 (1956).,56LAR/JAC_77," 1.1.1.18                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, pyrophosphate (0.01 mol dm-3)
-800, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),303.15,8.12,3.7E-4,,,,,
-801, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),303.15,8.67,1.3E-3,,,,,
-802, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),303.15,8.75,1.3E-3,,,,,
-803, myo-inositol 2-dehydrogenase, myo-inositol(aq) + NAD(aq) = 2-oxo-myo-inositol(aq) + NADH(aq),303.15,8.92,2.7E-3,,,,,

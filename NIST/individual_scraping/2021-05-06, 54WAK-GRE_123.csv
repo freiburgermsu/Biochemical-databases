@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+646, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,10.0,6.3E-1,Wakil S.J.; Green D.E.; Mii S.; Mahler H.R.; J. Biol. Chem.; 207 631 (1954).,54WAK/GRE_123," 1.1.1.35                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3)
+647, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,7.0,6.3E-4,,,,,
+648, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,8.0,6.3E-3,,,,,
+649, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,9.0,6.3E-2,,,,,

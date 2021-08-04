@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3028, xylose isomerase, D-xylose(aq) = D-xylulose(aq),313.15,7.5,0.18,Hsiao H.-Y.; Chiang L.-C.; Chen L.-F.; Tsao G.T.; Enzyme Microb. Technol. 4 25 (1982).,82HSI/CHI_1327," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", liquid chromatography, _-glycerophosphate (0.1 mol dm-3)
-3029, xylose isomerase, D-xylose(aq) = D-xylulose(aq),323.15,7.5,0.22,,,,,
-3030, xylose isomerase, D-xylose(aq) = D-xylulose(aq),334.15,7.5,0.31,,,,,
-3031, xylose isomerase, D-xylose(aq) = D-xylulose(aq),343.15,7.5,0.39,,,,,
-3032, xylose isomerase, D-xylose(aq) = D-xylulose(aq),345.15,7.5,0.41,,,,,

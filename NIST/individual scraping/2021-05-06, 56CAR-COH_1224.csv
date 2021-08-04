@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-735, adenylosuccinate lyase, adenylosuccinate(aq) = fumarate(aq) + AMP(aq),308.15,6.0,0.0063,Carter C.E.; Cohen L.H.; J. Biol. Chem.; 222 17 (1956).,56CAR/COH_1224," 4.3.2.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium phosphate (0.05 mol dm-3)
-736, adenylosuccinate lyase, adenylosuccinate(aq) = fumarate(aq) + AMP(aq),308.15,6.75,0.0074,,,,,
-737, adenylosuccinate lyase, adenylosuccinate(aq) = fumarate(aq) + AMP(aq),308.15,7.0,0.0068,,,,,

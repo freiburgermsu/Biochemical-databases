@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3963, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),298.15,7.2,17.5,Chamberlin M.E.; J. Exp. Biol.; 200 2789 (1997).,97CHA_622," 2.7.3.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, imidazole (0.1 mol dm-3)

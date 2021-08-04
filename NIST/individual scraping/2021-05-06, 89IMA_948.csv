@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3530, NAD(P)+ nucleosidase, NAD(aq) + 3-acetylpyridine(aq) = 3-acetylpyridine adenine dinucleotide(aq) + nicotinamide(aq),312.15,6.0,1.15,Imai T.; J. Biochem. (Tokyo); 106 938 (1989).,89IMA_948," 3.2.2.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris maleate (0.05 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1639, alcohol dehydrogenase, 1-nonanol(aq) + NAD(aq) = nonanal(aq) + NADH(aq),298.15,8.3,3.05E-2,Eriksson C.E.; J. Food Sci.; 33 525 (1968).,68ERI_26," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.01 mol dm-3)

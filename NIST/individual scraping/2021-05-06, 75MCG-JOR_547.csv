@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2393, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),298.15,8.0,glycylglycine,-71.5,-27.2,McGlothlin C.D.; Jordan J.; Anal. Chem.; 47 786 (1975).,75MCG/JOR_547," 2.7.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris glycylglycine glycylglycylglycine and NN-bis(2-hydroxyethyl)-glycine
-2394, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),298.15,8.0,glycylglycylglycine,-66.1,-28.5,,,,,
-2395, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),298.15,8.0,NN-bis(2-hydroxyethyl)-glycine,-54.0,-27.6,,,,,
-2396, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),298.15,8.0,Tris,-74.9,-27.6,,,,,

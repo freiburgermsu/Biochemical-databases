@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3636, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),278.85,8.7,0.214,Sem D.S.; Cleland W.W.; Biochemistry; 30 4978 (1991).,91SEM/CLE_1364," 5.3.1.9                                                    (ENZYME |                                                 KEGG)                                                ", NMR and spectrophotometry, Ches (0.10 mol dm-3)
+3637, glucose-6-phosphate isomerase, D-glucose 6-phosphate(aq) = D-fructose 6-phosphate(aq),295.15,8.7,0.264,,,,,

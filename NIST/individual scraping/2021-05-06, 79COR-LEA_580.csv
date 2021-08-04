@@ -1,19 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(Mg2+,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2629, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.01,0.25,1.43E-3,Cornell N.W.; Leadbetter M.; Veech R.L.; J. Biol. Chem.; 254 6522 (1979).,79COR/LEA_580," 2.7.2.3                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, potassium phosphate and triethanolamine
-2630, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.059,0.25,1.02E-3,,,,,
-2631, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.22,0.25,5.29E-4,,,,,
-2632, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.24,0.25,5.49E-4,,,,,
-2633, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.30,0.25,5.48E-4,,,,,
-2634, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.42,0.25,4.00E-4,,,,,
-2635, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.44,0.25,3.92E-4,,,,,
-2636, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.46,0.25,3.49E-4,,,,,
-2637, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,0.79,0.25,3.18E-4,,,,,
-2638, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.03,0.25,2.72E-4,,,,,
-2639, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.04,0.25,2.78E-4,,,,,
-2640, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.09,0.25,3.18E-4,,,,,
-2641, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.23,0.25,2.78E-4,,,,,
-2642, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.28,0.25,2.42E-4,,,,,
-2643, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.34,0.25,2.74E-4,,,,,
-2644, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.39,0.25,2.25E-4,,,,,
-2645, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.41,0.25,2.41E-4,,,,,
-2646, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),311.15,7.0,1.46,0.25,2.51E-4,,,,,

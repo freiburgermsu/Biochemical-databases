@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+518, NAD(P)+ transhydrogenase, NAD(aq) + NADPH(aq) = NADH(aq) + NADP(aq),310.15,6.0,1.48,Kaplan N.O.; Colowick S.P.; Neufeld E.F.; J. Biol. Chem.; 205 1 (1953).,53KAP/COL_309," 1.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
+519, NAD(P)+ transhydrogenase, NAD(aq) + NADPH(aq) = NADH(aq) + NADP(aq),310.15,6.5,1.43,,,,,
+520, NAD(P)+ transhydrogenase, NAD(aq) + NADPH(aq) = NADH(aq) + NADP(aq),310.15,7.5,1.41,,,,,

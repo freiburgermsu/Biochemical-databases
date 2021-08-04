@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1008, dihydrolipoamide dehydrogenase, dihydro-Î±-lipoate(aq) + NAD(aq) = Î±-lipoate(aq) + NADH(aq),295.15,6.0,5.5E-3,Goldman D.S.; Biochim. Biophys. Acta; 32 80 (1959).,59GOL_322," 1.8.1.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.06 mol dm-3)

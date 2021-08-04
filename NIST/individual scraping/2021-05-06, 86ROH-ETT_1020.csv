@@ -1,11 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3345, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,4.5,33,Rvhm K.H.; Van Etten T.L.; Eur. J. Biochem.; 160 327 (1986).,86ROH/ETT_1020," 3.5.1.14                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, acetate (1.25 mol dm-3) phosphate (0.125 mol dm-3) and borate (0.125 mol dm-3)
-3346, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,5.0,25,,,,,
-3347, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,5.5,12,,,,,
-3348, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,6.0,7,,,,,
-3349, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,6.5,9,,,,,
-3350, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,7.0,9,,,,,
-3351, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,7.5,12,,,,,
-3352, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,8.0,10,,,,,
-3353, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,9.0,8,,,,,
-3354, aminoacylase, N-acetyl-L-alanine(aq) + H2O(l) = acetate(aq) + L-alanine(aq),298.15,9.5,18,,,,,

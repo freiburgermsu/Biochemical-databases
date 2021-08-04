@@ -1,0 +1,11 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3381, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),285.65,7.68,1.54,Tewari Y.B.; Gajewski E.; Goldberg R.N.; J. Phys. Chem.; 91 904 (1987).,87TEW/GAJ_1220," 4.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, Tris (0.1 mol dm-3) + HCl
+3382, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),292.15,7.62,2.09,,,,,
+3383, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),298.05,7.69,2.47,,,,,
+3384, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),304.45,7.62,3.11,,,,,
+3385, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),309.95,6.98,3.61,,,,,
+3386, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),309.95,7.25,3.74,,,,,
+3387, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),309.95,7.28,3.58,,,,,
+3388, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),309.95,7.39,3.70,,,,,
+3389, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),309.95,7.71,3.46,,,,,
+3390, phenylalanine ammonia-lyase, L-phenylalanine(aq) = trans-cinnamate(aq) + ammonia(aq),316.45,7.23,4.48,,,,,

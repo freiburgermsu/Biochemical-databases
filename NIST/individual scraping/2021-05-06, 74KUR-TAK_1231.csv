@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2242, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,6.2,0.029,Kurashina Y.; Takai K.; Suzuki-Hori C.; Okamoto H.; Hayaishi O.; J. Biol. Chem.; 249 4824 (1974).,74KUR/TAK_1231," 4.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry spectrophotometry and radioactivity, Hepes (0.060 mol dm-3) + KOH
-2243, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,6.5,0.036,,,,,
-2244, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,6.8,0.049,,,,,
-2245, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,7.0,0.065,,,,,
-2246, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,7.3,0.116,,,,,
-2247, adenylate cyclase, ATP(aq) = adenosine 3':5'-(cyclic)phosphate(aq) + diphosphate(aq),298.15,7.7,0.270,,,,,

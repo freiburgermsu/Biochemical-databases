@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,protein ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3122, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.6,----,3.6E-5,Ansari H.; Price N.C.; Stevens L.; Biochem. Soc. Trans.; 13 362 (1985).,85ANS/PRI_141," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ",, sodium phosphate (0.1 mol dm-3)
+3123, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.6,BSA,6.4E-5,,,,,
+3124, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),311.15,7.6,ovalbumin,2.4E-5,,,,,

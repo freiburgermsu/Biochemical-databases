@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1106, lysine racemase, L-lysine(aq) = D-lysine(aq),303.15,8.0,1.0,Ichihara A.; Furiya S.; Suda M.; J. Biochem. (Tokyo); 48 277 (1960).,60ICH/FUR_1238," 5.1.1.5                                                    (ENZYME |                                                 KEGG)                                                ",, phosphate (0.04 mol dm-3)

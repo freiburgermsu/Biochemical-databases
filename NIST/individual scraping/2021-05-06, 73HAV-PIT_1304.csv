@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2104, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,6.85,1.02,"Havewala N.B.; Pitcher W.H.; in ""Enzyme Engineering"" Vol. 4; E.K. Pye and L.B. Wingard eds.; Plenum Press New York (1973) pp. 315-328.",73HAV/PIT_1304," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry, sodium maleate (0.2 mol dm-3)
-2105, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.15,6.85,1.06,,,,,
-2106, xylose isomerase, D-glucose(aq) = D-fructose(aq),352.65,6.85,1.10,,,,,

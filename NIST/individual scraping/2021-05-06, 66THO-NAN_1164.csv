@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,solvent ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1437, aconitate hydratase, isocitrate(aq) = citrate(aq),298.15,7.4,D2O,10.3,Thomson J.F.; Nance S.L.; Bush K.J.; Szczepanik P.A.; Arch. Biochem. Biophys.; 117 65 (1966).,66THO/NAN_1164," 4.2.1.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.033 mol dm-3) + HCl
-1438, aconitate hydratase, isocitrate(aq) = citrate(aq),298.15,7.4,H2O,11.8,,,,,

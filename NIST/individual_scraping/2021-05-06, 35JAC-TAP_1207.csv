@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+24, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),278.15,7.0,0.0024,Jacobsohn K.P.; Tapadinhas J.; Biochem. Z.; 282 374 (1935).,35JAC/TAP_1207," 4.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry and chemical analysis, barbital
+25, aspartate ammonia-lyase, L-aspartate(aq) = fumarate(aq) + ammonia(aq),310.15,7.0,0.0076,,,,,

@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-866, L-xylulose reductase, xylitol(aq) + NADP(aq) = L-xylulose(aq) + NADPH(aq),298.15,7.00,8.58E-4,Hollmann S.; Touster O.; J. Biol. Chem.; 225 87 (1957).,57HOL/TOU_56," 1.1.1.10                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3)
-867, L-xylulose reductase, xylitol(aq) + NADP(aq) = L-xylulose(aq) + NADPH(aq),298.15,8.00,8.58E-3,,,,,

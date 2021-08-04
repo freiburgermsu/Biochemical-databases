@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2241, formate C-acetyltransferase, acetyl-CoA(aq) + formate(aq) = CoA(aq) + pyruvate(aq),303.15,8.1,1.33E-3,Knappe J.; Blaschowski H.P.; Grvbner P.; Schmitt T.; Eur. J. Biochem.; 50 253 (1974).,74KNA/BLA_414," 2.3.1.54                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl

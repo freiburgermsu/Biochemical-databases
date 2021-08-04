@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+202, phosphoglucomutase, Î±-D-glucose 1-phosphate(aq) =Î±-D-glucose 6-phosphate(aq),293.15,~7.5,19.8,Colowick S.P.; Sutherland E.W.; J. Biol. Chem.; 144 423 (1942).,42COL/SUT_1401," 5.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ",, barbital (0.025 mol dm-3)
+203, phosphoglucomutase, Î±-D-glucose 1-phosphate(aq) =Î±-D-glucose 6-phosphate(aq),303.15,~7.5,17.2,,,,,
+204, phosphoglucomutase, Î±-D-glucose 1-phosphate(aq) =Î±-D-glucose 6-phosphate(aq),313.15,~7.5,16.2,,,,,

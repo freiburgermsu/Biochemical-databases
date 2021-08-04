@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-951, adenylosuccinate synthase, GTP(aq) + IMP(aq) + L-aspartate(aq) = GDP(aq) + phosphate(aq) + adenylosuccinate(aq),310.15,8.0,2.9,Fromm H.J.; Biochim. Biophys. Acta; 29 255 (1958).,58FRO_1443," 6.3.4.4                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycine (0.071 mol dm-3)

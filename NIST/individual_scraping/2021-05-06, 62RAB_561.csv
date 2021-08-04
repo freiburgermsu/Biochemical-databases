@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1224, protein kinase, ATP(aq) + phosvitin(aq) = ADP(aq) + dephosvitin(aq),310.15,5.9,40,"Rabinowitz M.; in ""The Enzymes"" Vol. 6 2nd edition; P.D. Boyer H. Lardy and K. Myrbdck eds.; Academic Press New York (1962) pp. 119-131.",62RAB_561," 2.7.1.37                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, Tris-imidazole (0.03 mol dm-3)

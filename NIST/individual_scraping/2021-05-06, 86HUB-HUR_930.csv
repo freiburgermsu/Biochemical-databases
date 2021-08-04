@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3316, _-galactosidase, lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),298.15,7.0,86,Huber R.E.; Hurlburt K.L.; Arch. Biochem. Biophys.; 246 411 (1986).,86HUB/HUR_930," 3.2.1.23                                                    (ENZYME |                                                 KEGG)                                                ", gas-liquid chromatography, Tes

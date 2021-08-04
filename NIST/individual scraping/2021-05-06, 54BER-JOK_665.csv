@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-603, nucleoside-diphosphate kinase, ATP(aq) + inosine 5'-diphosphate(aq) = ADP(aq) + inosine 5'-triphosphate(aq),310.15,6.0,1,Berg P.; Joklik W.K.; J. Biol. Chem.; 210 657 (1954).,54BER/JOK_665," 2.7.4.6                                                    (ENZYME |                                                 KEGG)                                                ", radioactive labelling and spectrophotometry, sodium succinate (0.02 mol dm-3)

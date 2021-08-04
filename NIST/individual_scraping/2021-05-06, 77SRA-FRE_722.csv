@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2514, acetate CoA-transferase, acetyl-CoA(aq) + acetoacetate(aq) = acetoacetyl-CoA(aq) + acetate(aq),298.15,8.1,0.13,Sramek S.J.; Frerman F.E.; Arch. Biochem. Biophys.; 181 178 (1977).,77SRA/FRE_722," 2.8.3.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.067 mol dm-3) + HCl

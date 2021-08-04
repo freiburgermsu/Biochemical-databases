@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1096, glycine hydroxymethyltransferase," 5,10-methylenetetrahydrofolate(aq) + glycine(aq) + H2O(l) = tetrahydrofolate(aq) + L-serine(aq)",298.15,7.4,0.098,Blakley R.L.; Biochem. J.; 74 71 (1960).,60BLA_349," 2.1.2.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.050 mol dm-3)

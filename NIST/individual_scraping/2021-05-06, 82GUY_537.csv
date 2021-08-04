@@ -1,0 +1,9 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),"c(Mg2+,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2998, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),298.15,7.0,0.25,0,4.26,Guynn R.W.; Arch. Biochem. Biophys.; 218 14 (1982).,82GUY_537," 2.6.1.51                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.025 mol dm-3)
+2999, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),303.15,7.0,0.25,0,4.42,,,,,
+3000, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),311.15,7.0,0.060,0,5.73,,,,,
+3001, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),311.15,7.0,0.25,0.0083,5.27,,,,,
+3002, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),311.15,7.0,0.25,0,5.50,,,,,
+3003, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),311.15,7.0,1.00,0,5.47,,,,,
+3004, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),311.15,9.0,0.25,0,9.23,,,,,
+3005, serine-pyruvate transaminase, L-alanine(aq) + hydroxypyruvate(aq) = L-serine(aq) + pyruvate(aq),323.15,7.0,0.25,0,6.60,,,,,

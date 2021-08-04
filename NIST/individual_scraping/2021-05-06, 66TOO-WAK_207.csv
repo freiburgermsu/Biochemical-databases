@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1439, 3-oxoacyl-[acyl-carrier-protein] reductase, (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) + NADP(aq) = 3-oxobutanoyl-[acyl-carrier protein](aq) + NADPH(aq),298.15,7.0,0.25,Toomey R.E.; Wakil S.J.; Biochim. Biophys. Acta; 116 189 (1966).,66TOO/WAK_207," 1.1.1.100                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.125 mol dm-3)
+1440, 3-oxoacyl-[acyl-carrier-protein] reductase, (3R)-3-hydroxybutanoyl-[acyl-carrier protein](aq) + NADP(aq) = 3-oxobutanoyl-[acyl-carrier protein](aq) + NADPH(aq),298.15,9.0,16,,,,,

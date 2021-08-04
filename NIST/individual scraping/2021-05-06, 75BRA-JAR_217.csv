@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2294, 15-hydroxyprostaglandin dehydrogenase (NAD+), prostaglandin E1(aq) + NAD(aq) = 15-oxo-prostaglandin E1(aq) + NADH(aq),298.15,6.0,0.065,Braithwaite S.S.; Jarabak J.; J. Biol. Chem.; 250 2315 (1975),75BRA/JAR_217," 1.1.1.141                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.093 mol dm-3)
-2295, 15-hydroxyprostaglandin dehydrogenase (NAD+), prostaglandin E1(aq) + NAD(aq) = 15-oxo-prostaglandin E1(aq) + NADH(aq),298.15,7.0,0.65,,,,,
-2296, 15-hydroxyprostaglandin dehydrogenase (NAD+), prostaglandin E1(aq) + NAD(aq) = 15-oxo-prostaglandin E1(aq) + NADH(aq),298.15,8.0,6.5,,,,,

@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1233, D-alanine 2-hydroxymethyltransferase," 2-methylserine(aq) + tetrahydrofolate(aq) = 5,10-methylenetetrahydrofolate(aq) + D-alanine(aq) + H2O(l)",311.15,7.5,3.0,Wilson E.M.; Snell E.E.; J. Biol. Chem.; 237 3171 (1962).,62WIL/SNE_359," 2.1.2.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1441, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),303.15,8.0,0.0040,1.2,Uhr M.L.; Marcus F.; Morrison J.F.; J. Biol. Chem.; 241 5428 (1966).,66UHR/MAR_616," 2.7.3.3                                                    (ENZYME |                                                 KEGG)                                                ",, triethanolamine (0.1 mol dm-3) + HCl
-1442, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),303.15,8.0,0.0060,2.1,,,,,
-1443, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),303.15,8.0,0.0080,2.4,,,,,

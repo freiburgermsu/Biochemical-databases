@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-815, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,7.00,Tris (0.10 mol dm-3),0.0053,4.9E-3,Stern J.R.; Coon M.J.; del Campillo A.; Schneider M.C.; J. Biol. Chem.; 221 15 (1956).,56STE/COO_719," 2.8.3.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris and glycine
-816, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,7.00,Tris (0.10 mol dm-3),0,2.8E-3,,,,,
-817, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,7.50,Tris (0.10 mol dm-3),0.0053,5.9E-3,,,,,
-818, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,7.50,Tris (0.10 mol dm-3),0,4.2E-3,,,,,
-819, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,8.10,Tris (0.10 mol dm-3),0.0053,8.8E-3,,,,,
-820, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,8.10,Tris (0.10 mol dm-3),0,4.3E-3,,,,,
-821, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,9.20,glycine (0.1 mol dm-3),0.0053,1.5E-2,,,,,
-822, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),303.15,9.20,glycine (0.1 mol dm-3),0,8.6E-3,,,,,

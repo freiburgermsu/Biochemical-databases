@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2391, alkanal monooxygenase (FMN-linked), dodecanal(aq) + FMN(reduced) + O2(aq) = dodecanoic acid(aq) + FMN(oxidized) + H2O(l),280.15,7.0,-350,Mangold A.; Langerman N.; Arch. Biochem. Biophys.; 169 126 (1975).,75MAN/LAN_336," 1.14.14.3                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, potassium phosphate (0.15 mol dm-3)
-2392, alkanal monooxygenase (FMN-linked), dodecanal(aq) + FMN(reduced) + O2(aq) = dodecanoic acid(aq) + FMN(oxidized) + H2O(l),298.15,7.0,-308,,,,,

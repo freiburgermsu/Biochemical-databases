@@ -1,8 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3240, ribose isomerase, D-ribose(aq) = D-ribulose(aq),313.15,7.4,0.391,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 22 197 (1985).,85TEW/GOL2_1377," 5.3.1.20                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate (0.039 mol dm-3)
-3241, ribose isomerase, D-ribose(aq) = D-ribulose(aq),320.25,7.4,0.446,,,,,
-3242, ribose isomerase, D-ribose(aq) = D-ribulose(aq),325.25,7.4,0.484,,,,,
-3243, ribose isomerase, D-ribose(aq) = D-ribulose(aq),328.15,7.4,0.489,,,,,
-3244, ribose isomerase, D-ribose(aq) = D-ribulose(aq),331.95,7.4,0.521,,,,,
-3245, ribose isomerase, D-ribose(aq) = D-ribulose(aq),338.15,7.4,0.563,,,,,
-3246, ribose isomerase, D-ribose(aq) = D-ribulose(aq),343.75,7.4,0.591,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3651," oligo-1,6-glucosidase", palatinose(aq) + H2O(l) = D-glucose(aq) + D-fructose(aq),298.15,4.44,-4.44,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 40 59 (1991).,91TEW/GOL_911," 3.2.1.10                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium acetate (0.02 mol dm-3)

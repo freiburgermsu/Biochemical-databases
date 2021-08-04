@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+724, histidinol-phosphate transaminase, L-histidinol phosphate(aq) + 2-oxoglutarate(aq) = 3-(imidazol-4-yl)-2-oxopropyl phosphate(aq) + L-glutamate(aq),310.15,8.1,25,Ames B.N.; Horecker B.L.; J. Biol. Chem.; 220 113 (1956).,56AME/HOR_519," 2.6.1.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, pyrophosphate (0.092 mol dm-3)

@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-638, imidazole N-acetyltransferase and phosphate acetyltransferase, acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq),299.15,6.15,0.0060,"Stadtman E.R.; in ""The Mechanism of Enzyme Action""; W.D. McElroy and B. Glass eds.; The Johns Hopkins Press Baltimore Maryland (1954) pp. 581-598.",54STA_375," 2.3.1.2 & 2.3.1.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
-639, imidazole N-acetyltransferase and phosphate acetyltransferase, acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq),299.15,6.45,0.0073,,,,,
-640, imidazole N-acetyltransferase and phosphate acetyltransferase, acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq),299.15,6.95,0.0110,,,,,
-641, imidazole N-acetyltransferase and phosphate acetyltransferase, acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq),299.15,7.20,0.0099,,,,,
-642, imidazole N-acetyltransferase and phosphate acetyltransferase, acetyl phosphate(aq) + imidazole(aq) = N-acetylimidazole(aq) + orthophosphate(aq),299.15,7.30,0.0092,,,,,

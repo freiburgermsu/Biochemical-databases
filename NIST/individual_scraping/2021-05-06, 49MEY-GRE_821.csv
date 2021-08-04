@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+303, acid phosphatase," D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + orthophosphate(aq)",311.15,5.8,5.3,Meyerhof O.; Green H.; J. Biol. Chem.; 178 655 (1949).,49MEY/GRE_821," 3.1.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis,

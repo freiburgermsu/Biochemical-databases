@@ -1,0 +1,8 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+716, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,7.82,1.03E-7,Zelitch I.; J. Biol. Chem.; 216 553 (1955).,55ZEL_88," 1.1.1.26                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, pyrophosphate (0.033 mol dm-3)
+717, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,7.83,9.29E-8,,,,,
+718, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,7.85,1.20E-7,,,,,
+719, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.00,2.92E-7,,,,,
+720, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.10,2.33E-7,,,,,
+721, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.30,3.30E-7,,,,,
+722, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.40,3.05E-7,,,,,

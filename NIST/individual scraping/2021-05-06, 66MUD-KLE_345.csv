@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1424, homocysteine S-methyltransferase, S-adenosyl-L-methionine(aq) + L-homocysteine(aq) = S-adenosyl-L-homocysteine(aq) + L-methionine(aq),297.15,7.07,-65.3,Mudd S.H.; Klee W.A.; Ross P.D.; Biochemistry; 5 1653 (1966).,66MUD/KLE_345," 2.1.1.10                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.034 mol dm-3)

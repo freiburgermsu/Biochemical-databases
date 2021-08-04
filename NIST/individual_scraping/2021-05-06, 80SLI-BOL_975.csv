@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2766, chymotrypsin, 3-(2-furyl)acryloylimidazole(aq) + H2O(l) = furylacrylic acid(aq) + imidazole(aq),298.15,7.85,-47.2,Slightom J.L.; Bolen D.W.; J. Am. Chem. Soc.; 102 6318 (1980).,80SLI/BOL_975," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry,

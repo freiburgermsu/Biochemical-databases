@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1201, galactose dehydrogenase," D-galactose(aq) + NAD(aq) = D-galactono-1,4-lactone(aq) + NADH(aq)",303.15,6.7,570.,Doudoroff M.; Methods Enzymol.; 5 339 (1962).,62DOU2_160," 1.1.1.48                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + HCl

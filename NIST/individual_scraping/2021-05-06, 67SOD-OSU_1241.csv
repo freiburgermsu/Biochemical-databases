@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1544, amino-acid racemase, L-leucine(aq) = D-leucine(aq),310.15,8.3,1.0,Soda K.; Osumi T.; Agric. Biol. Chem.; 31 1097 (1967).,67SOD/OSU_1241," 5.1.1.10                                                    (ENZYME |                                                 KEGG)                                                ", manometry and enzymatic assay, diphosphate (0.03 mol dm-3)

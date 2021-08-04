@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2369, phosphoglycerate mutase, 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq),298.15,~6,5.1,Grisolia S.; Carreras J.; Methods Enzymol.; 42 435 (1975).,75GRI/CAR_1396," 5.4.2.1                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry and spectrophotometry, Tris (0.033 mol dm-3) + HCl
-2370, phosphoglycerate mutase, 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq),303.15,~5.6,6.3,,,,,
-2371, phosphoglycerate mutase, 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq),310.15,6.8,5.0,,,,,

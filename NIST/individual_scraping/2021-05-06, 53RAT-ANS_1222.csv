@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+568, arginosuccinate lyase, N-(L-argino)succinate(aq) = fumarate(aq) + L-arginine(aq),311.15,7.5,0.0114,Ratner S.; Anslow W.P. Jr.; Petrack B.; J. Biol. Chem.; 204 115 (1953).,53RAT/ANS_1222," 4.3.2.1                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, potassium phosphate (0.05 mol dm-3)

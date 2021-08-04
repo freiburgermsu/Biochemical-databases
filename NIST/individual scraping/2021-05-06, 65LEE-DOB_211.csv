@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1337, glucose dehydrogenase (NADP+)," D-glucose(aq) + NADP(aq) = D-glucono-1,5-lactone(aq) + NADPH(aq)",298.15,6.4,3.4,Lee C.K.; Dobrogosz W.J.; J. Bacteriol.; 90 653 (1965).,65LEE/DOB_211," 1.1.1.119                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

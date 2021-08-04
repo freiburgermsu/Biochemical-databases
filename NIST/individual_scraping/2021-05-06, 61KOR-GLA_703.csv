@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1160, glucose-1-phosphate thymidylyltransferase, dTTP(aq) + Î±-D-glucose 1-phosphate(aq) = dTDPglucose(aq) + pyrophosphate(aq),298.15,8.0,0.67,Kornfeld S.; Glaser L.; J. Biol. Chem.; 236 1791 (1961).,61KOR/GLA_703," 2.7.7.24                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tris (0.01 mol dm-3) + HCl

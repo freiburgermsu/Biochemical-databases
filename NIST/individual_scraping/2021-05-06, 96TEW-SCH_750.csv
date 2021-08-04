@@ -1,0 +1,17 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3945, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",293.15,5.31,0.080,119,Tewari Y.B.; Schantz M.M.; Rekharsky M.V.; Goldberg R.N.; J. Chem. Thermodyn.; 28 171 (1996).,96TEW/SCH_750," 3.1.1.20                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate
+3946, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",293.15,5.33,0.080,126,,,,,
+3947, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,4.99,0.052,57.3,,,,,
+3948, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.00,0.052,61.1,,,,,
+3949, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.32,0.080,122.1,,,,,
+3950, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.36,0.082,117,,,,,
+3951, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.38,0.084,147,,,,,
+3952, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.39,0.085,128,,,,,
+3953, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.91,0.109,435,,,,,
+3954, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,5.91,0.111,448,,,,,
+3955, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,6.56,0.135,2409,,,,,
+3956, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",298.15,6.56,0.135,2820,,,,,
+3957, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",303.15,5.35,0.081,123,,,,,
+3958, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",303.15 ,5.37,0.082,121,,,,,
+3959, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",308.15,5.32,0.081,114,,,,,
+3960, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(aq) + H2O(l) = 3,4,5-trihydroxybenzoate(aq) + propan-1-ol(aq)",308.15,5.34,0.081,124,,,,,

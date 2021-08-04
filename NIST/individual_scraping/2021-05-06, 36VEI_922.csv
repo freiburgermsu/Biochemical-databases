@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+113, _-glucosidase, methyl Î²-D-glucopyranoside(aq) + H2O(l) = methanol(aq) + D-glucose(aq),277.15,4.50,Veibel S.; Enzymologia; 1 124 (1936).,36VEI_922," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry,
+114, _-glucosidase, methyl Î²-D-glucopyranoside(aq) + H2O(l) = methanol(aq) + D-glucose(aq),303.15,4.73,,,,,

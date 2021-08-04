@@ -1,0 +1,27 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(NaCl,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+921, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),288.15,7.0,0.0,0.1,6.46E-5,Backlin K.-I.; Acta Chem. Scand.; 12 1279 (1958).,58BAC_14," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
+922, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),288.15,8.0,0.0,0.1,6.42E-4,,,,,
+923, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),288.15,9.0,0.0,0.1,6.35E-3,,,,,
+924, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,10.0,0.0,0.1,7.95E-2,,,,,
+925, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.050,7.36E-5,,,,,
+926, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.096,8.07E-5,,,,,
+927, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.1,7.95E-5,,,,,
+928, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.1,8.00E-5,,,,,
+929, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.189,9.27E-5,,,,,
+930, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.0,0.259,9.25E-5,,,,,
+931, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.167,0.376,9.97E-5,,,,,
+932, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.333,0.423,1.047E-4,,,,,
+933, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,7.0,0.667,0.749,1.184E-4,,,,,
+934, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,8.0,0.0,0.1,7.95E-4,,,,,
+935, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,8.0,0.0,0.1,8.40E-4,,,,,
+936, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,9.0,0.0,0.1,7.94E-3,,,,,
+937, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),293.15,9.0,0.0,0.1,8.07E-3,,,,,
+938, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,7.0,0.0,0.1,9.77E-5,,,,,
+939, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,8.0,0.0,0.1,9.66E-4,,,,,
+940, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,9.0,0.0,0.1,9.72E-3,,,,,
+941, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),303.15,7.0,0.0,0.1,1.202E-4,,,,,
+942, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),303.15,8.0,0.0,0.1,1.175E-3,,,,,
+943, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),303.15,9.0,0.0,0.1,1.200E-2,,,,,
+944, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,7.0,0.0,0.1,1.445E-4,,,,,
+945, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,8.0,0.0,0.1,1.413E-3,,,,,
+946, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,9.0,0.0,0.1,1.454E-2,,,,,

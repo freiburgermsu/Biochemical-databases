@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1534, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,6.5,1.84,Lombrozo L.; Greenberg D.M.; Arch. Biochem. Biophys.; 118 297 (1967).,67LOM/GRE_1059," 3.5.4.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium citrate (0.11 mol dm-3)

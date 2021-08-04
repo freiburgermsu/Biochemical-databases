@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2484, xylose isomerase, D-glucose(aq) = D-fructose(aq),303.15,7.3,0.869,Lloyd N.E.; Khaleeluddin K.; Cereal Chem.; 53 27 (1976).,76LLO/KHA_1309," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry and HPLC, sodium sulfite + sodium hydrogen sulfite
+2485, xylose isomerase, D-glucose(aq) = D-fructose(aq),318.15,7.3,0.931,,,,,
+2486, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,7.3,0.996,,,,,
+2487, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.15,7.3,1.101,,,,,

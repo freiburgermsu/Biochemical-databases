@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2488, phosphomannomutase, D-mannose 1-phosphate(aq) = D-mannose 6-phosphate(aq),303.15,7.0,8.5,Murata T.; Plant Cell Physiol.; 17 1099 (1976).,76MUR_1413," 5.4.2.8                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris acetate (0.02 mol dm-3)

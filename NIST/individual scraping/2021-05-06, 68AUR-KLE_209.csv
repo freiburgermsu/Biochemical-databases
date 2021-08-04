@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1589, carnitine dehydrogenase, L-carnitine(aq) + NAD(aq) = 3-dehydrocarnitine(aq) + NADH(aq),303.15,7.0,1.3E-4,Aurich H.; Kleber H.-P.; Sorger H.; Tauchert H.; Eur. J. Biochem.; 6 196 (1968).,68AUR/KLE_209," 1.1.1.108                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.05 mol dm-3) + HCl
-1590, carnitine dehydrogenase, L-carnitine(aq) + NAD(aq) = 3-dehydrocarnitine(aq) + NADH(aq),303.15,8.0,1.3E-3,,,,,
-1591, carnitine dehydrogenase, L-carnitine(aq) + NAD(aq) = 3-dehydrocarnitine(aq) + NADH(aq),303.15,9.0,1.3E-2,,,,,

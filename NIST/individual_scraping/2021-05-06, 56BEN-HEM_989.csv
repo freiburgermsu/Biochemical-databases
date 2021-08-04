@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+725, glutaminase, L-glutamine(aq) + H2O(l) = L-glutamate(aq) + ammonia(aq),298.15,5.5,850,Benzinger T.H.; Hems R.; Proc. Natl. Acad. Sci. USA; 42 896 (1956).,56BEN/HEM_989," 3.5.1.2                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry,

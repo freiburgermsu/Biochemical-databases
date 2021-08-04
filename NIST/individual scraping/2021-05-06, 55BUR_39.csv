@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-660, glycerol dehydrogenase, glycerol(aq) + NAD(aq) = dihydroxyacetone(aq) + NADH(aq),298.15,7.1,6.4E-5,Burton R.M.; Methods Enzymol.; 1 397 (1955).,55BUR_39," 1.1.1.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.1 mol dm-3)

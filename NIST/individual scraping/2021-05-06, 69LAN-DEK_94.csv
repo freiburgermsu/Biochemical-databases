@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1773, L-lactate dehydrogenase," 2,4-dihydroxybutanoate(aq) + NAD(aq) = 2-oxo-4-hydroxybutanoate(aq) + NADH(aq)",298.65,8.0,1.2E-2,Lane R.S.; Dekker E.E.; Biochemistry; 8 2958 (1969).,69LAN/DEK_94," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.3 mol dm-3) + HCl
-1774, L-lactate dehydrogenase," 2,4-dihydroxybutanoate(aq) + NAD(aq) = 2-oxo-4-hydroxybutanoate(aq) + NADH(aq)",298.65,9.0,1.2E-1,,,,,

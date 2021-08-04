@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-319, nicotinamide-nucleotide adenylyltransferase, ATP(aq) + Î²-nicotinamide mononucleotide(aq) = NAD(aq) + pyrophosphate(aq),311.15,7.4,0.45,Kornberg A.; J. Biol. Chem.; 182 779 (1950).,50KOR_677," 2.7.7.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycylglycine (0.06 mol dm-3)

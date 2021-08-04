@@ -1,0 +1,21 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3831, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),287.45,7.98,0.726,0.89E-4,Tewari Y.B.; Goldberg R.N.; J. Solution Chem. 23 167 (1994).,94TEW/GOL_1139," 4.1.99.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, potassium phosphate (0.10 mol kg-1)
+3832, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),287.45,7.98,0.727,0.83E-4,,,,,
+3833, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),292.15,7.90,0.726,1.37E-4,,,,,
+3834, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),292.15,7.91,0.725,1.54E-4,,,,,
+3835, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.76,0.723,2.35E-4,,,,,
+3836, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.77,0.722,2.28E-4,,,,,
+3837, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.84,1.47 ,2.40E-4,,,,,
+3838, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.85,1.47 ,2.77E-4,,,,,
+3839, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.89,0.494,2.12E-4,,,,,
+3840, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.93,0.933,2.65E-4,,,,,
+3841, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.93,0.934,2.61E-4,,,,,
+3842, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,7.97,0.494,2.22E-4,,,,,
+3843, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,8.85,0.491,2.23E-4,,,,,
+3844, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),298.15,8.85,0.491,2.59E-4,,,,,
+3845, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),304.25,7.71,0.721,3.59E-4,,,,,
+3846, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),304.25,7.71,0.721,4.24E-4,,,,,
+3847, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),310.15,7.81,0.720,5.71E-4,,,,,
+3848, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),310.15,7.81,0.720,5.98E-4,,,,,
+3849, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),316.15,7.92,0.703,10.1E-4,,,,,
+3850, tryptophanase, L-tryptophan(aq) + H2O(l) = indole(aq) + pyruvate(aq) + ammonia(aq),316.15,7.94,0.697,9.59E-4,,,,,

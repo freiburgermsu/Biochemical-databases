@@ -1,16 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgSO4,mol dm<sup>-3</sup>)","c(CaCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1512, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.00065,11,England P.J.; Denton R.M.; Randle P.J.; Biochem. J.; 105 32c (1967).,67ENG/DEN_1165," 4.2.1.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine (0.1 mol dm-3) + HCl
-1513, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.0011,15,,,,,
-1514, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.0016,17,,,,,
-1515, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.0021,19,,,,,
-1516, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.0031,25,,,,,
-1517, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.0050,26,,,,,
-1518, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.00065,0,14,,,,,
-1519, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.0011,0,18,,,,,
-1520, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.0016,0,25,,,,,
-1521, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.0021,0,35,,,,,
-1522, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.0031,0,35,,,,,
-1523, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.0050,0,33,,,,,
-1524, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0.050,30,,,,,
-1525, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0.050,0,28,,,,,
-1526, aconitate hydratase, isocitrate(aq) = citrate(aq),310.15,7.3,0,0,7.5,,,,,

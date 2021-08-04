@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1205, glucose-1-phosphate adenylyltransferase, ATP(aq) + Î±-D-glucose 1-phosphate(aq) = ADPglucose(aq) + pyrophosphate(aq),310.15,7.9,1.1,Espada J.; J. Biol. Chem.; 237 3577 (1962).,62ESP_704," 2.7.7.27                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity and spectrophotometry, Tris (0.050 mol dm-3) + HCl

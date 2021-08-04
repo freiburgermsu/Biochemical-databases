@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1223, succinyldiaminopimelate transaminase," N-succinyl-2-L-amino-6-oxoheptanedioate(aq) + L-glutamate(aq) = N-succinyl-L-2,6-diaminoheptanedioate(aq) + 2-oxoglutarate(aq)",310.15,8.0,1.2,Peterkofsky B.; Methods Enzymol.; 5 853 (1962).,62PET_524," 2.6.1.17                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris

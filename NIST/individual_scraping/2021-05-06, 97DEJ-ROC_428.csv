@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3969, sucrose synthase, UDPglucose(aq) + D-fructose(aq) = UDP(aq) + sucrose(aq),303.15,7.0,Hepes,6.7,Dijardin A.; Rochat C.; Boutin J.-P.; Planta; 201 128 (1997).,97DEJ/ROC_428," 2.4.1.13                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, {Hepes (0.050 mol dm-3) + NaOH} and {Ches (0.050 mol dm-3) + NaOH}
+3970, sucrose synthase, UDPglucose(aq) + D-fructose(aq) = UDP(aq) + sucrose(aq),303.15,9.4,Ches,250,,,,,

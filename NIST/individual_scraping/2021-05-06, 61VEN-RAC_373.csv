@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1183, transaldolase, sedoheptulose 7-phosphate(aq) + D-glyceraldehyde 3-phosphate(aq) = D-erythrose 4-phosphate(aq) + D-fructose 6-phosphate(aq),310.15,7.4,1.05,Venkataraman R.; Racker E.; J. Biol. Chem.; 236 1876 (1961).,61VEN/RAC_373," 2.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, bicarbonate (0.1 mol dm-3)

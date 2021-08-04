@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-359, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,6.67,-10.84,Dobry A.; Sturtevant J.M.; J. Biol. Chem.; 195 141 (1952).,52DOB/STU_956," 3.4.17.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, lithium phosphate
-360, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,6.71,-10.21,,,,,
-361, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.00,-10.84,,,,,
-362, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.03,-10.38,,,,,
-363, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.28,-9.50,,,,,
-364, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.29,-9.58,,,,,
-365, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.31,-10.21,,,,,
-366, carboxypeptidase A, benzyloxycarbonylglycyl-L-phenylalanine(aq) + H2O(l) = benzyloxycarbonylglycine(aq) + L-phenylalanine(aq),298.15,7.85,-8.70,,,,,

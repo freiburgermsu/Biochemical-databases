@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+627, dihydroorotase, (S)-dihydroorotate(aq) + H2O(l) = N-carbamoyl-L-aspartate(aq),303.15,6.1,1.9,Lieberman I.; Kornberg A.; J. Biol. Chem.; 207 911 (1954).,54LIE/KOR_1036," 3.5.2.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry and radioactivity, phosphate (0.017 mol dm-3)

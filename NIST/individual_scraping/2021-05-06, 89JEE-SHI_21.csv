@@ -1,0 +1,13 @@
+index,Enzyme:,Reaction:,T(K),p(MPa),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3532, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,0.1,8.8,4.23,Jee J.-G.; Shin J.-Y.; Bull Korean Chem. Soc.; 10 50 (1989).,89JEE/SHI_21," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
+3533, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,120,8.8,1.33,,,,,
+3534, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,150,8.8,1.27,,,,,
+3535, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,30,8.8,2.54,,,,,
+3536, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,60,8.8,1.84,,,,,
+3537, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),298.15,90,8.8,1.73,,,,,
+3538, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,0.1,8.8,1.81,,,,,
+3539, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,120,8.8,1.08,,,,,
+3540, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,150,8.8,1.22,,,,,
+3541, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,30,8.8,1.98,,,,,
+3542, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,60,8.8,1.73,,,,,
+3543, alcohol dehydrogenase, ethanol(aq) + NAD(aq) = acetaldehyde(aq) + NADH(aq),308.15,90,8.8,1.60,,,,,

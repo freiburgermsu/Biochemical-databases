@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1992, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,6.6,0.0504,0.20,162,Rosing J.; Slater E.C.; Biochim. Biophys. Acta; 267 275 (1972).,72ROS/SLA_1441," 6.3.1.2                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and chemical analysis, Tris (0.10 mol dm-3)
-1993, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.0,0.0504,0.30,270,,,,,
-1994, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.1,0.0107,0.22,280,,,,,
-1995, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.5,0.0495,0.21,668,,,,,
-1996, glutamate-ammonia ligase, ATP(aq) + L-glutamate(aq) + ammonia(aq) = ADP(aq) + phosphate(aq) + L-glutamine(aq),310.15,7.58,0.0098,0.17,831,,,,,

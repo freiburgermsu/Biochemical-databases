@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1237, phosphate acetyltransferase, acetyl-CoA(aq) + orthophosphate(aq) = CoA(aq) + acetyl phosphate(aq),298.15,7.4,6.8E-3,Bergmeyer H.U.; Holz G.; Klotzsch H.; Lang G.; Biochem. Z.; 338 114 (1963).,63BER/HOL_396," 2.3.1.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)

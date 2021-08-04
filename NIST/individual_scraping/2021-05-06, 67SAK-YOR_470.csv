@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1539, pyrimidine-nucleoside phosphorylase, uridine(aq) + orthophosphate(aq) = uracil(aq) + Î±-D-ribose 1-phosphate(aq),310.15,7.0,0.44,Sakai T.; Yorifuji T.; Tochikura T.; Ogata K.; Agr. Biol. Chem.; 31 525 (1967).,67SAK/YOR_470," 2.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ", electrophoresis, Tris (0.04 mol dm-3) + HCl
+1540, pyrimidine-nucleoside phosphorylase, uridine(aq) + orthophosphate(aq) = uracil(aq) + Î±-D-ribose 1-phosphate(aq),310.15,9.0,1.0,,,,,

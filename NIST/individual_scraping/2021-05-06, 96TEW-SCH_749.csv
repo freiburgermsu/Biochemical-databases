@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),K ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3941, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(sln) + H2O(sln) = 3,4,5-trihydroxybenzoate(sln) + propan-1-ol(sln)",293.25,0.0128,Tewari Y.B.; Schantz M.M.; Rekharsky M.V.; Goldberg R.N.; J. Chem. Thermodyn.; 28 171 (1996).,96TEW/SCH_749," 3.1.1.20                                                    (ENZYME |                                                 KEGG)                                                ", HPLC GC and Karl Fischer analysis,
+3942, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(sln) + H2O(sln) = 3,4,5-trihydroxybenzoate(sln) + propan-1-ol(sln)",298.25,0.0130,,,,,
+3943, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(sln) + H2O(sln) = 3,4,5-trihydroxybenzoate(sln) + propan-1-ol(sln)",303.15,0.0112,,,,,
+3944, tannase," 3,4,5-trihydroxybenzoic acid propyl ester(sln) + H2O(sln) = 3,4,5-trihydroxybenzoate(sln) + propan-1-ol(sln)",308.15,0.0098,,,,,

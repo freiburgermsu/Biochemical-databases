@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,"c(KCl,mol dm<sup>-3</sup>)",δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2792, alkaline phosphatase, GTP(aq) + 3 H2O(l) = guanosine(aq) + 3 orthophosphate(aq),298.15,8.0,Hepes,0.60,-90.0,Hinz H.J.; Pollwein P.; Schmidt R.; Zimmerman F.; Arch. Biochem. Biophys.; 212 72 (1981).,81HIN/POL_782," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris and Hepes
+2793, alkaline phosphatase, GTP(aq) + 3 H2O(l) = guanosine(aq) + 3 orthophosphate(aq),298.15,9.0,Hepes,0.60,-88.7,,,,,
+2794, alkaline phosphatase, GTP(aq) + 3 H2O(l) = guanosine(aq) + 3 orthophosphate(aq),298.15,9.0,Tris,0.60,-141.8,,,,,
+2795, alkaline phosphatase, GTP(aq) + 3 H2O(l) = guanosine(aq) + 3 orthophosphate(aq),308.15,9.0,Tris,0.60,-141.6,,,,,

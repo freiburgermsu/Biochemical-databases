@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+100, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),293.15,7.7,0.13,Lehman H.; Biochem. Z.; 286 336 (1936).,36LEH_589," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, carbonate + bicarbonate
+101, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),293.15,8.8,0.48,,,,,

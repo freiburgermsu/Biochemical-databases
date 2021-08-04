@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+103, fructose-biphosphate aldolase, methylerythrulose 1-phosphate(aq) = acetaldehyde(aq) + glycerone phosphate(aq),273.15,0.0021,Meyerhof O.; Lohmann K.; Schuster Ph.; Biochem. Z.; 286 301 (1936).,36MEY/LOH_1099," 4.1.2.13                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, phosphate
+104, fructose-biphosphate aldolase, methylerythrulose 1-phosphate(aq) = acetaldehyde(aq) + glycerone phosphate(aq),293.15,0.0029,,,,,
+105, fructose-biphosphate aldolase, methylerythrulose 1-phosphate(aq) = acetaldehyde(aq) + glycerone phosphate(aq),313.15,0.0067,,,,,

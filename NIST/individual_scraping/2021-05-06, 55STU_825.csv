@@ -1,0 +1,10 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+694, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,3.62,0.0025,-26.4,Sturtevant J.M.; J. Am. Chem. Soc.; 77 255 (1955).,55STU_825," 3.1.3.2                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, acetate (0.05 mol dm-3)
+695, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,3.72,0.050,-26.1,,,,,
+696, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,3.82,0.0050,-26.1,,,,,
+697, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,4.32,0.014,-25.7,,,,,
+698, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,4.74,0.025,-24.2,,,,,
+699, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,4.76,0.025,-24.2,,,,,
+700, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,5.27,0.039,-20.6,,,,,
+701, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,5.37,0.040,-20.0,,,,,
+702, acid phosphatase, 4-nitrophenyl phosphate(aq) + H2O(l) = 4-nitrophenol(aq) + orthophosphate(aq),298.15,5.85,0.046,-17.0,,,,,

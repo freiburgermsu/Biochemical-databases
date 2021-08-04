@@ -1,0 +1,13 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1031, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.72,3.86E-4,Krimsky I.; J. Biol. Chem.; 234 232 (1959).,59KRI_564," 2.7.1.40                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Tris (0.067 mol dm-3)
+1032, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.72,4.50E-4,,,,,
+1033, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.72,4.90E-4,,,,,
+1034, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.94,5.52E-4,,,,,
+1035, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.94,6.85E-4,,,,,
+1036, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,7.94,7.35E-4,,,,,
+1037, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.31,1.52E-3,,,,,
+1038, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.31,1.79E-4,,,,,
+1039, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.31,2.08E-3,,,,,
+1040, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.70,4.13E-3,,,,,
+1041, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.70,4.29E-4,,,,,
+1042, pyruvate kinase, ATP(aq) + pyruvate(aq) = ADP(aq) + phosphoenolpyruvate(aq),303.15,8.70,4.95E-3,,,,,

@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,protein ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1238, chymosin, cleavage of a single bond in casein  ,298.15,6.6,phosphate,casein ?,-7.5,Cheeseman G.C.; Rawitscher M.; Sturtevant J.M.; Biochim. Biophys. Acta; 69 169 (1963).,63CHE/RAW_983," 3.4.23.4                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris and phosphate
-1239, chymosin, cleavage of a single bond in casein  ,298.15,6.6,Tris,casein ?,-9.6,,,,,
-1240, chymosin, cleavage of a single bond in casein  ,298.15,6.6,Tris,sodium caseinate,-13.4,,,,,

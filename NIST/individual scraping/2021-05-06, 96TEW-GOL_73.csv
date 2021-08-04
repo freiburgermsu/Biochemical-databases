@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3939, L-iditol 2-dehydrogenase, xylitol(aq) + NAD(aq) = D-xylulose(aq) + NADH(aq),298.15,7.51,0.189,1.22E-3,Tewari Y.B.; Goldberg R.N.; J. Chem. Thermodyn.; 28 1127 (1996).,96TEW/GOL_73," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", HPLC and spectrophotometry, phosphate

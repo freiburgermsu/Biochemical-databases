@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2716, xylose isomerase, D-glucose(aq) = D-fructose(aq),323.15,7.0,0.84,McKay G.A.; Tavlarides L.L.; J. Mol. Catal.; 6 57 (1979).,79MCK/TAV_1311," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", polarimetry,
-2717, xylose isomerase, D-glucose(aq) = D-fructose(aq),333.15,7.0,1.33,,,,,
-2718, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.15,7.0,1.06,,,,,
-2719, xylose isomerase, D-glucose(aq) = D-fructose(aq),353.15,7.0,1.12,,,,,

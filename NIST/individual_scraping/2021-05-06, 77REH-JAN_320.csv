@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2510, urate oxidase and catalase, urate(aq) + 1/2 O2(aq) + 2 H2O(l) = allantoin(aq) + carbon dioxide(aq),303.15,9.0,-149.6,Rehak N.N.; Janes G.; Young D.S.; Clin. Chem. (Winston-Salem N.C.); 23 195 (1977).,77REH/JAN_320," 1.7.3.3 & 1.11.1.6                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.02 mol dm-3) + HCl

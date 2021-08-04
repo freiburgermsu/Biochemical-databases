@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1273, glyoxylate dehydrogenase (acylating), glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq),298.15,6.60,24.3,Quayle J.R.; Biochem. J.; 87 368 (1963).,63QUA_260," 1.2.1.17                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3)
+1274, glyoxylate dehydrogenase (acylating), glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq),298.15,6.70,38.5,,,,,
+1275, glyoxylate dehydrogenase (acylating), glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq),298.15,6.80,44.7,,,,,
+1276, glyoxylate dehydrogenase (acylating), glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq),298.15,6.85,51.8,,,,,
+1277, glyoxylate dehydrogenase (acylating), glyoxylate(aq) + CoA(aq) + NADP(aq) = oxalyl-CoA(aq) + NADPH(aq),298.15,6.98,73.4,,,,,

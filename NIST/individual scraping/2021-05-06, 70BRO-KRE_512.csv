@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1819, alanine aminotransferase, L-alanine(aq) + 2-oxoglutarate(aq) = pyruvate(aq) + L-glutamate(aq),311.15,7.0,0.25,0.68,Brosnan J.T.; Krebs H.A.; Williamson D.H.; Biochem. J.; 117 91 (1970).,70BRO/KRE_512," 2.6.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.1 mol dm-3)

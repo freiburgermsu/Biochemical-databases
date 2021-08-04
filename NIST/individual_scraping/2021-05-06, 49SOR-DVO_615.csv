@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+308, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),298.15,6.1 ,0.002,Sorenyi E.T.; Dvornikova P.D.; Degtyar R.G.; Dokl. Akad. Nauk. SSSR; 67 341 (1949).,49SOR/DVO_615," 2.7.3.3                                                    (ENZYME |                                                 KEGG)                                                ",, glycocol
+309, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),298.15,9.1,0.17,,,,,

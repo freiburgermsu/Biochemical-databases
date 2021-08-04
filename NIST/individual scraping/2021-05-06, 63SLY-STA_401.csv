@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1282, phosphate acetyltransferase, formyl-CoA(aq) + orthophosphate(aq) =  CoA(aq) + formyl phosphate(aq),303.15,6.85,0.14,Sly W.S.; Stadtman E.R.; J. Biol. Chem.; 238 2639 (1963).,63SLY/STA_401," 2.3.1.8                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometric, potassium dimethylglutarate (0.1 mol dm-3)

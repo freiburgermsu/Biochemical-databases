@@ -1,10 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,c(MgCl2) ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-726, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.00E-3,0.76,Bowen W.J.; Kerwin T.D.; Arch. Biochem. Biophys.; 64 278 (1956).,56BOW/KER_637," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, sodium succinate (0.04 mol dm-3)
-727, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.0E-4,0.52,,,,,
-728, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.0E-5,0.36,,,,,
-729, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.0E-6,0.37,,,,,
-730, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.44E-4,0.96,,,,,
-731, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,1.58E-3,0.68,,,,,
-732, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,2.48E-3,0.47,,,,,
-733, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,2.97E-4,1.24,,,,,
-734, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),293.15,6.0,5.31E-4,1.09,,,,,

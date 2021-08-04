@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(KCl,mol dm<sup>-3</sup>)",δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-690, myosin ATPase, ATP(aq) + H2O(l) = ADP(aq) + orthophosphate(aq),298.15,8.0,0.60,-66.5,Podolsky R.J.; Sturtevant J.M.; J. Biol. Chem.; 217 603 (1955).,55POD/STU_1072," 3.6.1.32                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.10 mol dm-3)

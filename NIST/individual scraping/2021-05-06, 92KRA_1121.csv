@@ -1,7 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3697, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),278.3,7.5,0.00898,"Kragl U.; ""Reaktionstechnik biokatatischer Prozesse am Beispiel der kontinuierlichen enzymatischen Synthese von N-Acetylneuraminsdure""; Thesis Universitdt Bonn (1992).",92KRA_1121," 4.1.3.3                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, none
-3698, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),287.9,7.5,0.0165,,,,,
-3699, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),298.15,7.5,0.0340,,,,,
-3700, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),309.8,7.5,0.0641,,,,,
-3701, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),309.8,7.5,0.0758,,,,,
-3702, N-acetylneuraminate lyase, N-acetylneuraminate(aq) = N-acetyl-D-mannosamine(aq) + pyruvate(aq),317.7,7.5,0.127,,,,,

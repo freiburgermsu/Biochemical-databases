@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+920, hexokinase, ATP(aq) + D-glucose(aq) = ADP(aq) + D-glucose 6-phosphate(aq),310.15,7.25,340,Vladimirov G.E.; Vlassova V.G.; Kolotilova A.I.; Lyzlova S.N.; Panteleyeva N.S.; Biokhimiya; 22 963 (1957).,57VLA/VLA_545," 2.7.1.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, glycine

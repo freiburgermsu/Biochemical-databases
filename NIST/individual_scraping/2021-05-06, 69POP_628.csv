@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1777, phosphomevalonate kinase, ATP(aq) + (R)-5-phosphomevalonate(aq) = ADP(aq) + (R)-5-diphosphomevalonate(aq),310.15,7.3,1.0,Popjak G.; Methods Enzymol.; 15 393 (1969).,69POP_628," 2.7.4.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.050 mol dm-3) + HCl

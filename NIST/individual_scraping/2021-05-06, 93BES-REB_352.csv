@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3757, glycine hydroxymethyltransferase, CH2-H4PteGlu4(aq) + glycine(aq) + H2O(l) = H4PteGlu4(aq) + L-serine(aq),310.15,7.4,0.063,Besson V.; Rebeille F.; Neuberger M.; Douce R.; Cossins E.A.; Biochem. J.; 292 425 (1993).,93BES/REB_352," 2.1.2.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, KH2PO4 (0.020 mol dm-3)

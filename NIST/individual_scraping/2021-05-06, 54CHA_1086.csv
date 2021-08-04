@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+608, ketotetraose-phosphate aldolase, erythrulose 1-phosphate(aq) = formaldehyde(aq) + glycerone phosphate(aq),301.15,7.4,4.3E-4,Charlampous F.C.; J. Biol. Chem.; 211 249 (1954).,54CHA_1086," 4.1.2.2                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, NH4OH

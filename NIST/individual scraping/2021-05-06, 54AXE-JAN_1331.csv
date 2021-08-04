@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-600, ribose-5-phosphate isomerase, D-ribose 5-phosphate(aq) = D-ribulose 5-phosphate(aq),273.15,7.0,0.164,Axelrod B.; Jang R.; J. Biol. Chem.; 209 847 (1954).,54AXE/JAN_1331," 5.3.1.6                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris (0.1 mol dm-3)
-601, ribose-5-phosphate isomerase, D-ribose 5-phosphate(aq) = D-ribulose 5-phosphate(aq),298.65,7.0,0.264,,,,,
-602, ribose-5-phosphate isomerase, D-ribose 5-phosphate(aq) = D-ribulose 5-phosphate(aq),310.15,7.0,0.323,,,,,

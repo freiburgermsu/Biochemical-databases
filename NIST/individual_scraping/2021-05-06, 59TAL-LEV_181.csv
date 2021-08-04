@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1077, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,7.0,3.78E-1,"Talalay P.; Levy H.R.; in ""Steric Course of Microbiological Reactions""; G.E.W. Wolstenholme and C.M O'Connor eds.; Little Brown and Co. Boston (1959) pp. 53-75.",59TAL/LEV_181," 1.1.1.51                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.01 - 0.07 mol dm-3)
+1078, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,8.0,3.78,,,,,
+1079, 3(or 17)_-hydroxysteroid dehydrogenase," 4-androstene-17Î²-ol-3-one(aq) + NAD(aq) = 4-androstene-3,17-dione(aq) + NADH(aq)",298.15,9.0,3.78E2,,,,,

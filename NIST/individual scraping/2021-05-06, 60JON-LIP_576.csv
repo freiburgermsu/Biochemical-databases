@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1109, carbamate kinase, ATP(aq) + ammonium carbamate(aq) = ADP(aq) + carbamoyl phosphate(aq),283.15,9.4,0.042,Jones M.E.; Lipmann F.; Proc. Natl. Acad. Sci. USA; 46 1194 (1960).,60JON/LIP_576," 2.7.2.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, Tris

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1781, ribose-phosphate pyrophosphokinase, ATP(aq) + D-ribose 5-phosphate(aq) = AMP(aq) + 5-phospho-Î±-D-ribose 1-diphosphate(aq),310.15,7.5,28.6,Switzer R.L.; J. Biol. Chem.; 244 2854 (1969).,69SWI_674," 2.7.6.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, potassium phosphate (0.050 mol dm-3)

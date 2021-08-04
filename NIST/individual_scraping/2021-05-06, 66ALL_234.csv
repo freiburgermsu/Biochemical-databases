@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1383, lactate-malate transhydrogenase, (S)-lactate(aq) + oxaloacetate(aq) = (S)-malate(aq) + pyruvate(aq),303.15,7.5,1.8,Allen S.H.G.; J. Biol. Chem.; 241 5266 (1966).,66ALL_234," 1.1.99.7                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, Tris + HCl

@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2402, 15-hydroxyprostaglandin dehydrogenase (NAD+), prostaglandin E2(aq) + NAD(aq) = 15-oxo-prostaglandin E2(aq) + NADH(aq),298.15,7.0,1.77?102,Schlegel W.; Greep R.O.; Eur. J. Biochem.; 56 245 (1975),75SCH/GRE_218," 1.1.1.141                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)
-2403, 15-hydroxyprostaglandin dehydrogenase (NAD+), prostaglandin E2(aq) + NAD(aq) = 15-oxo-prostaglandin E2(aq) + NADH(aq),298.15,8.0,1.77?103,,,,,

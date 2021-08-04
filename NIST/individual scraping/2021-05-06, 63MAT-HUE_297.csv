@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1264, dihydrofolate reductase," 5,6,7,8-tetrahydrofolate(aq) + NADP(aq) = 7,8-dihydrofolate(aq) + NADPH(aq)",298.15,7.5,6.1E-5,Mathews C.K.; Huennenkens F.M.; J. Biol. Chem.; 238 3436 (1963).,63MAT/HUE_297," 1.5.1.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3)
-1265, dihydrofolate reductase," 5,6,7,8-tetrahydrofolate(aq) + NADP(aq) = 7,8-dihydrofolate(aq) + NADPH(aq)",298.15,8.5,5.6E-4,,,,,

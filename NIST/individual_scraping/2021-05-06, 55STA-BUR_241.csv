@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+692, acetaldehyde dehydrogenase (acetylating), acetaldehyde(aq) + CoA(aq) + NAD(aq) = acetyl-CoA(aq) + NADH(aq),298.15,7.0,1.2E3,Stadtman E.R.; Burton R.M.; Methods Enzymol.; 1 518 (1955).,55STA/BUR_241," 1.2.1.10                                                    (ENZYME |                                                 KEGG)                                                ",, Tris

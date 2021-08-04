@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1151, transketolase, D-fructose 6-phosphate(aq) + glycolaldehyde(aq) = L-erythrulose(aq) + D-erythrose 4-phosphate(aq),298.15,7.6,0.015,Datta A.G.; Racker E.; J. Biol. Chem.; 236 617 (1961).,61DAT/RAC_367," 2.2.1.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, glycylglycine (0.025 mol dm-3)

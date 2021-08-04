@@ -1,16 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1570, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,10.18,908,Wolfenden R.; J. Biol. Chem.; 242 4711 (1967).,67WOL_1052," 3.5.4.4                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, ammonia + HCl
-1571, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,6.50,2231,,,,,
-1572, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,6.53,8333,,,,,
-1573, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,7.50,1175,,,,,
-1574, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,8.12,587,,,,,
-1575, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,8.52,255,,,,,
-1576, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,8.88,212,,,,,
-1577, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.13,352,,,,,
-1578, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.16,242,,,,,
-1579, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.16,267,,,,,
-1580, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.16,318,,,,,
-1581, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.16,345,,,,,
-1582, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.23,191,,,,,
-1583, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.32,1321,,,,,
-1584, adenosine deaminase, adenosine(aq) + H2O(l) = inosine(aq) + ammonia(aq),298.15,9.71,302,,,,,

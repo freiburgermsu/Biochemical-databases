@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3360, xylose isomerase, D-psicose(aq) = D-altrose(aq),333.15,7.4,~0.30,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 24 291 (1986).,86TEW/GOL_1322," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate

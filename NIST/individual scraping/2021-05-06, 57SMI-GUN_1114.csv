@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-911, isocitrate lyase, isocitrate(aq) = succinate(aq) + glyoxylate(aq),300.15,7.6,0.029,Smith R.A.; Gunsalus I.C.; J. Biol. Chem.; 229 305 (1957).,57SMI/GUN_1114," 4.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.067 mol dm-3)

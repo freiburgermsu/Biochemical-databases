@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-317, acetylcholinesterase, propionylcholine(aq) + H2O(l) = propionate(aq) + choline(aq),291.15,5.0,4.8E2,Hestrin S.; Biochim. Biophys. Acta; 4 310 (1950).,50HES_748," 3.1.1.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
-318, acetylcholinesterase, propionylcholine(aq) + H2O(l) = propionate(aq) + choline(aq),291.15,5.8,1.73E3,,,,,

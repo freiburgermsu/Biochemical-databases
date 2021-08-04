@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2509, chymotrypsin, N-acetyl-L-tyrosine ethyl ester(aq) + H2O(l) = N-acetyl-L-tyrosine(aq) + ethanol(aq),298.15,7.8,-48.4,Grime J.K.; Lockhart K.; Tan B.; Anal. Chim. Acta; 91 243 (1977).,77GRI/LOC_967," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris + HCl

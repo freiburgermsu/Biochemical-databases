@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1142, cellobiose phosphorylase, cellobiose(aq) + orthophosphate(aq) = D-glucose(aq) + Î±-D-glucose 1-phosphate(aq),310.15,7.0,0.23,Alexander J.K.; J. Bacteriol.; 81 903 (1961).,61ALE_444," 2.4.1.20                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, barbital (0.0075 mol dm-3) + acetate

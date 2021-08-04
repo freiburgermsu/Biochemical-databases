@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3332, xylose isomerase, D-xylose(aq) = D-xylulose(aq),311.15,7.00,0.176,Oliver S.P.; du Toit P.J.; Biotechnol. Bioeng.; 28 684 (1986).,86OLI/TOI_1330," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, Tris + maleate
+3333, xylose isomerase, D-xylose(aq) = D-xylulose(aq),318.15,7.00,0.209,,,,,
+3334, xylose isomerase, D-xylose(aq) = D-xylulose(aq),325.15,7.00,0.246,,,,,
+3335, xylose isomerase, D-xylose(aq) = D-xylulose(aq),331.15,7.00,0.282,,,,,
+3336, xylose isomerase, D-xylose(aq) = D-xylulose(aq),341.15,7.00,0.347,,,,,
+3337, xylose isomerase, D-xylose(aq) = D-xylulose(aq),348.15,7.00,0.400,,,,,

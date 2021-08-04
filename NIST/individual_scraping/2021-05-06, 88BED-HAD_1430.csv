@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3394, chalcone isomerase," 2',4,4'-trihydroxychalcone(aq) = (2S)-4',7-dihydroxyflavanone(aq)",298.15,7.6,7.6,Bednar R.A.; Hadcock J.R.; J. Biol. Chem.; 263 9582 (1988).,88BED/HAD_1430," 5.5.1.6                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.050 mol dm-3) + HCl

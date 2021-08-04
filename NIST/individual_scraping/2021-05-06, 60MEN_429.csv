@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1121, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),311.15,5.5,53,Mendicino J.; J. Biol. Chem.; 235 3347 (1960).,60MEN_429," 2.4.1.14                                                    (ENZYME |                                                 KEGG)                                                ", chromatography radioactivity and chemical analysis, Tris and acetate
+1122, sucrose-phosphate synthase, UDPglucose(aq) + D-fructose 6-phosphate(aq) = UDP(aq) + sucrose 6-phosphate(aq),311.15,7.5,3250,,,,,

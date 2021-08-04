@@ -1,0 +1,18 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3062, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,10.1,0.001,0.42,Kholodenko N.Ya.; Kartashov I.M.; Makarov A.D.; Biokhimiya (Moscow); 48 471 (1983).,83KHO/KAR_653," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography, Tris (0.05 mol dm-3) + HCl
+3063, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,6.1,0.001,0.80,,,,,
+3064, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,7.0,0.001,0.60,,,,,
+3065, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0003,0.52,,,,,
+3066, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0010,0.57,,,,,
+3067, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.001,0.55,,,,,
+3068, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0017,0.70,,,,,
+3069, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0023,0.99,,,,,
+3070, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0031,0.84,,,,,
+3071, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0037,0.67,,,,,
+3072, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0046,0.64,,,,,
+3073, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0052,0.46,,,,,
+3074, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0055,0.40,,,,,
+3075, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0061,0.27,,,,,
+3076, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0089,0.25,,,,,
+3077, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,8.0,0.0099,0.24,,,,,
+3078, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),297.15,9.0,0.001,0.57,,,,,

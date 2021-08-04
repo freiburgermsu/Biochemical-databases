@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3048, sepiapterin reductase," 7,8-dihydrobiopterin(aq) + NADP(aq) = sepiapterin(aq) + NADPH(aq)",298.15,8.0,0.045,Sueoka T.; Katoh S.; Biochim. Biophys. Acta; 717 265 (1982).,82SUE/KAT_221," 1.1.1.153                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.02 mol dm-3)

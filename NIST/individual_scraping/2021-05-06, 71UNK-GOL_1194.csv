@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1923, D-glutamate cyclase, Î³-fluoroglutamate(aq) = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l),299.4,7.9,0.58,Unkeless J.C.; Goldman P.; J. Biol. Chem.; 246 2354 (1971).,71UNK/GOL_1194," 4.2.1.48                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, 2-methylimidazole (0.15 mol dm-3) + HCl
+1924, D-glutamate cyclase, Î³-fluoroglutamate(aq) = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l),303.2,7.9,0.44,,,,,
+1925, D-glutamate cyclase, Î³-fluoroglutamate(aq) = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l),305.9,7.9,0.50,,,,,
+1926, D-glutamate cyclase, Î³-fluoroglutamate(aq) = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate(aq) + H2O(l),313.5,7.9,0.43,,,,,

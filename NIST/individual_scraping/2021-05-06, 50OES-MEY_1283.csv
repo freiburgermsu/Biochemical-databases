@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+320, triose-phosphate isomerase, D-glyceraldehyde 3-phosphate(aq) = glycerone phosphate(aq),311.15,~7.3,22,Oesper P.; Meyerhof O.; Arch. Biochem. Biophys.; 27 223 (1950).,50OES/MEY_1283," 5.3.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, barbital + acetate

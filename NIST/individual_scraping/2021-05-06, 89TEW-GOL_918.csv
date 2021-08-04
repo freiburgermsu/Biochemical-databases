@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3580, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),285.75,5.65,17.2,Tewari Y.B.; Goldberg R.N.; J. Biol. Chem.; 264 3966 (1989).,89TEW/GOL_918," 3.2.1.21                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate (0.1 mol dm-3)
+3581, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),292.25,5.65,17.5,,,,,
+3582, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),298.15,5.65,17.7,,,,,
+3583, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),304.15,5.65,17.9,,,,,
+3584, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),310.35,5.65,18.5,,,,,
+3585, _-glucosidase, Î²-gentiobiose(aq) + H2O(l) = 2 D-glucose(aq),316.15,5.65,19.5,,,,,

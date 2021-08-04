@@ -1,13 +1,0 @@
-index,Enzyme:,Reaction:,T(K),solvent ,K ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3878, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),283.15,carbon tetrachloride,0.38,Tewari Y.B.; Schantz M.M.; Pandey P.C.; Rekharsky M.V.; Goldberg R.N.; J. Phys. Chem.; 99 1594 (1995).,95TEW/SCH_960," 3.4.21.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC GC and Karl Fischer analysis,
-3879, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),283.15,dichloromethane,0.0377,,,,,
-3880, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),283.15,toluene,0.182,,,,,
-3881, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),288.15,carbon tetrachloride,0.30,,,,,
-3882, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),288.15,dichloromethane,0.0437,,,,,
-3883, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),288.15,toluene,0.201,,,,,
-3884, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),293.25,carbon tetrachloride,0.23,,,,,
-3885, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),293.25,dichloromethane,0.0513,,,,,
-3886, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),293.25,toluene,0.144,,,,,
-3887, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),298.25,carbon tetrachloride,0.197,,,,,
-3888, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),298.25,dichloromethane,0.0572,,,,,
-3889, a-chymotrypsin, N-acetyl-L-phenylalanine ethyl ester(sln) + H2O(sln) =  N-acetyl-L-phenylalanine(sln) + ethanol(sln),298.25,toluene,0.107,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+381, adenylate kinase, 2 ADP(aq) = AMP(aq) + ATP(aq),298.15,7.4,0.444,Eggleston L.V.; Hems R.; Biochem. J.; 52 156 (1952).,52EGG/HEM_658," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography, triethanolamine (0.02 mol dm-3) + HCl

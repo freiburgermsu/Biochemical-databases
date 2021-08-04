@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+4006, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),283.15,7.00,0.163,0.133,Kishore N.; Tewari Y. B.; Goldberg R. N.; J. Chem. Thermodyn.; 30 1373 (1998).,98KIS/TEW2_541," 2.6.2.1                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, phosphate
+4007, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),288.15,7.12,0.167,0.144,,,,,
+4008, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),292.65,7.07,0.165,0.133,,,,,
+4009, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),298.15,7.13,0.164,0.143,,,,,
+4010, aspartate transaminase, L-aspartate(aq) + 2-oxoglutarate(aq) = oxaloacetate(aq) + L-glutamate(aq),303.15,6.94,0.163,0.145,,,,,

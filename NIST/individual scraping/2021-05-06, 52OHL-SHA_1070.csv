@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-393, nucleotide pyrophosphatase, NAD(aq) + H2O(l) = Î²-nicotinamide mononucleotide(aq) + AMP(aq),306.15,7.0,-54.6,Ohlmeyer P.; Shatas R.; Arch. Biochem. Biophys.; 36 411 (1952).,52OHL/SHA_1070," 3.6.1.9                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, potassium phosphate (0.097 mol dm-3)

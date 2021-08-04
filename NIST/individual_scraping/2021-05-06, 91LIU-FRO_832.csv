@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3631, fructose-biphosphatase," D-fructose 1,6-bisphosphate(aq) + H2O(l) = D-fructose 6-phosphate(aq) + orthophosphate(aq)",288.15,7.5,47,Liu F.; Fromm H.J.; J. Biol. Chem.; 266 11774 (1991).,91LIU/FRO_832," 3.1.3.11                                                    (ENZYME |                                                 KEGG)                                                ", NMR, Tris (0.05 mol dm-3) + HCl

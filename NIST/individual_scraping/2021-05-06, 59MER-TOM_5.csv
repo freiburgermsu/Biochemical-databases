@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1048, alcohol dehydrogenase, cyclohexanol(aq) + NAD(aq) = cyclohexanone(aq) + NADH(aq),298.15,7.2,0.090,Merritt A.D.; Tomkins G.M.; J. Biol. Chem.; 234 2778 (1959).,59MER/TOM_5," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.001 mol dm-3)
+1049, alcohol dehydrogenase, cyclohexanol(aq) + NAD(aq) = cyclohexanone(aq) + NADH(aq),298.15,7.5,0.158,,,,,
+1050, alcohol dehydrogenase, cyclohexanol(aq) + NAD(aq) = cyclohexanone(aq) + NADH(aq),298.15,9.5,19.,,,,,

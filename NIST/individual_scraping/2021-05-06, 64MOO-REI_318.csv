@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1301, thioredoxin reductase (NADPH), reduced thioredoxin(aq) + NADP(aq) = oxidized thioredoxin(aq) + NADPH(aq),298.15,7.0,0.036,Moore E.C.; Reichard P.; Thelander L.; J. Biol. Chem.; 239 3445 (1964).,64MOO/REI_318," 1.6.4.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.098 mol dm-3)
+1302, thioredoxin reductase (NADPH), reduced thioredoxin(aq) + NADP(aq) = oxidized thioredoxin(aq) + NADPH(aq),298.15,8.0,0.27,,,,,
+1303, thioredoxin reductase (NADPH), reduced thioredoxin(aq) + NADP(aq) = oxidized thioredoxin(aq) + NADPH(aq),298.15,9.0,2.0,,,,,

@@ -1,0 +1,6 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+610, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310.15,6.7,40,Ginodman L.M.; Biokhimiya; 19 666 (1954).,54GIN_779," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, barbital + acetate
+611, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310.15,7.5,55,,,,,
+612, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310.15,7.8,46,,,,,
+613, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310.15,8.3,24,,,,,
+614, alkaline phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310.15,8.8,36,,,,,

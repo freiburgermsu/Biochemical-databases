@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1284, 4-hydroxyproline epimerase, trans-4-hydroxy-L-proline(aq) = cis-4-hydroxy-D-proline(aq),298.15,8.1,0.99,Adams E.; Norton I.L.; J. Biol. Chem.; 239 1525 (1964).,64ADA/NOR_1240," 5.1.1.8                                                    (ENZYME |                                                 KEGG)                                                ", ion exchange chromatography, Tris (0.05 mol dm-3)

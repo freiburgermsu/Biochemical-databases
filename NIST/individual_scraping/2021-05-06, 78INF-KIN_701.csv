@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,pMg ,I<sub>c</sub> ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2517, choline-phosphate cytidylyltransferase, CTP(aq) + phosphorylcholine(aq) = pyrophosphate(aq) + CDPcholine(aq),310.15,7.5,3.0,0.15,0.2,Infante J.P.; Kinsella J.E.; Biochim. Biophys. Acta; 526 440 (1978).,78INF/KIN_701," 2.7.7.15                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography, Hepes and Tris

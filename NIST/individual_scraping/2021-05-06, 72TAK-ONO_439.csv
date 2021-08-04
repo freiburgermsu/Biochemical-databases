@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1998, cyclomaltodextrin glucanotransferase and a-amylase, cyclomaltoheptaose(aq) + 7 H2O(l) = 7 D-glucose(aq),298.15,5.0,-48.7,Takahashi K.; Ono S.; J. Biochem. (Tokyo); 72 679 (1972).,72TAK/ONO_439," 2.4.1.19 & 3.2.1.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, acetate (0.02 mol dm-3)

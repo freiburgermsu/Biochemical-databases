@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1446, [acyl-carrier-protein] S-malonyltransferase, malonyl-CoA(aq) + acyl-carrier protein(aq) = CoA(aq) + malonyl-[acyl-carrier protein](aq),311.15,6.5,2.33,Williamson I.P.; Wakil S.J.; J. Biol. Chem.; 241 2326 (1966).,66WIL/WAK_412," 2.3.1.39                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and radioactivity, potassium phosphate (0.1 mol dm-3)

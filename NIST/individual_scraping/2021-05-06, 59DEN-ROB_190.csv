@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1006, 3-hydroxypropionate dehydrogenase, 3-hydroxypropanoate(aq) + NAD(aq) = 3-oxopropanoate(aq) + NADH(aq),298.15,9.0, 9E-3,Den H.; Robinson W.G.; Coon M.J.; J. Biol. Chem.; 234 1666  (1959).,59DEN/ROB_190," 1.1.1.59                                                    (ENZYME |                                                 KEGG)                                                ", chromatography and spectrophotometry, pyrophosphate (0.017 mol dm-3)

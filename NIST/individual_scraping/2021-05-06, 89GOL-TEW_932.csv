@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3522, _-galactosidase, lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),298.15,5.65,0.466,Goldberg R.N.; Tewari Y.B.; J. Biol. Chem.; 264 9897 (1989).,89GOL/TEW_932," 3.2.1.23                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium acetate (0.1 mol dm-3)
+3523, _-galactosidase, lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),304.65,5.65,0.469,,,,,
+3524, _-galactosidase, lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),310.15,5.65,0.540,,,,,
+3525, _-galactosidase, lactose(aq) + H2O(l) = D-galactose(aq) + D-glucose(aq),316.15,5.65,0.612,,,,,

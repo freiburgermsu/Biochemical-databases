@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+786, butyryl-CoA dehydrogenase, butanoyl-CoA(aq) + pyocyanine(aq) = 2-butenoyl-CoA(aq) + reduced pyocyanine(aq),303.15,7.2,0.23,Hauge J.G.; J. Am. Chem. Soc.; 78 5266 (1956).,56HAU_265," 1.3.99.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.02 mol dm-3)

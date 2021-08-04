@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1712, adenylate kinase, 2 dADP(aq) = dAMP(aq) + dATP(aq),303.15,7.0,0.0081,0.830,Su S.; Russell P.J. Jr.; J. Biol. Chem.; 243 3826 (1968).,68SU/RUS_660," 2.7.4.3                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography and spectrophotometry, Tris (0.016 mol dm-3) + HCl
+1713, adenylate kinase, 2 dADP(aq) = dAMP(aq) + dATP(aq),303.15,7.0,0.016,0.563,,,,,
+1714, adenylate kinase, 2 dADP(aq) = dAMP(aq) + dATP(aq),303.15,7.0,0.032,0.306,,,,,
+1715, adenylate kinase, 2 dADP(aq) = dAMP(aq) + dATP(aq),303.15,7.0,0.065,0.270,,,,,

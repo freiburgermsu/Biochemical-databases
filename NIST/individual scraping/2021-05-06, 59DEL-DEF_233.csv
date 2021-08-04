@@ -1,12 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-995, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,6.98,4.74E-4,De Ley J.; Defloor J.; Biochim. Biophys. Acta; 33 47 (1959).,59DEL/DEF_233," 1.1.99.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate and (Tris + HCl)
-996, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.03,7.23E-4,,,,,
-997, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.12,8.20E-4,,,,,
-998, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.24,6.37E-4,,,,,
-999, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.39,9.22E-4,,,,,
-1000, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.79,2.99E-3,,,,,
-1001, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.86,3.37E-3,,,,,
-1002, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,7.89,3.39E-3,,,,,
-1003, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,8.25,1.28E-2,,,,,
-1004, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,8.31,1.13E-2,,,,,
-1005, gluconate 2-dehydrogenase, D-gluconate(aq) + NADP(aq) = 2-oxo-D-gluconate(aq) + NADPH(aq),293.15,8.36,1.16E-2,,,,,

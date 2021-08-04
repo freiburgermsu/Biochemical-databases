@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2556, nucleoside-diphosphate kinase, ATP(aq) + GDP(aq) = ADP(aq) + GTP(aq),311.15,7.0,0.25,1.04,Lynn R.; Guynn R.W.; J. Biol. Chem.; 253 2546 (1978).,78LYN/GUY_666," 2.7.4.6                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry and spectrophotometry, potassium phosphate (0.025 mol dm-3)

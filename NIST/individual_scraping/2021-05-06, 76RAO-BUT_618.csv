@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2489, arginine kinase, ATP(aq) + L-arginine(aq) = ADP(aq) + NÏ‰-phospho-L-arginine(aq),285.15,7.25,0.10,Rao B.D.N.; Buttlaire D.H.; Cohn M.; J. Biol. Chem.; 251 6981 (1976).,76RAO/BUT_618," 2.7.3.3                                                    (ENZYME |                                                 KEGG)                                                ", NMR, Hepes (0.15 mol dm-3)

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),K'(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3815, _-lactamase, ampicillin(aq) + H2O(l) = ampicillinoic acid(aq),282.35,5.55,0.15,95,Kishore N.; Tewari Y.B.; Yap W.T.; Goldberg R.N.; Biophys. Chem.; 49 163 (1994).,94KIS/TEW_1041," 3.5.2.6                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, acetate

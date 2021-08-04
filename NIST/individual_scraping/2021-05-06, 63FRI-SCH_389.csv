@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1248, carnitine O-acetyltransferase, acetyl-CoA(aq) + L-carnitine(aq) = CoA(aq) + L-acetylcarnitine(aq),308.15,7.0,1.6,Fritz I.B.; Schultz S.K.; Srere P.A.; J. Biol. Chem.; 238 2509 (1963).,63FRI/SCH_389," 2.3.1.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl

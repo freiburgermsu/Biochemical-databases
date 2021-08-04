@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2119, thymidylate synthase," 5,10-methylenetetrahydrofolate(aq) + dUMP(aq) = dihydrofolate(aq) + dTMP(aq)",298.15,7.4,-40.6,Rothman S.W.; Kisliuk R.L.; Langerman N.; J. Biol. Chem.; 248 7845 (1973).,73ROT/KIS_346," 2.1.1.45                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.05 mol dm-3) + HCl

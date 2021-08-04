@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1664, indolelactate dehydrogenase, indole-3-lactate(aq) + NAD(aq) = indole-3-pyruvate(aq) + NADH(aq),310.15,7.0,6.3E2,Jean M.; DeMoss R.D.; Can. J. Microbiol.; 14 429 (1968).,68JEA/DEM_210," 1.1.1.110                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate

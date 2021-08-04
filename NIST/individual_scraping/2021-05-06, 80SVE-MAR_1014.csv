@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2775, penicillin amidase, penicillinoic acid(aq) + H2O(l) = penicic acid(aq) + phenylacetic acid(aq),298.15,7.0,1.8,Svedas V.K.; Margolin A.L.; Berezin I.V.; Enzyme Microb. Technol.; 2 138 (1980).,80SVE/MAR_1014," 3.5.1.11                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, citrate

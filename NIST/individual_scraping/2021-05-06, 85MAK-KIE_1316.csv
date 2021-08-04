@@ -1,0 +1,8 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(total substrate,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3222, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,0.278,1.110,Makkee M.; Kieboom A.P.G.; van Bekkum H.; Starch/Stdrke; 37 232 (1985).,85MAK/KIE_1316," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", HPLC,
+3223, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,0.555,1.109,,,,,
+3224, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,0.617,1.107,,,,,
+3225, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,0.833,1.114,,,,,
+3226, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,1.111,1.104,,,,,
+3227, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,1.667,1.104,,,,,
+3228, xylose isomerase, D-glucose(aq) = D-fructose(aq),343.35,7.1,2.222,1.105,,,,,

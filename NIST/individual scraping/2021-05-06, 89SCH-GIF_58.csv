@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-3562, L-iditol 2-dehydrogenase, D-arabitol(aq) + NAD(aq) = D-ribulose(aq) + NADH(aq),298.15,7.0,8.0E-4,Schneider K.-H.; Giffhorn F.; Eur. J. Biochem.; 184 15 (1989).,89SCH/GIF_58," 1.1.1.14                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, potassium phosphate (0.10 mol dm-3)

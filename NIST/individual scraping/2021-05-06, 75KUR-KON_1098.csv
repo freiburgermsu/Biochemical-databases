@@ -1,5 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2387, fructose-biphosphate aldolase, D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq),282.15,8.8,2.1E-6,Kurski M.D.; Kondratyook T.P.; Litvinenko L.T.; Kosterin S.O.; Dopov. Akad. Nauk. Ukr. RSR Ser. B: Geol. Geofiz. Khim. Biol.;3 256 (1975).,75KUR/KON_1098," 4.1.2.13                                                    (ENZYME |                                                 KEGG)                                                ",, Tris + acetate
-2388, fructose-biphosphate aldolase, D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq),296.15,8.8,4.1E-6,,,,,
-2389, fructose-biphosphate aldolase, D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq),303.15,8.8,6.2E-6,,,,,
-2390, fructose-biphosphate aldolase, D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq),313.15,8.8,2.8E-6,,,,,

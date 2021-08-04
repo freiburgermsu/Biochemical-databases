@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1412, laminaribiose phosphorylase, laminaritriose(aq) + orthophosphate(aq) = laminaribiose(aq) + Î±-D-glucose 1-phosphate(aq),310.15,6.5,0.26,Goldemberg S.H.; Marechal L.R.; DeSouza B.C.; J. Biol. Chem.; 241 45 (1966).,66GOL/MAR_449," 2.4.1.31                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, imidazole (0.04 mol dm-3)

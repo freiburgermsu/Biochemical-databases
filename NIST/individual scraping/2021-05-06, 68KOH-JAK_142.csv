@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1668, malate dehydrogenase, meso-tartrate(aq) + NAD(aq) = (E)-dihydroxyfumarate(aq) + NADH(aq),298.15,7.54,5.3E-5,Kohn L.D.; Jakoby W.B.; J. Biol. Chem.; 243 2472 (1968).,68KOH/JAK_142," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.1 mol dm-3) + HCl
-1669, malate dehydrogenase, meso-tartrate(aq) + NAD(aq) = (E)-dihydroxyfumarate(aq) + NADH(aq),298.15,8.13,3.4E-4,,,,,

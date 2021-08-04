@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+656, aspartate-semialdehyde dehydrogenase, L-aspartate 4-semialdehyde(aq) + NADP(aq) + orthophosphate(aq) = L-4-aspartyl phosphate(aq) + NADPH(aq),298.15,4.40,7.4,Black S.; Wright N.G.; J. Biol. Chem.; 213 39 (1955).,55BLA/WRI2_242," 1.2.1.11                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, sodium borate (0.1 mol dm-3) and imidazole chloride (0.1 mol dm-3)
+657, aspartate-semialdehyde dehydrogenase, L-aspartate 4-semialdehyde(aq) + NADP(aq) + orthophosphate(aq) = L-4-aspartyl phosphate(aq) + NADPH(aq),298.15,5.70,2.0E2,,,,,

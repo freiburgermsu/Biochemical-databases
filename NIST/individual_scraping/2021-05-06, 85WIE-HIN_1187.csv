@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3270, tryptophan synthase, L-serine(aq) = pyruvate(aq) + ammonia(aq),308.15,7.5,-7.3,Wiesinger H.; Hinz H.J.; Arch. Biochem. Biophys.; 242 440 (1985).,85WIE/HIN_1187," 4.2.1.20                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium diphosphate (0.1 mol dm-3)

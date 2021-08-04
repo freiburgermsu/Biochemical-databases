@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1028, nucleoside-phosphate kinase, ATP(aq) + UDP(aq) = ADP(aq) + UTP(aq),303.15,8.0,0.91,Kirkland R.J.A.; Turner J.F.; Biochem. J.; 72 716 (1959).,59KIR/TUR_663," 2.7.4.4                                                    (ENZYME |                                                 KEGG)                                                ", paper chromatography and spectrophotometry, Tris (0.050 mol dm-3) + HCl

@@ -1,19 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",I<sub>c</sub>(mol dm<sup>-3</sup>),K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2805, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),298.15,7.30,0.0,0.25,2.28E-6,Merrill D.K.; McAlexander J.C.; Guynn R.W.; Arch. Biochem. Biophys.; 212 717 (1981).,81MER/MCA_204," 1.1.1.95                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry,
-2806, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),298.15,7.32,0.0,0.25,2.45E-6,,,,,
-2807, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,6.76,0.0,0.25,1.53E-6,,,,,
-2808, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,6.77,0.0,0.25,1.64E-6,,,,,
-2809, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,0.15,2.57E-6,,,,,
-2810, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,0.25,3.14E-6,,,,,
-2811, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.00,0.0,0.75,3.77E-6,,,,,
-2812, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.02,0.0,0.25,3.10E-6,,,,,
-2813, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.03,0.0,0.25,3.14E-6,,,,,
-2814, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.12,0.0050,0.25,2.83E-6,,,,,
-2815, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.12,0.020,0.25,2.61E-6,,,,,
-2816, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.34,0.0,0.25,1.28E-5,,,,,
-2817, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.53,0.0,0.25,1.12E-5,,,,,
-2818, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.54,0.0,0.25,1.23E-5,,,,,
-2819, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.56,0.0,0.25,1.09E-5,,,,,
-2820, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.64,0.0,0.25,1.46E-5,,,,,
-2821, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,7.92,0.0,0.25,2.86E-5,,,,,
-2822, phosphoglycerate dehydrogenase, 3-phospho-D-glycerate(aq) + NAD(aq) = 3-phosphohydroxypyruvate(aq) + NADH(aq),311.15,8.10,0.0,0.25,3.28E-5,,,,,

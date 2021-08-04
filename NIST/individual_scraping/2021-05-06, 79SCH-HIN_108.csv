@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2727, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),283.15,7.0,56.56,Schmid F.X.; Hinz H.J.; Hoppe-Seyler's Z. Physiol. Chem.; 360 1501 (1979).,79SCH/HIN_108," 1.1.1.27                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.2 mol dm-3)
+2728, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),298.15,7.0,54.58,,,,,
+2729, L-lactate dehydrogenase, (S)-lactate(aq) + NAD(aq) = pyruvate(aq) + NADH(aq),308.15,7.0,56.27,,,,,

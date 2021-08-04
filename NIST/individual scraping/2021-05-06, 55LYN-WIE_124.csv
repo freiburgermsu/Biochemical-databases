@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-688, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,7.8,0.012,Lynen F.; Wieland O.; Methods Enzymol.; 1 566 (1955).,55LYN/WIE_124," 1.1.1.35                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate/HCl (0.025 mol dm-3)

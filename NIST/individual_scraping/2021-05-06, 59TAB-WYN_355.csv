@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1067, glutamate formiminotransferase, 5-formiminotetrahydrofolate(aq) + L-glutamate(aq) = N-formimino-L-glutamate(aq) + tetrahydrofolate(aq),298.15,6.7,1.3,Tabor H.; Wyngarden L.; J. Biol. Chem.; 234 1830 (1959).,59TAB/WYN_355," 2.1.2.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine sulfate

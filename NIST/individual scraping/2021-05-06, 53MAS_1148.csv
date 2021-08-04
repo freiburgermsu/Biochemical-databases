@@ -1,25 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-532, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),275.8,7.30,6.31,Massey V.; Biochem. J.; 53 72 (1953).,53MAS_1148," 4.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.067 mol dm-3)
-533, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),276.9,6.35,6.31,,,,,
-534, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),277.0,6.35,6.31,,,,,
-535, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),277.2,6.35,6.31,,,,,
-536, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),282.3,6.35,5.68,,,,,
-537, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),283.5,7.30,5.50,,,,,
-538, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),284.0,6.35,5.50,,,,,
-539, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),286.1,6.35,5.30,,,,,
-540, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),288.2,6.35,5.01,,,,,
-541, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),288.2,7.30,4.86,,,,,
-542, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),291.9,6.35,4.57,,,,,
-543, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),292.6,7.30,4.47,,,,,
-544, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),292.8,6.35,4.57,,,,,
-545, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),296.7,6.35,4.21,,,,,
-546, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),298.1,7.30,3.98,,,,,
-547, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),298.7,6.35,3.98,,,,,
-548, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),299.2,6.35,4.01,,,,,
-549, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),302.5,7.30,3.63,,,,,
-550, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),303.0,6.35,3.63,,,,,
-551, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),303.0,6.35,3.78,,,,,
-552, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),307.8,7.30,3.21,,,,,
-553, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),309.9,6.35,3.21,,,,,
-554, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),310.7,6.35,3.09,,,,,
-555, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),311.7,6.35,3.09,,,,,

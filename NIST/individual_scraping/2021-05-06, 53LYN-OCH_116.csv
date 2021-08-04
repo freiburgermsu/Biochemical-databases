@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+527, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.0,1.9E-3,Lynen F.; Ochoa S.; Biochim. Biophys. Acta; 12 299 (1953).,53LYN/OCH_116," 1.1.1.30                                                    (ENZYME |                                                 KEGG)                                                ",,

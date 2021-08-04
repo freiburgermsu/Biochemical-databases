@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2741, malate dehydrogenase, (S)-malate(aq) + NAD(aq) = oxaloacetate(aq) + NADH(aq),298.15,9.0,7.1E-4,Cook P.F.; Blanchard J.S.; Cleland W.W.; Biochemistry; 19 4853 (1980).,80COO/BLA_140," 1.1.1.37                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, 3-[tris(hydroxylmethyl)methyl]aminopropanesulfonic acid (0.1 mol dm-3)

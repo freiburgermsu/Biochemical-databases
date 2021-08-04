@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1340, creatine kinase, ATP(aq) + creatine(aq) = ADP(aq) + phosphocreatine(aq),303.15,8.0,3.6E-2,Morrison J.F.; James E.; Biochem. J.; 97 37 (1965).,65MOR/JAM_594," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, N-ethylmorpholine + HCl

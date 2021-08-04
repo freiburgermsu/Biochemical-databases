@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,Km' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3655, _-galactosidase, 3-O-Î²-D-galactopyranosyl-D-arabinose(aq) + H2O(l) = D-galactose(aq) + D-arabinose(aq),286.15,5.65,108,Tewari Y.B.; Goldberg R.N.; Biophys. Chem.; 40 59 (1991).,91TEW/GOL_928," 3.2.1.23                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, sodium acetate (0.1 mol dm-3)
+3656, _-galactosidase, 3-O-Î²-D-galactopyranosyl-D-arabinose(aq) + H2O(l) = D-galactose(aq) + D-arabinose(aq),292.15,5.65,108,,,,,
+3657, _-galactosidase, 3-O-Î²-D-galactopyranosyl-D-arabinose(aq) + H2O(l) = D-galactose(aq) + D-arabinose(aq),298.15,5.65,104,,,,,

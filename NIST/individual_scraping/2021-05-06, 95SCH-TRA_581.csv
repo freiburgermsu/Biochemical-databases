@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,cosolvent ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3876, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),277.15,7.5,ethylene glycol 40 %,8.0E-5,Schmidt P.P.; Travers F.; Barman T.; Biochemistry; 34 824 (1995).,95SCH/TRA_581," 2.7.2.3                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, triethanolamine (0.020 mol dm-3)
+3877, phosphoglycerate kinase, ATP(aq) + 3-phospho-D-glycerate(aq) = ADP(aq) + 3-phospho-D-glyceroyl phosphate(aq),277.15,7.5,none,1.5E-4,,,,,

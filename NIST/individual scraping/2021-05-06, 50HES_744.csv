@@ -1,3 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-315, acetylcholinesterase, acetylcholine(aq) + H2O(l) = acetate(aq) + choline(aq),296.15,5.1,510,Hestrin S.; Biochim. Biophys. Acta; 4 310 (1950).,50HES_744," 3.1.1.7                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate
-316, acetylcholinesterase, acetylcholine(aq) + H2O(l) = acetate(aq) + choline(aq),296.15,5.9,2175,,,,,

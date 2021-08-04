@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3869, isochorismate synthase, chorismate(aq) + ammonia(aq) = 2-amino-2-deoxyisochorismate(aq) + H2O(l),298.15,8.0,2.67,Kozlowski M.C.; Tom N.J.; Seto C.T.; Sefler A.M.; Bartlett P.A.; J. Am. Chem. Soc.; 117 2128 (1995),95KOZ/TOM_1426," 5.4.99.6                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, (NH4)2SO4 (0.050 mol dm-3)

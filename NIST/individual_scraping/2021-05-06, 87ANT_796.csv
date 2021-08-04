@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3363, alkaline phosphatase, phenyl phosphate(aq) + H2O(l) = phenol(aq) + orthophosphate(aq),298.15,10.4,-7.45,"Anthony C.M.; ""Enthalpimetric Enzyme Assay""; Thesis Pennsylvania State University (1987).",87ANT_796," 3.1.3.1                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, carbonate + hydrogen carbonate

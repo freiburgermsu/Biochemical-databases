@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3612, purine-nucleoside phosphorylase and pyrimidine-nucleoside phosphorylase, inosine(aq) + thymine(aq) = 5-methyluridine(aq) + hypoxanthine(aq),313.15,7.0,0.21,Hori N.; Uehara K.; Mikami Y.; Agric. Biol. Chem.; 55 1071 (1991).,91HOR/UEH_467," 2.4.2.1 & 2.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ", HPLC, potassium phosphate (0.005 mol dm-3)

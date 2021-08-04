@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2761, formate dehydrogenase, formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq),298.15,6.02,-15.19,Rekharsky M.V.; Egorov A.M.; Gal'chenko G.L.; Berezin I.V.; Zh. Obsch. Khim. 50 2364 (1980); J. Gen. Chem. USSR Engl. Transl.; 50 1917 (1980).,80REK/EGO_239," 1.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, sodium phosphate (0.050 mol dm-3)
+2762, formate dehydrogenase, formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq),298.15,6.44,-14.85,,,,,
+2763, formate dehydrogenase, formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq),298.15,7.48,-14.02,,,,,
+2764, formate dehydrogenase, formate(aq) + NAD(aq) + H2O(l) = carbon dioxide(aq) + NADH(aq),298.15,8.01,-14.18,,,,,

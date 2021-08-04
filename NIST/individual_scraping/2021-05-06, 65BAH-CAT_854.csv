@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1315, pancreatic ribonuclease, cytidine 2':3'-(cyclic)phosphate(aq) + H2O(l) = cytidine 3'-monophosphate(aq),298.15,8.4,-50.6,Bahr J.T.; Cathou R.E.; Hammes G.G.; J. Biol. Chem.; 240 3372 (1965).,65BAH/CAT_854," 3.1.27.5                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Tris (0.20 mol dm-3)

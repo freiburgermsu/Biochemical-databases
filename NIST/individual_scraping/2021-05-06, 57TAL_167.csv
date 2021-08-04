@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+913, 3a-hydroxysteroid dehydrogenase," 5Î±-androstane-3Î±-ol-17-one(aq) + NAD(aq) = 5Î±-androstane-3,17-dione(aq) + NADH(aq)",298.15,7.0,7.42E-2,Talalay P.; Rec. Chem. Prog. (Kresge-Hooker Sci. Lib.); 18 31 (1957).,57TAL_167," 1.1.1.50                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

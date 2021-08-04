@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+985, methylaspartate ammonia-lyase, L-threo-3-methylaspartate(aq) = 2-methylfumarate(aq) + ammonia(aq),298.15,7.9,Tris (0.05 mol dm-3) + HCl,0.238,Barker H.A.; Smyth R.D.; Wilson R.M.; Weissbach H.; J. Biol. Chem.; 234 320 (1959).,59BAR/SMY_1214," 4.3.1.2                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, {Tris (0.05 mol dm-3) + HCl} and ethanolamine (0.05 mol dm-3)
+986, methylaspartate ammonia-lyase, L-threo-3-methylaspartate(aq) = 2-methylfumarate(aq) + ammonia(aq),298.15,9.7,ethanolamine (0.05 mol dm-3),0.306,,,,,

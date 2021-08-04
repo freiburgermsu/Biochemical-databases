@@ -1,0 +1,9 @@
+index,Enzyme:,Reaction:,T(K),pH ,I<sub>m</sub>(mol.kg<sup>-1</sup>),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3800, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,5.70,0.305,-32.03,Tewari Y.B.; Kishore N.K.; Margolis S.A.; Goldberg R.N.; Shibatani T.; J. Chem. Thermodyn. 25 293 (1993).,93TEW/KIS_1051," 3.5.3.6                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate
+3801, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,5.87,0.896,-31.90,,,,,
+3802, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,5.92,0.519,-31.96,,,,,
+3803, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,6.15,0.329,-32.23,,,,,
+3804, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,6.55,0.352,-32.52,,,,,
+3805, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),298.15,7.21,0.394,-33.56,,,,,
+3806, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),304.65,6.10,0.324,-32.42,,,,,
+3807, arginine deiminase, L-arginine(aq) + H2O(l) = L-citrulline(aq) + ammonia(aq),310.15,6.13,0.329,-32.92,,,,,

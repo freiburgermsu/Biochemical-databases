@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1751, fumarate hydratase, fumarate(aq) + H2O(l) = (S)-malate(aq),298.15,-15.5,"Benzinger T.H.; in ""A Laboratory Manual of Analytical Methods of Protein Chemistry""; P. Alexander and H.P. Lundgren eds.; Pergamon Press New York (1969) pp. 93-149.",69BEN_1150," 4.2.1.2                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry,

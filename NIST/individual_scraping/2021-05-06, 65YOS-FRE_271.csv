@@ -1,0 +1,4 @@
+index,Enzyme:,Reaction:,T(K),pH ,K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1377, alanine dehydrogenase, L-alanine(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + ammonia(aq),298.15,10.05,8.25E-4,Yoshida A.; Freese E.; Biochim. Biophys. Acta; 96 248 (1965).,65YOS/FRE_271," 1.4.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris + HCl
+1378, alanine dehydrogenase, L-alanine(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + ammonia(aq),298.15,8.21,1.13E-5,,,,,
+1379, alanine dehydrogenase, L-alanine(aq) + NAD(aq) + H2O(l) = pyruvate(aq) + NADH(aq) + ammonia(aq),298.15,8.98,7.65E-5,,,,,

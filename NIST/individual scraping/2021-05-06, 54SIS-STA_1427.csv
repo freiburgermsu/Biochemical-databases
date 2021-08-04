@@ -1,6 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-632, muconate cycloisomerase," 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",303.15,6.0,succinate,0.010,Sistrom W.R.; Stanier R.Y.; J. Biol. Chem.; 210 821 (1954).,54SIS/STA_1427," 5.5.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, glycine Tris histidine succinate
-633, muconate cycloisomerase," 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",303.15,6.5,histidine,0.011,,,,,
-634, muconate cycloisomerase," 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",303.15,7.5,Tris,0.041,,,,,
-635, muconate cycloisomerase," 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",303.15,8.0,Tris,0.078,,,,,
-636, muconate cycloisomerase," 2,5-dihydro-5-oxofuran-2-acetate(aq) = cis-cis-hexadienedioate(aq)",303.15,9.0,glycine,0.29,,,,,

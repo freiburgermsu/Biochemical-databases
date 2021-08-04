@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1161, dihydroorotate dehydrogenase, (S)-dihydroorotate(aq) + NAD(aq) = orotate(aq) + NADH(aq),293.15,6.1,4.20E-4,Krakow G.; Vennesland B.; J. Biol. Chem.; 236 142 (1961).,61KRA/VEN_266," 1.3.99.11                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, cysteine (0.0067 mol dm-3)
+1162, dihydroorotate dehydrogenase, (S)-dihydroorotate(aq) + NAD(aq) = orotate(aq) + NADH(aq),293.15,6.4,1.06E-3,,,,,
+1163, dihydroorotate dehydrogenase, (S)-dihydroorotate(aq) + NAD(aq) = orotate(aq) + NADH(aq),293.15,6.7,2.24E-3,,,,,
+1164, dihydroorotate dehydrogenase, (S)-dihydroorotate(aq) + NAD(aq) = orotate(aq) + NADH(aq),293.15,7.2,6.19E-3,,,,,

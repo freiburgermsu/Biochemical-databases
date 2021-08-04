@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2464, phosphoglycerate mutase, 2-phospho-D-glycerate(aq) = 3-phospho-D-glycerate(aq),303.15,7.3,11.3,Hill B.; Attwood M.M.; J. Gen. Microbiol.; 96 185 (1976).,76HIL/ATT_1397," 5.4.2.1                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, imidazole (0.05 mol dm-3) + HCl

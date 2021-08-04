@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
-853, thetin-homocysteine S-methyltransferase, dimethylacetothetin(aq) + L-homocysteine(aq) = S-methylthioglycolate(aq) + L-methionine(aq),298.15,7.1,-57.7,Durell J.; Sturtevant J.M.; Biochim. Biophys. Acta; 26 282 (1957).,57DUR/STU_339," 2.1.1.3                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate (0.034 mol dm-3)

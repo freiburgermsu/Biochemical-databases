@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2281, UDPglucose-hexose-1-phosphate uridylyltransferase, UDPglucose(aq) + Î±-D-galactose 1-phosphate(aq) = Î±-D-glucose 1-phosphate(aq) + UDPgalactose(aq),300.15,8.5,2.1,Wong L.-J.; Frey P.A.; Biochemistry; 13 3889 (1974).,74WON/FRE_697," 2.7.7.12                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, sodium bicinate (0.1 mol dm-3)

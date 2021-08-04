@@ -1,0 +1,8 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+178, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,6.39,9.1E-6,Schlenk F.; Hellstrvm H.; von Euler H.; Ber. Dtsch. Chem. Ges.; 71 1471 (1938).,38SCH/HEL_23," 1.1.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,
+179, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,6.60,3.0E-5,,,,,
+180, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,6.85,5.1E-5,,,,,
+181, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,7.18,1.5E-4,,,,,
+182, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,7.31,2.3E-4,,,,,
+183, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,7.69,5.6E-4,,,,,
+184, alcohol dehydrogenase, ethanol(aq) + desamino NAD(aq) = acetaldehyde(aq) + desamino NADH(aq),298.15,8.06,1.1E-3,,,,,

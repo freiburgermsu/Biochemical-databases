@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+912, 3-hydroxyacyl-CoA dehydrogenase, (S)-3-hydroxybutanoyl-CoA(aq) + NAD(aq) = 3-oxobutanoyl-CoA(aq) + NADH(aq),298.15,9.6,0.86,Stern J.R.; Biochim. Biophys. Acta; 26 448 (1957).,57STE_125," 1.1.1.35                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

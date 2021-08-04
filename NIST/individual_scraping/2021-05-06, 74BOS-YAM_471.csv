@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2168, uridine phosphorylase, uridine(aq) + orthophosphate(aq) = uracil(aq) + Î±-D-ribose 1-phosphate(aq),310.15,7.4,3.1E-2,Bose R.; Yamada E.W.; Biochemistry; 13 2051 (1974).,74BOS/YAM_471," 2.4.2.3                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris or glycylglycine
+2169, uridine phosphorylase, uridine(aq) + orthophosphate(aq) = uracil(aq) + Î±-D-ribose 1-phosphate(aq),310.15,8.2,7.8E-2,,,,,

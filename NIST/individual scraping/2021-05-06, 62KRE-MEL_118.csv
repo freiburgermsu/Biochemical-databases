@@ -1,9 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1214, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.00,phosphate,0.0146,Krebs H.A.; Mellanby J.; Williamson D.H.; Biochem. J.; 82 96 (1962).,62KRE/MEL_118," 1.1.1.30                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris (0.033 mol dm-3) and phosphate
-1215, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.05,phosphate,0.0194,,,,,
-1216, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.40,Tris,0.0335,,,,,
-1217, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.60,Tris,0.0520,,,,,
-1218, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,7.70,Tris,0.0772,,,,,
-1219, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,8.10,Tris,0.193,,,,,
-1220, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,8.55,Tris,0.417,,,,,
-1221, 3-hydroxybutyrate dehydrogenase, (R)-3-hydroxybutanoate(aq) + NAD(aq) = 3-oxobutanoate(aq) + NADH(aq),298.15,8.70,Tris,0.609,,,,,

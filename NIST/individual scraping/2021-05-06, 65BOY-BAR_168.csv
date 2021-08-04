@@ -1,4 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1317, 3a-hydroxysteroid dehydrogenase," 5Î±-androstane-3Î±-ol-17-one(aq) + NAD(aq) = 5Î±-androstane-3,17-dione(aq) + NADH(aq)",298.15,7.0,0.092,Boyer J.; Baron D.N.; Talalay P.; Biochemistry; 4 1825 (1965).,65BOY/BAR_168," 1.1.1.50                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, sodium pyrophosphate (0.1 mol dm-3)
-1318, 3a-hydroxysteroid dehydrogenase," 5Î±-androstane-3Î±-ol-17-one(aq) + NAD(aq) = 5Î±-androstane-3,17-dione(aq) + NADH(aq)",298.15,8.0,0.92,,,,,
-1319, 3a-hydroxysteroid dehydrogenase," 5Î±-androstane-3Î±-ol-17-one(aq) + NAD(aq) = 5Î±-androstane-3,17-dione(aq) + NADH(aq)",298.15,9.0,9.2,,,,,

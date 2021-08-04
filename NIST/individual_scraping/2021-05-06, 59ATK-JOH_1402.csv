@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+984, phosphoglucomutase, Î±-D-glucose 1-phosphate(aq) = Î±-D-glucose 6-phosphate(aq),298.15,7.0,17,Atkinson M.R.; Johnson E.; Morton R.K.; Nature; 184 1925 (1959).,59ATK/JOH_1402," 5.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay and spectrophotometry, NaOH + HCl

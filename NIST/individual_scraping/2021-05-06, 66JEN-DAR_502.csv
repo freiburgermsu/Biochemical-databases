@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1415, aspartate transaminase, erythro-3-hydroxyaspartate(aq) + 2-oxoglutarate(aq) = 2-oxo-3-hydroxybutanedioic acid(aq) + L-glutamate(aq),303.15,7.9,12,Jenkins W.T.; D'Ari L.; J. Biol. Chem.; 241 2845 (1966).,66JEN/DAR_502," 2.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, pyrophosphate (0.05 mol dm-3)

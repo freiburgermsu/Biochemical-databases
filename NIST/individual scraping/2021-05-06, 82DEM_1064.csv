@@ -1,21 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-2880, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),293.15,7.8,0.010,1.26E2,de Meis L.; Ann. N.Y. Acad. Sci.; 402 535 (1982).,82DEM_1064," 3.6.1.1                                                    (ENZYME |                                                 KEGG)                                                ", radioactivity, Tris + maleate (0.10 mol dm-3)
-2881, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),293.15,7.8,0.025,3.20E2,,,,,
-2882, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),299.15,7.8,0.010,1.56E2,,,,,
-2883, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),299.15,7.8,0.025,3.72E2,,,,,
-2884, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),303.15,7.8,0.010,1.87E2,,,,,
-2885, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),303.15,7.8,0.025,4.66E2,,,,,
-2886, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,6.0,0.010,3.03E2,,,,,
-2887, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,6.0,0.025,5.20E2,,,,,
-2888, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,6.0,0.050,9.49E2,,,,,
-2889, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,6.0,0.100,2.66E3,,,,,
-2890, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.0001,7.9E1,,,,,
-2891, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.001,1.25E2,,,,,
-2892, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.025,6.87E2,,,,,
-2893, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.050,2.06E3,,,,,
-2894, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.063,2.31E2,,,,,
-2895, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.0,0.100,1.24E4,,,,,
-2896, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.8,0.010,2.35E2,,,,,
-2897, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),308.15,7.8,0.025,5.72E2,,,,,
-2898, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),313.15,7.8,0.010,2.94E2,,,,,
-2899, inorganic pyrophosphatase, pyrophosphate(aq) + H2O(l) = 2 orthophosphate(aq),313.15,7.8,0.025,8.65E2,,,,,

@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+973, sulfate adenylyltransferase, ATP(aq) + sulfate(aq) = adenosine 5'-phosphosulfate(aq) + pyrophosphate(aq)  This is an approximate result.,303.15,7.5,4E-8,Wilson L.G.; Bandurski R.S.; J. Biol. Chem.; 233 975 (1958).,58WIL/BAN_679," 2.7.7.4                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis and radioactivity, Tris (0.02 mol dm-3) + HCl

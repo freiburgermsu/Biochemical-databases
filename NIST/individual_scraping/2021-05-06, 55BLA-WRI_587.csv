@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+655, aspartate kinase, ATP(aq) + L-aspartate(aq) = ADP(aq) + 4-phospho-L-aspartate(aq),288.15,7.0,3.5E-4,Black S.; Wright N.G.; J. Biol. Chem.; 213 27 (1955),55BLA/WRI_587," 2.7.2.4                                                    (ENZYME |                                                 KEGG)                                                ", chromatography, imidazole (0.05 mol dm-3)

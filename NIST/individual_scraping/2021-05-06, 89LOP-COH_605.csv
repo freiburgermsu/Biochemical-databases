@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3548, creatine kinase, ATP(aq) + cyclocreatine(aq) = ADP(aq) + phosphocyclocreatine(aq),309.15,7.0,0.178,LoPresti P.; Cohn M.; Biochim. Biophys. Acta; 998 317 (1989).,89LOP/COH_605," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", NMR, potassium acetate (0.140 mol dm-3) + KHCO3 (0.006 mol dm-3) + (KH2PO4 + Na2HPO4) (0.001 mol dm-3)

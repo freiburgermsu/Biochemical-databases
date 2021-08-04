@@ -1,0 +1,7 @@
+index,Enzyme:,Reaction:,T(K),pH ,buffer ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1113, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,4.74,phosphate,0.0733,Kay L.D.; Osborn M.J.; Hatefi I.; Huennekens F.M.; J. Biol. Chem.; 235 195 (1960).,60KAY/OSB_1057," 3.5.4.9                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, citrate phosphate and acetate
+1114, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,5.20,acetate,0.127,,,,,
+1115, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,5.20,acetate,0.221,,,,,
+1116, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,5.70,phosphate,0.818,,,,,
+1117, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,7.00,acetate,11.0,,,,,
+1118, methenyltetrahydrofolate cyclohydrolase," 5,10-methenyltetrahydrofolate(aq) + H2O(l) = 10-formyltetrahydrofolate(aq)",298.15,7.13,citrate,12.7,,,,,

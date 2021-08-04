@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(MgCl2,mol dm<sup>-3</sup>)",K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1143, galactokinase, ATP(aq) + D-galactose(aq) = ADP(aq) + Î±-D-galactose 1-phosphate(aq),298.15,7.00,0.010,24,Atkinson M.R.; Burton R.M.; Morton R.K.; Biochem. J.; 78 813 (1961).,61ATK/BUR_550," 2.7.1.6                                                    (ENZYME |                                                 KEGG)                                                ", electrophoresis and enzymatic assay, HCl + NaOH
+1144, galactokinase, ATP(aq) + D-galactose(aq) = ADP(aq) + Î±-D-galactose 1-phosphate(aq),298.15,7.00,0.025,26,,,,,

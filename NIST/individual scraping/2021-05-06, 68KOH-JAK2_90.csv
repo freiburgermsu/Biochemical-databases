@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1673, glyoxylate reductase, glycolate(aq) + NAD(aq) = glyoxylate(aq) + NADH(aq),298.15,8.0,2.4E-7,Kohn L.D.; Jakoby W.B.; J. Biol. Chem.; 243 2486 (1968).,68KOH/JAK2_90," 1.1.1.26                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry,

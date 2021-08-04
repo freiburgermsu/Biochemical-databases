@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3088, formate dehydrogenase (NADP+), formate(aq) + NADP(aq) + H2O(l) = carbon dioxide(aq) + NADPH(aq),328.15,7.5,~6.5E2,Yamamoto I.; Saiki T.; Liu S.M.; Ljungdahl L.G.; J. Biol. Chem.; 258 1826 (1983).,83YAM/SAI_261," 1.2.1.43                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, triethanolamine-maleate (0.1 mol dm-3)

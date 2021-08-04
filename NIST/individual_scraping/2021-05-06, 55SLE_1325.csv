@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+691, xylose isomerase, D-xylose(aq) = D-xylulose(aq),303.15,7.5,0.19,Slein M.W.; J. Am. Chem. Soc.; 77 1663 (1955).,55SLE_1325," 5.3.1.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, phosphate (0.05 mol dm-3)

@@ -1,0 +1,5 @@
+index,Enzyme:,Reaction:,T(K),pH ,"c(glycerol,mol dm<sup>-3</sup>)",K<sub>c</sub>' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+250, acid phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),274,5.8,10.86,22,Ohlmeyer P.; Z. Naturforsch.; 1 30 (1946).,46OHL_823," 3.1.3.2                                                    (ENZYME |                                                 KEGG)                                                ", chemical analysis, phosphate
+251, acid phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),293,5.8,11.1,21,,,,,
+252, acid phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),293,5.8,2.72,75,,,,,
+253, acid phosphatase, L-Î±-glycerophosphate(aq) + H2O(l) = glycerol(aq) + orthophosphate(aq),310,5.8,10.86,19,,,,,

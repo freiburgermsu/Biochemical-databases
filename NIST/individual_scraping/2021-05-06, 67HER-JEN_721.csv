@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+1531, 3-oxoacid CoA-transferase, succinyl-CoA(aq) + acetoacetate(aq) = succinate(aq) + acetoacetyl-CoA(aq),298.15,8.1,0.067,Hersh L.B.; Jencks W.P.; J. Biol. Chem.; 242 3468 (1967).,67HER/JEN_721," 2.8.3.5                                                    (ENZYME |                                                 KEGG)                                                ", spectrophotometry, Tris

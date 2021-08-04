@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),δ<sub>r</sub>H(cal)/kJ mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+106, fructose-biphosphate aldolase, D-fructose 1-phosphate(aq) = D-glyceraldehyde(aq) + glycerone phosphate(aq),298.15,-60.2,Meyerhof O.; Schulz W.; Biochem. Z. 289 87 (1936).,36MEY/SCH_1096," 4.1.2.13                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, phosphate

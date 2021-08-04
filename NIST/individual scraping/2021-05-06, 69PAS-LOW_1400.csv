@@ -1,2 +1,0 @@
-index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
-1775, phosphoglucomutase," D-fructose 6-phosphate(aq) + Î±-D-glucose 1,6-diphosphate(aq) = Î±-D-glucose 6-phosphate(aq) + D-fructose 1,6-bisphosphate(aq)",311.15,7.0,~12,Passonneau J.V.; Lowry O.H.; Schulz D.W.; Brown J.G.; J. Biol. Chem.; 244 902 (1969).,69PAS/LOW_1400," 5.4.2.2                                                    (ENZYME |                                                 KEGG)                                                ", fluorimetry, imidazole (0.05 mol dm-3) + HCl

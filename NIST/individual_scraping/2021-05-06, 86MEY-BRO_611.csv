@@ -1,0 +1,2 @@
+index,Enzyme:,Reaction:,T(K),pH ,K' ,Reference:,Reference ID:,EC Value:,Method:,Buffer:
+3324, creatine kinase, phosphocreatine(aq) + Î²-guanadinopropionate(aq) = creatine(aq) + phospho-Î²-guanadinopropionate(aq),298.15,7.06,3.06,Meyer R.A.; Brown T.R.; Krilowicz B.L.; Kushmerick M.J.; Am. J. Physiol.; 250 C264-C274 (1986).,86MEY/BRO_611," 2.7.3.2                                                    (ENZYME |                                                 KEGG)                                                ", enzymatic assay, Pipes (0.050 mol dm-3)

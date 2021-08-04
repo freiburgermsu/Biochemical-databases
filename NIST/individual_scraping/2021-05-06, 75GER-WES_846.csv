@@ -1,0 +1,3 @@
+index,Enzyme:,Reaction:,T(K),pH ,δ<sub>r</sub>H'<sup>o</sup>(kJ.mol<sup>-1</sup>),Reference:,Reference ID:,EC Value:,Method:,Buffer:
+2315, phosphohydrolase (unclassified)," methyl Î²-D-ribofuranoside 3,5-(cyclic)phosphate(aq) + H2O(l) = methyl Î²-D-ribofuranoside 5-phosphate(aq)",298.15,7.3,-49.1,Gerlt J.A.; Westheimer F.H.; Sturtevant J.M.; J. Biol. Chem.; 250 5059 (1975).,75GER/WES_846," 3.1.4.-                                                    (ENZYME |                                                 KEGG)                                                ", calorimetry, Pipes (0.05 mol dm-3)
+2316, phosphohydrolase (unclassified)," methyl Î²-D-ribofuranoside 3,5-(cyclic)phosphate(aq) + H2O(l) = methyl Î²-D-ribofuranoside 5-phosphate(aq)",310.15,7.2,-50.3,,,,,
