@@ -1,0 +1,2 @@
+      "1762\treaction\tADP-3-(aq) + H2O(l) = AMP-2--(aq) + HPO4-2-(aq)\tADP3-(aq) + H2O(l) = AMP2--(aq) + HPO42-(aq) + H+(aq)",
+      "1763\treaction\tADP-3-(aq) + H2O(l) = AMP-2--(aq) + HPO4-2-(aq)\tAMP2--(aq) + H2O(l) = adenosine(aq) + HPO42-(aq)",

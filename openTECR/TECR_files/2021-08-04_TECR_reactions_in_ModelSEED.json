@@ -1,0 +1,4644 @@
+{
+    "aspartate ammonia-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00041[0] <=> (1) cpd00106[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB0"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "fumarate hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " fumarate + H2O = (S)-malate"
+        ]
+    },
+    "phosphopyruvate hydratase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00482[0] <=> (1) cpd00061[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB1"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "fructose-biphosphate aldolase and triose-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-fructose 1,6-bisphosphate = 2 glycerone phosphate"
+        ]
+    },
+    "triose-phosphate isomerase and fructose-bisphosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-fructose 1,6-bisphosphate = 2 glycerone phosphate"
+        ]
+    },
+    "phosphoglycerate mutase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00482[0] <=> (1) cpd00169[0]"
+            ],
+            "ids": [
+                "TECRDB2"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "alkaline phosphatase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00061[0] + (1) cpd00001[0] <=> (1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00818[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+                "(1) cpd00114[0] + (1) cpd00001[0] <=> (1) cpd00246[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd03535[0] + (1) cpd00001[0] <=> (1) cpd00051[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00457[0] + (1) cpd00001[0] <=> (1) cpd00098[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd01550[0] + (1) cpd00001[0] <=> (1) cpd00250[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd02023[0] + (1) cpd00001[0] <=> (1) cpd00451[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00038[0] + (3) cpd00001[0] <=> (1) cpd00311[0] + (3) cpd00009[0] + (3) cpd00009[0] + (3) cpd00009[0]",
+                "(1) cpd00031[0] + (2) cpd00001[0] <=> (1) cpd00311[0] + (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+                "(1) cpd02135[0] + (1) cpd00001[0] <=> (1) cpd00646[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd01773[0] + (1) cpd00001[0] <=> (1) cpd00127[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00171[0] + (1) cpd00001[0] <=> (1) cpd29557[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00126[0] + (1) cpd00001[0] <=> (1) cpd00311[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB3",
+                "TECRDB4",
+                "TECRDB5",
+                "TECRDB6",
+                "TECRDB7",
+                "TECRDB8",
+                "TECRDB9",
+                "TECRDB10",
+                "TECRDB11",
+                "TECRDB12",
+                "TECRDB13",
+                "TECRDB14",
+                "TECRDB15",
+                "TECRDB16",
+                "TECRDB17"
+            ]
+        },
+        "undescribed reactions": [
+            " 3-hydroxypropyl phosphate + H2O = 1,3-propanediol + orthophosphate",
+            " D-fructose 1-phosphate + H2O = D-fructose + orthophosphate",
+            " methyl \u03b2-D-ribofuranoside 5-phosphate + H2O = methyl \u03b2-D-ribofuranose + orthophosphate",
+            " D-mannose 6-phosphate + H2O = D-mannose + orthophosphate",
+            " D-glucose 6-phosphate + H2O = D-glucose + orthophosphate",
+            " 4-nitrophenyl phenylphosphonate + H2O = 4-nitrophenol + phenylphosphonate",
+            " 1-naphthyl phosphate + H2O = 1-naphthol + orthophosphate",
+            " N-acetylethanolamine phosphate + H2O = N-acetylethanolamine + orthophosphate",
+            " phosphotaurocyamine + H2O = taurocyamine + orthophosphate",
+            " acetyl phosphate2- + H2O = acetate- + HPO42-",
+            " ethylene glycol phosphate + H2O = ethylene glycol + orthophosphate",
+            " D-fructose 6-phosphate + H2O = D-fructose + orthophosphate",
+            " AMP2-- + H2O = adenosine + HPO42-",
+            " D-glucose 6-phosphate2- + H2O = D-glucose + HPO42-",
+            " methyl \u03b1-D-glucopyranoside 6-phosphate + H2O = methyl \u03b1-D-glucopyranose + orthophosphate",
+            " D-fructose 1,6-bisphosphate + H2O = D-fructose 6-phosphate + orthophosphate",
+            " ADP3- + H2O = AMP2-- + HPO42- + H+",
+            " monoethyl phosphate + H2O = ethanol + orthophosphate",
+            " phosphoenolpyruvate3- + H2O = pyruvate- + HPO42-",
+            " D-fructose 1,6-bisphosphate + H2O = D-fructose 1-phosphate + orthophosphate",
+            " (R)-3-phosphoglycerate + H2O = (R)-glycerate + orthophosphate",
+            " D-ribose 5-phosphate + H2O = D-ribose + orthophosphate",
+            " L-\u03b1-glycerophosphate + H2O = glycerol + orthophosphate"
+        ]
+    },
+    "alcohol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd03662[0] + (1) cpd00003[0] <=> (1) cpd01011[0] + (1) cpd00004[0]",
+                "(1) cpd00435[0] + (1) cpd00003[0] <=> (1) cpd00225[0] + (1) cpd00004[0]",
+                "(1) cpd00562[0] + (1) cpd00003[0] <=> (1) cpd15619[0] + (1) cpd00004[0]",
+                "(1) cpd01269[0] + (1) cpd00003[0] <=> (1) cpd00178[0] + (1) cpd00004[0]",
+                "(1) cpd10394[0] + (1) cpd00003[0] <=> (1) cpd15618[0] + (1) cpd00004[0]",
+                "(1) cpd00636[0] + (1) cpd00003[0] <=> (1) cpd00329[0] + (1) cpd00004[0]",
+                "(1) cpd00363[0] + (1) cpd00003[0] <=> (1) cpd00071[0] + (1) cpd00004[0]",
+                "(1) cpd27216[0] + (1) cpd00003[0] <=> (1) cpd15611[0] + (1) cpd00004[0]",
+                "(1) cpd03559[0] + (1) cpd03559[0] + (1) cpd00003[0] <=> (1) cpd00371[0] + (1) cpd00371[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB18",
+                "TECRDB19",
+                "TECRDB20",
+                "TECRDB21",
+                "TECRDB22",
+                "TECRDB23",
+                "TECRDB24",
+                "TECRDB25",
+                "TECRDB26"
+            ]
+        },
+        "undescribed reactions": [
+            " vitamin A alcohol + NAD = vitamin A aldehyde + NADH",
+            " ethanol + desamino NAD = acetaldehyde + desamino NADH",
+            " ethanol + AP-NAD = acetaldehyde + AP-NADH",
+            " trans-2-hexene-1-ol + NAD = trans-2-hexenal + NADH",
+            " cis-3-hexene-1-ol + NAD = cis-3-hexenal + NADH"
+        ]
+    },
+    "creatine kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00250[0] <=> (1) cpd00008[0] + (1) cpd01550[0]"
+            ],
+            "ids": [
+                "TECRDB27"
+            ]
+        },
+        "undescribed reactions": [
+            " ATP + cyclocreatine = ADP + phosphocyclocreatine",
+            " phosphocreatine + cyclocreatine = creatine + phosphocyclocreatine",
+            " phosphocreatine + \u03b2-guanidopropionate = creatine + \u03b2-phosphoguanidopropionate",
+            " adenosine 5'-(\u03b1,\u03b2-methylene)triphosphate + creatine = adenosine 5'-(\u03b1,\u03b2-methylene)diphosphate + phosphocreatine",
+            " ATP-\u03b2-S + creatine = ADP-\u03b2-S + phosphocreatine",
+            " phosphocreatine + \u03b2-guanadinopropionate = creatine + phospho-\u03b2-guanadinopropionate"
+        ]
+    },
+    "arginine kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP-\u03b2-S + L-arginine = ADP-\u03b2-S + N\u03c9-phospho-L-arginine"
+        ]
+    },
+    "fructose-biphosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-fructose 1-phosphate = D-glyceraldehyde + glycerone phosphate",
+            " 5,6-dideoxyfructose 1-phosphate = glycerone phosphate + propionaldehyde",
+            " D-fructose 1,6-bisphosphate = glycerone phosphate + D-glyceraldehyde 3-phosphate",
+            " methylerythrulose 1-phosphate = acetaldehyde + glycerone phosphate"
+        ]
+    },
+    "_-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd03845[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB28"
+            ]
+        },
+        "undescribed reactions": [
+            " 1-butyl \u03b2-D-glucopyranoside + H2O = 1-butanol + D-glucose",
+            " 2-methyl-2-propyl \u03b2-D-glucopyranoside + H2O = 2-methyl-2-propanol + D-glucose",
+            " \u03b2-gentiobiose + H2O = 2 D-glucose",
+            " \u03b1-D-melibiose + H2O = D-galactose + D-glucose",
+            " ethyl \u03b2-D-glucopyranoside + H2O = ethanol + D-glucose",
+            " 1-propyl \u03b2-D-glucopyranoside + H2O = 1-propanol + D-glucose",
+            " methyl \u03b2-D-glucopyranoside + H2O = methanol + D-glucose",
+            " 2-methyl-1-propyl \u03b2-D-glucopyranoside + H2O = 2-methyl-1-propanol + D-glucose",
+            " 2-propyl \u03b2-D-glucopyranoside + H2O = 2-propanol + D-glucose",
+            " 2-butyl \u03b2-D-glucopyranoside + H2O = (1)-2-butanol + D-glucose"
+        ]
+    },
+    "glycerol-3-phosphate dehydrogenase (NAD+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00080[0] + (1) cpd00003[0] <=> (1) cpd00095[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB29"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-lactate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00139[0] + (1) cpd00003[0] <=> (1) cpd00040[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB30"
+            ]
+        },
+        "undescribed reactions": [
+            " 2-hydroxybutanoate + NAD = 2-oxobutanoate + NADH",
+            " (S)-lactate + NAD = pyruvate + NADH",
+            " (S)-lactate + AP-NAD= pyruvate + AP-NADH",
+            " 2,4-dihydroxybutanoate + NAD = 2-oxo-4-hydroxybutanoate + NADH"
+        ]
+    },
+    "malate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " meso-tartrate + NAD = (E)-dihydroxyfumarate + NADH",
+            " (S)-malate + NAD = oxaloacetate + NADH",
+            " meso-tartrate + NAD = 2-oxo-3-hydroxysuccinate + NADH"
+        ]
+    },
+    "glutamate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00023[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB31"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "alanine transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB32"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "aspartate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00041[0] + (1) cpd00024[0] <=> (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB33"
+            ]
+        },
+        "undescribed reactions": [
+            " erythro-3-hydroxyaspartate + 2-oxoglutarate = 2-oxo-3-hydroxybutanedioic acid + L-glutamate"
+        ]
+    },
+    "phosphoglucomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b1-D-glucose 1-phosphate =\u03b1-D-glucose 6-phosphate",
+            " D-glucosamine 6-phosphate = D-glucosamine 1-phosphate",
+            " \u03b1-D-glucose 1-phosphate = \u03b1-D-glucose 6-phosphate",
+            " D-fructose 6-phosphate + \u03b1-D-glucose 1,6-diphosphate = \u03b1-D-glucose 6-phosphate + D-fructose 1,6-bisphosphate",
+            " 6-thioglucose 6-phosphate = 6-thioglucose 1-phosphate"
+        ]
+    },
+    "sucrose phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " sucrose + orthophosphate = \u03b1-D-glucose 1-phosphate + D-fructose"
+        ]
+    },
+    "adenylate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00008[0] <=> (1) cpd02199[0] + (1) cpd00018[0]",
+                "(2) cpd00177[0] <=> (1) cpd00294[0] + (1) cpd00294[0] + (1) cpd00115[0]",
+                "(2) cpd00008[0] <=> (1) cpd00018[0] + (1) cpd00002[0]"
+            ],
+            "ids": [
+                "TECRDB34",
+                "TECRDB35",
+                "TECRDB36"
+            ]
+        },
+        "undescribed reactions": [
+            " ADP + ADP-N1-oxide = ATP-N1-oxide + AMP"
+        ]
+    },
+    "aconitate hydratase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00137[0] <=> (1) cpd00331[0] + (1) cpd00001[0]",
+                "(1) cpd00353[0] <=> (1) cpd00331[0] + (1) cpd00001[0]",
+                "(1) cpd00353[0] <=> (1) cpd00137[0]"
+            ],
+            "ids": [
+                "TECRDB37",
+                "TECRDB38",
+                "TECRDB39"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "triose-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00095[0]"
+            ],
+            "ids": [
+                "TECRDB40"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "acetate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd29968[0] <=> (1) cpd00008[0] + (1) cpd00196[0]"
+            ],
+            "ids": [
+                "TECRDB41"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-glyceraldehyde 3-phosphate + (chloroethyl)phosphonate + NAD = (3-phospho-D-glycerol-chloroethyl)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + orthophosphate + NAD = 3-phospho-D-glyceroyl phosphate + NADH",
+            " D-glyceraldehyde 3-phosphate + (methoxy)phosphonate + NAD = (3-phospho-D-glycerol-methoxy)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + (ethyl)phosphonate + NAD = (3-phospho-D-glycerol-ethyl)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + (aminomethyl)phosphonate + NAD = (3-phospho-D-glycerol-aminomethyl)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + (methyl)phosphonate + NAD = (3-phospho-D-glycerol-methyl)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + phosphonate + NAD = (3-phospho-D-glyceroyl)phosphonate + NADH",
+            " D-glyceraldehyde 3-phosphate + (chloromethyl)phosphonate + NAD = (3-phospho-D-glycerol-chloromethyl)phosphonate + NADH"
+        ]
+    },
+    "acid phosphatase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02135[0] + (1) cpd00001[0] <=> (1) cpd00646[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00196[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00002[0] + (3) cpd00001[0] <=> (1) cpd00182[0] + (3) cpd00009[0] + (3) cpd00009[0] + (3) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB14",
+                "TECRDB42",
+                "TECRDB7",
+                "TECRDB43"
+            ]
+        },
+        "undescribed reactions": [
+            " D-fructose 1-phosphate + H2O = D-fructose + orthophosphate",
+            " D-fructose 1,6-bisphosphate + H2O = D-fructose 1-phosphate + orthophosphate",
+            " D-fructose 6-phosphate + H2O = D-fructose + orthophosphate",
+            " D-fructose 1,6-bisphosphate + H2O = D-fructose 6-phosphate + orthophosphate",
+            " L-\u03b1-glycerophosphate + H2O = glycerol + orthophosphate"
+        ]
+    },
+    "phosphoglycerate kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP-\u03b2-S + 3-phospho-D-glycerate = ADP-\u03b2-S + 3-phospho-D-glyceroyl phosphate"
+        ]
+    },
+    "nicotinamide-nucleotide adenylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + \u03b2-nicotinamide mononucleotide = NAD + pyrophosphate"
+        ]
+    },
+    "isocitrate dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00353[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB44"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "acetylcholinesterase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01367[0] + (1) cpd01367[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00098[0]"
+            ],
+            "ids": [
+                "TECRDB45"
+            ]
+        },
+        "undescribed reactions": [
+            " propionylcholine + H2O = propionate + choline"
+        ]
+    },
+    "pyruvate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00020[0] <=> (1) cpd00008[0] + (1) cpd00061[0]"
+            ],
+            "ids": [
+                "TECRDB46"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "purine-nucleoside phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " nicotinamide + \u03b1-D-ribose 1-phosphate = nicotinamide riboside + orthophosphate"
+        ]
+    },
+    "cyclomaltodextrin glucanotransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " Gu = cyclomaltohexaose + G(u-6)",
+            " Gv = cyclomaltoheptaose + G(v-7)",
+            " Gw = cyclomaltooctaose + G(w-8)"
+        ]
+    },
+    "mannose-6-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00235[0] <=> (1) cpd19035[0]"
+            ],
+            "ids": [
+                "TECRDB47"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucose-6-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-glucose 6-phosphate = D-fructose 6-phosphate",
+            " 6-amino-D-glucose 6-phosphate = 6-amino-D-fructose 6-phosphate"
+        ]
+    },
+    "L-iditol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]",
+                "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]",
+                "(1) cpd01171[0] + (1) cpd00003[0] <=> (1) cpd00589[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB48",
+                "TECRDB49",
+                "TECRDB50"
+            ]
+        },
+        "undescribed reactions": [
+            " D-sorbitol + NAD = D-fructose + NADH",
+            " D-mannitol + NAD = D-fructose + NADH"
+        ]
+    },
+    "chymotrypsin": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-acetyl-L-tryptophan phenylethyl ester + H2O = N-acetyl-L-tryptophan + 2-phenylethanol",
+            " N-benzoyl-L-tyrosinamide + H2O = N-benzoyl-L-tyrosine + ammonia",
+            " N-benzoyl-L-tyrosylglycinanilide + H2O = N-benzoyl-L-tyrosine + glycylanalide",
+            " N-acetyl-L-phenylalanine ethyl ester + H2O =  N-acetyl-L-phenylalanine + ethanol",
+            " N-acetyl-L-tyrosine ethyl ester + H2O = N-acetyl-L-tyrosine + ethanol",
+            " 2-propylhippurate + H2O = 2-propanol + hippurate",
+            " N-acetyl-L-tryptophan ethyl ester + H2O = N-acetyl-L-tryptophan + ethanol",
+            " N-acetyl-L-tyrosine hydroxamic acid + H2O = N-acetyl-L-tyrosine + hydroxylamine",
+            " N-acetyl-L-phenylalanine methyl ester + H2O = N-acetyl-L-phenylalanine + methanol",
+            " N-acetyl-L-phenylalanylglycinamide + H2O = N-acetyl-L-phenylalanine + glycinamide",
+            " N-benzoyl-L-tyrosylglycinamide + H2O = N-benzoyl-L-tyrosine + glycinamide",
+            " N-benzoyl-L-tyrosylglycinamide + H2O = N-benzoyl-L-tyrosylglycine + ammonia",
+            " 3-(2-furyl)acryloylimidazole + H2O = furylacrylic acid + imidazole"
+        ]
+    },
+    "alanine racemase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] <=> (1) cpd00117[0]"
+            ],
+            "ids": [
+                "TECRDB51"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "_-fructofuranosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " stachyose + H2O = D-fructose + O-\u03b1-D-galactopyranosyl-(1->6)-O-\u03b1-D-galactopyranosyl-(1->6)-\u03b1-D-glucopyranose",
+            " raffinose + H2O = \u03b1-D-melibiose + D-fructose"
+        ]
+    },
+    "urease": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00073[0] + (2) cpd00001[0] <=> (2) cpd00013[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB52"
+            ]
+        },
+        "undescribed reactions": [
+            " ammonium carbamate + H2O = 2 ammonia + carbon dioxide"
+        ]
+    },
+    "carboxypeptidase A": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " benzyloxycarbonylglycyl-L-phenylalanine + H2O = benzyloxycarbonylglycine + L-phenylalanine",
+            " benzyloxycarbonylglycyl-L-leucine + H2O = benzyloxycarbonylglycine + L-leucine"
+        ]
+    },
+    "maltose phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "UDPglucose 4-epimerase and UDPglucose-hexose 1-phosphate uridylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b1-D-galactose 1-phosphate =\u03b1-D-glucose 1-phosphate",
+            " \u03b1-D-galactose 1-phosphate = \u03b1-D-glucose 1-phosphate"
+        ]
+    },
+    "UDPglucose-hexose 1-phosphate uridylyltransferase and UDPglucose 4-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b1-D-galactose 1-phosphate = \u03b1-D-glucose 1-phosphate"
+        ]
+    },
+    "glutamate racemase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00023[0] <=> (1) cpd00186[0]"
+            ],
+            "ids": [
+                "TECRDB53"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "inorganic pyrophosphatase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB5"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "nucleotide pyrophosphatase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " NAD + H2O = \u03b2-nicotinamide mononucleotide + AMP"
+        ]
+    },
+    "phosphate acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00592[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd22528[0] + (1) cpd01598[0]",
+                "(1) cpd00022[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd22528[0] + (1) cpd00196[0]"
+            ],
+            "ids": [
+                "TECRDB54",
+                "TECRDB55"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "citrate (si)-synthase and malate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-malate + acetyl-CoA + NAD + H2O = citrate + CoA + NADH"
+        ]
+    },
+    "malate dehydrogenase and citrate (si)-synthase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-malate + acetyl-CoA + NAD + H2O = citrate + CoA + NADH"
+        ]
+    },
+    "glucose dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-D-glucose + NAD = D-glucono-1,5-lactone + NADH"
+        ]
+    },
+    "acetaldehyde dehydrogenase (acetylating)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00071[0] + (1) cpd22528[0] + (1) cpd00003[0] <=> (1) cpd00022[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB56"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "arabinose isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-fucose = L-fuculose",
+            " D-arabinose = D-ribulose"
+        ]
+    },
+    "malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-malate + NADP + H2O = pyruvate + NADPH + carbon dioxide"
+        ]
+    },
+    "xylose isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01487[0] <=> (1) cpd00259[0]",
+                "(1) cpd03884[0] <=> (1) cpd03880[0]"
+            ],
+            "ids": [
+                "TECRDB57",
+                "TECRDB58"
+            ]
+        },
+        "undescribed reactions": [
+            " D-psicose = \u03b2-D-allose",
+            " D-glucose = D-fructose"
+        ]
+    },
+    "acetate-CoA ligase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd29968[0] + (1) cpd22528[0] <=> (1) cpd00018[0] + (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00022[0]"
+            ],
+            "ids": [
+                "TECRDB59"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "NAD(P)+ transhydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00003[0] + (1) cpd00005[0] <=> (1) cpd00004[0] + (1) cpd00006[0]"
+            ],
+            "ids": [
+                "TECRDB60"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "3-hydroxybutyrate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-3-hydroxybutanoate + NAD = 3-oxobutanoate + NADH"
+        ]
+    },
+    "acetyl-CoA C-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "3-oxoacid CoA-transferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "butyrate-CoA ligase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "trimetaphosphatase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01622[0] + (1) cpd00001[0] <=> (1) cpd00421[0]"
+            ],
+            "ids": [
+                "TECRDB61"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glutamate dehydrogenase (NAD(P)+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00023[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd00013[0]",
+                "(1) cpd00023[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB62",
+                "TECRDB31"
+            ]
+        },
+        "undescribed reactions": [
+            " L-glutamate + AP-NAD + H2O = 2-oxoglutarate+ AP-NADH + ammonia"
+        ]
+    },
+    "arginosuccinate lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-(L-argino)succinate = fumarate + L-arginine"
+        ]
+    },
+    "dipeptidyl-peptidase I": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " glycyl-L-phenylalaninamide + H2O = glycyl-L-phenylalanine + ammonia"
+        ]
+    },
+    "3(or 17)_-hydroxysteroid dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 5\u03b1-androstane-3\u03b2,17\u03b1-diol + NAD = 5\u03b1-androstane-17\u03b1-ol-3-one + NADH",
+            " 5\u03b2-pregnane-3\u03b2,17\u03b1,21-triol-20-one + NAD = 5\u03b2-pregnane-17\u03b1,21-diol-3,20-dione + NADH",
+            " 4-androstene-17\u03b2-ol-3-one + NAD = 4-androstene-3,17-dione + NADH",
+            " 5\u03b1-pregnane-3\u03b2,17\u03b1,21-triol-11,20-dione + NAD = 5\u03b1-pregnane-17\u03b1,21-diol-3,11,20-trione + NADH",
+            " 5\u03b1-pregnane-3\u03b2,17\u03b1,21-triol-20-one + NAD = 5\u03b1-pregnane-17\u03b1,21-diol-3,20-dione + NADH"
+        ]
+    },
+    "ribose-5-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00101[0] <=> (1) cpd00171[0]"
+            ],
+            "ids": [
+                "TECRDB63"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "nucleoside-diphosphate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00090[0] <=> (1) cpd00008[0] + (1) cpd00068[0]",
+                "(1) cpd00002[0] + (1) cpd00031[0] <=> (1) cpd00008[0] + (1) cpd00038[0]"
+            ],
+            "ids": [
+                "TECRDB64",
+                "TECRDB65"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ketotetraose-phosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02148[0] <=> (1) cpd00055[0] + (1) cpd00095[0]"
+            ],
+            "ids": [
+                "TECRDB66"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "butyryl-CoA dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00120[0] + (1) cpd00120[0] + (1) cpd01206[0] <=> (1) cpd00650[0] + (1) cpd00650[0] + (1) cpd23609[0]"
+            ],
+            "ids": [
+                "TECRDB67"
+            ]
+        },
+        "undescribed reactions": [
+            " butanoyl-CoA + indophenol = 2-butenoyl-CoA + reduced indophenol"
+        ]
+    },
+    "glutamate-ammonia ligase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "dihydroorotase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00282[0] + (1) cpd00001[0] <=> (1) cpd00343[0]"
+            ],
+            "ids": [
+                "TECRDB68"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "carboxymethylhydantoinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02324[0] + (1) cpd00001[0] <=> (1) cpd00343[0]"
+            ],
+            "ids": [
+                "TECRDB69"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "3-dehydroquinate dehydratase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00699[0] + (1) cpd00699[0] <=> (1) cpd01716[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB70"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "muconate cycloisomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2,5-dihydro-5-oxofuran-2-acetate = cis-cis-hexadienedioate",
+            " (-)-4-carboxymethyl-\u0394-\u03b1--but-2-en-4-olide = cis-trans-hexadienedioate"
+        ]
+    },
+    "imidazole N-acetyltransferase and phosphate acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00196[0] + (1) cpd01116[0] <=> (1) cpd01677[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB71"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "R,R)-butanediol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "phosphoenolpyruvate carboxykinase (GTP)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00068[0] + (1) cpd00068[0] + (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00001[0] <=> (1) cpd00090[0] + (1) cpd00090[0] + (1) cpd00061[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB72"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "3-hydroxyacyl-CoA dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-3-hydroxybutanoyl-CoA + NAD = 3-oxobutanoyl-CoA + NADH",
+            " (S)-3-hydroxyhexanoyl-CoA + NAD = 3-oxohexanoyl-CoA + NADH"
+        ]
+    },
+    "aspartate-semialdehyde dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00006[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd01977[0] + (1) cpd01977[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB73"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "homoserine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00227[0] + (1) cpd00003[0] <=> (1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00004[0]",
+                "(1) cpd00227[0] + (1) cpd00006[0] <=> (1) cpd00346[0] + (1) cpd00346[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB74",
+                "TECRDB75"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "aspartate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00041[0] <=> (1) cpd00008[0] + (1) cpd01977[0] + (1) cpd01977[0]"
+            ],
+            "ids": [
+                "TECRDB76"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glycerol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00100[0] + (1) cpd00003[0] <=> (1) cpd00157[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB77"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "adenylosuccinate lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02375[0] <=> (1) cpd00106[0] + (1) cpd00018[0]"
+            ],
+            "ids": [
+                "TECRDB78"
+            ]
+        },
+        "undescribed reactions": [
+            " N-(5-amino-1-\u03b2-D-ribosyl-4-imidazoyl-carbonyl)-L-aspartic acid 5'-phosphate = fumarate +  5-amino-1-\u03b2-D-ribosyl-4-imidazolecarboxamide 5'-phosphate"
+        ]
+    },
+    "sucrose synthase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UDPglucose + D-fructose = UDP + sucrose",
+            " ADPglucose + D-fructose = ADP + sucrose"
+        ]
+    },
+    "quinate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00248[0] + (1) cpd00003[0] <=> (1) cpd00699[0] + (1) cpd00699[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB79"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "shikimate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00383[0] + (1) cpd00006[0] <=> (1) cpd01716[0] + (1) cpd01725[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB80"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucose-6-phosphate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-glucose 6-phosphate + NADP = D-glucono-1,5-lactone 6-phosphate + NADPH"
+        ]
+    },
+    "transaldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00238[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00236[0] + (1) cpd19035[0]"
+            ],
+            "ids": [
+                "TECRDB81"
+            ]
+        },
+        "undescribed reactions": [
+            " D-fructose + D-glyceraldehyde-3-phosphate = D-fructose 6-phosphate + D-glyceraldehyde"
+        ]
+    },
+    "D-lactate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-lactate + NAD = pyruvate + NADH"
+        ]
+    },
+    "succinate-CoA ligase (ADP forming)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00036[0] + (1) cpd22528[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00078[0]"
+            ],
+            "ids": [
+                "TECRDB82"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "myosin ATPase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00068[0] + (1) cpd00068[0] + (1) cpd00001[0] <=> (1) cpd00090[0] + (1) cpd00090[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00038[0] + (1) cpd00001[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]",
+                "(1) cpd00002[0] + (1) cpd00001[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB83",
+                "TECRDB84",
+                "TECRDB85"
+            ]
+        },
+        "undescribed reactions": [
+            " ATP4- + H2O = ADP3- + HPO42- + H+"
+        ]
+    },
+    "nucleoside-phosphate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00014[0] <=> (1) cpd00008[0] + (1) cpd00062[0]",
+                "(1) cpd00062[0] + (1) cpd00091[0] <=> (2) cpd00014[0]"
+            ],
+            "ids": [
+                "TECRDB86",
+                "TECRDB87"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "orotate phosphoribosyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " orotidine 5'-phosphate + thiopyrophosphate = orotate + phosphoribosyl-1-O-(2-thiodiphosphate)"
+        ]
+    },
+    "UTP-glucose-1-phosphate uridylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UTP + \u03b1-D-glucose 1-phosphate = pyrophosphate + UDPglucose"
+        ]
+    },
+    "trypsin": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (L-lysine)n + (n-1) H2O = L-lysine",
+            " N\u03b1-benzoyl-L-argininamide + H2O = N\u03b1-benzoyl-L-arginine + ammonia"
+        ]
+    },
+    "mannitol-1-phosphate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd27436[0] + (1) cpd00003[0] <=> (1) cpd19035[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB88"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glyoxylate reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00139[0] + (1) cpd00003[0] <=> (1) cpd00040[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB30"
+            ]
+        },
+        "undescribed reactions": [
+            " (R)-glycerate + NAD = hydroxypyruvate + NADH"
+        ]
+    },
+    "glycine hydroxymethyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00033[0] + (1) cpd00071[0] <=> (1) cpd00161[0]",
+                "(1) cpd00033[0] + (1) cpd00055[0] <=> (1) cpd00054[0]",
+                "(1) cpd00125[0] + (1) cpd00033[0] + (1) cpd00001[0] <=> (1) cpd00087[0] + (1) cpd00087[0] + (1) cpd00054[0]"
+            ],
+            "ids": [
+                "TECRDB89",
+                "TECRDB90",
+                "TECRDB91"
+            ]
+        },
+        "undescribed reactions": [
+            " CH2-H4PteGlu4 + glycine + H2O = H4PteGlu4 + L-serine"
+        ]
+    },
+    "histidinol-phosphate transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-histidinol phosphate + 2-oxoglutarate = 3-(imidazol-4-yl)-2-oxopropyl phosphate + L-glutamate"
+        ]
+    },
+    "glutaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b3-/glutamohydroxamic acid + H2O = L-glutamate + hydroxylamine",
+            " L-glutamine + H2O = L-glutamate + ammonia"
+        ]
+    },
+    "L-ribulose-phosphate 4-epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00808[0] <=> (1) cpd00198[0]"
+            ],
+            "ids": [
+                "TECRDB92"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-rhamnose isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01627[0] <=> (1) cpd00642[0]"
+            ],
+            "ids": [
+                "TECRDB93"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "dephospho-CoA kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00655[0] <=> (1) cpd00008[0] + (1) cpd22528[0]"
+            ],
+            "ids": [
+                "TECRDB94"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "retinal isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00304[0] + (1) cpd00304[0] <=> (1) cpd01430[0]"
+            ],
+            "ids": [
+                "TECRDB95"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ribulose-phosphate 3-epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00171[0] <=> (1) cpd00198[0]"
+            ],
+            "ids": [
+                "TECRDB96"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ribulose-biphosphate carboxylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-ribulose 1,5-biphosphate + carbon dioxide = 2 3-phospho-D-glycerate"
+        ]
+    },
+    "myo-inositol 2-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " myo-inositol + NAD = 2-oxo-myo-inositol + NADH"
+        ]
+    },
+    "glucosamine-6-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-glucosamine 6-phosphate + H2O = D-fructose 6-phosphate + ammonia"
+        ]
+    },
+    "mannose isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00368[0] <=> (1) cpd00259[0]"
+            ],
+            "ids": [
+                "TECRDB97"
+            ]
+        },
+        "undescribed reactions": [
+            " D-mannose = D-fructose",
+            " D-rhamnose = D-rhamnulose"
+        ]
+    },
+    "glycine formiminotransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 5-formiminotetrahydrofolate + glycine = N-formiminoglycine + tetrahydrofolate"
+        ]
+    },
+    "glycine amidinotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00051[0] + (1) cpd00033[0] <=> (1) cpd00064[0] + (1) cpd00451[0]"
+            ],
+            "ids": [
+                "TECRDB98"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphoacetylglucosamine mutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-acetyl-D-glucosamine 1-phosphate = N-acetyl-D-glucosamine 6-phosphate"
+        ]
+    },
+    "isocitrate lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00353[0] <=> (1) cpd00036[0] + (1) cpd00040[0]"
+            ],
+            "ids": [
+                "TECRDB99"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "citrate (pro-3S)-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00137[0] <=> (1) cpd29968[0] + (1) cpd00032[0] + (1) cpd00032[0]"
+            ],
+            "ids": [
+                "TECRDB100"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "enoyl-CoA hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (3S)-3-hydroxyhexanoyl-CoA = trans-hex-2-enoyl-CoA + H2O",
+            " (3S)-3-hydroxybutanoyl-CoA = trans-but-2-enoyl-CoA + H2O",
+            " (3R)-3-hydroxyhexanoyl-CoA = cis-hex-2-enoyl-CoA + H2O",
+            " (3R)-3-hydroxybutanoyl-CoA = cis-but-2-enoyl-CoA + H2O"
+        ]
+    },
+    "3a-hydroxysteroid dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 5\u03b2-androstane-3\u03b1-ol-17-one + NAD = 5\u03b2-androstane-3,17-dione + NADH",
+            " 5\u03b1-androstane-3\u03b1-ol-17-one + NAD = 5\u03b1-androstane-3,17-dione + NADH",
+            " 5\u03b1-androstane-3\u03b1,17\u03b2-diol + NAD = 5\u03b1-androstane-17\u03b2-ol-3-one + NADH",
+            " 5\u03b2-pregnane-3\u03b1,17\u03b1,21-triol-11,20-dione + NAD = 5\u03b2-pregnane-17\u03b1,21-diol-3,11,20-trione + NADH",
+            " 5\u03b2-pregnane-3\u03b1,17\u03b1,21-triol-20-one + NAD = 5\u03b2-pregnane-17\u03b1,21-diol-3,20-dione + NADH",
+            " 5\u03b1-androstane-3\u03b1-ol-17-one + TNAD = 5\u03b1-androstane-3,17-dione + TNADH",
+            " 5\u03b1-pregnane-3\u03b1,17\u03b1,21-triol-20-one + NAD = 5\u03b1-pregnane-17\u03b1,21-diol-3,20-dione + NADH"
+        ]
+    },
+    "thetin-homocysteine S-methyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00540[0] + (1) cpd00135[0] <=> (1) cpd00756[0] + (1) cpd00060[0]",
+                "(1) cpd02027[0] + (1) cpd00135[0] <=> (2) cpd00060[0]",
+                "(1) cpd00740[0] + (1) cpd00135[0] <=> (1) cpd00450[0] + (1) cpd00060[0]"
+            ],
+            "ids": [
+                "TECRDB101",
+                "TECRDB102",
+                "TECRDB103"
+            ]
+        },
+        "undescribed reactions": [
+            " dimethylpropiothetin + L-homocysteine = S-methylpropiothetin + L-methionine",
+            " dimethylacetothetin + L-homocysteine = S-methylthioglycolate + L-methionine"
+        ]
+    },
+    "adenine phosphoribosyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " adenine + 5-phospho-\u03b1-D-ribose 1-diphosphate = AMP + pyrophosphate",
+            " 5-amino-4-imidazolecarboxamide + 5-phospho-\u03b1-D-ribose 1-diphosphate = 5-amino-1-\u03b2-D-ribosyl-4-imidazolecarboxamide 5'-phosphate + pyrophosphate"
+        ]
+    },
+    "aryl sulfotransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 3,5-dinitrophenol + 3'-phosphoadenylylsulfate = 3,5-dinitrophenolsulfate + adenosine 3',5'-biphosphate",
+            " 4-nitrophenol + 3'-phosphoadenylylsulfate = 4-nitrophenol sulfate + adenosine 3',5'-biphosphate"
+        ]
+    },
+    "glycerate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-glycerate + NAD = hydroxypyruvate + NADH"
+        ]
+    },
+    "L-xylulose reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00306[0] + (1) cpd00006[0] <=> (1) cpd00261[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB104"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "UDPglucose 4-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UDPglucose = UDPgalactose",
+            " UDP-D-quinovose = UDP-D-fucose"
+        ]
+    },
+    "ornithine carbamoyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00146[0] + (1) cpd00064[0] <=> (1) cpd00274[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB105"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "hexokinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + D-mannose = ADP + D-mannose 6-phosphate",
+            " ATP + D-fructose = ADP + D-fructose 6-phosphate",
+            " ATP + 6-amino-D-glucose = ADP + 6-amino-D-glucose 6-phosphate"
+        ]
+    },
+    "3-hydroxyisobutyrate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00876[0] + (1) cpd00003[0] <=> (1) cpd00287[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB106"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "dihydrolipoamide dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00449[0] + (1) cpd00003[0] <=> (1) cpd00213[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB107"
+            ]
+        },
+        "undescribed reactions": [
+            " dihydro-\u03b1-lipoate + NAD = \u03b1-lipoate + NADH"
+        ]
+    },
+    "a,a-trehalose-phosphate synthase (UDP-forming)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UDPglucose + D-glucose 6-phosphate = UDP + \u03b1,\u03b1-trehalose 6-phosphate"
+        ]
+    },
+    "ribitol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB48"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "adenylosuccinate synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00038[0] + (1) cpd00114[0] + (1) cpd00041[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd02375[0]"
+            ],
+            "ids": [
+                "TECRDB108"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-arabinose isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-arabinose = L-ribulose"
+        ]
+    },
+    "estradiol 17_-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " estradiol-17\u03b2 + NAD = estrone + NADH"
+        ]
+    },
+    "cytidylate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00046[0] <=> (1) cpd00008[0] + (1) cpd00096[0]",
+                "(1) cpd00002[0] + (1) cpd00206[0] <=> (1) cpd00008[0] + (1) cpd00533[0]"
+            ],
+            "ids": [
+                "TECRDB109",
+                "TECRDB110"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "sulfate adenylyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd30009[0] <=> (1) cpd00193[0] + (1) cpd00193[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+            ],
+            "ids": [
+                "TECRDB111"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "sulfate adenylyltransferase and inorganic pyrophosphatase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd30009[0] + (1) cpd00001[0] <=> (1) cpd00193[0] + (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0]",
+                "(1) cpd00002[0] + (1) cpd30009[0] + (1) cpd00001[0] <=> (2) cpd00009[0] + (2) cpd00009[0] + (2) cpd00009[0] + (1) cpd00193[0] + (1) cpd00193[0]"
+            ],
+            "ids": [
+                "TECRDB112",
+                "TECRDB113"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cellobiose phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "methylaspartate ammonia-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02273[0] <=> (1) cpd01194[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB114"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "gluconate 2-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-gluconate + NADP = 2-oxo-D-gluconate + NADPH"
+        ]
+    },
+    "3-hydroxypropionate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00745[0] + (1) cpd00003[0] <=> (1) cpd00191[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB115"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "adenosylhomocysteinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00019[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00135[0]"
+            ],
+            "ids": [
+                "TECRDB116"
+            ]
+        },
+        "undescribed reactions": [
+            " 4',5'-anhydroadenosine + H2O = adenosine"
+        ]
+    },
+    "D-xylulose reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01066[0] + (1) cpd00003[0] <=> (1) cpd29573[0] + (1) cpd00004[0]",
+                "(1) cpd00366[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]",
+                "(1) cpd24681[0] + (1) cpd00003[0] <=> (1) cpd01395[0] + (1) cpd00004[0]",
+                "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]",
+                "(1) cpd33240[0] + (1) cpd00003[0] <=> (1) cpd03884[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB117",
+                "TECRDB48",
+                "TECRDB118",
+                "TECRDB49",
+                "TECRDB119"
+            ]
+        },
+        "undescribed reactions": [
+            " D-sorbitol + NAD = D-fructose + NADH",
+            " D-glycero-D-glucoheptitol + NAD = D-sedoheptulose + NADH"
+        ]
+    },
+    "asparaginase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00132[0] + (1) cpd00001[0] <=> (1) cpd00041[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB120"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "4-aminobutyrate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00281[0] + (1) cpd00024[0] <=> (1) cpd00199[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB121"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "sorbitol-6-phosphate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00491[0] + (1) cpd00003[0] <=> (1) cpd19035[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB122"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "UDP-N-acetylglucosamine pyrophosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UTP + N-acetyl-\u03b1-D-glucosamine 1-phosphate = UDP-N-acetyl-D-glucosamine + pyrophosphate"
+        ]
+    },
+    "glutamate formiminotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00502[0] + (1) cpd00023[0] <=> (1) cpd00344[0] + (1) cpd00087[0] + (1) cpd00087[0]"
+            ],
+            "ids": [
+                "TECRDB123"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "_-alanyl-CoA ammonia lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-alanylpantetheine = acrylylpantetheine + ammonia"
+        ]
+    },
+    "glucuronate isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-galacturonate = D-tagaturonate",
+            " D-glucuronate = D-fructuronate"
+        ]
+    },
+    "N-acetylneuraminate lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2-keto-3-deoxy-D-glycero-D-galacto-nonopyranulosonate = D-mannose + pyruvate",
+            " N-glycolylneuraminate = N-glycolyl-D-mannosamine + pyruvate",
+            " N-acetylneuraminate = N-acetyl-D-mannosamine + pyruvate"
+        ]
+    },
+    "UDParabinose 4-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UDP-L-arabinose = UDP-D-xylose"
+        ]
+    },
+    "UDPglucuronate 4-epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00144[0] <=> (1) cpd00472[0]"
+            ],
+            "ids": [
+                "TECRDB124"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "creatine kinase and myosin ATPase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01550[0] + (1) cpd00001[0] <=> (1) cpd00250[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB10"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "lactaldehyde reductase (NADPH)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00453[0] + (1) cpd00006[0] <=> (1) cpd00334[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB125"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "lysine racemase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00039[0] <=> (1) cpd00549[0]"
+            ],
+            "ids": [
+                "TECRDB126"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "carbamate kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + ammonium carbamate = ADP + carbamoyl phosphate"
+        ]
+    },
+    "methenyltetrahydrofolate cyclohydrolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00347[0] + (1) cpd00001[0] <=> (1) cpd00201[0]"
+            ],
+            "ids": [
+                "TECRDB127"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "UDPglucose-hexose-1-phosphate uridylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " UDPglucose + \u03b1-D-galactose 1-phosphate = \u03b1-D-glucose 1-phosphate + UDPgalactose"
+        ]
+    },
+    "sucrose-phosphate synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00026[0] + (1) cpd19035[0] <=> (1) cpd00014[0] + (1) cpd19187[0]"
+            ],
+            "ids": [
+                "TECRDB128"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "4-hydroxybutyrate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 4-hydroxybutanoate + NAD = 4-oxobutanoate + NADH"
+        ]
+    },
+    "alanine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00020[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB129"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "deoxyribose-phosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2-deoxy-D-ribose 5-phosphate = D-glyceraldehyde 3-phosphate + acetaldehyde"
+        ]
+    },
+    "arginosuccinate synthase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "arabinose-5-phosphate isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00817[0] <=> (1) cpd00171[0]"
+            ],
+            "ids": [
+                "TECRDB130"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "galactokinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "_-phosphoglucomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-D-glucose 1-phosphate = \u03b2-D-glucose 6-phosphate"
+        ]
+    },
+    "valine-tRNA ligase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            "ATP +L-valine +tRNAval = AMP + diphosphate + L-valyl-tRNAval"
+        ]
+    },
+    "transketolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00238[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00101[0] + (1) cpd00198[0]",
+                "(1) cpd19035[0] + (1) cpd00102[0] + (1) cpd00102[0] <=> (1) cpd00236[0] + (1) cpd00198[0]",
+                "(1) cpd19035[0] + (1) cpd00229[0] <=> (1) cpd01395[0] + (1) cpd00236[0]"
+            ],
+            "ids": [
+                "TECRDB131",
+                "TECRDB132",
+                "TECRDB133"
+            ]
+        },
+        "undescribed reactions": [
+            " D-fructose 6-phosphate + D-glyceraldehyde 3-phosphate = D-erythrose 4-phospahte + D-xylulose 5-phosphate"
+        ]
+    },
+    "2-hydroxy-3-oxopropionate reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-glycerate + NAD = 2-hydroxy-3-oxopropanoate + NADH"
+        ]
+    },
+    "glucose-1-phosphate thymidylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " dTTP + \u03b1-D-glucose 1-phosphate = dTDPglucose + pyrophosphate"
+        ]
+    },
+    "dihydroorotate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00282[0] + (1) cpd00003[0] <=> (1) cpd00247[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB134"
+            ]
+        },
+        "undescribed reactions": [
+            " (S)-dihydroorotate + AP-NAD = orotate + AP-NADH"
+        ]
+    },
+    "thiamin-phosphate pyrophosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2-methyl-4-amino-5-hydroxymethylpyrimidine diphosphate + 4-methyl-5-(2-phosphonoxyethyl)-thiazole = pyrophosphate + thiamine monophosphate"
+        ]
+    },
+    "taurocyamine kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "leucyl aminopeptidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-tyrosylglycinamide + H2O = L-tyrosine + glycinamide"
+        ]
+    },
+    "gly-X carboxypeptidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-benzoyl-L-tyrosine + H2O = benzoic acid + L-tyrosine",
+            " N-benzoyl-L-tyrosylglycine + H2O = N-benzoyl-L-tyrosine + glycine"
+        ]
+    },
+    "leucine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00107[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00200[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB135"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphoserine phosphatase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-O-phosphoserine + H2O = L-serine + orthophosphate"
+        ]
+    },
+    "methylmalonyl-CoA carboxyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "guanosine phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "2-dehydro-3-deoxyphosphogluconate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02711[0] <=> (1) cpd00020[0] + (1) cpd00102[0] + (1) cpd00102[0]"
+            ],
+            "ids": [
+                "TECRDB136"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "2-dehydro-3-deoxy-6-phosphogalactonate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00945[0] <=> (1) cpd00020[0] + (1) cpd00102[0] + (1) cpd00102[0]"
+            ],
+            "ids": [
+                "TECRDB137"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "galactose dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00709[0] + (1) cpd00003[0] <=> (1) cpd02143[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB138"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucose-1-phosphate adenylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + \u03b1-D-glucose 1-phosphate = ADPglucose + pyrophosphate"
+        ]
+    },
+    "L-fuculose-phosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00806[0] <=> (1) cpd00095[0] + (1) cpd00334[0]"
+            ],
+            "ids": [
+                "TECRDB139"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "malate synthase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-malate + CoA = acetyl-CoA + H2O + glyoxylate"
+        ]
+    },
+    "glycine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00033[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00040[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB140"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "propanoyl-CoA carboxylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "_-alanine-pyruvate transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-alanine + 3-oxopropanoate = \u03b2-alanine + pyruvate"
+        ]
+    },
+    "formate-tetrahydrofolate ligase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00047[0] + (1) cpd00087[0] + (1) cpd00087[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00201[0]"
+            ],
+            "ids": [
+                "TECRDB141"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "succinyldiaminopimelate transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-succinyl-2-L-amino-6-oxoheptanedioate + L-glutamate = N-succinyl-L-2,6-diaminoheptanedioate + 2-oxoglutarate"
+        ]
+    },
+    "protein kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + pyruvate kinase = ADP + phosphoenolpyruvate kinase",
+            " ATP + phosvitin = ADP + dephosvitin",
+            " ATP + lysozyme = ADP + phospholysozyme"
+        ]
+    },
+    "erythrose isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01239[0] <=> (1) cpd01383[0]"
+            ],
+            "ids": [
+                "TECRDB142"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "D-alanine 2-hydroxymethyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01958[0] <=> (1) cpd00550[0] + (1) cpd00055[0]",
+                "(1) cpd01432[0] + (1) cpd00087[0] + (1) cpd00087[0] <=> (1) cpd00125[0] + (1) cpd00117[0] + (1) cpd00001[0]",
+                "(1) cpd01432[0] <=> (1) cpd00117[0] + (1) cpd00055[0]"
+            ],
+            "ids": [
+                "TECRDB143",
+                "TECRDB144",
+                "TECRDB145"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "methylmalonyl-CoA epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-methylmalonyl-CoA = (S)-methylmalonyl-CoA"
+        ]
+    },
+    "nucleoside deoxyribosyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd03279[0] + (1) cpd00128[0] <=> (1) cpd00438[0] + (1) cpd00226[0]",
+                "(1) cpd00184[0] + (1) cpd00128[0] <=> (1) cpd00438[0] + (1) cpd00151[0]"
+            ],
+            "ids": [
+                "TECRDB146",
+                "TECRDB147"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "chymosin": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "mannitol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-mannitol + NAD = D-fructose + NADH",
+            " D-mannitol + NADP = D-fructose + NADPH"
+        ]
+    },
+    "carnitine O-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "dihydrofolate reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00087[0] + (1) cpd00087[0] + (1) cpd00006[0] <=> (1) cpd00330[0] + (1) cpd00330[0] + (1) cpd00005[0]",
+                "(2) cpd00330[0] + (2) cpd00330[0] <=> (1) cpd29254[0] + (1) cpd00087[0] + (1) cpd00087[0]"
+            ],
+            "ids": [
+                "TECRDB148",
+                "TECRDB149"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "4-hydroxy-2-oxoglutarate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00830[0] <=> (1) cpd00020[0] + (1) cpd00040[0]"
+            ],
+            "ids": [
+                "TECRDB150"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glutathione reductase (NAD(P)H)": {
+        "completely described reactions": {
+            "reactions": [
+                "(2) cpd00042[0] + (2) cpd00042[0] + (1) cpd00003[0] <=> (1) cpd00111[0] + (1) cpd00004[0]",
+                "(2) cpd00042[0] + (2) cpd00042[0] + (1) cpd00006[0] <=> (1) cpd00111[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB151",
+                "TECRDB152"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "D-glutamate cyclase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00186[0] <=> (1) cpd01512[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB153"
+            ]
+        },
+        "undescribed reactions": [
+            " \u03b3-fluoroglutamate = cis-D-3-fluoro-2-pyrrolidone-5-carboxylate + H2O",
+            " \u03b3-fluoroglutamate = trans-D-3-fluoro-2-pyrrolidone-5-carboxylate + H2O"
+        ]
+    },
+    "21-hydroxysteroid dehydrogenase (NAD+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 4-pregnene-11\u03b2,17\u03b1,21-triol-3,20-dione + NAD = 4-pregnene-11\u03b2,17\u03b1-diol-3,20,21-trione + NADH"
+        ]
+    },
+    "gluconate 5-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-gluconate + NADP = 5-oxo-D-gluconate + NADPH"
+        ]
+    },
+    "glyoxylate dehydrogenase (acylating)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " glyoxylate + CoA + NADP = oxalyl-CoA + NADPH"
+        ]
+    },
+    "4-hydroxyproline epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00851[0] <=> (1) cpd02175[0]"
+            ],
+            "ids": [
+                "TECRDB154"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-threonate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-threonate + NAD = 3-oxo-L-threonate + NADH"
+        ]
+    },
+    "methylaspartate mutase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02273[0] <=> (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB155"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "oxamate carbamoyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00146[0] + (1) cpd01027[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd22507[0]"
+            ],
+            "ids": [
+                "TECRDB156"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "methylmalonyl-CoA mutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-methylmalonyl-CoA = succinyl-CoA"
+        ]
+    },
+    "tetrahydroxypteridine cycloisomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02033[0] <=> (1) cpd02112[0]"
+            ],
+            "ids": [
+                "TECRDB157"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "thioredoxin reductase (NADPH)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " reduced thioredoxin + NADP = oxidized thioredoxin + NADPH"
+        ]
+    },
+    "carnitine O-palmitoyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00134[0] + (1) cpd00266[0] <=> (1) cpd22528[0] + (1) cpd01915[0]"
+            ],
+            "ids": [
+                "TECRDB158"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "mannose-1-phosphate guanylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " GTP + \u03b1-D-mannose 1-phosphate = GDPmannose + pyrophosphate"
+        ]
+    },
+    "D-lyxose ketol-isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00368[0] <=> (1) cpd00259[0]"
+            ],
+            "ids": [
+                "TECRDB97"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "oxaloacetate tautomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00032[0] + (1) cpd00032[0] <=> (1) cpd02469[0]"
+            ],
+            "ids": [
+                "TECRDB159"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "pancreatic ribonuclease": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " guanosine 2':3'-(cyclic)phosphate + methanol = guanosine 3'-methylphosphate",
+            " cytidine 2':3'-(cyclic)phosphate + H2O = cytidine 3'-monophosphate",
+            " uridine 2':3'-(cyclic)phosphate + H2O = uridine 3'-monophosphate"
+        ]
+    },
+    "deoxy)nucleoside-phosphate kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "papain": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " hippurylanilide + H2O = hippuric acid + aniline"
+        ]
+    },
+    "rhamnulose-1-phosphate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00831[0] <=> (1) cpd00095[0] + (1) cpd00334[0]"
+            ],
+            "ids": [
+                "TECRDB160"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "2-deoxy-D-gluconate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01795[0] + (1) cpd00003[0] <=> (1) cpd02441[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB161"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ureidoglycolate lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (-)-ureidoglycolate = glyoxylate + urea"
+        ]
+    },
+    "N-acylglucosamine 2-epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02416[0] <=> (1) cpd00492[0]"
+            ],
+            "ids": [
+                "TECRDB162"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "N-acylglucosamine-6-phosphate 2-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-acetyl-D-glucosamine 6-phosphate = N-acetyl-D-mannosamine 6-phosphate"
+        ]
+    },
+    "5,10-methylenetetrahydrofolate reductase (FADH2)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 5-methyltetrahydrofolate + flavin-adenine dinucleotide = 5,10-methylenetetrahydrofolate + reduced flavin-adenine dinucleotide"
+        ]
+    },
+    "glucose dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd19001[0] + (1) cpd00006[0] <=> (1) cpd00170[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB163"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "D-alanine transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00117[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00186[0]"
+            ],
+            "ids": [
+                "TECRDB164"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucose-1-phosphate cytidylyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00052[0] + (1) cpd00089[0] + (1) cpd00089[0] <=> (1) cpd00390[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+            ],
+            "ids": [
+                "TECRDB165"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucan 1,4-a-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00217[0] + (1) cpd00001[0] <=> (2) cpd19001[0]",
+                "(1) cpd01329[0] + (5) cpd00001[0] <=> (6) cpd19001[0]",
+                "(1) cpd00179[0] + (1) cpd00001[0] <=> (2) cpd19001[0]",
+                "(1) cpd01262[0] + (2) cpd00001[0] <=> (3) cpd19001[0]",
+                "(1) cpd15495[0] + (4) cpd00001[0] <=> (5) cpd19001[0]",
+                "(1) cpd03718[0] + (6) cpd00001[0] <=> (7) cpd19001[0]",
+                "(1) cpd01399[0] + (3) cpd00001[0] <=> (4) cpd19001[0]",
+                "(1) cpd01461[0] + (2) cpd00001[0] <=> (3) cpd19001[0]",
+                "(1) cpd00537[0] + (2) cpd00001[0] <=> (3) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB166",
+                "TECRDB167",
+                "TECRDB168",
+                "TECRDB169",
+                "TECRDB170",
+                "TECRDB171",
+                "TECRDB172",
+                "TECRDB173",
+                "TECRDB174"
+            ]
+        },
+        "undescribed reactions": [
+            " 4-O-\u03b1-D-glucopyranosyl-D-fructofuranose + H2O = D-glucose + D-fructose",
+            " \u03b1-isomaltose + H2O = 2 D-glucose",
+            " \u03b1-D-melibiose + H2O = D-galactose + D-glucose",
+            " \u03b2-D-melibiose + H2O = D-galactose + D-glucose",
+            " 1-O-\u03b1-D-mannopyranosyl-D-mannofuranose + H2O = 2 D-mannose",
+            " phenyl \u03b1-maltoside + H2O = phenyl \u03b1-D-glucopyranoside + D-glucose",
+            " O-\u03b1-D-glucopyranosyl-(1->4)n + (n-1) H2O = D-glucose",
+            " 6-O-\u03b1-D-mannopyranose-D-mannopyranose + H2O = 2 D-mannose",
+            " \u03b2-isomaltose + H2O = 2 D-glucose",
+            " 3-O-\u03b1-D-glucopyranosyl-lyxopyranose + H2O = D-glucose + lyxose",
+            " 6-O-\u03b1-D-galactopyranosyl-D-galactopyranose + H2O = 2 D-galactose"
+        ]
+    },
+    "isopentenyl-diphosphate ?-isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " isopentenyl diphosphate = dimethylallyl diphosphate"
+        ]
+    },
+    "ornithine-oxo-acid transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-ornithine + 2-oxoglutarate = DL-\u03941-pyrroline-5-carboxylate + L-glutamate"
+        ]
+    },
+    "phosphoglycerate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00169[0] + (1) cpd00003[0] <=> (1) cpd02069[0] + (1) cpd02069[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB175"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "lactate-malate transhydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-lactate + oxaloacetate = (S)-malate + pyruvate"
+        ]
+    },
+    "fructose 5-dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-fructose + NADP = 5-dehydro-D-fructose + NADPH"
+        ]
+    },
+    "glyoxylate reductase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00139[0] + (1) cpd00006[0] <=> (1) cpd00040[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB176"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glutathione-CoA-glutathione transhydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd22528[0] + (1) cpd00111[0] <=> (1) cpd00682[0] + (1) cpd00042[0] + (1) cpd00042[0]"
+            ],
+            "ids": [
+                "TECRDB177"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "levansucrase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " sucrose + (2,6-\u03b2-D-fructosyl)n = D-glucose + (2,6-\u03b2-D-fructosyl)n+1"
+        ]
+    },
+    "glycine-oxaloacetate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00033[0] + (1) cpd00032[0] + (1) cpd00032[0] <=> (1) cpd00040[0] + (1) cpd00041[0]"
+            ],
+            "ids": [
+                "TECRDB178"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "laminaribiose phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " laminaritriose + orthophosphate = laminaribiose + \u03b1-D-glucose 1-phosphate",
+            " laminaritetraose + orthophosphate = laminaritriose + \u03b1-D-glucose 1-phosphate"
+        ]
+    },
+    "dTDP-4-amino-4,6-dideoxy-D-glucose transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02616[0] + (1) cpd00024[0] <=> (1) cpd00521[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB179"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "CDPabequose epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02264[0] <=> (1) cpd02265[0]"
+            ],
+            "ids": [
+                "TECRDB180"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "homocysteine S-methyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00017[0] + (1) cpd00135[0] <=> (1) cpd00019[0] + (1) cpd00060[0]"
+            ],
+            "ids": [
+                "TECRDB181"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "aldehyde reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00306[0] + (1) cpd00006[0] <=> (1) cpd01487[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB182"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "choline O-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00022[0] + (1) cpd00098[0] <=> (1) cpd22528[0] + (1) cpd01367[0] + (1) cpd01367[0]"
+            ],
+            "ids": [
+                "TECRDB183"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glutamate N-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00342[0] + (1) cpd00023[0] <=> (1) cpd00064[0] + (1) cpd00477[0]"
+            ],
+            "ids": [
+                "TECRDB184"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "3-oxoacyl-[acyl-carrier-protein] reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (3R)-3-hydroxybutanoyl-[acyl-carrier protein] + NADP = 3-oxobutanoyl-[acyl-carrier protein] + NADPH"
+        ]
+    },
+    "glucose-1-phosphate guanylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " GTP + \u03b1-D-glucose 1-phosphate = GDPglucose + pyrophosphate"
+        ]
+    },
+    "acyl-carrier-protein] S-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "acyl-carrier-protein] S-malonyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "phosphoenolpyruvate carboxykinase (diphosphate)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00001[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00061[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB185"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "citramalate lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-2-methylmalate = acetate + pyruvate"
+        ]
+    },
+    "glutamate dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00023[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd00024[0] + (1) cpd00005[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB62"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphoserine transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02069[0] + (1) cpd02069[0] + (1) cpd00023[0] <=> (1) cpd00024[0] + (1) cpd00738[0] + (1) cpd00738[0]"
+            ],
+            "ids": [
+                "TECRDB186"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "linoleate isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01122[0] <=> (1) cpd02510[0]"
+            ],
+            "ids": [
+                "TECRDB187"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ATP citrate(pro-3S)-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00137[0] + (1) cpd22528[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00022[0] + (1) cpd00032[0] + (1) cpd00032[0]"
+            ],
+            "ids": [
+                "TECRDB188"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "succinate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(2) cpd00036[0] + (1) cpd00007[0] <=> (2) cpd00106[0] + (2) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB189"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "NADH dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(2) cpd00004[0] + (1) cpd00007[0] <=> (2) cpd00003[0] + (2) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB190"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "pyrimidine-nucleoside phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "amino-acid racemase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00107[0] <=> (1) cpd01106[0]"
+            ],
+            "ids": [
+                "TECRDB191"
+            ]
+        },
+        "undescribed reactions": [
+            " L-\u03b1-amino-n-butyrate = D-\u03b1-amino-n-butyrate"
+        ]
+    },
+    "allantoicase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " allantoate + H2O = (-)-ureidoglycolate + urea"
+        ]
+    },
+    "methylenetetrahydrofolate dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00125[0] + (1) cpd00006[0] <=> (1) cpd00347[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB192"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "histidine ammonia-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00119[0] <=> (1) cpd00581[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB193"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "adenosine deaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00182[0] + (1) cpd00001[0] <=> (1) cpd00246[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB194"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "carnitine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd10719[0] + (1) cpd00003[0] <=> (1) cpd01715[0] + (1) cpd00004[0]",
+                "(1) cpd00266[0] + (1) cpd00003[0] <=> (1) cpd01715[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB195",
+                "TECRDB196"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "pyridoxamine-pyruvate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00419[0] + (1) cpd00020[0] <=> (1) cpd00215[0] + (1) cpd00035[0]"
+            ],
+            "ids": [
+                "TECRDB197"
+            ]
+        },
+        "undescribed reactions": [
+            " 3-hydroxy-4-aminomethylpyridine + pyruvate = 3-hydroxypyridine-4-aldehyde + L-alanine",
+            " \u00ce\u00bf-methylpyridoxamine + pyruvate = \u00ce\u00bf-methylpyridoxal + L-alanine",
+            " norpyridoxamine + pyruvate = norpyridoxal + L-alanine",
+            " 5-deoxypyridoxamine + pyruvate = 5-deoxypyridoxal + L-alanine"
+        ]
+    },
+    "glucoside 3-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " lactose + 2 cytochrome c = 3-oxolactose + 2 reduced cytochrome c"
+        ]
+    },
+    "alanine aminotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] + (1) cpd00024[0] <=> (1) cpd00020[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB32"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "pyruvate,orthophosphate dikinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00018[0] + (1) cpd00061[0] + (1) cpd00012[0] + (1) cpd00012[0]"
+            ],
+            "ids": [
+                "TECRDB198"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phenylalanine ammonia-lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00066[0] <=> (1) cpd00333[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB199"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "indolelactate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01394[0] + (1) cpd00003[0] <=> (1) cpd00278[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB200"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-mannose ketol-isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-mannose = L-fructose"
+        ]
+    },
+    "crotonoyl-[acyl-carrier-protein] hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (3R)-3-hydroxybutanoyl-[acyl-carrier protein] = cis-but-2-enoyl-[acyl-carrier protein] + H2O"
+        ]
+    },
+    "galactinol-raffinose galactosyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 1-\u03b1-D-galactosyl-myo-inositol + raffinose = myo-inositol + stachyose"
+        ]
+    },
+    "glyceraldehyde-3-phosphate dehydrogenase and phosphoglycerate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00102[0] + (1) cpd00102[0] + (1) cpd00008[0] + (1) cpd00003[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00169[0] + (1) cpd00002[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB201"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phenylpyruvate tautomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00143[0] <=> (1) cpd01784[0]"
+            ],
+            "ids": [
+                "TECRDB202"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "2-dehydro-3-deoxy-L-pentonate aldolase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd22923[0] <=> (1) cpd00020[0] + (1) cpd00229[0]",
+                "(1) cpd03674[0] <=> (1) cpd00020[0] + (1) cpd00334[0]"
+            ],
+            "ids": [
+                "TECRDB203",
+                "TECRDB204"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphodiesterase I": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2'-deoxyadenosine 3':5'-(cyclic)phosphate + H2O = 2'-deoxyadenosine 5'-monophosphate",
+            " adenosine 3':5'-(cyclic)phosphate + H2O = AMP",
+            " guanosine 3':5'-(cyclic)phosphate + H2O = GMP",
+            " uridine 3':5'-(cyclic)phosphate + H2O = UMP",
+            " inosine 3':5'-(cyclic)phosphate + H2O = IMP"
+        ]
+    },
+    "camphor 5-monooxygenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00601[0] + (1) cpd00004[0] + (1) cpd00007[0] <=> (1) cpd02180[0] + (1) cpd00003[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB205"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphomevalonate kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP-\u03b1-S + (R)-5-phosphomevalonate = ADP-\u03b1-S + (R)-5-diphosphomevalonate",
+            " ATP + (R)-5-phosphomevalonate = ADP + (R)-5-diphosphomevalonate",
+            " ATP-\u03b2-S + (R)-5-phosphomevalonate = ADP-\u03b2-S + (R)-5-diphosphomevalonate",
+            " ATP-\u03b3-S + (R)-5-phosphomevalonate =  ADP + 2-thio-5-diphosphomevalonate"
+        ]
+    },
+    "ribose-phosphate pyrophosphokinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "phosphogluconate dehydrogenase (decarboxylating)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 6-phospho-D-gluconate + NADP + H2O = D-ribulose 5-phosphate + NADPH + carbon dioxide"
+        ]
+    },
+    "S)-2-methylmalate dehydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "diaminopimelate epimerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00504[0] <=> (1) cpd00516[0]"
+            ],
+            "ids": [
+                "TECRDB206"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "nucleoside-triphosphate-adenylate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00038[0] + (1) cpd00018[0] <=> (1) cpd00008[0] + (1) cpd00031[0]"
+            ],
+            "ids": [
+                "TECRDB207"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "lysine 2,3-aminomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-lysine = (3S)-3,6-diaminohexanoate"
+        ]
+    },
+    "N-methyl-2-oxoglutaramate hydrolase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 5-hydroxy-N-methylpyroglutamate + H2O = 2-oxoglutarate + methylamine"
+        ]
+    },
+    "branched-chain-amino-acid transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-leucine + 2-oxoglutarate = 4-methyl-2-oxopentanooate + L-glutamate"
+        ]
+    },
+    "glutamate-ammonia-ligase] adenylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "2-aminoadipate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00705[0] + (1) cpd00024[0] <=> (1) cpd00269[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB208"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "diiodophenylpyruvate reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-(3,5-diiodo-4-hydroxyphenyl)lactate + NAD = \u03b2-(3,5-diiodo-4-hydroxyphenyl)pyruvate + NADH"
+        ]
+    },
+    "2,4-diaminopentanoate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02448[0] + (1) cpd02448[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd02121[0] + (1) cpd00004[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB209"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glyceraldehyde-3-phocphate dehydrogenase and phosphoglycerate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00102[0] + (1) cpd00102[0] + (1) cpd00008[0] + (1) cpd00003[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00169[0] + (1) cpd00002[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB201"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cytidine deaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00367[0] + (1) cpd00001[0] <=> (1) cpd00249[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB210"
+            ]
+        },
+        "undescribed reactions": [
+            " N4-methylcytidine + H2O = uridine + methylamine"
+        ]
+    },
+    "adenylate cyclase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP = adenosine 3':5'-(cyclic)phosphate + diphosphate"
+        ]
+    },
+    "sepiapterin reductase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01895[0] + (1) cpd00006[0] <=> (1) cpd00622[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB211"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "methylitaconate ?-isomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01545[0] <=> (1) cpd00684[0]"
+            ],
+            "ids": [
+                "TECRDB212"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "2-methyleneglutarate mutase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01876[0] <=> (1) cpd01545[0]"
+            ],
+            "ids": [
+                "TECRDB213"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glu-X carboxypeptidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "glucuronate-1-phosphate uridylyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 1-phospho-\u03b1-D-glucuronate + UTP = UDP-D-glucuronate + pyrophosphate"
+        ]
+    },
+    "ribonuclease T2": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " guanosine 2':3'-(cyclic)phosphate + H2O = guanosine 3'-monophosphate",
+            " adenosine 2':3'-(cyclic)phosphate + H2O = adenosine 3'-monophosphate"
+        ]
+    },
+    "guanylate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00126[0] <=> (1) cpd00008[0] + (1) cpd00031[0]",
+                "(1) cpd00002[0] + (1) cpd00296[0] <=> (1) cpd00008[0] + (1) cpd00295[0]"
+            ],
+            "ids": [
+                "TECRDB214",
+                "TECRDB215"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphate acetyltransferase and formate C-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00020[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] <=> (1) cpd00196[0] + (1) cpd00047[0]"
+            ],
+            "ids": [
+                "TECRDB216"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "L-erythro-3,5-diaminohexanoate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-erythro-3,5-diaminohexanoate + NAD + H2O = (S)-5-amino-3-oxohexanoate + NADH + ammonia"
+        ]
+    },
+    "pyrophosphate-serine phosphotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00054[0] <=> (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00738[0] + (1) cpd00738[0]"
+            ],
+            "ids": [
+                "TECRDB217"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glutamine-pyruvate aminotransaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " L-glutamine + glyoxylate = 2-oxoglutaramate + glycine",
+            " L-glutamine + 2-oxo-4-methiolbutyrate = 2-oxoglutaramate + L-methionine",
+            " L-glutamine + pyruvate = 2-oxoglutaramate + L-alanine"
+        ]
+    },
+    "3-hydroxybenzyl-alcohol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02129[0] + (1) cpd00006[0] <=> (1) cpd01964[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB218"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ribonuclease (unclassified)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " uridylyl(3'->5')uridine = uridine 2':3'-(cyclic)phosphate + uridine",
+            " guanylyl(3'->5')cytidine = guanosine 2':3'-(cyclic)phosphate + cytidine",
+            " guanylyl(3'->5')adenosine = guanosine 2':3'-(cyclic)phosphate + adenosine",
+            " cytidylyl(3'->5')cytidine = cytidine 2':3'-(cyclic)phosphate + cytidine",
+            " adenylyl(3'->5')adenosine = adenosine 2':3'-(cyclic)phosphate + adenosine",
+            " cytidylyl(3'->5')uridine = cytidine 2':3'-(cyclic)phosphate + uridine",
+            " adenylyl(3'->5')uridine = adenosine 2':3'-(cyclic)phosphate + uridine",
+            " guanylyl(3'->5')uridine = guanosine 2':3'-(cyclic)phosphate + uridine",
+            " uridylyl(3'->5')cytidine = uridine 2':3'-(cyclic)phosphate + cytidine",
+            " adenylyl(3'->5')cytidine = adenosine 2':3'-(cyclic)phosphate + cytidine"
+        ]
+    },
+    "glycerol dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " glycerol + NADP = (R)-glyceraldehyde + NADPH"
+        ]
+    },
+    "a,a-trehalose phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b1,\u03b1-trehalose + orthophosphate = D-glucose + \u03b2-D-glucose 1-phosphate"
+        ]
+    },
+    "catalase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00025[0] <=> (0.5) cpd00007[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB219"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cyclomaltodextrin glucanotransferase and a-amylase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd24451[0] + (6) cpd00001[0] <=> (6) cpd19001[0]",
+                "(1) cpd09394[0] + (7) cpd00001[0] <=> (7) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB220",
+                "TECRDB221"
+            ]
+        },
+        "undescribed reactions": [
+            " cyclomaltooctaose + 8 H2O = 8 D-glucose"
+        ]
+    },
+    "glucose-6-phosphate 1-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b1-D-glucose 6-phosphate = \u03b2-D-glucose 6-phosphate"
+        ]
+    },
+    "citrate (si)-synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00032[0] + (1) cpd00032[0] + (1) cpd00022[0] + (1) cpd00001[0] <=> (1) cpd00137[0] + (1) cpd22528[0]"
+            ],
+            "ids": [
+                "TECRDB222"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phosphate acetyltransferase and acetate kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "6-phosphofructokinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "malyl-CoA lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R,S)-malyl-CoA = acetyl-CoA + glyoxylate"
+        ]
+    },
+    "thymidylate synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00125[0] + (1) cpd00299[0] <=> (1) cpd00330[0] + (1) cpd00330[0] + (1) cpd00298[0]"
+            ],
+            "ids": [
+                "TECRDB223"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "D-ornithine 4,5-aminomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-ornithine = D-threo-2,4-diaminopentanoate"
+        ]
+    },
+    "phosphohydrolase (unclassified)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " methyl \u03b1-D-glucopyranoside 4,6-(cyclic)phosphate + H2O = methyl \u03b1-D-glucopyranoside 6-phosphate",
+            " adenosine 3':5'-(cyclic)phosphate + H2O = adenosine 3'-monophosphate",
+            " methyl \u03b2-D-ribofuranoside 3,5-(cyclic)phosphate + H2O = methyl \u03b2-D-ribofuranoside 5-phosphate",
+            " trimethylene phosphate + H2O = 3-hydroxypropyl phosphate",
+            " diethyl phosphate + H2O = monoethyl phosphate + ethanol",
+            " ethylene phosphate + H2O = 2-hydroxyethyl phosphate",
+            " tetramethylene phosphate + H2O = 4-hydroxybutyl phosphate"
+        ]
+    },
+    "uridine phosphorylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "3',5'-cyclic-nucleotide phosphodiesterase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " adenosine 3':5'-(cyclic)phosphate + H2O = AMP"
+        ]
+    },
+    "D-arabino-3-hexulose phosphate formaldehyde lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd03583[0] <=> (1) cpd00171[0] + (1) cpd00055[0]"
+            ],
+            "ids": [
+                "TECRDB224"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "phospho-3-hexuloisomerase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd03583[0] <=> (1) cpd19035[0]"
+            ],
+            "ids": [
+                "TECRDB225"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "formate C-acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00022[0] + (1) cpd00047[0] <=> (1) cpd22528[0] + (1) cpd00020[0]"
+            ],
+            "ids": [
+                "TECRDB226"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "15-hydroxyprostaglandin dehydrogenase (NAD+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " prostaglandin E2 + NAD = 15-oxo-prostaglandin E2 + NADH",
+            " prostaglandin E1 + NAD = 15-oxo-prostaglandin E1 + NADH"
+        ]
+    },
+    "urocanate hydratase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00581[0] + (1) cpd00001[0] <=> (1) cpd02311[0]"
+            ],
+            "ids": [
+                "TECRDB227"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "ribose isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-ribose = D-ribulose"
+        ]
+    },
+    "pepsin A": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-acetyl-L-phenylalanyl-L-phenylalanylglycine + H2O = N-acetyl-L-phenylalanine + L-phenylalanylglycine",
+            " N-acetyl-L-phenylalanine-L-dibromidetyrosine ethyl ester + H2O = N-acetyl-L-phenylalanine + L-dibromotyrosine ethyl ester",
+            " N-acetyl-L-phenylalanyl-L-phenylalanylglycine methyl ester + H2O = N-acetyl-L-phenylalanine + L-phenylalanylglycine methyl ester"
+        ]
+    },
+    "alkanal monooxygenase (FMN-linked)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " dodecanal + FMN(reduced) + O2 = dodecanoic acid + FMN(oxidized) + H2O"
+        ]
+    },
+    "ethanolamine-phosphate cytidylyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00052[0] + (1) cpd00285[0] <=> (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00444[0]"
+            ],
+            "ids": [
+                "TECRDB228"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "coniferyl-alcohol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00458[0] + (1) cpd00006[0] <=> (1) cpd01733[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB229"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "penicillin amidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd04882[0] + (1) cpd00001[0] <=> (1) cpd01696[0] + (1) cpd04878[0]",
+                "(1) cpd03292[0] + (1) cpd00001[0] <=> (1) cpd01896[0] + (1) cpd19069[0]",
+                "(1) cpd04194[0] + (1) cpd00001[0] <=> (1) cpd01896[0] + (1) cpd26803[0]",
+                "(1) cpd03325[0] + (1) cpd00001[0] <=> (1) cpd19069[0] + (1) cpd00033[0]"
+            ],
+            "ids": [
+                "TECRDB230",
+                "TECRDB231",
+                "TECRDB232",
+                "TECRDB233"
+            ]
+        },
+        "undescribed reactions": [
+            " penicillinoic acid + H2O = penicic acid + phenylacetic acid",
+            " cephalexin + H2O = 7-aminodeacetoxycephalosporanic acid + D(-)-\u03b1-aminophenylacetic acid",
+            " phenylacetyl-L-phenylglycine + H2O = phenylacetic acid + L-phenylglycine",
+            " 7-phenylacetamidodeacetoxycephalosporanic acid + H2O = 7-aminodeacetoxycephalosporanic acid + phenylacetic acid",
+            " phenoxymethylpenicillin- + H2O = 6-aminopenicillanate- + phenoxyacetate",
+            " penicillin G- + H2O = 6-aminopenicillanic acid- + phenylacetic acid"
+        ]
+    },
+    "cytochrome-c oxidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(4) cpd00110[0] + (1) cpd00007[0] <=> (4) cpd34702[0] + (2) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB234"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "fructose-biphosphatase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-fructose 1,6-bisphosphate + H2O = D-fructose 6-phosphate + orthophosphate"
+        ]
+    },
+    "phosphomannomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-D-glucose 1-phosphate = \u03b2-D-glucose 6-phosphate",
+            " D-mannose 1-phosphate = D-mannose 6-phosphate"
+        ]
+    },
+    "formate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00047[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd29976[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB235"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glucose oxidase and catalase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-D-glucose + 1/2 O2 = D-glucono-1,5-lactone + H2O"
+        ]
+    },
+    "tryptophan synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00359[0] + (1) cpd00054[0] <=> (1) cpd00065[0] + (1) cpd00001[0]",
+                "(1) cpd00054[0] <=> (1) cpd00020[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB236",
+                "TECRDB237"
+            ]
+        },
+        "undescribed reactions": [
+            " 1-(indol-3-yl)glycerol 3-phosphate + L-serine = L-tryptophan + D-glyceraldehyde 3-phosphate + H2O",
+            " D-glyceraldehyde 3-phosphate + indole = 1-(indol-3-yl)glycerol 3-phosphate",
+            " indole + D-glyceraldehyde 3-phosphate = 1-(indol-3-yl)glycerol 3-phosphate"
+        ]
+    },
+    "NAD+ kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00003[0] <=> (1) cpd00008[0] + (1) cpd00006[0]"
+            ],
+            "ids": [
+                "TECRDB238"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "urate oxidase and catalase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00300[0] + (0.5) cpd00007[0] + (2) cpd00001[0] <=> (1) cpd01092[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB239"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "acetate CoA-transferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " acetyl-CoA + acetoacetate = acetoacetyl-CoA + acetate"
+        ]
+    },
+    "choline-phosphate cytidylyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00052[0] + (1) cpd00457[0] <=> (1) cpd00012[0] + (1) cpd00012[0] + (1) cpd00256[0]"
+            ],
+            "ids": [
+                "TECRDB240"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "succinate-CoA ligase (GDP-forming)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00038[0] + (1) cpd00036[0] + (1) cpd22528[0] <=> (1) cpd00031[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00078[0]"
+            ],
+            "ids": [
+                "TECRDB241"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cholesterol oxidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00160[0] + (1) cpd00007[0] <=> (1) cpd00463[0] + (1) cpd00025[0]"
+            ],
+            "ids": [
+                "TECRDB242"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cholesterol oxidase and catalase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00160[0] + (0.5) cpd00007[0] <=> (1) cpd00463[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB243"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "_-amylase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01399[0] + (1) cpd00001[0] <=> (2) cpd00179[0]"
+            ],
+            "ids": [
+                "TECRDB244"
+            ]
+        },
+        "undescribed reactions": [
+            " \u03b1,\u03b1-trehalose + H2O = 2 D-glucose"
+        ]
+    },
+    "thermolysin": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-(benzyloxycarbonyl)-L-aspartyl-L-phenylalanine methyl ester + H2O = N-(benzyloxycarbonyl)-L-aspartic acid + L-phenylalanine methyl ester ",
+            " N-(benzyloxycarbonyl)-L-aspartyl-L-phenylalanine methyl ester + H2O = N-(benzyloxycarbonyl)-L-aspartic acid + L-phenylalanine methyl ester",
+            " benzyloxycarbonylglycyl-L-phenylalaninamide + H2O = benzyloxycarbonylglycine + L-phenylalaninamide"
+        ]
+    },
+    "_-lactamase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " phenoxymethylpenicillin + H2O = phenoxymethylpenicillinoic acid",
+            " ampicillin + H2O = ampicillinoic acid",
+            " penicillin G + H2O = penicillinoic acid"
+        ]
+    },
+    "2,3-dimethylmalate lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2,3-dimethylmalate = propanoate + pyruvate"
+        ]
+    },
+    "hydrogen dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd11640[0] + (1) cpd00003[0] <=> (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB245"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "adenosine nucleosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "malate dehydrogenase and aspartate aminotransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "malate dehydrogenase and aspartate transaminase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "aminoacylase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01756[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00060[0]",
+                "(1) cpd32466[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00156[0]",
+                "(1) cpd01756[0] + (1) cpd00001[0] <=> (1) cpd00060[0] + (1) cpd29968[0]",
+                "(1) cpd33748[0] + (1) cpd00001[0] <=> (1) cpd29968[0] + (1) cpd00035[0]"
+            ],
+            "ids": [
+                "TECRDB246",
+                "TECRDB247",
+                "TECRDB248",
+                "TECRDB249"
+            ]
+        },
+        "undescribed reactions": [
+            " phenylacetyl-L-phenylglycine + H2O = phenylacetic acid + L-phenylglycine",
+            " N-acetyl-L-\u03b1-amino-n-butyrate + H2O = acetate + L-\u03b1-amino-n-butyrate",
+            " N-acetyl-L-norleucine + H2O = acetate + L-norleucine",
+            " N-acetyl-L-norvaline + H2O = acetate + L-norvaline",
+            " N-acetyl-L-glycine + H2O = acetate + glycine"
+        ]
+    },
+    "sorbitol-6-phosphate dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-sorbitol 6-phosphate + NADP = D-glucose 6-phosphate + NADPH"
+        ]
+    },
+    "pyrroline-5-carboxylate reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-proline + NADP = \u03941-pyrroline-2-carboxylate + NADPH"
+        ]
+    },
+    "GDP-D-mannose 3,5-epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " GDPmannose = GDP-L-galactose"
+        ]
+    },
+    "serine-pyruvate transaminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] + (1) cpd00145[0] <=> (1) cpd00054[0] + (1) cpd00020[0]"
+            ],
+            "ids": [
+                "TECRDB250"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glycerol kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00100[0] <=> (1) cpd00008[0] + (1) cpd00080[0]"
+            ],
+            "ids": [
+                "TECRDB251"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "hypoxanthine phosphoribosyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00126[0] + (1) cpd00226[0] <=> (1) cpd00114[0] + (1) cpd00207[0]"
+            ],
+            "ids": [
+                "TECRDB252"
+            ]
+        },
+        "undescribed reactions": [
+            " hypoxanthine + 5-phospho-\u03b1-D-ribose 1-diphosphate = IMP + pyrophosphate",
+            " guanine + 5-phospho-\u03b1-D-ribose 1-diphosphate = GMP + pyrophosphate"
+        ]
+    },
+    "lactoylglutathione lyase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-S-lactoylglutathione = glutathione (reduced) + methylglyoxal"
+        ]
+    },
+    "malate dehydrogenase (decarboxylating)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-malate + NAD + H2O = pyruvate + NADH + carbon dioxide"
+        ]
+    },
+    "formate dehydrogenase (NADP+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00047[0] + (1) cpd00006[0] + (1) cpd00001[0] <=> (1) cpd29976[0] + (1) cpd00005[0]"
+            ],
+            "ids": [
+                "TECRDB253"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "dimethylmaleate hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (2R,3S)-2,3-dimethylmalate = dimethylmaleate + H2O"
+        ]
+    },
+    "thiamine pyridinylase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " thiamine + aniline = 4-methyl-5-(2'-hydroxyethyl)-thiazole + heteroanilithiamine",
+            " thiamine + nicotinamide = 4-methyl-5-(2'-hydroxyethyl)-thiazole + heteronicotinathiamine"
+        ]
+    },
+    "methylenetetrahydrofolate dehydrogenase (NAD+)": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00125[0] + (1) cpd00003[0] <=> (1) cpd00347[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB254"
+            ]
+        },
+        "undescribed reactions": [
+            " 5,10-methylenetetrahydrofolate + AP-NAD = 5,10-methenyltetrahydrofolate + AP-NADH"
+        ]
+    },
+    "3-hydroxybutyryl-CoA dehyratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " DL-3-hydroxybutanoyl-CoA = trans-but-2-enoyl-CoA + H2O"
+        ]
+    },
+    "Ca2+-transporting ATPase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00001[0] <=> (1) cpd00008[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB85"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "glycine dehydrogenase (decarboxylating)": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " glycine + \u03b1-lipoate = S-aminomethyldihydro-\u03b1-lipoate + carbon dioxide"
+        ]
+    },
+    "pyrroline-2-carboxylate reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-proline + NADP = \u03941-pyrroline-2-carboxylate + NADPH"
+        ]
+    },
+    "glucose-6-phosphate dehydrogenase and 6-phosphogluconolactonase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-glucose 6-phosphate + NADP + H2O = 6-phospho-D-gluconate + NADPH"
+        ]
+    },
+    "AMP nucleosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00128[0] + (1) cpd00101[0]"
+            ],
+            "ids": [
+                "TECRDB255"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "_-galactosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00208[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd19001[0]",
+                "(1) cpd22252[0] + (1) cpd00001[0] <=> (1) cpd00709[0] + (1) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB256",
+                "TECRDB257"
+            ]
+        },
+        "undescribed reactions": [
+            " 3-O-\u03b2-D-galactopyranosyl-D-arabinose + H2O = D-galactose + D-arabinose"
+        ]
+    },
+    "D-octopine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N2-(D-1-carboxyethyl)-L-arginine + NAD + H2O = L-arginine + pyruvate + NADH"
+        ]
+    },
+    "alanopine dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd02051[0] + (1) cpd00003[0] + (1) cpd00001[0] <=> (1) cpd00035[0] + (1) cpd00020[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB258"
+            ]
+        },
+        "undescribed reactions": [
+            " 2-methyliminodiacetate + NAD + H2O = glycine + pyruvate + NADH"
+        ]
+    },
+    "peroxidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " H2O2 + thiocyanate = oxidized thiocyanate + H2O"
+        ]
+    },
+    "R)-2-hydroxyglutarate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "DNA-directed DNA polymerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " dTTP + 9/20-DNA oligomer = 10/20-DNA oligomer + pyrophosphate"
+        ]
+    },
+    "chalcone isomerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 2',4,4'-trihydroxychalcone = (2S)-4',7-dihydroxyflavanone"
+        ]
+    },
+    "1-phosphatidylinositol kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " ATP + 1-phosphatidyl-1D-myo-inositol = ADP + 1-phosphatidyl-1D-myo-inositol 4-phosphate"
+        ]
+    },
+    "aryl-alcohol dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00435[0] + (1) cpd00003[0] <=> (1) cpd00225[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB19"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "pantothenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "NAD+ nucleosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "guanidinoacetate kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00451[0] <=> (1) cpd00008[0] + (1) cpd02023[0]"
+            ],
+            "ids": [
+                "TECRDB259"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "lombricine kinase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "NAD(P)+ nucleosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-nicotinamide mononucleotide + 3-acetylpyridine = 3-acetylpyridine mononucleotide + nicotinamide",
+            " NAD + 3-acetylpyridine = 3-acetylpyridine adenine dinucleotide + nicotinamide"
+        ]
+    },
+    "a-mannosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " disaccharide + H2O = 2 D-mannose",
+            " tetrasaccharide + H2O = trisaccharide + D-mannose",
+            " trisaccharide + H2O = disaccharide + D-mannose"
+        ]
+    },
+    "L-iditol 2-dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01066[0] + (1) cpd00003[0] <=> (1) cpd29573[0] + (1) cpd00004[0]",
+                "(1) cpd00306[0] + (1) cpd00003[0] <=> (1) cpd00259[0] + (1) cpd00004[0]",
+                "(1) cpd01307[0] + (1) cpd00003[0] <=> (1) cpd29557[0] + (1) cpd00004[0]"
+            ],
+            "ids": [
+                "TECRDB117",
+                "TECRDB49",
+                "TECRDB260"
+            ]
+        },
+        "undescribed reactions": [
+            " D-sorbitol + NAD = D-fructose + NADH",
+            " D-mannitol + NAD = D-fructose + NADH"
+        ]
+    },
+    "oligo-1,6-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00217[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB166"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "a-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00179[0] + (1) cpd00001[0] <=> (2) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB168"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "isochorismate synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00658[0] + (1) cpd18037[0]",
+                "(1) cpd00216[0] + (1) cpd18037[0] + (1) cpd00013[0] <=> (1) cpd18037[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB261",
+                "TECRDB262"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "retinyl-palmitate esterase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd01691[0] + (1) cpd00001[0] <=> (1) cpd00365[0] + (1) cpd00214[0]"
+            ],
+            "ids": [
+                "TECRDB263"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "4-aminobenzoate synthase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00216[0] + (1) cpd18037[0] + (1) cpd00013[0] <=> (1) cpd08210[0] + (1) cpd00001[0]"
+            ],
+            "ids": [
+                "TECRDB264"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "purine-nucleoside phosphorylase and pyrimidine-nucleoside phosphorylase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00246[0] + (1) cpd00151[0] <=> (1) cpd33863[0] + (1) cpd00226[0]"
+            ],
+            "ids": [
+                "TECRDB265"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "1-piperidine-2-carboxylate reductase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "phosphopentomutase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " D-ribose 1-phosphate = D-ribose 5-phosphate"
+        ]
+    },
+    "5'-nucleosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00018[0] + (1) cpd00001[0] <=> (1) cpd00182[0] + (1) cpd00009[0] + (1) cpd00009[0] + (1) cpd00009[0]"
+            ],
+            "ids": [
+                "TECRDB7"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "a-dextrin endo-1,6-a-glucosidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " maltosyl-\u03b2-cyclomaltoheptaose + H2O = cyclomaltoheptaose + maltose"
+        ]
+    },
+    "triacylglycerol lipase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd23060[0] + (1) cpd00001[0] <=> (1) cpd00536[0] + (1) cpd23058[0]"
+            ],
+            "ids": [
+                "TECRDB266"
+            ]
+        },
+        "undescribed reactions": [
+            " n-decanoic acid glycerol triester + H2O = n-decanoic acid + n-decanoic acid glycerol diester",
+            " monoolein + H2O = oleic acid + glycerol",
+            " n-octanoic acid glycerol triester + H2O = n-octanoic acid + n-octanoic acid glycerol diester",
+            " n-decanoic acid glycerol diester + H2O = n-decanoic acid + n-decanoic acid glycerol monoester",
+            " n-decanoic acid glycerol monoester + H2O = n-decanoic acid + glycerol",
+            " dodecyldodecanoate + H2O = 1-dodecanol + 1-dodecanoic acid",
+            " n-octanoic acid glycerol monoester + H2O = n-octanoic acid + glycerol",
+            " n-octanoic acid glycerol diester + H2O = n-octanoic acid + n-octanoic acid glycerol monoester",
+            " 1-dodecanoic acid + (-)-menthol = (-)-menthyl dodecanoate + H2O"
+        ]
+    },
+    "D-(-)-phenylglycyl-_-lactamide amidohydrolase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " cephalexin + H2O = 7-aminodeacetoxycephalosporanic acid + D(-)-\u03b1-aminophenylacetic acid"
+        ]
+    },
+    "glucose oxidase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " \u03b2-D-glucose + O2 = D-glucono-1,5-lactone + H2O2"
+        ]
+    },
+    "sinapate 1-glucosyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00026[0] + (1) cpd00373[0] <=> (1) cpd00014[0] + (1) cpd01867[0]"
+            ],
+            "ids": [
+                "TECRDB267"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "2-arylpropionyl-CoA epimerase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (S)-2-(4-isobutylphenyl)propionyl-CoA =  (R)-2-(4-isobutylphenyl)propionyl-CoA"
+        ]
+    },
+    "arginase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00051[0] + (1) cpd00001[0] <=> (1) cpd00064[0] + (1) cpd00073[0]"
+            ],
+            "ids": [
+                "TECRDB268"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "arginine deiminase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00051[0] + (1) cpd00001[0] <=> (1) cpd00274[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB269"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "maleate hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (R)-malate = maleate + H2O"
+        ]
+    },
+    "R)-2-methylmalate dehydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "glutathione transferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " glutathione + (E)-2-octenal = glutathione derivative of (E)-2-octenal",
+            " glutathione + (E)-3-nonen-2-one = glutathione derivative of (E)-3-nonen-2-one",
+            " glutathione + ethyl-(E)-2-octenoate= glutathione derivative of ethyl (E)-2-octenoate",
+            " reduced glutathione + (E)-4-phenyl-3-buten-2-one = 4-(glutathionyl)-4-phenyl-2-butanone",
+            " glutathione + methyl-(E)-2-octenoate = glutathione derivative of methyl (E)-2-octenoate"
+        ]
+    },
+    "serine acetyltransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00022[0] + (1) cpd00054[0] <=> (1) cpd22528[0] + (1) cpd00722[0]"
+            ],
+            "ids": [
+                "TECRDB270"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "tryptophanase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00065[0] + (1) cpd00001[0] <=> (1) cpd00359[0] + (1) cpd00020[0] + (1) cpd00013[0]"
+            ],
+            "ids": [
+                "TECRDB271"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "UDP-N-acetylglucosamine 1-carboxyvinyltransferase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " (Z)-phosphoenolbutyrate + UDP-N-acetyl-D-glucosamine = orthophosphate + (Z)-enolbutyryl-UDP-N-acetylglucosamine"
+        ]
+    },
+    "a-chymotrypsin": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " N-acetyl-L-phenylalanine ethyl ester + H2O =  N-acetyl-L-phenylalanine + ethanol"
+        ]
+    },
+    "UDPhexose synthase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "triacyglycerol lipase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " tributyrylglycerol + (R)-2-octanol = (R)-2-octyl butyrate + glycerol-1,2-dibutyrate",
+            " tributyrylglycerol + (R)-2-heptanol = (R)-2-heptyl butyrate + glycerol-1,2-dibutyrate",
+            " tributyrylglycerol + (R)-2-undecanol = (R)-2-undecyl butyrate + glycerol-1,2-dibutyrate",
+            " tributyrylglycerol + (R)-2-decanol = (R)-2-decyl butyrate + glycerol-1,2-dibutyrate",
+            " tributyrylglycerol + (R)-2-dodecanol = (R)-2-dodecyl butyrate + glycerol-1,2-dibutyrate",
+            " tributyrylglycerol + (R)-2-nonanol = (R)-2-nonyl butyrate + glycerol-1,2-dibutyrate"
+        ]
+    },
+    "tannase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " 3,4,5-trihydroxybenzoic acid propyl ester + H2O = 3,4,5-trihydroxybenzoate + propan-1-ol"
+        ]
+    },
+    "chorismate mutase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00219[0]"
+            ],
+            "ids": [
+                "TECRDB272"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cyclomaltodextrin glucanotransferase and glucan 1,4-a-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd24451[0] + (6) cpd00001[0] <=> (6) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB220"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "a-amylase and glucan 1,4-a-glucosidase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd09394[0] + (7) cpd00001[0] <=> (7) cpd19001[0]"
+            ],
+            "ids": [
+                "TECRDB221"
+            ]
+        },
+        "undescribed reactions": [
+            " cyclomaltooctaose + 8 H2O = 8 D-glucose"
+        ]
+    },
+    "polyamine aminotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00035[0] + (1) cpd01504[0] <=> (1) cpd00020[0] + (1) cpd00726[0]"
+            ],
+            "ids": [
+                "TECRDB273"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "chloine kinase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00002[0] + (1) cpd00098[0] <=> (1) cpd00008[0] + (1) cpd00457[0] + (1) cpd00457[0]"
+            ],
+            "ids": [
+                "TECRDB274"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "cyclohexa-1,5-diene-1-carboxyl-CoA (dienoyl-CoA) hydratase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": [
+            " cyclohexa-1,5-diene-1-carboxyl-CoA + H2O = 6-hydroxycyclohex-1-ene-carboxyl-CoA"
+        ]
+    },
+    "chorismate lyase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00216[0] + (1) cpd18037[0] <=> (1) cpd00136[0] + (1) cpd00020[0]"
+            ],
+            "ids": [
+                "TECRDB275"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "tyrosine aminotransferase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00069[0] + (1) cpd00024[0] <=> (1) cpd00868[0] + (1) cpd00023[0]",
+                "(1) cpd00066[0] + (1) cpd00024[0] <=> (1) cpd00143[0] + (1) cpd30003[0] + (1) cpd00023[0]"
+            ],
+            "ids": [
+                "TECRDB276",
+                "TECRDB277"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "dihydrooratate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [],
+            "ids": []
+        },
+        "undescribed reactions": []
+    },
+    "prephenate dehydratase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00219[0] <=> (1) cpd00143[0] + (1) cpd30003[0] + (1) cpd00001[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB278"
+            ]
+        },
+        "undescribed reactions": []
+    },
+    "prephenate dehydrogenase": {
+        "completely described reactions": {
+            "reactions": [
+                "(1) cpd00219[0] + (1) cpd00003[0] <=> (1) cpd00868[0] + (1) cpd00004[0] + (1) cpd29976[0]"
+            ],
+            "ids": [
+                "TECRDB279"
+            ]
+        },
+        "undescribed reactions": []
+    }
+}
