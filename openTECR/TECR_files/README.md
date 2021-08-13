@@ -1,6 +1,5 @@
-# Name = Description
-
 # TECR data
+### Name = Description
 -> 2021-08-12_master_TECR_3.csv = The master TECR file. This contains all of the TECR data that is known to exist. The data has been assembled from multiple periods of programmatic scraping between ~2008-2021. 
 
 # master_file_matching
