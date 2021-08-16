@@ -10,4 +10,5 @@
 -> Manual_curation.txt = Each of the failed matches in the aforementioned dictionary were manually curated. The resolution of the failed match is provided, as well as the assigned match to the datum from Elad's file.
 
 # Notebook
--> 2021-08-11_master_file_creation.ipynb = The Notebook and complete set of codes that generated the master TECR file. Intermediate files are exported and imported through the execution of the Notebook to provide modularity through the process.
+-> 2021-08-11_master_file_creation.ipynb = The Notebook and complete set of codes that generated the master TECR file. Intermediate files are exported and imported through the execution of the Notebook to provide modularity through the process. \
+-> 2021-08-08_contrasting_TECR.ipynb = A Notebook that contrasts the Winter_2021, eQuilibrator_2008, and the master file. The printout optionally displays the quantities and lists of missing and extra enzymes and references between the three TECR files.
