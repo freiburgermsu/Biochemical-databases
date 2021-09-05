@@ -1,0 +1,143 @@
+Du index,	Error resolution,		Master file index
+6,		2nd sigfig rounding diff,	4545
+7,		New,				New
+10-13,		New,				New
+21-22,		New,				New
+24-27,		New,				New
+37,		2nd sigfig rounding diff,	4813
+43,		2nd sigfig rounding diff,	4827
+108,		New,				New
+114,		New,				New
+120,		New,				New
+128,		New,				New
+129,		New,				New
+130,		New,				New
+134,		New,				New
+135,		3rd sigfig diff,		4227
+136-139,	New, 				New
+239,		New,				New
+281-283,	New,				New
+286,		New,				New
+288-289,	New,				New
+295,		New,				New
+296,		2nd sigfig rounding diff,	195
+297-299,	New, 				New
+302-303,	New,				New
+321-326,	New,				New		
+337,		New,				New		
+340,		New,				New		
+355-356,	New,				New
+359,		New,				New	
+361-362,	New,				New
+337,		New,				New
+408,		1st sigfig rounding diff, 	307
+418,		New,				New
+433,		New,				New
+438-439,	New,				New
+447,		New,				New
+474,		2nd sigfig rounding diff,	440
+499,		2nd sigfig rounding diff,	442
+508,		New,				New
+510,		New,				New
+512,		New,				New
+526,		2nd sigfig rounding diff,	462
+527,		2nd sigfig rounding diff,	465
+528-529,	New, 				New
+544,		2nd sigfig rounding diff,	472
+553,		2nd sigfig rounding diff,	504
+558,		2nd sigfig rounding diff,	491
+567,		2nd sigfig rounding diff,	502
+573,		New,				New
+576-577,	2nd sigfig rounding diff,	514-515
+606,		New, 				New
+619,		2nd sigfig rounding diff,	557
+632-633,	New, 				New
+656,		New, 				New
+669,		2nd sigfig rounding diff,	618
+682,		New, 				New
+706,		2nd sigfig rounding diff,	4866
+727,		New, 				New
+736,		New, 				New
+738-739,	New, 				New
+758,		New, 				New
+785-786,	2nd sigfig rounding diff,	721-722
+790-798,	New, 				New
+803,		2nd sigfig rounding diff,	740
+812,		2nd sigfig rounding diff,	787
+816-821,	New,				New
+828,		2nd sigfig rounding diff,	799
+836,		2nd sigfig rounding diff,	812
+860,		2nd sigfig rounding diff,	840
+861-866,	New,				New
+877,		2nd sigfig rounding diff,	847
+923,		New,				New
+932,		2nd sigfig rounding diff,	900
+1014,		2nd sigfig rounding diff,	4515
+1018-1020,	2nd sigfig rounding diff,	4455-4457
+1031,		2nd sigfig rounding diff,	4438
+1066,		2nd sigfig rounding diff,	951
+1067-1068,	New,				New
+1090-1093,	New,				New
+1105,		2nd sigfig rounding diff,	988
+1115,		2nd sigfig rounding diff,	995
+1119,		2nd sigfig rounding diff,	996
+1120,		2nd sigfig rounding diff,	999
+1154,		2nd sigfig rounding diff,	1041
+1155,		2nd sigfig rounding diff,	1038
+1155,		2nd sigfig rounding diff,	1120
+1235,		New,				New
+1257-1259,	New,				New
+1266,		New,				New
+1267,		2nd sigfig rounding diff,	1157
+1270,		2nd sigfig rounding diff,	1160
+1282,		2nd sigfig rounding diff,	1183
+1285,		2nd sigfig rounding diff,	1186
+1301,		New,				New
+1304,		New,				New
+1305,		2nd sigfig rounding diff,	1209
+1315,		2nd sigfig rounding diff,	1216
+1333,		New,				New
+1345,		2nd sigfig rounding diff,	1253
+1347,		2nd sigfig rounding diff,	1254
+1349,		2nd sigfig rounding diff,	1257
+1351,		New,				New
+1382,		New,				New
+1391,		2nd sigfig rounding diff,	1299
+1394,		2nd sigfig rounding diff,	1305
+1403,		2nd sigfig rounding diff,	1312
+1415,		2nd sigfig rounding diff,	1325
+1420,		2nd sigfig rounding diff,	1330
+1454,		2nd sigfig rounding diff,	1375
+1459,		2nd sigfig rounding diff,	1379
+1460,		2nd sigfig rounding diff,	1377
+1494,		2nd sigfig rounding diff,	1416
+1519,		2nd sigfig rounding diff,	1450
+1526,		2nd sigfig rounding diff,	1457
+1527,		2nd sigfig rounding diff,	1468
+1529,		2nd sigfig rounding diff,	1470
+1532,		2nd sigfig rounding diff,	1485
+1534,		2nd sigfig rounding diff,	1466
+1544,		2nd sigfig rounding diff,	1475
+1547,		2nd sigfig rounding diff,	1479
+1556,		3rd sigfig rounding diff,	1483
+1560-1561,	New,				New
+1562-1564, 	2nd sigfig rounding diff,	1490-1492
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
