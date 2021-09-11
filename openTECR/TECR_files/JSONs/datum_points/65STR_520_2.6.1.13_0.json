@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14284729.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "65STR_520",
+            "tecrdb_string": "Strecker H.J.; J. Biol. Chem.; 240 1225 (1965)."
+        },
+        "representative_reaction": {
+            "name": "ornithine-oxo-acid transaminase",
+            "KEGG": "kegg:C00077 + kegg:C00026 = kegg:C03912 + kegg:C00025",
+            "CID": "CHB_15729 + CHB_16810 = CHB_15377 + CHB_29985 + CHB_58667",
+            "stoichiometry": {
+                "reactants": {
+                    "L-ornithine(aq)": 1,
+                    "2-oxoglutarate(aq) ": 1
+                },
+                "products": {
+                    " DL-\u00ce\u201d1-pyrroline-5-carboxylate(aq)": 1,
+                    "L-glutamate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "71",
+        "hydrogenPotential": "7.1",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

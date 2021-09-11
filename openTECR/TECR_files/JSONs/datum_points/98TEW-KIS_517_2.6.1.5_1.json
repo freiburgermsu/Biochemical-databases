@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "98TEW/KIS_517",
+            "tecrdb_string": "Tewari Y.B.; Kishore N.; Goldberg R.N.; Luong T. N.; J. Chem. Thermodyn.; 30 777 (1998)."
+        },
+        "representative_reaction": {
+            "name": "tyrosine aminotransferase",
+            "KEGG": "kegg:C00082 + kegg:C00026 = kegg:C01179 + kegg:C00025",
+            "CID": "CHB_16810 + CHB_17895 = CHB_29985 + CHB_36242",
+            "stoichiometry": {
+                "reactants": {
+                    "L-tyrosine(aq)": 1,
+                    "2-oxoglutarate(aq) ": 1
+                },
+                "products": {
+                    " 4-hydroxyphenylpyruvate(aq)": 1,
+                    "L-glutamate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.876",
+        "hydrogenPotential": "7.74",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": "0.33"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

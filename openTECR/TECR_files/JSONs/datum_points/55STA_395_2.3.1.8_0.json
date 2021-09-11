@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "55STA_395",
+            "tecrdb_string": "Stadtman E.R.; Methods Enzymol.; 1 596 (1955)."
+        },
+        "representative_reaction": {
+            "name": "phosphate acetyltransferase",
+            "KEGG": "kegg:C00024 + kegg:C00009 = kegg:C00010 + kegg:C00227",
+            "CID": "CHB_15351 + CHB_26078 = CHB_15346 + CHB_15350",
+            "stoichiometry": {
+                "reactants": {
+                    "acetyl-CoA(aq)": 1,
+                    "orthophosphate(aq) ": 1
+                },
+                "products": {
+                    " CoA(aq)": 1,
+                    "acetyl phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0135",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "301.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "72COO/MEI_521",
+            "tecrdb_string": "Cooper A.J.L.; Meister A.; Biochemistry; 11 661 (1972)."
+        },
+        "representative_reaction": {
+            "name": "glutamine-pyruvate aminotransaminase",
+            "KEGG": "kegg:C00064 + kegg:C00048 = kegg:C00940 + kegg:C00037",
+            "CID": "CHB_16891 + CHB_18050 = CHB_15428 + CHB_16769",
+            "stoichiometry": {
+                "reactants": {
+                    "L-glutamine(aq)": 1,
+                    "glyoxylate(aq) ": 1
+                },
+                "products": {
+                    " 2-oxoglutaramate(aq)": 1,
+                    "glycine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "607",
+        "hydrogenPotential": "8.4",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

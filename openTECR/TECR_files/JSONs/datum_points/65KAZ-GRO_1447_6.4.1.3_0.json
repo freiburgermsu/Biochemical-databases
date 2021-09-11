@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14256957.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "65KAZ/GRO_1447",
+            "tecrdb_string": "Kaziro Y.; Grossman A.; Ochoa S.; J. Biol. Chem.; 240 64 (1965)."
+        },
+        "representative_reaction": {
+            "name": "propanoyl-CoA carboxylase",
+            "KEGG": "kegg:C00002 + kegg:C00100 + kegg:C00288 = kegg:C00008 + kegg:C00009 + kegg:C02557",
+            "CID": "CHB_15422 + CHB_15539 + CHB_17544 = CHB_15466 + CHB_16761 + CHB_26078",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "propanoyl-CoA(aq)": 1,
+                    "carbon dioxide(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "phosphate(aq)": 1,
+                    "(S)-methylmalonyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "5.7",
+        "hydrogenPotential": "8.1",
+        "magnesiumPotential": "",
+        "temperature": "301.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

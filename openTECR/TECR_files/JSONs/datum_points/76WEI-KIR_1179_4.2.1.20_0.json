@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "949971.0",
+            "doi": "10.1111/j.1432-1033.1976.tb10350.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "76WEI/KIR_1179",
+            "tecrdb_string": "Weischet W.O.; Kirschner K.; Eur. J. Biochem.; 65 365 (1976)."
+        },
+        "representative_reaction": {
+            "name": "tryptophan synthase",
+            "KEGG": "kegg:C00118 + kegg:C00463 = kegg:C03506",
+            "CID": "CHB_16881 + CHB_29052 = CHB_18299",
+            "stoichiometry": {
+                "reactants": {
+                    "D-glyceraldehyde 3-phosphate(aq)": 1,
+                    "indole(aq) ": 1
+                },
+                "products": {
+                    " 1-(indol-3-yl)glycerol 3-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "2300",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

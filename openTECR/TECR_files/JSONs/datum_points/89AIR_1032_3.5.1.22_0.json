@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "89AIR_1032",
+            "tecrdb_string": "Airas R.K.; Acta Chem. Scand.; 43 386 (1989)."
+        },
+        "representative_reaction": {
+            "name": "pantothenase",
+            "KEGG": "kegg:C00864 + kegg:C00001 = kegg:C00522 + kegg:C00099",
+            "CID": "CHB_15377 + CHB_16454 = CHB_14737 + CHB_16958",
+            "stoichiometry": {
+                "reactants": {
+                    "pantothenate(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " pantoic acid(aq)": 1,
+                    "\u00ce\u00b2-alanine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0383",
+        "hydrogenPotential": "8.1",
+        "magnesiumPotential": "",
+        "temperature": "284.95",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

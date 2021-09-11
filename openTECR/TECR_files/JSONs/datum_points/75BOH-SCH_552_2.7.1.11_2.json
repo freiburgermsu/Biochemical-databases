@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "241184.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "75BOH/SCH_552",
+            "tecrdb_string": "Bvhme H.-J.; Schellenberger W.; Hofmann E.; Acta Biol. Med. Germ.; 34 15 (1975)."
+        },
+        "representative_reaction": {
+            "name": "6-phosphofructokinase",
+            "KEGG": "kegg:C00002 + kegg:C00085 = kegg:C00008 + kegg:C00354",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "D-fructose 6-phosphate(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "D-fructose 1,6-bisphosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": " ",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

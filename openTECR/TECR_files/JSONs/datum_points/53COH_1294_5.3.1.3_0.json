@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13044776.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "53COH_1294",
+            "tecrdb_string": "Cohen S.S.; J. Biol. Chem.; 201 71 (1953)."
+        },
+        "representative_reaction": {
+            "name": "arabinose isomerase",
+            "KEGG": "kegg:C00216 = kegg:C00309",
+            "CID": "CHB_46994 = CHB_28552",
+            "stoichiometry": {
+                "reactants": {
+                    "D-arabinose(aq) ": 1
+                },
+                "products": {
+                    " D-ribulose(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.18",
+        "hydrogenPotential": " ",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13416257.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "57ROB/COO_122",
+            "tecrdb_string": "Robinson W.G.; Coon M.J.; J. Biol. Chem.; 225 511 (1957)."
+        },
+        "representative_reaction": {
+            "name": "3-hydroxyisobutyrate dehydrogenase",
+            "KEGG": "kegg:C01188 + kegg:C00003 = kegg:C00349 + kegg:C00004",
+            "CID": "CHB_11805 + CHB_15846 = CHB_16256 + CHB_16908",
+            "stoichiometry": {
+                "reactants": {
+                    "3-hydroxy-2-methylpropanoate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 2-methyl-3-oxopropanoate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0031",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "92BLA/GUI_966",
+            "tecrdb_string": "Blanco R.M.; Guisan J.M.; Halling P.J.; Biotech. Bioeng.; 40 1092 (1992)"
+        },
+        "representative_reaction": {
+            "name": "chymotrypsin",
+            "KEGG": " ",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "N-acetyl-L-tryptophan phenylethyl ester(sln)": 1,
+                    "H2O(sln) ": 1
+                },
+                "products": {
+                    " N-acetyl-L-tryptophan(sln)": 1,
+                    "2-phenylethanol(sln)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.77",
+        "hydrogenPotential": " ",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

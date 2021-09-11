@@ -1,0 +1,51 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "78MEE/AKE_258",
+            "tecrdb_string": "van der Meer R.; Akerboom T.P.M.; Groen A.K.; Tager J.M.; Eur. J. Biochem.; 84 421 (1978)."
+        },
+        "representative_reaction": {
+            "name": "glyceraldehyde-3-phosphate dehydrogenase and phosphoglycerate kinase",
+            "KEGG": "kegg:C00118 + kegg:C00008 + kegg:C00003 + kegg:C00009 = kegg:C00197 + kegg:C00002 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_16761 + CHB_26078 + CHB_29052 = CHB_15422 + CHB_16908 + CHB_17794",
+            "stoichiometry": {
+                "reactants": {
+                    "D-glyceraldehyde 3-phosphate(aq)": 1,
+                    "ADP(aq)": 1,
+                    "NAD(aq)": 1,
+                    "orthophosphate(aq) ": 1
+                },
+                "products": {
+                    " 3-phospho-D-glycerate(aq)": 1,
+                    "ATP(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1310",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "3.05 = -log[Mg+2]",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

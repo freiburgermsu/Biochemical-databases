@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "72LEH/TAN_452",
+            "tecrdb_string": "Lehle L.; Tanner W.; Methods Enzymol.; 38 522 (1972)."
+        },
+        "representative_reaction": {
+            "name": "galactinol-raffinose galactosyltransferase",
+            "KEGG": "kegg:C01235 + kegg:C00492 = kegg:C00137 + kegg:C01613",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "1-\u00ce\u00b1-D-galactosyl-myo-inositol(aq)": 1,
+                    "raffinose(aq) ": 1
+                },
+                "products": {
+                    " myo-inositol(aq)": 1,
+                    "stachyose(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "4",
+        "hydrogenPotential": "6.5",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

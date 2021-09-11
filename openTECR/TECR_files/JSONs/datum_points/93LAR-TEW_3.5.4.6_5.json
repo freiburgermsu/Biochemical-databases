@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "93LAR/TEW",
+            "tecrdb_string": " "
+        },
+        "representative_reaction": {
+            "name": "AMP deaminase",
+            "KEGG": "kegg:C00020 + kegg:C00001 = kegg:C00130 + kegg:C00014",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "AMP(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " IMP(aq)": 1,
+                    "ammonia(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": " ",
+        "hydrogenPotential": "8.23",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

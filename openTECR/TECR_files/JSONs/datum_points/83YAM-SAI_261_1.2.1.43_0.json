@@ -1,0 +1,49 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "6822536.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "83YAM/SAI_261",
+            "tecrdb_string": "Yamamoto I.; Saiki T.; Liu S.M.; Ljungdahl L.G.; J. Biol. Chem.; 258 1826 (1983)."
+        },
+        "representative_reaction": {
+            "name": "formate dehydrogenase (NADP+)",
+            "KEGG": "kegg:C00058 + kegg:C00006 + kegg:C00001 = kegg:C00288 + kegg:C00005",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "formate(aq)": 1,
+                    "NADP(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " carbon dioxide(aq)": 1,
+                    "NADPH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "6.5E2",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "",
+        "temperature": "328.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

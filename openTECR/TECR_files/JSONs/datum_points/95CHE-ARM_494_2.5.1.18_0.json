@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "95CHE/ARM_494",
+            "tecrdb_string": "Chen J.; Armstrong R.N.; Chem. Res. Toxicol.; 8 580 (1995)"
+        },
+        "representative_reaction": {
+            "name": "glutathione transferase",
+            "KEGG": " ",
+            "CID": "CHB_16856 + CHB_78399 = MAN_10125",
+            "stoichiometry": {
+                "reactants": {
+                    "reduced glutathione(aq)": 1,
+                    "(E)-4-phenyl-3-buten-2-one(aq) ": 1
+                },
+                "products": {
+                    " 4-(glutathionyl)-4-phenyl-2-butanone(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "640",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

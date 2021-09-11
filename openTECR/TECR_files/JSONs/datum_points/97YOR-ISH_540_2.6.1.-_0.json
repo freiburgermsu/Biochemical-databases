@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "97YOR/ISH_540",
+            "tecrdb_string": "Yorifuji T.; Ishihara T.; Naka T.; Kondo S.; Shimizu E.; J. Biochem. (Tokyo); 122 537 (1997)."
+        },
+        "representative_reaction": {
+            "name": "polyamine aminotransferase",
+            "KEGG": "kegg:C00041 + kegg:C05665 = kegg:C00022 + kegg:C00986",
+            "CID": "CHB_16977 + CHB_18090 = CHB_15361 + CHB_15725",
+            "stoichiometry": {
+                "reactants": {
+                    "L-alanine(aq)": 1,
+                    "3-aminopropionaldehyde(aq) ": 1
+                },
+                "products": {
+                    " pyruvate(aq)": 1,
+                    "1,3-diaminopropane(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "2.9",
+        "hydrogenPotential": "9.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

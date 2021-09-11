@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "50PAZ_433",
+            "tecrdb_string": "Pazur J.H.; \"Mathematical Analysis of Amylase Reaction\"; Thesis Iowa State College (1950)"
+        },
+        "representative_reaction": {
+            "name": "cyclomaltodextrin glucanotransferase",
+            "KEGG": " ",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "Gu(aq) ": 1
+                },
+                "products": {
+                    " cyclomaltohexaose(aq)": 1,
+                    "G(u-6)(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0134",
+        "hydrogenPotential": "6.5",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

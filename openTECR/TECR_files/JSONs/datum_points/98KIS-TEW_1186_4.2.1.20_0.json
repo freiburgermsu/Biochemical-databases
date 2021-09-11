@@ -1,0 +1,49 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "98KIS/TEW_1186",
+            "tecrdb_string": "Kishore N.; Tewari Y. B.; Akers D.L.; Goldberg R.N.; Miles E.W.; Biophys. Chem.; 73 265 (1998)."
+        },
+        "representative_reaction": {
+            "name": "tryptophan synthase",
+            "KEGG": "kegg:C03506 + kegg:C00065 = kegg:C00078 + kegg:C00118 + kegg:C00001",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "1-(indol-3-yl)glycerol 3-phosphate(aq)": 1,
+                    "L-serine(aq) ": 1
+                },
+                "products": {
+                    " L-tryptophan(aq)": 1,
+                    "D-glyceraldehyde 3-phosphate(aq)": 1,
+                    "H2O(l)": 1
+                }
+            }
+        },
+        "equilibriumConstant": " ",
+        "hydrogenPotential": "7.57",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": "0.36"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

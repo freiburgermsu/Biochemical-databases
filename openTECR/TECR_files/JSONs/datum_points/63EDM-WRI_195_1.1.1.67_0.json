@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14109183.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "63EDM/WRI_195",
+            "tecrdb_string": "Edmundowicz J.M.; Wriston J.C. Jr.; J. Biol. Chem.; 238 3539 (1963)."
+        },
+        "representative_reaction": {
+            "name": "mannitol dehydrogenase",
+            "KEGG": "kegg:C00392 + kegg:C00003 = kegg:C00095 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_16899 = CHB_16908 + CHB_37721",
+            "stoichiometry": {
+                "reactants": {
+                    "D-mannitol(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " D-fructose(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.056",
+        "hydrogenPotential": "8.05",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

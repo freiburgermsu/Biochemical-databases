@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5946626.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "66VER/ROD_707",
+            "tecrdb_string": "Verachtert H.; Rodriguez P.; Bass S.T.; Hansen R.G.; J. Biol. Chem.; 241 2007 (1966)."
+        },
+        "representative_reaction": {
+            "name": "glucose-1-phosphate guanylyltransferase",
+            "KEGG": "kegg:C00044 + kegg:C00103 = kegg:C00394 + kegg:C00013",
+            "CID": "CHB_15996 + CHB_16077 = CHB_18361 + CHB_62254",
+            "stoichiometry": {
+                "reactants": {
+                    "GTP(aq)": 1,
+                    "\u00ce\u00b1-D-glucose 1-phosphate(aq) ": 1
+                },
+                "products": {
+                    " GDPglucose(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.25",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

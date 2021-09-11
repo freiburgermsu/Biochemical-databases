@@ -1,0 +1,49 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62WIL/SNE_357",
+            "tecrdb_string": "Wilson E.M.; Snell E.E.; J. Biol. Chem.; 237 3171 (1962)."
+        },
+        "representative_reaction": {
+            "name": "D-alanine 2-hydroxymethyltransferase",
+            "KEGG": "kegg:C03059 + kegg:C00101 = kegg:C00143 + kegg:C00740 + kegg:C00001",
+            "CID": "CHB_15635 + CHB_28187 = CHB_15377 + CHB_16523 + CHB_1989",
+            "stoichiometry": {
+                "reactants": {
+                    "2-hydroxymethylserine(aq)": 1,
+                    "tetrahydrofolate(aq) ": 1
+                },
+                "products": {
+                    " 5,10-methylenetetrahydrofolate(aq)": 1,
+                    "D-serine(aq)": 1,
+                    "H2O(1)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "8",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

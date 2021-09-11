@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "80COO/BLA_2",
+            "tecrdb_string": "Cook P.F.; Blanchard J.S.; Cleland W.W.; Biochemistry; 19 4853 (1980)."
+        },
+        "representative_reaction": {
+            "name": "alcohol dehydrogenase",
+            "KEGG": "kegg:C00556 + kegg:C00003 = kegg:C00261 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_17987 = CHB_16908 + CHB_17169",
+            "stoichiometry": {
+                "reactants": {
+                    "benzyl alcohol(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " benzaldehyde(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0031",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

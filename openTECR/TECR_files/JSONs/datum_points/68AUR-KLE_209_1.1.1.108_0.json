@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4302217.0",
+            "doi": "10.1111/j.1432-1033.1968.tb00437.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68AUR/KLE_209",
+            "tecrdb_string": "Aurich H.; Kleber H.-P.; Sorger H.; Tauchert H.; Eur. J. Biochem.; 6 196 (1968)."
+        },
+        "representative_reaction": {
+            "name": "carnitine dehydrogenase",
+            "KEGG": "kegg:C00318 + kegg:C00003 = kegg:C02636 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_16347 = CHB_16758 + CHB_16908",
+            "stoichiometry": {
+                "reactants": {
+                    "L-carnitine(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 3-dehydrocarnitine(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.00013",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

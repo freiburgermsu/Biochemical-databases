@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68SAL/NOR_1259",
+            "tecrdb_string": "Salo W.L.; Nordin J.H.; Peterson D.R.; Bevill R.D.; Kirkwood S.; Biochim. Biophys. Acta; 151 484 (1968)."
+        },
+        "representative_reaction": {
+            "name": "UDPglucose 4-epimerase",
+            "KEGG": " ",
+            "CID": "MAN_10028 = CHS_24785053",
+            "stoichiometry": {
+                "reactants": {
+                    "UDP-D-quinovose(aq) ": 1
+                },
+                "products": {
+                    " UDP-D-fucose(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.62",
+        "hydrogenPotential": "8.7",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

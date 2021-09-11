@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68VEE_314",
+            "tecrdb_string": "Veech R.L.; \"Measurement of Respiratory Metabolism in Animal Tissues\"; Thesis Oxford University (1968)."
+        },
+        "representative_reaction": {
+            "name": "glutathione reductase (NAD(P)H)",
+            "KEGG": "2 kegg:C00051 + kegg:C00006 = kegg:C00127 + kegg:C00005",
+            "CID": "2 CHB_16856 + CHB_18009 = CHB_16474 + CHB_17858",
+            "stoichiometry": {
+                "reactants": {
+                    "2 reduced glutathione(aq)": "2 ",
+                    "NADP(aq) ": 1
+                },
+                "products": {
+                    "  oxidized glutathione(aq)": 1,
+                    "NADPH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0156",
+        "hydrogenPotential": "6.9",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "808172.0",
+            "doi": "10.1016/0003-9861(75)90324-0",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "75MAN/LAN_336",
+            "tecrdb_string": "Mangold A.; Langerman N.; Arch. Biochem. Biophys.; 169 126 (1975)."
+        },
+        "representative_reaction": {
+            "name": "alkanal monooxygenase (FMN-linked)",
+            "KEGG": "kegg:C02278 + kegg:C01847 + kegg:C00007 = kegg:C02679 + kegg:C00061 + kegg:C00001",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "dodecanal(aq)": 1,
+                    "FMN(reduced)": 1,
+                    "O2(aq) ": 1
+                },
+                "products": {
+                    " dodecanoic acid(aq)": 1,
+                    "FMN(oxidized)": 1,
+                    "H2O(l)": 1
+                }
+            }
+        },
+        "equilibriumConstant": " ",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "280.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

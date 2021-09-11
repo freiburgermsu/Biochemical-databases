@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "86KUP/FER_661",
+            "tecrdb_string": "Kupriyanov V.V.; Ferretti J.A.; Balaban R.S.; Biochim. Biophys. Acta; 869 107 (1986)."
+        },
+        "representative_reaction": {
+            "name": "adenylate kinase",
+            "KEGG": "kegg:C00002 + kegg:C00008 = kegg:C03483 + kegg:C00020",
+            "CID": "CHB_15422 + CHB_16761 = CHB_16027 + CHB_18334",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "ADP(aq) ": 1
+                },
+                "products": {
+                    " adenosine 5'-tetraphosphate(aq)": 1,
+                    "AMP(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.1",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

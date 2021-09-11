@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4745770.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "73HER_1136",
+            "tecrdb_string": "Hersh L.B.; J. Biol. Chem.; 248 7295 (1973)."
+        },
+        "representative_reaction": {
+            "name": "malyl-CoA lyase",
+            "KEGG": "kegg:C04348 = kegg:C00024 + kegg:C00048",
+            "CID": "PBC_11966145 = CHB_15351 + CHB_16891",
+            "stoichiometry": {
+                "reactants": {
+                    "(R,S)-malyl-CoA(aq) ": 1
+                },
+                "products": {
+                    " acetyl-CoA(aq)": 1,
+                    "glyoxylate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0029",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

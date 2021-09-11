@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "18103.0",
+            "doi": "10.1016/0003-9861(77)90496-9",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "77SRA/FRE_722",
+            "tecrdb_string": "Sramek S.J.; Frerman F.E.; Arch. Biochem. Biophys.; 181 178 (1977)."
+        },
+        "representative_reaction": {
+            "name": "acetate CoA-transferase",
+            "KEGG": "kegg:C00024 + kegg:C00164 = kegg:C00332 + kegg:C00033",
+            "CID": "CHB_13705 + CHB_15351 = CHB_15345 + CHB_30089",
+            "stoichiometry": {
+                "reactants": {
+                    "acetyl-CoA(aq)": 1,
+                    "acetoacetate(aq) ": 1
+                },
+                "products": {
+                    " acetoacetyl-CoA(aq)": 1,
+                    "acetate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.13",
+        "hydrogenPotential": "8.1",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

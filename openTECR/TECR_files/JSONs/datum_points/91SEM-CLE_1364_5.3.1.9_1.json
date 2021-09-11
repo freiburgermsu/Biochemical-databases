@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "91SEM/CLE_1364",
+            "tecrdb_string": "Sem D.S.; Cleland W.W.; Biochemistry; 30 4978 (1991)."
+        },
+        "representative_reaction": {
+            "name": "glucose-6-phosphate isomerase",
+            "KEGG": "kegg:C00092 = kegg:C00085",
+            "CID": "CHB_4170 = CHB_61553",
+            "stoichiometry": {
+                "reactants": {
+                    "D-glucose 6-phosphate(aq) ": 1
+                },
+                "products": {
+                    " D-fructose 6-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.264",
+        "hydrogenPotential": "8.7",
+        "magnesiumPotential": "",
+        "temperature": "295.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

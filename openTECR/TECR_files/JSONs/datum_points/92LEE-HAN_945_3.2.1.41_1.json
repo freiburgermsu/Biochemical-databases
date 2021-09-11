@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "92LEE/HAN_945",
+            "tecrdb_string": "Lee Y.-H.; Han I.-K.; Kor. J. Appl. Microbiol. Biotechnol.; 20 422 (1992)."
+        },
+        "representative_reaction": {
+            "name": "a-dextrin endo-1,6-a-glucosidase",
+            "KEGG": " ",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "maltosyl-\u00ce\u00b2-cyclomaltoheptaose(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " cyclomaltoheptaose(aq)": 1,
+                    "maltose(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "860",
+        "hydrogenPotential": " ",
+        "magnesiumPotential": "",
+        "temperature": "285.7",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

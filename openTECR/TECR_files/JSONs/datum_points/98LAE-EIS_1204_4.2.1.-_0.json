@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "9738901.0",
+            "doi": "10.1046/j.1432-1327.1998.2550618.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "98LAE/EIS_1204",
+            "tecrdb_string": "Laempe D.; Eisenreich W.; Bacher A.; Fuchs G.; Eur. J. Biochem.; 255 618 (1998)."
+        },
+        "representative_reaction": {
+            "name": "cyclohexa-1,5-diene-1-carboxyl-CoA (dienoyl-CoA) hydratase",
+            "KEGG": "kegg:C06322 + kegg:C00001 = kegg:C06749",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "cyclohexa-1,5-diene-1-carboxyl-CoA(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " 6-hydroxycyclohex-1-ene-carboxyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

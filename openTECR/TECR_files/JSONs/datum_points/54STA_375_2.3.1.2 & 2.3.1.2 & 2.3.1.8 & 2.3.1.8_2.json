@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "54STA_375",
+            "tecrdb_string": "Stadtman E.R.; in \"The Mechanism of Enzyme Action\"; W.D. McElroy and B. Glass eds.; The Johns Hopkins Press Baltimore Maryland (1954) pp. 581-598."
+        },
+        "representative_reaction": {
+            "name": "imidazole N-acetyltransferase and phosphate acetyltransferase",
+            "KEGG": "kegg:C00227 + kegg:C01589 = kegg:C02560 + kegg:C00009",
+            "CID": "CHB_15350 + CHB_16069 = CHB_16984 + CHB_26078",
+            "stoichiometry": {
+                "reactants": {
+                    "acetyl phosphate(aq)": 1,
+                    "imidazole(aq) ": 1
+                },
+                "products": {
+                    " N-acetylimidazole(aq)": 1,
+                    "orthophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.011",
+        "hydrogenPotential": "6.95",
+        "magnesiumPotential": "",
+        "temperature": "299.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

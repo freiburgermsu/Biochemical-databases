@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "7437498.0",
+            "doi": "10.1016/0301-4622(80)80041-x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "80CHE/HED_567",
+            "tecrdb_string": "Cheer R.L.; Hedwig G.R.; Watson I.D.; Biophys. Chem.; 12 73 (1980)."
+        },
+        "representative_reaction": {
+            "name": "pyruvate kinase",
+            "KEGG": "kegg:C00002 + kegg:C00022 = kegg:C00008 + kegg:C00074",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "pyruvate(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "phosphoenolpyruvate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": " ",
+        "hydrogenPotential": "8.02",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

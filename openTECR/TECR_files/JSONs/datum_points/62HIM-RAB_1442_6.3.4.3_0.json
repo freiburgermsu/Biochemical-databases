@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13907490.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62HIM/RAB_1442",
+            "tecrdb_string": "Himes R.H.; Rabinowitz J.C.; J. Biol. Chem.; 237 2903 (1962)."
+        },
+        "representative_reaction": {
+            "name": "formate-tetrahydrofolate ligase",
+            "KEGG": "kegg:C00002 + kegg:C00058 + kegg:C00101 = kegg:C00008 + kegg:C00009 + kegg:C00234",
+            "CID": "CHB_15422 + CHB_15635 + CHB_15740 = CHB_15637 + CHB_16761 + CHB_26078",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "formate(aq)": 1,
+                    "tetrahydrofolate(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "phosphate(aq)": 1,
+                    "10-formyltetrahydrofolate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "41",
+        "hydrogenPotential": "7.7",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

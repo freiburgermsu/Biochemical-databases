@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "2789134.0",
+            "doi": "10.1111/j.1432-1033.1989.tb14984.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "89SCH/GIF_68",
+            "tecrdb_string": "Schneider K.-H.; Giffhorn F.; Eur. J. Biochem.; 184 15 (1989)."
+        },
+        "representative_reaction": {
+            "name": "L-iditol 2-dehydrogenase",
+            "KEGG": "kegg:C00794 + kegg:C00003 = kegg:C00095 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_17924 = CHB_16908 + CHB_37721",
+            "stoichiometry": {
+                "reactants": {
+                    "D-sorbitol(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " D-fructose(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0058",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

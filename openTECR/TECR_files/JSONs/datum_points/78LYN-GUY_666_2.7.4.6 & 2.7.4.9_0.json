@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "204656.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "78LYN/GUY_666",
+            "tecrdb_string": "Lynn R.; Guynn R.W.; J. Biol. Chem.; 253 2546 (1978)."
+        },
+        "representative_reaction": {
+            "name": "nucleoside-diphosphate kinase",
+            "KEGG": "kegg:C00002 + kegg:C00035 = kegg:C00008 + kegg:C00044",
+            "CID": "CHB_15422 + CHB_17552 = CHB_15996 + CHB_16761",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "GDP(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "GTP(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.04",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

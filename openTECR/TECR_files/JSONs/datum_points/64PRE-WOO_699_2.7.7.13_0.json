@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14245350.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "64PRE/WOO_699",
+            "tecrdb_string": "Preiss J.; Wood E.; J. Biol. Chem.; 239 3119 (1964)."
+        },
+        "representative_reaction": {
+            "name": "mannose-1-phosphate guanylyltransferase",
+            "KEGG": "kegg:C00044 + kegg:C00636 = kegg:C00096 + kegg:C00013",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "GTP(aq)": 1,
+                    "\u00ce\u00b1-D-mannose 1-phosphate(aq) ": 1
+                },
+                "products": {
+                    " GDPmannose(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "2.5",
+        "hydrogenPotential": "8.26",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

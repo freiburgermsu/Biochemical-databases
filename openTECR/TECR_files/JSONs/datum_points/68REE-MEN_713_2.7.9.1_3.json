@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4302788.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68REE/MEN_713",
+            "tecrdb_string": "Reeves R.E.; Menzies R.A.; Hsu D.S.; J. Biol. Chem.; 243 5486 (1968)."
+        },
+        "representative_reaction": {
+            "name": "pyruvate,orthophosphate dikinase",
+            "KEGG": "kegg:C00002 + kegg:C00022 + kegg:C00009 = kegg:C00020 + kegg:C00074 + kegg:C00013",
+            "CID": "CHB_15361 + CHB_15422 + CHB_26078 = CHB_16027 + CHB_18021 + CHB_18361",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "pyruvate(aq)": 1,
+                    "orthophosphate(aq) ": 1
+                },
+                "products": {
+                    " AMP(aq)": 1,
+                    "phosphoenolpyruvate(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.000826",
+        "hydrogenPotential": "7.06",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

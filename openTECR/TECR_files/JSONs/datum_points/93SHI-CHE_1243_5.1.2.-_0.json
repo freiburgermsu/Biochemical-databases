@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "8381432.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "93SHI/CHE_1243",
+            "tecrdb_string": "Shieh W.-R.; Chen C.-S.; J. Biol. Chem.; 268 3487 (1993)."
+        },
+        "representative_reaction": {
+            "name": "2-arylpropionyl-CoA epimerase",
+            "KEGG": " ",
+            "CID": "MAN_10129 = MAN_10128",
+            "stoichiometry": {
+                "reactants": {
+                    "(S)-2-(4-isobutylphenyl)propionyl-CoA(aq) ": 1
+                },
+                "products": {
+                    "  (R)-2-(4-isobutylphenyl)propionyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.5",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13830319.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "60GUP/ROB_186",
+            "tecrdb_string": "Gupta N.K.; Robinson W.G.; J. Biol. Chem.; 235 1609 (1960)."
+        },
+        "representative_reaction": {
+            "name": "lactaldehyde reductase (NADPH)",
+            "KEGG": "kegg:C00583 + kegg:C00006 = kegg:C00424 + kegg:C00005",
+            "CID": "CHB_16997 + CHB_18009 = CHB_16474 + CHB_18041",
+            "stoichiometry": {
+                "reactants": {
+                    "1,2-propanediol(aq)": 1,
+                    "NADP(aq) ": 1
+                },
+                "products": {
+                    " L-lactaldehyde(aq)": 1,
+                    "NADPH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "6.00E-05",
+        "hydrogenPotential": "8.4",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

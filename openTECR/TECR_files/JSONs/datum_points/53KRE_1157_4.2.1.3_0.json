@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "53KRE_1157",
+            "tecrdb_string": "Krebs H.A.; Biochem. J.; 54 78 (1953)."
+        },
+        "representative_reaction": {
+            "name": "aconitate hydratase",
+            "KEGG": "kegg:C00158 = kegg:C00417 + kegg:C00001",
+            "CID": "CHB_30769 = CHB_15377 + CHB_16383",
+            "stoichiometry": {
+                "reactants": {
+                    "citrate(aq) ": 1
+                },
+                "products": {
+                    " cis-aconitate(aq)": 1,
+                    "H2O(l)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.032",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

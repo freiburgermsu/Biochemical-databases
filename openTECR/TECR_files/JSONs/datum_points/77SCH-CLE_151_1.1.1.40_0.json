@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "836801.0",
+            "doi": "10.1021/bi00623a001",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "77SCH/CLE_151",
+            "tecrdb_string": "Schimerlik M.I.; Cleland W.W.; Biochemistry; 16 565 (1977)."
+        },
+        "representative_reaction": {
+            "name": "malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)",
+            "KEGG": "kegg:C00149 + kegg:C00006 + kegg:C00001 = kegg:C00022 + kegg:C00005 + kegg:C00288",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "(S)-malate(aq)": 1,
+                    "NADP(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " pyruvate(aq)": 1,
+                    "NADPH(aq)": 1,
+                    "carbon dioxide(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.029",
+        "hydrogenPotential": "7.1",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

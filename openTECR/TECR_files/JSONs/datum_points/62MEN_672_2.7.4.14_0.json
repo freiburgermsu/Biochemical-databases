@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14472566.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62MEN_672",
+            "tecrdb_string": "Mendicino J.; J. Biol. Chem.; 237 165 (1962)."
+        },
+        "representative_reaction": {
+            "name": "cytidylate kinase",
+            "KEGG": "kegg:C00002 + kegg:C00055 = kegg:C00008 + kegg:C00112",
+            "CID": "CHB_15422 + CHB_17361 = CHB_16761 + CHB_17239",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "CMP(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "CDP(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

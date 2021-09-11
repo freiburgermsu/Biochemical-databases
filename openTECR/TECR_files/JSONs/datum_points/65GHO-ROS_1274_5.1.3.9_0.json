@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14285487.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "65GHO/ROS_1274",
+            "tecrdb_string": "Ghosh S.; Roseman S.; J. Biol. Chem.; 240 1525 (1965)."
+        },
+        "representative_reaction": {
+            "name": "N-acylglucosamine-6-phosphate 2-epimerase",
+            "KEGG": "kegg:C00357 = kegg:C04257",
+            "CID": "CHB_15784 = CHB_62168",
+            "stoichiometry": {
+                "reactants": {
+                    "N-acetyl-D-glucosamine 6-phosphate(aq) ": 1
+                },
+                "products": {
+                    " N-acetyl-D-mannosamine 6-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.43",
+        "hydrogenPotential": "7.6",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

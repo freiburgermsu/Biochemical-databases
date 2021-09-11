@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4548670.0",
+            "doi": "10.1111/j.1432-1033.1974.tb03763.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "74DAN/CAR_473",
+            "tecrdb_string": "Danzin C.; Cardinaud R.C.; Eur. J. Biochem.; 48 255 (1974)."
+        },
+        "representative_reaction": {
+            "name": "nucleoside deoxyribosyltransferase",
+            "KEGG": "kegg:C05512 + kegg:C00147 = kegg:C00559 + kegg:C00262",
+            "CID": "CHB_16708 + CHB_28997 = CHB_17256 + CHB_17368",
+            "stoichiometry": {
+                "reactants": {
+                    "2'-deoxyinosine(aq)": 1,
+                    "adenine(aq) ": 1
+                },
+                "products": {
+                    " 2'-deoxyadenosine(aq)": 1,
+                    "hypoxanthine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.4",
+        "hydrogenPotential": "6.0",
+        "magnesiumPotential": "",
+        "temperature": "313.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

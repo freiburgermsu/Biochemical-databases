@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "61ATK/BUR_550",
+            "tecrdb_string": "Atkinson M.R.; Burton R.M.; Morton R.K.; Biochem. J.; 78 813 (1961)."
+        },
+        "representative_reaction": {
+            "name": "galactokinase",
+            "KEGG": "kegg:C00002 + kegg:C00124 = kegg:C00008 + kegg:C03384",
+            "CID": "CHB_15422 + CHB_4139 = CHB_16761 + CHB_37480",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "D-galactose(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "\u00ce\u00b1-D-galactose 1-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "26",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "1.6 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

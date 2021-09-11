@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13117866.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "53BRO_1399",
+            "tecrdb_string": "Brown D.H.; J. Biol. Chem.; 204 877 (1953)."
+        },
+        "representative_reaction": {
+            "name": "phosphoglucomutase",
+            "KEGG": "kegg:C00352 = kegg:C06156",
+            "CID": "CHB_58725 = CHB_27625",
+            "stoichiometry": {
+                "reactants": {
+                    "D-glucosamine 6-phosphate(aq) ": 1
+                },
+                "products": {
+                    " D-glucosamine 1-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.28",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

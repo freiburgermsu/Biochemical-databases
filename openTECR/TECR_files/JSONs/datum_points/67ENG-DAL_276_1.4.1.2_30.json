@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "67ENG/DAL_276",
+            "tecrdb_string": "Engel P.C.; Dalziel K.; Biochem. J.; 105 691 (1967)."
+        },
+        "representative_reaction": {
+            "name": "glutamate dehydrogenase",
+            "KEGG": "kegg:C00025 + kegg:C00003 + kegg:C00001 = kegg:C00026 + kegg:C00004 + kegg:C00014",
+            "CID": "CHB_15377 + CHB_15846 + CHB_29985 = CHB_16134 + CHB_16810 + CHB_16908",
+            "stoichiometry": {
+                "reactants": {
+                    "L-glutamate(aq)": 1,
+                    "NAD(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " 2-oxoglutarate(aq)": 1,
+                    "NADH(aq)": 1,
+                    "ammonia(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.16E-06",
+        "hydrogenPotential": "7.06",
+        "magnesiumPotential": "",
+        "temperature": "300.15",
+        "ionicStrength": "0.101"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "54SIS/STA_1427",
+            "tecrdb_string": "Sistrom W.R.; Stanier R.Y.; J. Biol. Chem.; 210 821 (1954)."
+        },
+        "representative_reaction": {
+            "name": "muconate cycloisomerase",
+            "KEGG": "kegg:C04105 = kegg:C02480",
+            "CID": "CHB_18080 = CHB_16508",
+            "stoichiometry": {
+                "reactants": {
+                    "2,5-dihydro-5-oxofuran-2-acetate(aq) ": 1
+                },
+                "products": {
+                    " cis-cis-hexadienedioate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.011",
+        "hydrogenPotential": "6.5",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

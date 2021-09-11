@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4989322.0",
+            "doi": "10.1042/bj1130589",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "69WHI/LEJ_1239",
+            "tecrdb_string": "White P.J.; Lejeune B.; Work E.; Biochem. J.; 113 589 (1969)."
+        },
+        "representative_reaction": {
+            "name": "diaminopimelate epimerase",
+            "KEGG": "kegg:C00666 = kegg:C00680",
+            "CID": "CHB_16026 = CHB_30308",
+            "stoichiometry": {
+                "reactants": {
+                    "L,L-2,6-diaminoheptanedioate(aq) ": 1
+                },
+                "products": {
+                    " meso-diaminoheptanedioate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.9",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

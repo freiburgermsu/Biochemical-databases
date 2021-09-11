@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5574401.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "71KUN/STA_1422",
+            "tecrdb_string": "Kung H.-F.; Stadtman T.C.; J. Biol. Chem.; 246 3378 (1971)."
+        },
+        "representative_reaction": {
+            "name": "2-methyleneglutarate mutase",
+            "KEGG": "kegg:C02930 = kegg:C02295",
+            "CID": "CHB_17207 = CHB_16093",
+            "stoichiometry": {
+                "reactants": {
+                    "2-methyleneglutarate(aq) ": 1
+                },
+                "products": {
+                    " methylitaconate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.23",
+        "hydrogenPotential": "7.9",
+        "magnesiumPotential": "",
+        "temperature": "307.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

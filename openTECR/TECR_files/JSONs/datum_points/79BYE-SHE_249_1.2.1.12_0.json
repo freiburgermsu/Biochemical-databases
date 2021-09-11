@@ -1,0 +1,49 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "79BYE/SHE_249",
+            "tecrdb_string": "Byers L.D.; She H.S.; Alayoff A.; Biochemistry; 18 2471 (1979)."
+        },
+        "representative_reaction": {
+            "name": "glyceraldehyde-3-phosphate dehydrogenase",
+            "KEGG": " ",
+            "CID": "CHB_15846 + CHB_29052 + CHS_10449628 = CHB_16908 + MAN_10106",
+            "stoichiometry": {
+                "reactants": {
+                    "D-glyceraldehyde 3-phosphate(aq)": 1,
+                    "(methyl)phosphonate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " (3-phospho-D-glycerol-methyl)phosphonate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.41",
+        "hydrogenPotential": "8.4",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

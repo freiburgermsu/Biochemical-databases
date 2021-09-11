@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "59TAL/LEV_181",
+            "tecrdb_string": "Talalay P.; Levy H.R.; in \"Steric Course of Microbiological Reactions\"; G.E.W. Wolstenholme and C.M O'Connor eds.; Little Brown and Co. Boston (1959) pp. 53-75."
+        },
+        "representative_reaction": {
+            "name": "3(or 17)_-hydroxysteroid dehydrogenase",
+            "KEGG": "kegg:C00535 + kegg:C00003 = kegg:C00280 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_17347 = CHB_16422 + CHB_16908",
+            "stoichiometry": {
+                "reactants": {
+                    "4-androstene-17\u00ce\u00b2-ol-3-one(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 4-androstene-3,17-dione(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "378",
+        "hydrogenPotential": "9.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "85LIE_325",
+            "tecrdb_string": "Liegel J.; \"The Equilibrium Constant for the Glycine Synthase Reaction\"; Thesis The University of Texas (1985)."
+        },
+        "representative_reaction": {
+            "name": "dihydrolipoamide dehydrogenase",
+            "KEGG": "kegg:C02147 + kegg:C00003 = kegg:C00725 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_18047 = CHB_16908 + CHB_30313",
+            "stoichiometry": {
+                "reactants": {
+                    "dihydro-\u00ce\u00b1-lipoate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " \u00ce\u00b1-lipoate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.27",
+        "hydrogenPotential": "7.09",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

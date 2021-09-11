@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "16561978.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62AKA/CAM_680",
+            "tecrdb_string": "Akagi J.M.; Campbell L.L.; J. Bacteriol.; 84 1194 (1962)."
+        },
+        "representative_reaction": {
+            "name": "sulfate adenylyltransferase",
+            "KEGG": "kegg:C00002 + kegg:C00059 = kegg:C00224 + kegg:C00013",
+            "CID": "CHB_15422 + CHB_16189 = CHB_17709 + CHB_18361",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "sulfate(aq) ": 1
+                },
+                "products": {
+                    " adenosine 5'-phosphosulfate(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "6.20E-09",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

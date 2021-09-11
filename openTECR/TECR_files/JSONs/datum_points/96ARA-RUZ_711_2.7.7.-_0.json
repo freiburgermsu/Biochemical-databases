@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "8639492.0",
+            "doi": "10.1021/bi952983w",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "96ARA/RUZ_711",
+            "tecrdb_string": "Arabshahi A.; Ruzicka F.J.; Geeganage S.; Frey P.A.; Biochemistry; 35 3426 (1996)."
+        },
+        "representative_reaction": {
+            "name": "UDPhexose synthase",
+            "KEGG": " ",
+            "CID": "CHB_16069 + CHB_18066 = CHB_16077 + MAN_10064",
+            "stoichiometry": {
+                "reactants": {
+                    "UDPglucose(aq)": 1,
+                    "imidazole(aq) ": 1
+                },
+                "products": {
+                    " glucose 1-phosphate(aq)": 1,
+                    "UMPimidazole(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.00064",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "300.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

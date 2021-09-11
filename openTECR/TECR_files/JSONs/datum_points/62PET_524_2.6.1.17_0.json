@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62PET_524",
+            "tecrdb_string": "Peterkofsky B.; Methods Enzymol.; 5 853 (1962)."
+        },
+        "representative_reaction": {
+            "name": "succinyldiaminopimelate transaminase",
+            "KEGG": "kegg:C04462 + kegg:C00025 = kegg:C04421 + kegg:C00026",
+            "CID": "CHB_29985 + CHB_35266 = CHB_16810 + CHB_17279",
+            "stoichiometry": {
+                "reactants": {
+                    "N-succinyl-2-L-amino-6-oxoheptanedioate(aq)": 1,
+                    "L-glutamate(aq) ": 1
+                },
+                "products": {
+                    " N-succinyl-L-2,6-diaminoheptanedioate(aq)": 1,
+                    "2-oxoglutarate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.2",
+        "hydrogenPotential": "8.0",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

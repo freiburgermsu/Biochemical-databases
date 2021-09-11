@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68BEE/DEL_236",
+            "tecrdb_string": "Van Beeumen J.; DeLey J.; Eur. J. Biochem; 6 331 (1968)."
+        },
+        "representative_reaction": {
+            "name": "glucoside 3-dehydrogenase",
+            "KEGG": "kegg:C00243 + 2 kegg:C00125 = kegg:C05403 + 2 kegg:C00126",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "lactose(aq)": 1,
+                    "2 cytochrome c(aq) ": "2 "
+                },
+                "products": {
+                    " 3-oxolactose(aq)": 1,
+                    "2 reduced cytochrome c(aq)": "2 "
+                }
+            }
+        },
+        "equilibriumConstant": "6.3",
+        "hydrogenPotential": "5.92",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

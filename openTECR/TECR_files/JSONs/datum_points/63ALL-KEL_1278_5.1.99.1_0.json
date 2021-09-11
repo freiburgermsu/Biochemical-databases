@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14012144.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "63ALL/KEL_1278",
+            "tecrdb_string": "Allen S.H.G.; Kellermeyer R.; Stjernholm R.; Wood H.G.; J. Biol. Chem.; 238 1637 (1963)."
+        },
+        "representative_reaction": {
+            "name": "methylmalonyl-CoA epimerase",
+            "KEGG": "kegg:C01213 = kegg:C00683",
+            "CID": "CHB_15465 = CHB_15466",
+            "stoichiometry": {
+                "reactants": {
+                    "(R)-methylmalonyl-CoA(aq) ": 1
+                },
+                "products": {
+                    " (S)-methylmalonyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

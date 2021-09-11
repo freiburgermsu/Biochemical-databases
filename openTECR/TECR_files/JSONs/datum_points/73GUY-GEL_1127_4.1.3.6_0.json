@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "73GUY/GEL_1127",
+            "tecrdb_string": "Guynn R.W.; Gelberg H.J.; Veech R.L.; J. Biol. Chem.; 248 6957 (1973)."
+        },
+        "representative_reaction": {
+            "name": "citrate (pro-3S)-lyase",
+            "KEGG": "kegg:C00158 = kegg:C00033 + kegg:C00036",
+            "CID": "CHB_30769 = CHB_16452 + CHB_30089",
+            "stoichiometry": {
+                "reactants": {
+                    "citrate(aq) ": 1
+                },
+                "products": {
+                    " acetate(aq)": 1,
+                    "oxaloacetate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.877",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "3.94 = -log[Mg+2]",
+        "temperature": "311.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

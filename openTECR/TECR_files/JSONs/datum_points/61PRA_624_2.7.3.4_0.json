@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "61PRA_624",
+            "tecrdb_string": "Pradel L.A.; T?se Doct. Sci. Phys. Paris (1961); data given in Barman T.E.; \"Enzyme Handbook - Vol. I\"; Springer-Verlag New York (1969) p. 443."
+        },
+        "representative_reaction": {
+            "name": "taurocyamine kinase",
+            "KEGG": "kegg:C00002 + kegg:C01959 = kegg:C00008 + kegg:C03149",
+            "CID": "CHB_15422 + CHB_17228 = CHB_16761 + PBC_439923",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "taurocyamine(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "N\u00cf\u2030-phosphotaurocyamine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.53",
+        "hydrogenPotential": "7.1",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

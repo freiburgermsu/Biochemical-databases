@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4391041.0",
+            "doi": "10.1042/bj1150633",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "69VIL/DAL_157",
+            "tecrdb_string": "Villet R.H.; Dalziel K.; Biochem. J.; 115 633 (1969)."
+        },
+        "representative_reaction": {
+            "name": "phosphogluconate dehydrogenase (decarboxylating)",
+            "KEGG": "kegg:C00345 + kegg:C00006 + kegg:C00001 = kegg:C00199 + kegg:C00005 + kegg:C00288",
+            "CID": "CHB_18009 + CHB_48928 = CHB_16474 + CHB_16526 + CHB_17363",
+            "stoichiometry": {
+                "reactants": {
+                    "6-phospho-D-gluconate(aq)": 1,
+                    "NADP(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " D-ribulose 5-phosphate(aq)": 1,
+                    "NADPH(aq)": 1,
+                    "carbon dioxide(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.079",
+        "hydrogenPotential": "7.3",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": "0.048"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

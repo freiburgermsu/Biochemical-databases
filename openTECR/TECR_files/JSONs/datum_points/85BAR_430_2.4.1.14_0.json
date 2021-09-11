@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "16664543.0",
+            "doi": "10.1104/pp.79.4.1127",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "85BAR_430",
+            "tecrdb_string": "Barber G.A.; Plant Physiol.; 79 1127 (1985)."
+        },
+        "representative_reaction": {
+            "name": "sucrose-phosphate synthase",
+            "KEGG": "kegg:C00029 + kegg:C00085 = kegg:C00015 + kegg:C16688",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "UDPglucose(aq)": 1,
+                    "D-fructose 6-phosphate(aq) ": 1
+                },
+                "products": {
+                    " UDP(aq)": 1,
+                    "sucrose 6-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "5",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

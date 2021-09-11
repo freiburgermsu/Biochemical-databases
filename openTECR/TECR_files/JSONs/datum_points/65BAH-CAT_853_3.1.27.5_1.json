@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "65BAH/CAT_853",
+            "tecrdb_string": "Bahr J.T.; Cathou R.E.; Hammes G.G.; J. Biol. Chem.; 240 3372 (1965)."
+        },
+        "representative_reaction": {
+            "name": "pancreatic ribonuclease",
+            "KEGG": " ",
+            "CID": "CHB_15377 + CHB_27652 = CHB_53013",
+            "stoichiometry": {
+                "reactants": {
+                    "cytidine 2':3'-(cyclic)phosphate(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " cytidine 3'-monophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1060",
+        "hydrogenPotential": "6.0",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

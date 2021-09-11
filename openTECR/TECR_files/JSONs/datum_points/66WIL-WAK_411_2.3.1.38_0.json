@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "66WIL/WAK_411",
+            "tecrdb_string": "Williamson I.P.; Wakil S.J.; J. Biol. Chem.; 241 2326 (1966)."
+        },
+        "representative_reaction": {
+            "name": "[acyl-carrier-protein] S-acetyltransferase",
+            "KEGG": "kegg:C00024 + kegg:C00229 = kegg:C00010 + kegg:C03939",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "acetyl-CoA(aq)": 1,
+                    "acyl-carrier protein(aq) ": 1
+                },
+                "products": {
+                    " CoA(aq)": 1,
+                    "acetyl-[acyl-carrier protein](aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "2.09",
+        "hydrogenPotential": "6.5",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "6852021.0",
+            "doi": "10.1111/j.1432-1033.1983.tb07443.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "83MIL/RYC_607",
+            "tecrdb_string": "Milner-White J.; Rycroft D.S.; Eur. J. Biochem.; 133 169 (1983)."
+        },
+        "representative_reaction": {
+            "name": "creatine kinase",
+            "KEGG": " ",
+            "CID": "CHB_16919 + MAN_10160 = CHB_17287 + CHB_40730",
+            "stoichiometry": {
+                "reactants": {
+                    "adenosine 5'-(\u00ce\u00b1,\u00ce\u00b2-methylene)triphosphate(aq)": 1,
+                    "creatine(aq) ": 1
+                },
+                "products": {
+                    " adenosine 5'-(\u00ce\u00b1,\u00ce\u00b2-methylene)diphosphate(aq)": 1,
+                    "phosphocreatine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.00143",
+        "hydrogenPotential": "8.79",
+        "magnesiumPotential": "",
+        "temperature": "298.l5",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

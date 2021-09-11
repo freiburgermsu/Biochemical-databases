@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "82GUY_115",
+            "tecrdb_string": "Guynn R.W.; Arch. Biochem. Biophys.; 218 14 (1982)."
+        },
+        "representative_reaction": {
+            "name": "glycerate dehydrogenase",
+            "KEGG": "kegg:C00258 + kegg:C00003 = kegg:C00168 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_16659 = CHB_16908 + CHB_30841",
+            "stoichiometry": {
+                "reactants": {
+                    "(R)-glycerate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " hydroxypyruvate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "3.80E-06",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": "0.0595 & 0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

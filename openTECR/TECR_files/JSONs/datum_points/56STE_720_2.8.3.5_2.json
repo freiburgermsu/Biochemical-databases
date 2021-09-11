@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13345796.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "56STE_720",
+            "tecrdb_string": "Stern J.R.; J. Biol. Chem.; 221 33 (1956)."
+        },
+        "representative_reaction": {
+            "name": "3-oxoacid CoA-transferase",
+            "KEGG": "kegg:C00091 + kegg:C00164 = kegg:C00042 + kegg:C00332",
+            "CID": "CHB_13705 + CHB_15380 = CHB_15345 + CHB_30031",
+            "stoichiometry": {
+                "reactants": {
+                    "succinyl-CoA(aq)": 1,
+                    "acetoacetate(aq) ": 1
+                },
+                "products": {
+                    " succinate(aq)": 1,
+                    "acetoacetyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0049",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "2.28 = -log[Mg+2]",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68AYL/SNE2_530",
+            "tecrdb_string": "Ayling J.E.; Snell E.E.; Biochemistry; 7 1626 (1968)."
+        },
+        "representative_reaction": {
+            "name": "pyridoxamine-pyruvate transaminase",
+            "KEGG": " ",
+            "CID": "CHB_15361 + MAN_10134 = CHB_16977 + MAN_10135",
+            "stoichiometry": {
+                "reactants": {
+                    "\u00ce\u00bf-methylpyridoxamine(aq)": 1,
+                    "pyruvate(aq) ": 1
+                },
+                "products": {
+                    " \u00ce\u00bf-methylpyridoxal(aq)": 1,
+                    "L-alanine(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.26",
+        "hydrogenPotential": "8.85",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

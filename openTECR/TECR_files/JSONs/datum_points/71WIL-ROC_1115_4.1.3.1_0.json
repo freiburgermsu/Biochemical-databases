@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5580657.0",
+            "doi": "10.1021/bi00784a017",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "71WIL/ROC_1115",
+            "tecrdb_string": "Williams J.O.; Roche T.E.; McFadden B.A.; Biochemistry; 10 1384 (1971)."
+        },
+        "representative_reaction": {
+            "name": "isocitrate lyase",
+            "KEGG": "kegg:C00311 = kegg:C00042 + kegg:C00048",
+            "CID": "CHB_16087 = CHB_16891 + CHB_30031",
+            "stoichiometry": {
+                "reactants": {
+                    "isocitrate(aq) ": 1
+                },
+                "products": {
+                    " succinate(aq)": 1,
+                    "glyoxylate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0023",
+        "hydrogenPotential": "7.7",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

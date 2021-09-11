@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14285233.0",
+            "doi": "10.1021/bi00877a024",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "65EIC/CYN_214",
+            "tecrdb_string": "Eichhorn M.M.; Cynkin M.A.; Biochemistry; 4 159 (1965)."
+        },
+        "representative_reaction": {
+            "name": "2-deoxy-D-gluconate dehydrogenase",
+            "KEGG": "kegg:C02782 + kegg:C00003 = kegg:C03926 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_16138 = CHB_16622 + CHB_16908",
+            "stoichiometry": {
+                "reactants": {
+                    "2-deoxy-D-gluconate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 2-deoxy-3-dehydro-D-gluconate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.0034",
+        "hydrogenPotential": "9.0",
+        "magnesiumPotential": "",
+        "temperature": "308.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

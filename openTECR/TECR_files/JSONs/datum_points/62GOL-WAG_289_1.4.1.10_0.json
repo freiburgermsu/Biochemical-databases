@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "62GOL/WAG_289",
+            "tecrdb_string": "Goldman D.S.; Wagner M.J.; Biochim. Biophys. Acta; 65 297 (1962)."
+        },
+        "representative_reaction": {
+            "name": "glycine dehydrogenase",
+            "KEGG": " ",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "glycine(aq)": 1,
+                    "NAD(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " glyoxylate(aq)": 1,
+                    "NADH(aq)": 1,
+                    "ammonia(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "5.70E-05",
+        "hydrogenPotential": "6.4",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

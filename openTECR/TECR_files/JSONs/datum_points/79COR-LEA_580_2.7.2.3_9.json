@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "79COR/LEA_580",
+            "tecrdb_string": "Cornell N.W.; Leadbetter M.; Veech R.L.; J. Biol. Chem.; 254 6522 (1979)."
+        },
+        "representative_reaction": {
+            "name": "phosphoglycerate kinase",
+            "KEGG": "kegg:C00002 + kegg:C00197 = kegg:C00008 + kegg:C00236",
+            "CID": "CHB_15422 + CHB_17794 = CHB_16001 + CHB_16761",
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "3-phospho-D-glycerate(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "3-phospho-D-glyceroyl phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.000272",
+        "hydrogenPotential": "7.0",
+        "magnesiumPotential": "0.01 = -log[Mg+2]",
+        "temperature": "311.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13292912.0",
+            "doi": "10.1016/0003-9861(56)90437-4",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "56LAR/JAC_77",
+            "tecrdb_string": "Larner J.; Jackson W.T.; Graves D.J.; Stamer J.R.; Arch. Biochem. Biophys.; 60 352 (1956)."
+        },
+        "representative_reaction": {
+            "name": "myo-inositol 2-dehydrogenase",
+            "KEGG": " ",
+            "CID": "CHB_15846 + CHB_17268 = CHB_16908 + MAN_10075",
+            "stoichiometry": {
+                "reactants": {
+                    "myo-inositol(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 2-oxo-myo-inositol(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.00037",
+        "hydrogenPotential": "8.12",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5824560.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "69BLA/FRA_1381",
+            "tecrdb_string": "Blasi F.; Fragomele F.; Covelli I.; J. Biol. Chem.; 244 4864 (1969)."
+        },
+        "representative_reaction": {
+            "name": "phenylpyruvate tautomerase",
+            "KEGG": "kegg:C00166 = kegg:C02763",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "keto-phenylpyruvate(aq) ": 1
+                },
+                "products": {
+                    " enol-phenylpyruvate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.1",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

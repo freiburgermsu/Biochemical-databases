@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14086726.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "63SCO/DUN_313",
+            "tecrdb_string": "Scott E.M.; Duncan I.W.; Ekstrand V.; J. Biol. Chem.; 238 3928 (1963)."
+        },
+        "representative_reaction": {
+            "name": "glutathione reductase (NAD(P)H)",
+            "KEGG": "2 kegg:C00051 + kegg:C00006 = kegg:C00127 + kegg:C00005",
+            "CID": "2 CHB_16856 + CHB_18009 = CHB_16474 + CHB_17858",
+            "stoichiometry": {
+                "reactants": {
+                    "2 reduced glutathione(aq)": "2 ",
+                    "NADP(aq) ": 1
+                },
+                "products": {
+                    "  oxidized glutathione(aq)": 1,
+                    "NADPH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.00644",
+        "hydrogenPotential": "6.8",
+        "magnesiumPotential": "",
+        "temperature": "298.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

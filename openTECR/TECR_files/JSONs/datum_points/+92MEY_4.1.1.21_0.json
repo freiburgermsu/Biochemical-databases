@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "+92MEY",
+            "tecrdb_string": " "
+        },
+        "representative_reaction": {
+            "name": "phosphoribosylaminoimidazole carboxylase",
+            "KEGG": "kegg:C03373 + kegg:C00288 = kegg:C04751 + kegg:C00001",
+            "CID": " ",
+            "stoichiometry": {
+                "reactants": {
+                    "Aminoimidazole ribotide": 1,
+                    "CO2 ": "2 "
+                },
+                "products": {
+                    " 1-(5-Phospho-D-ribosyl)-5-amino-4-imidazolecarboxylate": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.8",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

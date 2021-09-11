@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "81MER/MCA_204",
+            "tecrdb_string": "Merrill D.K.; McAlexander J.C.; Guynn R.W.; Arch. Biochem. Biophys.; 212 717 (1981)."
+        },
+        "representative_reaction": {
+            "name": "phosphoglycerate dehydrogenase",
+            "KEGG": "kegg:C00197 + kegg:C00003 = kegg:C03232 + kegg:C00004",
+            "CID": "CHB_15846 + CHB_17794 = CHB_16908 + CHB_18110",
+            "stoichiometry": {
+                "reactants": {
+                    "3-phospho-D-glycerate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 3-phosphohydroxypyruvate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.64E-06",
+        "hydrogenPotential": "6.77",
+        "magnesiumPotential": "",
+        "temperature": "311.15",
+        "ionicStrength": "0.25"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

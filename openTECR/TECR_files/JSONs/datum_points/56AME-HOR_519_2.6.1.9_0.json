@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13319331.0",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "56AME/HOR_519",
+            "tecrdb_string": "Ames B.N.; Horecker B.L.; J. Biol. Chem.; 220 113 (1956)."
+        },
+        "representative_reaction": {
+            "name": "histidinol-phosphate transaminase",
+            "KEGG": "kegg:C01100 + kegg:C00026 = kegg:C01267 + kegg:C00025",
+            "CID": "CHB_16810 + CHB_16996 = CHB_16426 + CHB_29985",
+            "stoichiometry": {
+                "reactants": {
+                    "L-histidinol phosphate(aq)": 1,
+                    "2-oxoglutarate(aq) ": 1
+                },
+                "products": {
+                    " 3-(imidazol-4-yl)-2-oxopropyl phosphate(aq)": 1,
+                    "L-glutamate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "25",
+        "hydrogenPotential": "8.1",
+        "magnesiumPotential": "",
+        "temperature": "310.15",
+        "ionicStrength": " "
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}
