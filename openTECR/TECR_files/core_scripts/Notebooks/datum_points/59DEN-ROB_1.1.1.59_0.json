@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13672942",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "59DEN/ROB",
+            "tecrdb_string": "Den H.; Robinson W.G.; Coon M.J.; J. Biol. Chem.; 234 1666  (1959)."
+        },
+        "representative_reaction": {
+            "name": "3-hydroxypropionate dehydrogenase",
+            "KEGG": "kegg:C01013 + kegg:C00003 = kegg:C00222 + kegg:C00004",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "3-hydroxypropanoate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " 3-oxopropanoate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.009",
+        "hydrogenPotential": "9",
+        "magnesiumPotential": "2.0 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "72WUR/HES",
+            "tecrdb_string": "Wurster B.; Hess B.; FEBS Lett.; 23 341 (1972)."
+        },
+        "representative_reaction": {
+            "name": "glucose-6-phosphate 1-epimerase",
+            "KEGG": "kegg:C00668 = kegg:C01172",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "1.7",
+        "hydrogenPotential": "7.6",
+        "magnesiumPotential": "2.01 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

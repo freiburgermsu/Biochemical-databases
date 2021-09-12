@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13345810",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "56HAK/GLA",
+            "tecrdb_string": "Hakala M.T.; Glaid A.J.; Schwert G.W.; J. Biol. Chem.; 221 191 (1956)."
+        },
+        "representative_reaction": {
+            "name": "L-lactate dehydrogenase",
+            "KEGG": "kegg:C00186 + kegg:C00003 = kegg:C00022 + kegg:C00004",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "(S)-lactate(aq)": 1,
+                    "NAD(aq) ": 1
+                },
+                "products": {
+                    " pyruvate(aq)": 1,
+                    "NADH(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "3.24E-05",
+        "hydrogenPotential": "6.8",
+        "magnesiumPotential": "3.27 = -log[Mg+2]",
+        "temperature": "308.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

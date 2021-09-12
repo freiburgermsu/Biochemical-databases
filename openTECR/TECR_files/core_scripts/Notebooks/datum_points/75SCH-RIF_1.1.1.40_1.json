@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "1191642",
+            "doi": "10.1021/bi00695a020",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "75SCH/RIF",
+            "tecrdb_string": NaN
+        },
+        "representative_reaction": {
+            "name": "malate dehydrogenase (oxaloacetate-decarboxylating) (NADP+)",
+            "KEGG": NaN,
+            "CID": "CHB_15589 + CHB_18009 = CHB_15361 + CHB_16474 + CHB_16526",
+            "stoichiometry": "#NAME?"
+        },
+        "equilibriumConstant": "0.031",
+        "hydrogenPotential": "7.1",
+        "magnesiumPotential": "3.0 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

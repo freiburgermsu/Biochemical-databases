@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4384597",
+            "doi": "10.1042/bj1050691",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "67ENG/DAL",
+            "tecrdb_string": "Engel P.C.; Dalziel K.; Biochem. J.; 105 691 (1967)."
+        },
+        "representative_reaction": {
+            "name": "glutamate dehydrogenase (NADP+)",
+            "KEGG": "kegg:C00025 + kegg:C00006 + kegg:C00001 = kegg:C00026 + kegg:C00005 + kegg:C00014",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "2.91E-07",
+        "hydrogenPotential": "6.94",
+        "magnesiumPotential": "2.1 = -log[Mg+2]",
+        "temperature": "300.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

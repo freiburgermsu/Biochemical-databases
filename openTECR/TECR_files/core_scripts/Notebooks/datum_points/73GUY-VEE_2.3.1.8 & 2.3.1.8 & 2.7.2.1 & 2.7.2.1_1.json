@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4355193",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "73GUY/VEE",
+            "tecrdb_string": "Guynn R.W.; Veech R.L.; J. Biol. Chem.; 248 6966 (1973)."
+        },
+        "representative_reaction": {
+            "name": "phosphate acetyltransferase and acetate kinase",
+            "KEGG": "kegg:C00010 + kegg:C00033 + kegg:C00002 = kegg:C00024 + kegg:C00008 + kegg:C00009",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.164",
+        "hydrogenPotential": "7.01",
+        "magnesiumPotential": "2.57 = -log[Mg+2]",
+        "temperature": "311.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

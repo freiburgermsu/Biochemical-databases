@@ -8,6 +8,24 @@ import re
 empty = [nan, 'nan', None, ' ', '', 'NaN']
 freiburger_index = None
 
+# homogenize the charge format    
+def charge_format(master_reaction):                                
+    remove_string = re.search('\w(\d\-)', master_reaction).group(1)
+    master_reaction = re.sub(remove_string, '-{}'.format(remove_string), master_reaction)
+    return master_reaction, remove_string
+
+# add the units of logarithm to the Magnesium concentration
+def isnumber(string):
+    if string not in ['', ' ', nan]:
+        try:
+            float(string)
+            return True
+        except:
+            try:
+                string.isnumeric()
+                return True
+            except:
+                return False 
 
 class merge_package():
     def __init__(self, master_dataframe, new_dataframe, scraping):
@@ -69,7 +87,7 @@ class merge_package():
         # format the magnesium potential
         undescribed = list(self.master_file['Experimental conditions'])[self.original_master_file_length + 1 :]
         for row in undescribed:
-            if self.isnumber(row):
+            if isnumber(row):
                 index = list(self.master_file['Experimental conditions']).index(row)
                 self.master_file.at[index, 'Experimental conditions'] = '{} = -log[Mg+2]'.format(str(row))
 
@@ -132,7 +150,7 @@ class merge_package():
                     if (new_ph and master_ph) not in empty:
                         new_ph = str(new_ph).strip('?~')
                         master_ph = str(master_ph).strip('?~')
-                        if self.isnumber(new_ph) and self.isnumber(master_ph):
+                        if isnumber(new_ph) and isnumber(master_ph):
                             if self.rounding(new_ph) != self.rounding(master_ph):
                                 error = r''.join([str(x) for x in [master_index, '___','ph', '___', new_ph, '___', master_ph]])
     #                             print(error)
@@ -146,7 +164,7 @@ class merge_package():
                     if (new_k and master_k) not in empty:
                         new_k = str(new_k).strip('~?')
                         master_k = str(master_k).strip('~?')
-                        if self.isnumber(new_k) and self.isnumber(master_k):
+                        if isnumber(new_k) and isnumber(master_k):
                             if self.rounding(new_k) != self.rounding(master_k):
                                 error = r''.join([str(x) for x in [master_index, '___', 'Keq', '___', new_k, '___', master_k]])
     #                             print(error)
@@ -520,13 +538,6 @@ class merge_package():
             self.master_file.loc[len(self.master_file.index)] = self.define_row(new_index, new_row, self.scraping)
         else:
             self.master_file.at[master_index, f'{self.scraping}_index'] = new_index
-
-    # homogenize the charge format    
-    def charge_format(self, master_reaction):                                
-        remove_string = re.search('\w(\d\-)', master_reaction).group(1)
-        master_reaction = re.sub(remove_string, '-{}'.format(remove_string), master_reaction)
-        return master_reaction, remove_string
-        
     
     # define the printing function
     def set_contrast(self, data_description, master_set, set_2, set_2_description, verbose = False, total_values = True):
@@ -544,6 +555,8 @@ class merge_package():
             print('\nMissing {} in the master file, versus {}: '.format(data_description, set_2_description), len(missing_set_2), '\n', missing)
         else:
             print('Extra {} in the master file, versus {}: '.format(data_description, set_2_description), len(extra))
+            
+
             print('Missing {} in the master file, versus {}: '.format(data_description, set_2_description), len(missing))
 
         return missing
@@ -553,16 +566,3 @@ class merge_package():
             return float(number)
         elif self.scraping == 'du':
             return sci_notation(number, 2)
-
-    # add the units of logarithm to the Magnesium concentration
-    def isnumber(self, string):
-        if string not in ['', ' ', nan]:
-            try:
-                float(string)
-                return True
-            except:
-                try:
-                    string.isnumeric()
-                    return True
-                except:
-                    return False    

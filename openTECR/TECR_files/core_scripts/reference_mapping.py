@@ -62,6 +62,8 @@ class reference_mapping():
         for column in master_file:
             if re.search('Unnamed', column):
                 del master_file[column]
+            if column =='Reference ID:':
+                master_file[column] = [re.sub('(_.+)', '', str(entry)) for entry in master_file[column]]
 
         # DOI and PMID columns are added to the master_file
         new_column = [' ' for row in range(len(master_file))]
@@ -72,7 +74,8 @@ class reference_mapping():
         references_added = 0
         for index, reference in reference_ids.iteritems():
             if (mappings.at[index, 'pmid'] or mappings.at[index, doi_column]) not in [' ']:
-                matching_master_subset = master_file.loc[(master_file['Reference ID:'] == reference)]
+                reference = re.sub('(_.+)', '', reference)
+                matching_master_subset = master_file.loc[master_file['Reference ID:'] == reference]
 
                 for master_index, match in matching_master_subset.iterrows():
                     master_file.at[master_index, 'PMID'] = mappings.at[index, pmid_column]

@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4219834",
+            "doi": "10.1042/bj1440477",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "74FER/STR",
+            "tecrdb_string": "Ferenci T.; Strfm T.; Quayle J.R.; Biochem. J.; 144 477 (1974)."
+        },
+        "representative_reaction": {
+            "name": "D-arabino-3-hexulose phosphate formaldehyde lyase",
+            "KEGG": "kegg:C06019 = kegg:C00199 + kegg:C00067",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "4.00E-05",
+        "hydrogenPotential": "7",
+        "magnesiumPotential": "2.16 = -log[Mg+2]",
+        "temperature": "303.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

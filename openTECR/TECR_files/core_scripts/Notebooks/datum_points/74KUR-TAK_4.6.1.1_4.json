@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4846750",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "74KUR/TAK",
+            "tecrdb_string": "Kurashina Y.; Takai K.; Suzuki-Hori C.; Okamoto H.; Hayaishi O.; J. Biol. Chem.; 249 4824 (1974)."
+        },
+        "representative_reaction": {
+            "name": "adenylate cyclase",
+            "KEGG": "kegg:C00002 = kegg:C00575 + kegg:C00013",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.116",
+        "hydrogenPotential": "7.3",
+        "magnesiumPotential": "2.3 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13587526",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "58WIL/BAN",
+            "tecrdb_string": "Wilson L.G.; Bandurski R.S.; J. Biol. Chem.; 233 975 (1958)."
+        },
+        "representative_reaction": {
+            "name": "sulfate adenylyltransferase and inorganic pyrophosphatase",
+            "KEGG": "kegg:C00002 + kegg:C00059 + kegg:C00001 = 2 kegg:C00009 + kegg:C00224",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "sulfate(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " 2 orthophosphate(aq)": "2 ",
+                    "adenosine 5'-phosphosulfate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "6.00E-07",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "2.0 = -log[Mg+2]",
+        "temperature": "303.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

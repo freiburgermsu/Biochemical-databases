@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "14915545",
+            "doi": "10.1016/s0003-9861(52)80055-4",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "52BAU/GEM",
+            "tecrdb_string": "Bauer C.R.; Gemmill C.L.; Arch. Biochem. Biophys.; 35 110 (1952)."
+        },
+        "representative_reaction": {
+            "name": "urease",
+            "KEGG": "kegg:C00086 + 2 kegg:C00001 = 2 kegg:C00014 + kegg:C00288",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "urea(aq)": 1,
+                    "2 H2O(l) ": "2 "
+                },
+                "products": {
+                    " 2 ammonia(aq)": "2 ",
+                    "carbon dioxide(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": NaN,
+        "hydrogenPotential": "7.14",
+        "magnesiumPotential": "1.98 = -log[Mg+2]",
+        "temperature": "303.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "2883006",
+            "doi": "10.1111/j.1432-1033.1987.tb11164.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "87BUC/MIL",
+            "tecrdb_string": "Buckel W.; Miller S.; Eur. J. Biochem.; 164 565 (1987)."
+        },
+        "representative_reaction": {
+            "name": "citramalate lyase",
+            "KEGG": "kegg:C02614 = kegg:C00033 + kegg:C00022",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.212",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "3.0 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

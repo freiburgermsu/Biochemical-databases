@@ -1,0 +1,46 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13192139",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "54AXE/JAN",
+            "tecrdb_string": "Axelrod B.; Jang R.; J. Biol. Chem.; 209 847 (1954)."
+        },
+        "representative_reaction": {
+            "name": "ribose-5-phosphate isomerase",
+            "KEGG": "kegg:C00117 = kegg:C00199",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "D-ribose 5-phosphate(aq) ": 1
+                },
+                "products": {
+                    " D-ribulose 5-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.323",
+        "hydrogenPotential": "7",
+        "magnesiumPotential": "1.98 = -log[Mg+2]",
+        "temperature": "310.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

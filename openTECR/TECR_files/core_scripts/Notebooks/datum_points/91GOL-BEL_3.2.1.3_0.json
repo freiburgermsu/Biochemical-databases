@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "1873473",
+            "doi": "10.1016/0301-4622(91)85030-t",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "91GOL/BEL",
+            "tecrdb_string": "Goldberg R.N.; Bell D.; Tewari Y.B.; McLaughlin M.A.; Biophys. Chem.; 40 69 (1991)."
+        },
+        "representative_reaction": {
+            "name": "glucan 1,4-a-glucosidase",
+            "KEGG": NaN,
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": NaN,
+        "hydrogenPotential": "5.31",
+        "magnesiumPotential": "2.0 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}
