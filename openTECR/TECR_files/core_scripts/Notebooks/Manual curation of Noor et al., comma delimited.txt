@@ -3,6 +3,7 @@ New index,	Error resolution,		Master file index
 77,		Duplicate of 269,		--
 79-80,		Chemical name change,		708-709		
 114,		Duplicate of 113,		--
+242,		Reaction formatting,		3321
 270,		Proton omission\inclusion,	1762
 271,		Charge formatting,		1763
 283,		Greek characters,		2009
@@ -18,7 +19,7 @@ New index,	Error resolution,		Master file index
 1051-1052,	New,				New
 1096-1187,	New,				New
 1218,		Temperature typo,		2278
-1312,		Reversed reaction string,	1414
+1312,		New,				New
 1338-1342,	Ammonia balancing,		2778-2782
 1379,		Duplicate of 1378,		--
 1397,		Corrupted reaction string,	3653
@@ -60,18 +61,24 @@ New index,	Error resolution,		Master file index
 3191,		Duplicate of 3190,		--
 3204,		Duplicate of 2901,		--
 3289,		Duplicate of 3288,		--
+3345,		Reaction formatting,		1432
 3392,		Chemical phases,		1149
 3489-3490,	already matched 4735-4736,	--
 3608-3613,	Duplicate of 3607,		--
-3658-2659,	Chemical name change,		664-665
+3658-3659,	Chemical name change,		664-665
 3662-3714,	New,				New	
 3761,		Duplicate of 3760,		--	
 3852-3857,	Greek characters,		3500-3505
 3932,		Electromeric chemicals,		2875
 3936-3978,	New,				New
 4039,		Perturbed reaction strings,	1051
-4170,		already matched 4868,		--
+4170,		New,				New
 4191,		Duplicate of 4191,		--
 4367,		Duplicate of 4366,		--
+4420-4421,	Greek characters,		3642-3643
+4422,		Greek characters,		3640
+4423,		Greek characters,		3641
+4424,		Greek characters,		3644
+4425,		Greek characters,		3639
 4467,		New,				New
 4493,		Duplicate of 4492,		--
