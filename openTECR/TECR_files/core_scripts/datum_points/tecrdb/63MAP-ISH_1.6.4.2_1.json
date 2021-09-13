@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13932735",
+            "doi": "10.1042/bj0860173",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "63MAP/ISH",
+            "tecrdb_string": "Mapson L.W.; Isherwood F.A.; Biochem. J.; 86 173 (1963)."
+        },
+        "representative_reaction": {
+            "name": "glutathione reductase (NAD(P)H)",
+            "KEGG": "2 kegg:C00051 + kegg:C00006 = kegg:C00127 + kegg:C00005",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.00012",
+        "hydrogenPotential": "8.3",
+        "magnesiumPotential": "1.6 = -log[Mg+2]",
+        "temperature": "293.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,690 @@
+New index,	Error resolution,		Master file index
+5,		Reaction string,		4541
+6,		2nd sigfig rounding diff,	4545
+7,		New,				New
+8-9,		New,				New
+10-13,		New,				New
+14,		Reaction string,		4550
+15,		Reaction string,		4222
+16,		Reaction string,		4187
+17,		Reaction string,		4186
+21-22,		New,				New
+24-27,		New,				New
+32-33,		Reaction string,		4280-4281
+37,		2nd sigfig rounding diff,	4813
+43,		2nd sigfig rounding diff,	4827
+57,		Reaction string,		4818
+58,		Reaction string,		4829
+59,		Reaction string,		4338
+60,		Reaction string,		4295
+61,		Reaction string,		4340
+62,		Reaction string,		4327
+63,		Reaction string,		4299
+64,		Reaction string,		4306
+65,		Reaction string,		4331
+66,		Reaction string,		4330
+67,		Reaction string,		4341
+68,		Reaction string,		4294
+69,		Reaction string,		4334
+70,		Reaction string,		4321
+71,		Reaction string,		4346
+72,		Reaction string,		4307
+73,		Reaction string,		4291
+74,		Reaction string,		4315
+75,		Reaction string,		4302
+76,		Reaction string,		4316
+77,		Reaction string,		4317
+78,		Reaction string,		4342
+79,		Reaction string,		4303
+80,		Reaction string,		4328
+81,		Reaction string,		4322
+82,		Reaction string,		4326
+83,		Reaction string,		4336
+84,		Reaction string,		4332
+85,		Reaction string,		4296
+86,		Reaction string,		4310
+87,		Reaction string,		4319
+88,		Reaction string,		4339
+89,		Reaction string,		4343
+90,		Reaction string,		4345
+91,		Reaction string,		4344
+92,		Reaction string,		4320
+93,		Reaction string,		4325
+94,		Reaction string,		4289
+95,		Reaction string,		4300
+96,		Reaction string,		4347
+97,		Reaction string,		4311
+98,		Reaction string,		4350
+99,		Reaction string,		4312
+100,		Reaction string,		4348
+101,		Reaction string,		4293
+102,		Reaction string,		4297
+103,		Reaction string,		4292
+104,		Reaction string,		4308
+105,		Reaction string,		4290
+106,		Reaction string,		4333
+107,		Reaction string,		4335
+108,		New,				New
+109,		Reaction string,		4349
+110,		Reaction string,		4313
+111,		Reaction string,		4323
+112,		Reaction string,		4301
+113,		Reaction string,		4305
+114,		New,				New	
+115,		Reaction string,		4324
+116,		Reaction string,		4337
+117,		Reaction string,		4298
+118,		Reaction string,		4314
+120,		New,				New
+127,		Reaction string,		4354
+128,		New,				New
+129,		New,				New
+130,		New,				New
+134,		New,				New
+135,		3rd sigfig diff,		4227
+136-139,	New, 				New
+200,		Reaction string,		102
+204-205,	Reaction string,		107-108
+206,		Reaction string,		119
+207,		Reaction string,		120
+208-209,	Reaction string,		109-110
+210-213,	Reaction string,		115-118
+214-215,	Reaction string,		121-122
+216-219,	Reaction string,		111-114
+239,		New,				New
+281-283,	New,				New
+286,		New,				New
+288-289,	New,				New
+295,		New,				New
+296,		2nd sigfig rounding diff,	195
+297-299,	New, 				New
+302-303,	New,				New
+305,		Reaction string,		204
+306,		Reaction string,		203
+307,		Reaction string,		202
+318-319,	Reaction string,		215-216
+321-326,	New,				New		
+337,		New,				New		
+340,		New,				New	
+349-350,	Reaction string,		252-253	
+351-352,	Reaction string,		250-251
+355-356,	New,				New
+359,		New,				New	
+361-362,	New,				New
+363,		Reaction string,		262
+337,		New,				New
+404,		Reaction string,		304
+405,		Reaction string,		298
+408,		1st sigfig rounding diff, 	307
+409-410,	Reaction string,		308-309
+415,		Reaction string,		314
+418,		New,				New
+420,		Reaction string,		319
+433,		New,				New
+438-439,	New,				New
+447,		New,				New
+450,		Reaction string,		382
+452-453,	Reaction string,		384-385
+471,		Reaction string,		412
+474,		2nd sigfig rounding diff,	440
+499,		2nd sigfig rounding diff,	442
+508,		New,				New
+510,		New,				New
+512,		New,				New
+523,		Reaction string,		461
+526,		2nd sigfig rounding diff,	462
+527,		2nd sigfig rounding diff,	465
+528-529,	New, 				New
+544,		2nd sigfig rounding diff,	472
+553,		2nd sigfig rounding diff,	504
+558,		2nd sigfig rounding diff,	491
+567,		2nd sigfig rounding diff,	502
+573,		New,				New
+576-577,	2nd sigfig rounding diff,	514-515
+606,		New, 				New
+619,		2nd sigfig rounding diff,	557
+632-633,	New, 				New
+647-650,	Reaction string,		596-599
+656,		New, 				New
+661-662,	Reaction string,		613-614
+663,		Reaction string,		610
+664,		Reaction string,		612
+665,		Reaction string,		611
+669,		2nd sigfig rounding diff,	618
+682,		New, 				New
+706,		2nd sigfig rounding diff,	4866
+714,		Reaction string,		637
+727,		New, 				New
+736,		New, 				New
+738-739,	New, 				New
+758,		New, 				New
+761,		Reaction string,		687
+764,		Reaction string,		689
+769,		Reaction string,		705
+785-786,	2nd sigfig rounding diff,	721-722
+790-798,	New, 				New
+803,		2nd sigfig rounding diff,	740
+812,		2nd sigfig rounding diff,	787
+816-821,	New,				New
+828,		2nd sigfig rounding diff,	799
+836,		2nd sigfig rounding diff,	812
+860,		2nd sigfig rounding diff,	840
+861-866,	New,				New
+877,		2nd sigfig rounding diff,	847
+883,		Reaction string,		854
+923,		New,				New
+932,		2nd sigfig rounding diff,	900
+940,		Reaction string,		910
+943,		Reaction string,		918
+944,		Reaction string,		917
+948,		Reaction string,		919
+1014,		2nd sigfig rounding diff,	4515
+1018-1020,	2nd sigfig rounding diff,	4455-4457
+1031,		2nd sigfig rounding diff,	4438
+1064,		Reaction string,		4913
+1065,		Reaction string,		954
+1066,		2nd sigfig rounding diff,	951
+1067-1068,	New,				New
+1072-1074,	Reaction string,		959-961
+1075,		Reaction string,		958
+1082,		Reaction string,		971
+1083,		Reaction string,		970
+1084,		Reaction string,		969
+1085,		Reaction string,		968
+1088,		Reaction string,		973
+1090-1093,	New,				New
+1094,		Reaction string,		982
+1095,		Reaction string,		981
+1096,		Reaction string,		980
+1097,		Reaction string,		978
+1098,		Reaction string,		977
+1099,		Reaction string,		976
+1100,		Reaction string,		983
+1101,		Reaction string,		984
+1105,		2nd sigfig rounding diff,	988
+1115,		2nd sigfig rounding diff,	995
+1119,		2nd sigfig rounding diff,	996
+1120,		2nd sigfig rounding diff,	999
+1125,		Reaction string,		1008
+1154,		2nd sigfig rounding diff,	1041
+1155,		2nd sigfig rounding diff,	1038
+1155,		2nd sigfig rounding diff,	1120
+1158,		Reaction string,		1043
+1166,		Reaction string,		1051
+1178,		Reaction string,		1053
+1181,		Reaction string,		1066
+1183-1186,	Reaction string,		1077-1080
+1188,		Reaction string,		1081
+1190,		Reaction string,		1082
+1192,		Reaction string,		1086
+1194,		Reaction string,		1083
+1196,		Reaction string,		1087
+1198,		Reaction string,		1084
+1200,		Reaction string,		1088
+1202,		Reaction string,		1085
+1204,		Reaction string,		1089
+1229,		Reaction string,		1119	
+1230,		New,				New		
+1235,		New,				New
+1252,		Reaction string,		1142
+1255,		Reaction string,		1144
+1256,		Reaction string,		1143
+1257-1259,	New,				New
+1263,		Reaction string,		1155
+1264,		Reaction string,		1154
+1266,		New,				New
+1267,		2nd sigfig rounding diff,	1157		
+1269,		Reaction string,		1159
+1270,		2nd sigfig rounding diff,	1160
+1279,		Reaction string,		1169
+1282,		2nd sigfig rounding diff,	1183
+1285,		2nd sigfig rounding diff,	1186
+1291,		Reaction string,		1192
+1301,		New,				New
+1304,		New,				New
+1305,		2nd sigfig rounding diff,	1209
+1306-1308,	Reaction string,		1210-1212
+1315,		2nd sigfig rounding diff,	1216
+1328,		Reaction string,		1231
+1333,		New,				New
+1334-1335,	Reaction string,		1242-1243
+1339,		Reaction string,		1247
+1345,		2nd sigfig rounding diff,	1253
+1347,		2nd sigfig rounding diff,	1254
+1349,		2nd sigfig rounding diff,	1257
+1351,		New,				New
+1352-1354,	Reaction string,		1260-1262
+1359-1360,	Reaction string,		1267-1268
+1370,		Reaction string,		1280
+1371-1372,	Reaction string,		1278-1279
+1374-1375,	Reaction string,		1282-1283
+1382,		New,				New
+1391,		2nd sigfig rounding diff,	1299
+1394,		2nd sigfig rounding diff,	1305
+1395,		Reaction string,		1306
+1400,		Reaction string,		4180
+1401,		Reaction string,		4179
+1403,		2nd sigfig rounding diff,	1312		
+1404-1405,	Reaction string,		1313-1314	
+1415,		2nd sigfig rounding diff,	1325
+1420,		2nd sigfig rounding diff,	1330
+1421,		New,				New			
+1426,		Reaction string,		1336
+1434,		Reaction string,		1351	
+1454,		2nd sigfig rounding diff,	1375
+1459,		2nd sigfig rounding diff,	1379
+1460,		2nd sigfig rounding diff,	1377
+1461,		Reaction string,		1382
+1488,		Reaction string,		1410
+1489,		Reaction string,		1412
+1490,		Reaction string,		1411
+1491-1492,	Reaction string,		1413-1414
+1496,		Reaction string,		1420	
+1497,		Reaction string,		1419
+1494,		2nd sigfig rounding diff,	1416
+1505,		Reaction string,		1432
+1509-1512,	Reaction string,		1441-1444
+1513-1514,	Reaction string,		4258-4259
+1515,		Reaction string,		4261
+1516,		Reaction string,		4260
+1517-1518,	Reaction string,		4262-4263
+1519,		2nd sigfig rounding diff,	1450
+1526,		2nd sigfig rounding diff,	1457
+1527,		2nd sigfig rounding diff,	1468
+1529,		2nd sigfig rounding diff,	1470
+1532,		2nd sigfig rounding diff,	1485
+1534,		2nd sigfig rounding diff,	1466
+1544,		2nd sigfig rounding diff,	1475
+1547,		2nd sigfig rounding diff,	1479
+1556,		3rd sigfig rounding diff,	1483
+1560-1561,	New,				New
+1562-1564, 	2nd sigfig rounding diff,	1490-1492
+1572,	 	3nd sigfig rounding diff,	1499
+1581,	 	3nd sigfig rounding diff,	1509
+1583,	 	3nd sigfig rounding diff,	1511
+1639-1640,	Reaction string,		1541-1542
+1641,		Reaction string,		1540
+1642,	 	3nd sigfig rounding diff,	1539
+1643,		Reaction string,		1543
+1644,		Reaction string,		1545
+1660,	 	3nd sigfig rounding diff,	1560
+1670,	 	New,				New
+1693,		Reaction string,		1597
+1717,		New,				New
+1759,	 	New,				New
+1767,	 	3nd sigfig rounding diff,	1666
+1769,		2nd sigfig rounding diff,	1668
+1770,		2nd sigfig rounding diff,	4274
+1772,		2nd sigfig rounding diff,	4276
+1774-1776,	New,				New
+1777,		2nd sigfig rounding diff,	1678
+1778,		Reaction string,		1679
+1779-1781,	Reaction string,		1675-1677
+1806,		3rd sigfig rounding diff,	1711
+1807,		3rd sigfig rounding diff,	1715
+1808,		2nd sigfig rounding diff,	1699
+1819,		2nd sigfig rounding diff,	1718
+1823,		Reaction string,		1723
+1824,		Reaction string,		1722
+1825-1826,	Reaction string,		1736-1737
+1838,		Reaction string,		1724
+1872,		2nd sigfig rounding diff,	1756
+1883,		New,				New
+1886,		Reaction string,		1775
+1889,		Reaction string,		1779
+1893-1894,	Reaction string,		1781-1782
+1887,		New,				New
+1890,		New,				New
+1891,		1st sigfig rounding diff, 	1780
+1892,		New,				New
+1895,		2nd sigfig rounding diff,	1784
+1896,		Reaction string,		1783
+1900,		2nd sigfig rounding diff,	1788
+1901,		Reaction string,		1789
+1902,		Reaction string,		1796
+1903-1905,	Reaction string,		1790-1792
+1906,		Reaction string,		1797
+1907-1909,	Reaction string,		1793-1795
+1915-1916,	New,				New
+1917,		2nd sigfig rounding diff,	1803
+1935-1943,	New,				New
+1944,		New,				New
+1945,		New,				New
+1946,		New,				New
+1950,		Reaction string,		1828
+1951-1954,	New,				New
+1955,		2nd sigfig rounding diff,	1831
+1956,		2nd sigfig rounding diff,	1830
+1957,		2nd sigfig rounding diff,	1829
+1960,		Reaction string,		1835
+1982,		2nd sigfig rounding diff,	1862
+1983,		2nd sigfig rounding diff,	1861
+1984,		2nd sigfig rounding diff,	1863
+1985-1986,	New,				New
+1987, 		2nd sigfig rounding diff,	1857
+1988-1990,	New,				New
+1991, 		2nd sigfig rounding diff,	1866
+1992-1994, 	New,				New
+2027, 		New,				New
+2028, 		2nd sigfig rounding diff,	1904
+2029, 		New,				New
+2034,		New,				New
+2043, 		New,				New
+2044-2045,	Reaction string,		1924-1925
+2046, 		New,				New
+2047,		Reaction string,		1927
+2068, 		2nd sigfig rounding diff,	1987
+2070-2075,	Reaction string,		1966-1971
+2091, 		New,				New
+2095-2099,	Reaction string,		1992-1996
+2100,		Reaction string, 		2009
+2103-2104,	2nd sigfig rounding diff,	2013-2014
+2106,		2nd sigfig rounding diff,	2015
+2108, 		New,				New
+2109-2110,	2nd sigfig rounding diff,	2019-2021	
+2111,		New,				New
+2115,		2nd sigfig rounding diff,	2025
+2120-2121,	2nd sigfig rounding diff,	2030-2031
+2123,		2nd sigfig rounding diff,	2033
+2124, 		New,				New
+2126, 		New,				New
+2131-2132, 	2nd sigfig rounding diff,	2041-2042
+2134-2135, 	2nd sigfig rounding diff,	2044-2045
+2131-2132, 	2nd sigfig rounding diff,	2041-2042
+2136,		2nd sigfig rounding diff,	2046
+2138-2139,	2nd sigfig rounding diff,	2048-2049
+2175, 		New,				New
+2209-2210,	Reaction string,		2120-2121
+2211, 		2nd sigfig rounding diff,	2122
+2248, 		New,				New
+2249-2251,	Reaction string,		2167-2169
+2261, 		2nd sigfig rounding diff,	2191
+2263,		2nd sigfig rounding diff,	2193
+2274,		New,				New
+2275,		2nd sigfig rounding diff,	2181
+2334-2335,	Reaction string,		2202-2203
+2372,		Reaction string,		2339
+2365,		New,				New
+2501,		Reaction string,		2277
+2504,		New,				New
+2505,		Reaction string,		2281
+2519,		New,				New
+2521-2524,	Reaction string,		2365-2368
+2529,		Reaction string,		2373
+2530,		Reaction string,		2381
+2531,		Reaction string,		2380
+2542,		Reaction string,		2397
+2547-2548,	New,				New
+2550,		2nd sigfig rounding diff,	2405
+2582,		2nd sigfig rounding diff,	2438
+2597,		New,				New
+2634,		Reaction string,		2489
+2635,		New,				New
+2648,		New,				New
+2649,		2nd sigfig rounding diff,	2511
+2653,		2nd sigfig rounding diff,	2515
+2654,		Reaction string,		4199
+2655,		Reaction string,		4196
+2656,		Reaction string,		4195
+2657-2658,	Reaction string,		4190-4191
+2659,		Reaction string,		4194
+2660,		Reaction string,		4198
+2661,		Reaction string,		4197
+2662,		Reaction string,		4193
+2663,		Reaction string,		4192
+2670-2672,	New,				New
+2674-2692,	New,				New
+2815,		New,				New
+2854,		2nd sigfig rounding diff,	2686
+2883,		New,				New
+2885-2887,	New,				New
+2889-2894,	New,				New
+2897-2914,	New,				New
+2915-2917,	New,				New
+2918,		2nd sigfig rounding diff,	2720
+2919-2920,	New,				New
+2924,		Reaction string,		2730
+2928,		Reaction string,		2733
+2932,		Reaction string,		2749
+2941,		Reaction string,		2742
+2943,		2nd sigfig rounding diff,	2754
+2945,		Reaction string,		2757
+2946,		Reaction string,		2756
+2947,		Reaction string,		2758
+2948,		New,				New
+2950,		2nd sigfig rounding diff,	2759
+2953-2955,	Reaction string,		2768-2770
+2965-2972,	Reaction string,		2797-2804
+2973,		Reaction string,		4535
+2986-2988,	New,				New
+2996,		2nd sigfig rounding diff,	2830
+2998,		New,				New
+3000,		2nd sigfig rounding diff,	2868
+3003,		2nd sigfig rounding diff,	2867
+3025,		2nd sigfig rounding diff,	2860
+3027,		2nd sigfig rounding diff,	2845
+3028,		Reaction string,		2875
+3055,		2nd sigfig rounding diff,	2901
+3081,		New,				New
+3083-3090,	New,				New
+3093-3099,	New,				New
+3101-3103,	New,				New
+3105-3107,	New,				New
+3126-3133,	New,				New
+3134,		2nd sigfig rounding diff,	3000
+3135-3138,	New,				New
+3139,		2nd sigfig rounding diff,	3001
+3140-3144,	New,				New
+3145,		2nd sigfig rounding diff,	3003
+3147-3148,	New,				New
+3152,		New,				New
+3210,		2nd sigfig rounding diff,	3047
+3213,		Reaction string,		3054
+3215,		Reaction string,		3056
+3238,		Reaction string,		3079
+3249,		Reaction string,		3087
+3250,		New,				New
+3336,		New,				New
+3338,		2nd sigfig rounding diff,	3093
+3266-3367,	New,				New
+3368,		2nd sigfig rounding diff,	4256
+3369,		New,				New
+3371,		2nd sigfig rounding diff,	4901
+3373,		New,				New
+3375,		2nd sigfig rounding diff,	4900
+3379,		2nd sigfig rounding diff,	4904
+3380,		2nd sigfig rounding diff,	4898
+3381,		2nd sigfig rounding diff,	4895
+3382,		2nd sigfig rounding diff,	4896
+3382-3383,	New,				New
+3390,		New,				New
+3393,		2nd sigfig rounding diff,	3151
+3394-3398,	New,				New
+3399,		2nd sigfig rounding diff,	3153
+3400,		Reaction string,		3203
+3401,		Reaction string,		3200
+3402,		Reaction string,		3206
+3403-3405,	Reaction string,		3186-3188
+3406,		New,				New
+3407,		Reaction string,		3169
+3408,		Reaction string,		3192
+3409,		Reaction string,		3171
+3410,		Reaction string,		3170
+3411,		Reaction string,		3190
+3412,		Reaction string,		3194
+3413,		Reaction string,		3189
+3414,		Reaction string,		3190
+3415,		Reaction string,		3194
+3416,		Reaction string,		3193
+3417,		Reaction string,		3172
+3418-3419,	Reaction string,		3196-3197
+3420,		Reaction string,		3177
+3421,		Reaction string,		3198
+3422,		Reaction string,		3173
+3423,		Reaction string,		3202
+3424,		Reaction string,		3174
+3425,		Reaction string,		3207
+3426,		Reaction string,		3174
+3427,		Reaction string,		3199
+3428,		Reaction string,		3201
+3429,		Reaction string,		3181
+3430,		Reaction string,		3176
+3431,		Reaction string,		3210
+3432,		Reaction string,		3209
+3433,		Reaction string,		3205
+3434-3436,	Reaction string,		3178-3180
+3437,		Reaction string,		3204		
+3438,		Reaction string,		5150
+3439,		Reaction string,		3182
+3440,		Reaction string,		3208
+3441,		Reaction string,		3184
+3442,		Reaction string,		3211
+3443,		Reaction string,		3183
+3444,		Reaction string,		3212
+3445,		Reaction string,		3185
+3446,		Reaction string,		3214
+3447,		Reaction string,		3213
+3448,		Reaction string,		3216
+3449,		Reaction string,		3215
+3450,		Reaction string,		3218
+3451,		Reaction string,		3217
+3452-3454,	Reaction string,		3219-3221
+3455,		Reaction string,		3168
+3456-3457,	Reaction string,		3163-3164
+3458,		Reaction string,		3166
+3459,		Reaction string,		3156
+3460,		Reaction string,		3154
+3461,		Reaction string,		3167
+3462,		Reaction string,		3165
+3463,		Reaction string,		3157
+3464,		Reaction string,		3162
+3465,		Reaction string,		3155
+3466,		Reaction string,		3159
+3467,		Reaction string,		3160
+3468,		Reaction string,		3158
+3469,		Reaction string,		3161
+3477-3478,	Reaction string,		3232-3233
+3479,		Reaction string,		3231
+3480,		Reaction string,		3230
+3551,		Reaction string,		3315
+3558,		2nd sigfig rounding diff,	3323
+3559,		Reaction string,		3321
+3560,		Reaction string,		3324
+3579,		Reaction string,		4910
+3580-3589,	2nd sigfig rounding diff,	3345-3354
+3591-3595,	Reaction string,		3355-3359
+3597-3604,	New,				New
+3610,		2nd sigfig rounding diff,	4092
+3612-3613,	Reaction string,		4536-4537
+3614,		New,				New
+3617,		Reaction string,		3379
+3620,		New,				New
+3627,		New,				New
+3630-3633,	New,				New
+3635-3638,	New,				New
+3641,		Reaction string,		4094
+3642,		Reaction string,		4093
+3682-3683,	Reaction string,		3500-3501
+3684,		Reaction string,		3503
+3685,		Reaction string,		3502
+3686,		Reaction string,		3505
+3687,		Reaction string,		3504
+3692-3695,	New,				New
+3701-3702,	New,				New
+3704,		Reaction string,		3531
+3720-3726,	New,				New
+3727,		2nd sigfig rounding diff,	3547
+3728-3733,	New,				New
+3734,		2nd sigfig rounding diff,	3548
+3735-3739,	New,				New
+3741,		New,				New
+3747,		Reaction string,		3560
+3748,		Reaction string,		3558	
+3749,		Reaction string,		3556
+3750,		Reaction string,		3559
+3751,		Reaction string,		3557
+3852-3853,	Reaction string,		3580-3581
+3854-3856,	Reaction string,		3577-3579
+3857,		Reaction string,		3585
+3873,		Reaction string,		3613
+3909,		Reaction string,		3644
+3910,		Reaction string,		3643
+3911-3912,	Reaction string,		3641-3642
+3913,		Reaction string,		3640
+3914,		Reaction string,		3639
+3915,		Reaction string,		3649
+3916-3917,	Reaction string,		3647-3648
+3918-3919,	Reaction string,		3645-3646
+3920,		Reaction string,		3657
+3921-3922,	Reaction string,		3655-3656
+3924,		Reaction string,		3653
+3965-3968,	New,				New
+3994,		New,				New
+3995,		Reaction string,		3691
+3997,		Reaction string,		3694
+3999,		Reaction string,		3692
+4000,		Reaction string,		3688
+4001,		Reaction string,		3693
+4002-4003,	Reaction string,		3689-3690
+4004,		Reaction string,		3696
+4024,		2nd sigfig rounding diff,	3749
+4035,		3rd sigfig rounding diff,	3744
+4038,		3rd sigfig rounding diff,	3733
+4043,		2nd sigfig rounding diff,	3730
+4047,		2nd sigfig rounding diff,	3726
+4053,		Reaction string,		4352
+4055-4057,	New,				New
+4059,		2nd sigfig rounding diff,	3757
+4060,		Reaction string,		3758
+4061,		2nd sigfig rounding diff,	3759
+4063,		2nd sigfig rounding diff,	3779
+4068-4069,	Reaction string,		3788-3789
+4070,		New,				New
+4077,		2nd sigfig rounding diff,	3811
+4079-4080,	New,				New
+4081,		2nd sigfig rounding diff,	3815
+4107,		Reaction string,		3866
+4108-4109,	New,				New
+4111,		Reaction string,		4087
+4113-4120,	Reaction string,		3890-3897
+4122,		Reaction string,		3899
+4125,		New,				New
+4131,		Reaction string,		3932
+4132,		Reaction string,		3931
+4136,		2nd sigfig rounding diff,	3935
+4137-4138,	New,				New
+4139,		2nd sigfig rounding diff,	3937
+4140-4143,	New,				New
+4145-4148,	New,				New
+4149,		2nd sigfig rounding diff,	3939
+4150-4151,	New,				New
+4168,		New,				New
+4178-4179,	2nd sigfig rounding diff,	4271-4272
+4180-4184,	New,				New
+4185-4186,	New,				New
+4190,		New,				New
+4192,		2nd sigfig rounding diff,	4892
+4204,		2nd sigfig rounding diff,	3997
+4205,		New,				New
+4206,		2nd sigfig rounding diff,	3999
+4214,		New,				New
+4215,		New,				New
+4223,		New,				New
+4224,		Reaction string,		4532
+4225,		New,				New
+4227,		New,				New
+4231-4234,	New,				New
+4263,		New,				New
+4264,		2nd sigfig rounding diff,	4799
+4265,		New,				New
+4267-4270,	New,				New
+4271,		Reaction string,		2778
+4272,		Reaction string,		2782
+4273,		Reaction string,		2780
+4274,		Reaction string,		2779
+4275,		Reaction string,		2781
+4280-4281,	Reaction string,		4926-4927
+4285-4286,	New,				New
+4287-4293,	New,				New
+4294,		Reaction string,		1417
+4295-4297,	New,				New

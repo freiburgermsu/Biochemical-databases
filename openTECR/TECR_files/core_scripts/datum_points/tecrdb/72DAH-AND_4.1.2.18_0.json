@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5016652",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "72DAH/AND",
+            "tecrdb_string": "Dahms A.S.; Anderson R.L.; J. Biol. Chem.; 247 2238 (1972)."
+        },
+        "representative_reaction": {
+            "name": "2-dehydro-3-deoxy-L-pentonate aldolase",
+            "KEGG": "kegg:C06159 = kegg:C00022 + kegg:C00424",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.00012",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "2.0 = -log[Mg+2]",
+        "temperature": "301.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

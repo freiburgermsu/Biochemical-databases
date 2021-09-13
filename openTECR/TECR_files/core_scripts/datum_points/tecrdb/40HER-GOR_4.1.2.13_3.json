@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "16747255",
+            "doi": "10.1042/bj0341108",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "40HER/GOR",
+            "tecrdb_string": "Herbert D.; Gordon H.; Subrahmanyan V.; Green D.E.; Biochem. J.; 34 1108 (1940)."
+        },
+        "representative_reaction": {
+            "name": "fructose-biphosphate aldolase",
+            "KEGG": "kegg:C00354 = kegg:C00111 + kegg:C00118",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "D-fructose 1,6-bisphosphate(aq) ": 1
+                },
+                "products": {
+                    " glycerone phosphate(aq)": 1,
+                    "D-glyceraldehyde 3-phosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.000234",
+        "hydrogenPotential": "7.2",
+        "magnesiumPotential": "",
+        "temperature": "321.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

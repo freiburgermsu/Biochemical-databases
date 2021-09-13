@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "4697392",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "73DEW/LOW",
+            "tecrdb_string": NaN
+        },
+        "representative_reaction": {
+            "name": "adenylate kinase",
+            "KEGG": NaN,
+            "CID": "2 CHB_16761 = CHB_15422 + CHB_16027",
+            "stoichiometry": "#NAME?"
+        },
+        "equilibriumConstant": "0.476798229",
+        "hydrogenPotential": "7.25",
+        "magnesiumPotential": "3.0 = -log[Mg+2]",
+        "temperature": "288.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

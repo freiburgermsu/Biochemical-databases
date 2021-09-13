@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13575437",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "58ROB/LIP",
+            "tecrdb_string": "Robbins P.W.; Lipmann F.; J. Biol. Chem.; 233 686 (1958)."
+        },
+        "representative_reaction": {
+            "name": "sulfate adenylyltransferase",
+            "KEGG": "kegg:C00002 + kegg:C00059 = kegg:C00224 + kegg:C00013",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "sulfate(aq) ": 1
+                },
+                "products": {
+                    " adenosine 5'-phosphosulfate(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "1.10E-08",
+        "hydrogenPotential": "8",
+        "magnesiumPotential": "0.81 = -log[Mg+2]",
+        "temperature": "310.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

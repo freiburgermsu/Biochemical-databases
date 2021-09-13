@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "16747248",
+            "doi": "10.1042/bj0341041",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "40KRE/SMY",
+            "tecrdb_string": "Krebs H.A.; Smyth D.H.; Evans E.A. Jr.; Biochem. J.; 34 1041 (1940)."
+        },
+        "representative_reaction": {
+            "name": "fumarate hydratase",
+            "KEGG": "kegg:C00122 + kegg:C00001 = kegg:C00149",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "fumarate(aq)": 1,
+                    "H2O(l) ": 1
+                },
+                "products": {
+                    " (S)-malate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "2.65",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "",
+        "temperature": "323.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

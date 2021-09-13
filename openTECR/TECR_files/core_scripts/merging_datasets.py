@@ -35,8 +35,8 @@ class merge_package():
         self.original_master_file_length = len(self.master_file)
         
     def merge(self, new_enzyme_column_name, new_reference_column_name, manual_curation_csv_path, export = False):
-        self.add_new(new_enzyme_column_name, new_reference_column_name, export = export)
-        self.merge_existing(export)
+        self.add_new(new_enzyme_column_name, new_reference_column_name)
+        self.merge_existing()
         self.incorporate_manual_curation(manual_curation_csv_path, export)
         self.confirm_merging()
         

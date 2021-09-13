@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "66MAT/STR",
+            "tecrdb_string": "Matsuhashi M.; Strominger J.L.; Methods Enzymol.; 8 317 (1966)."
+        },
+        "representative_reaction": {
+            "name": "dTDP-4-amino-4,6-dideoxy-D-glucose transaminase",
+            "KEGG": "kegg:C04268 + kegg:C00026 = kegg:C11907 + kegg:C00025",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "2",
+        "hydrogenPotential": "7",
+        "magnesiumPotential": "1.96 = -log[Mg+2]",
+        "temperature": "310.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

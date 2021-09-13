@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "43DOU",
+            "tecrdb_string": "Doudoroff M.; J. Biol. Chem.; 151 351 (1943)."
+        },
+        "representative_reaction": {
+            "name": "sucrose phosphorylase",
+            "KEGG": "kegg:C00089 + kegg:C00009 = kegg:C00103 + kegg:C00095",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "sucrose(aq)": 1,
+                    "orthophosphate(aq) ": 1
+                },
+                "products": {
+                    " \u00ce\u00b1-D-glucose 1-phosphate(aq)": 1,
+                    "D-fructose(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "11",
+        "hydrogenPotential": "5.8",
+        "magnesiumPotential": "",
+        "temperature": "303.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

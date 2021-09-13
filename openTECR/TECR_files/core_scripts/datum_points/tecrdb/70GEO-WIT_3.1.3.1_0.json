@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "70GEO/WIT",
+            "tecrdb_string": "George P.; Witonsky R.J.; Trachtman M.; Wu C.; Dowart W.; Richman L.; Richman W.; Shurayh F.; Lentz B; Biochim. Biophys. Acta; 226 1 (1970)."
+        },
+        "representative_reaction": {
+            "name": "alkaline phosphatase",
+            "KEGG": "kegg:C00227 + kegg:C00001 = kegg:C00033 + kegg:C00009",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": NaN,
+        "hydrogenPotential": NaN,
+        "magnesiumPotential": "3.13 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

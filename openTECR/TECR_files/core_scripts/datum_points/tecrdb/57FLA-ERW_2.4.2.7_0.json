@@ -1,0 +1,48 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13475309",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "57FLA/ERW",
+            "tecrdb_string": "Flaks J.G.; Erwin M.J.; Buchanan J.M.; J. Biol. Chem.; 228 201 (1957)."
+        },
+        "representative_reaction": {
+            "name": "adenine phosphoribosyltransferase",
+            "KEGG": NaN,
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "5-amino-4-imidazolecarboxamide(aq)": 1,
+                    "5-phospho-\u00ce\u00b1-D-ribose 1-diphosphate(aq) ": 1
+                },
+                "products": {
+                    " 5-amino-1-\u00ce\u00b2-D-ribosyl-4-imidazolecarboxamide 5'-phosphate(aq)": 1,
+                    "pyrophosphate(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "9.7",
+        "hydrogenPotential": "8",
+        "magnesiumPotential": "2.28 = -log[Mg+2]",
+        "temperature": "311.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

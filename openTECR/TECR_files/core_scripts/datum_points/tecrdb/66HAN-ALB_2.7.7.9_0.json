@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "66HAN/ALB",
+            "tecrdb_string": "Hansen R.G.; Albrecht G.J.; Bass S.T.; Seifert L.L.; Methods Enzymol.; 8 248 (1966)."
+        },
+        "representative_reaction": {
+            "name": "UTP-glucose-1-phosphate uridylyltransferase",
+            "KEGG": "kegg:C00075 + kegg:C00103 = kegg:C00013 + kegg:C00029",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.31",
+        "hydrogenPotential": "7.8",
+        "magnesiumPotential": "1.96 = -log[Mg+2]",
+        "temperature": "298.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

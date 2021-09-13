@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curation": {
+        "curator": {
+            "orcid": "https://orcid.org/0000-0002-7288-535X",
+            "name": "Andrew Philip Freiburger"
+        },
+        "comments": NaN
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "doi": "10.1042/bj0290500",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "1934",
+            "journal": "",
+            "string": "Stern (1934)"
+        },
+        "compound": {
+            "name": "toxoflavin",
+            "red_MNX": {
+                "id": "metanetx.chemical:MNXM74891",
+                "charge": 0,
+                "num_hydrogens": 7
+            },
+            "ox_MNX": {
+                "id": "metanetx.chemical:MNXM87509",
+                "charge": 0,
+                "num_hydrogens": 7
+            }
+        },
+        "standard_voltage_prime": -0.049,
+        "equilibriumConstant": "",
+        "hydrogenPotential": 7.0,
+        "temperature": 303.15,
+        "ionicStrength": "??"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

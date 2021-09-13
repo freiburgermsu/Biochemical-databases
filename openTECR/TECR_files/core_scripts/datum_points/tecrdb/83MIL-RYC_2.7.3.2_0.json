@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "6852021",
+            "doi": "10.1111/j.1432-1033.1983.tb07443.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "83MIL/RYC",
+            "tecrdb_string": "Milner-White J.; Rycroft D.S.; Eur. J. Biochem.; 133 169 (1983)."
+        },
+        "representative_reaction": {
+            "name": "creatine kinase",
+            "KEGG": NaN,
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.00143",
+        "hydrogenPotential": "8.79",
+        "magnesiumPotential": "3.0 = -log[Mg+2]",
+        "temperature": "298.l5",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

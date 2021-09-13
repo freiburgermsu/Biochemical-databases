@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curation": {
+        "curator": {
+            "orcid": "https://orcid.org/0000-0002-7288-535X",
+            "name": "Andrew Philip Freiburger"
+        },
+        "comments": "taken from a dissertation (Schnorf U., 1966 - ETH Zurich)"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "doi": "10.1128/br.41.1.100-180.1977",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "1977",
+            "journal": "",
+            "string": "Thauer (1977)"
+        },
+        "compound": {
+            "name": "menaquinone (n=1)",
+            "red_MNX": {
+                "id": "metanetx.chemical:MNXM442",
+                "charge": 0,
+                "num_hydrogens": 24
+            },
+            "ox_MNX": {
+                "id": "metanetx.chemical:MNXM166",
+                "charge": 0,
+                "num_hydrogens": 24
+            }
+        },
+        "standard_voltage_prime": -0.074,
+        "equilibriumConstant": "",
+        "hydrogenPotential": 7.0,
+        "temperature": 298.15,
+        "ionicStrength": "0"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

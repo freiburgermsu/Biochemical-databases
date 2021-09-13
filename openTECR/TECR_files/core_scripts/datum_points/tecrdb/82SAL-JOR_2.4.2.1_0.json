@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "6812503",
+            "doi": "10.1016/0003-9861(82)90487-8",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "82SAL/JOR",
+            "tecrdb_string": "Salamone S.J.; Jordan F.; Jordan R.R.; Arch. Biochem. Biophys.; 217 139 (1982)."
+        },
+        "representative_reaction": {
+            "name": "purine-nucleoside phosphorylase",
+            "KEGG": "kegg:C00294 + kegg:C00009 = kegg:C00262 + kegg:C00620",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "0.038",
+        "hydrogenPotential": "7.1",
+        "magnesiumPotential": "2.04 = -log[Mg+2]",
+        "temperature": "310.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "13252014",
+            "doi": NaN,
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "55KAU/ALI",
+            "tecrdb_string": "Kaufman S.; Alivisatos S.G.A.; J. Biol. Chem.; 216 141 (1955)."
+        },
+        "representative_reaction": {
+            "name": "succinate-CoA ligase (ADP forming)",
+            "KEGG": "kegg:C00002 + kegg:C00042 + kegg:C00010 = kegg:C00008 + kegg:C00009 + kegg:C00091",
+            "CID": NaN,
+            "stoichiometry": {
+                "reactants": {
+                    "ATP(aq)": 1,
+                    "succinate(aq)": 1,
+                    "CoA(aq) ": 1
+                },
+                "products": {
+                    " ADP(aq)": 1,
+                    "phosphate(aq)": 1,
+                    "succinyl-CoA(aq)": 1
+                }
+            }
+        },
+        "equilibriumConstant": "0.27",
+        "hydrogenPotential": "7.4",
+        "magnesiumPotential": "0.7 = -log[Mg+2]",
+        "temperature": "293.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

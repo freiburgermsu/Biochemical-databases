@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": "5655499",
+            "doi": "10.1111/j.1432-1033.1968.tb00199.x",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "68TAN/KAN",
+            "tecrdb_string": NaN
+        },
+        "representative_reaction": {
+            "name": "galactinol-raffinose galactosyltransferase",
+            "KEGG": NaN,
+            "CID": "CHB_16634 + CHB_17505 = CHB_17164 + CHB_17268",
+            "stoichiometry": "#NAME?"
+        },
+        "equilibriumConstant": "3.8",
+        "hydrogenPotential": "7",
+        "magnesiumPotential": "3.0 = -log[Mg+2]",
+        "temperature": "305.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

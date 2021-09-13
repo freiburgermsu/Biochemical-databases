@@ -1,0 +1,39 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curator": {
+        "orcid": "https://orcid.org/0000-0002-7288-535X",
+        "name": "Andrew Philip Freiburger"
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "pmid": " ",
+            "doi": " ",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "",
+            "journal": "",
+            "tecrdb_id": "92XIA/XUE",
+            "tecrdb_string": "Xiang-ju Gu; Xue-qin S.; Yu-xiang J.; Acta Botanica Sinica; 34 278 (1992)."
+        },
+        "representative_reaction": {
+            "name": "phosphomannomutase",
+            "KEGG": "kegg:C00636 = kegg:C00275",
+            "CID": NaN,
+            "stoichiometry": "cleavage of a single bond in casein"
+        },
+        "equilibriumConstant": "16.2",
+        "hydrogenPotential": "7.5",
+        "magnesiumPotential": "3.29 = -log[Mg+2]",
+        "temperature": "303.15",
+        "ionicStrength": NaN
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}

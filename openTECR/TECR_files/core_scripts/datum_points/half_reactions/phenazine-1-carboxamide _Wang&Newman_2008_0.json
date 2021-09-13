@@ -1,0 +1,47 @@
+{
+    "$schema": "http://w3id.org/opentecr/schema/data/v1.0.0",
+    "@id": "http://w3id.org/opentecr/data/c7ca5ae0-c27e-41fe-ac7b-6d90a031c4c9/v1.0.0",
+    "curation": {
+        "curator": {
+            "orcid": "https://orcid.org/0000-0002-7288-535X",
+            "name": "Andrew Philip Freiburger"
+        },
+        "comments": NaN
+    },
+    "CuratedMeasurement": {
+        "reference": {
+            "doi": "10.1021/es702290a",
+            "url": "",
+            "title": "",
+            "authors": "",
+            "year": "2008",
+            "journal": "",
+            "string": "Wang & Newman (2008)"
+        },
+        "compound": {
+            "name": "phenazine-1-carboxamide ",
+            "red_MNX": {
+                "id": "pubchem:44152686",
+                "charge": 0,
+                "num_hydrogens": 9
+            },
+            "ox_MNX": {
+                "id": "metanetx.chemical:MNXM74891",
+                "charge": 0,
+                "num_hydrogens": 9
+            }
+        },
+        "standard_voltage_prime": -0.008,
+        "equilibriumConstant": "",
+        "hydrogenPotential": 5.0,
+        "temperature": 298.15,
+        "ionicStrength": "200 mM"
+    },
+    "_comment": "What is the following content?",
+    "ActualInformation": {
+        "md5_of_pdf": "",
+        "doi_of_zenodo_archive": "",
+        "download_url_of_zenodo_archive": "",
+        "comments": ""
+    }
+}
