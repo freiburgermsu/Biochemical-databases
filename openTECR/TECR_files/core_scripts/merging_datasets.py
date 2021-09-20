@@ -353,7 +353,7 @@ class merge_package():
         # define the Noor scraping
         if scraping_name == 'noor':
             du_index = None
-            add_id = new_index
+            add_id = f'https://w3id.org/related-to/doi.org/10.5281/zenodo.3978439/files/TECRDB.csv#entry{new_index}'
             add_enzyme = new_row['enzyme_name']
             add_kegg_reaction = new_row['reaction']
             add_cid_reaction = None
@@ -377,7 +377,7 @@ class merge_package():
             return [freiburger_index, du_index, add_id, add_enzyme, add_kegg_reaction, add_cid_reaction, add_reaction, reference_string, add_reference, add_temperature, add_ph, add_k, km, add_method, buffer, add_pmg, add_ec, solutes_1, solutes_2, ionic_strength_1, add_ionic_strength, enthalpy]
         
         elif scraping_name == 'du':
-            add_id = new_index
+            add_id = f'https://w3id.org/related-to/doi.org/10.5281/zenodo.5494490/files/TableS1_Keq.csv#Keq_{new_index}'
             noor_index = None
             add_enzyme = new_row['Reaction']
             add_kegg_reaction = None
